@@ -1,0 +1,41 @@
+name: Generate API Data
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *'  # Run at 6 AM and 6 PM UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # Add this to allow manual triggering of the workflow
+
+jobs:
+  generate-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate Data
+        run: node api/wp/index.js
+
+      - name: Commit files
+        run: |
+          git config --local user.name "actions-user"
+          git config --local user.email "actions@github.com"
+          git add api/wp/wapo_graphics_feed.json
+          if [[ `git status --porcelain` ]]; then
+            echo "OK: Changes detected."
+            git commit -m "gh-action get wapo data: $(date -u)"
+            git push origin main
+          else
+            echo "No changes were detected."
+          fi

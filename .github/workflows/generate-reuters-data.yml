@@ -1,0 +1,41 @@
+name: Generate Reuters Data
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *' # Run at 6 AM and 6 PM UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  generate-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate Data
+        run: node api/reuters/index.js
+
+      - name: Commit files
+        run: |
+          git config --local user.name "actions-user"
+          git config --local user.email "actions@github.com"
+          git add api/reuters/reuters_graphics_feed.json
+          if [[ `git status --porcelain` ]]; then
+            echo "✅ Changes detected. Committing..."
+            git commit -m "gh-action get Reuters data: $(date -u)"
+            git push origin main
+          else
+            echo "📄 No changes detected. Skipping commit."
+          fi

@@ -6,10 +6,11 @@
 <main>
 	<Header
 		siteTitle="WP graphics feed"
-		siteDescription="Articles from The Washington Post’s Graphics team"
+		siteDescription="Graphics, visualizations and maps from <a href='https://www.washingtonpost.com/' target='_blank' rel='noopener noreferrer'>The Washington Post</a>"
 	/>
 	<List
-		url="https://raw.githubusercontent.com/iguacel/graphics-feed/main/api/wp/wapo_graphics_feed.json" media="wp"
+		url="https://raw.githubusercontent.com/iguacel/graphics-feed/main/api/wp/wapo_graphics_feed.json"
+		media="wp"
 	/>
 </main>
 

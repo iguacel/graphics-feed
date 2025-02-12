@@ -46,3 +46,9 @@ a:hover {
 a.author {
 	text-transform: uppercase;
 }
+
+.description > a {
+	text-decoration: none !important;
+    border-bottom: 0.5px dashed currentColor;
+    padding-bottom: -1px; /* Adjust offset */
+}

@@ -6,8 +6,7 @@
 <main>
 	<Header
 		siteTitle="NYT graphics feed"
-		siteDescription="Articles from The New York Times Graphics team"
-	/>
+		siteDescription="Articles from <a href='https://www.nytimes.com/spotlight/graphics' target='_blank' rel='noopener noreferrer'>The New York Times Graphics Desk</a>"/>
 	<List
 		url="https://raw.githubusercontent.com/iguacel/graphics-feed/main/api/nyt/nyt_graphics_feed.json" media="nyt"
 	/>

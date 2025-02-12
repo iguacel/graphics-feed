@@ -19,6 +19,7 @@
 		flex-direction: column;
 		align-items: flex-start;
 		margin: 0 0 4rem 0;
+		text-wrap: balance;
 	}
 
 	h1 {

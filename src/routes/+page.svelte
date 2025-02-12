@@ -1,12 +1,14 @@
 <script>
 	import { base } from '$app/paths';
 	import NYT from '$lib/components/NYT.svelte';
+	import WP from '$lib/components/WP.svelte';
+
 </script>
 
 <main>
 	<div class="grid">
 		<a href="{base}/wp" class="placeholder">
-			<h1>WP</h1>
+			<WP/>
 		</a>
 		<a href="{base}/nyt" class="placeholder">
 			<NYT/>
@@ -38,7 +40,7 @@
 
 	h1 {
 		font-family: 'Tiny5', serif;
-		font-size: 5.5rem;
+		font-size: 4.5rem;
 		opacity: 0.8;
 		text-align: center;
 	}

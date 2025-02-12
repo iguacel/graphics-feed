@@ -40,4 +40,8 @@
 		margin: 1em 0 0 0;
 		opacity: 0.7;
 	}
+
+	.headline, .authors {
+		text-wrap: balance;
+	}
 </style>

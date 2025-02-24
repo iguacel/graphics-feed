@@ -1,5 +1,6 @@
 import fetch from "node-fetch";
 import fs from "fs";
+import * as cheerio from "cheerio";
 
 const limit = 99;
 const results = [];
@@ -30,22 +31,37 @@ function extractLabelUrl(articleUrl) {
 }
 
 /**
- * Generates OG image URL by:
- * - Replacing 'square320' with 'facebookJumbo'
- * - Removing '-v<number>' suffix from the filename
+ * Extracts og:image from article HTML using cheerio.
  */
-function generateOGImage(square_img) {
-    if (!square_img) return null;
+async function extractOGImage(articleUrl, square_img) {
+    try {
+        console.log(`🔍 Fetching OG image from: ${articleUrl}`);
 
-    // Replace "square320" with "facebookJumbo"
-    let ogImage = square_img.replace("square320", "facebookJumbo");
+        const response = await fetch(articleUrl, {
+            headers: {
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                "Referer": "https://www.nytimes.com/",
+                "Accept-Language": "en-US,en;q=0.9",
+            }
+        });
 
-    // Remove "-v<number>" at the end of the filename before the extension
-    ogImage = ogImage.replace(/-v\d+(?=\.\w{3,4}$)/, ""); 
+        if (!response.ok) {
+            console.error(`❌ Failed to fetch OG image for ${articleUrl} (HTTP ${response.status})`);
+            return square_img;
+        }
 
-    return ogImage;
+        const html = await response.text();
+        const $ = cheerio.load(html);
+
+        return $('meta[property="og:image"]').attr("content") ||
+            $('meta[property="twitter:image"]').attr("content") ||
+            square_img;
+
+    } catch (error) {
+        console.error(`❌ Failed to extract OG image for ${articleUrl}:`, error);
+        return square_img;
+    }
 }
-
 
 /**
  * Fetch NYT graphics with pagination using a loop.
@@ -125,7 +141,7 @@ async function fetchNYTGraphicsLoop(cursor) {
                 )[0] || "No Image";
 
                 // 🔹 Fetch OG image
-                const img = await generateOGImage(square_img);
+                const img = await extractOGImage(url, square_img);
 
                 return { id, headline, url, label, date, credits, description, square_img, img };
             });

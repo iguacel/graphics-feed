@@ -31,11 +31,11 @@ jobs:
         run: |
           git config --local user.name "actions-user"
           git config --local user.email "actions@github.com"
-          git add api/reuters/reuters_graphics_feed.json
+          git add api/wp/wapo_graphics_feed.json
           if [[ `git status --porcelain` ]]; then
-            echo "✅ Changes detected. Committing..."
-            git commit -m "gh-action get Reuters data: $(date -u)"
-            git push origin main
+            echo "OK: Changes detected."
+            git commit -m "gh-action get wapo data: $(date -u)"
+            git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/iguacel/graphics-feed.git main
           else
-            echo "📄 No changes detected. Skipping commit."
+            echo "No changes were detected."
           fi

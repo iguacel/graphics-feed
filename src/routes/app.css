@@ -52,3 +52,7 @@ a.author {
     border-bottom: 0.5px dashed currentColor;
     padding-bottom: -1px; /* Adjust offset */
 }
+
+svg.medium {
+	background: green;
+}

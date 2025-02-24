@@ -9,7 +9,7 @@
 		siteDescription="Last week"
 	/>
 	<List
-		url="https://raw.githubusercontent.com/iguacel/graphics-feed/main/api/merge/graphics-feed.json" media=""
+		url="https://raw.githubusercontent.com/iguacel/graphics-feed/main/api/merge/graphics_feed.json" media=""
 	/>
 </main>
 

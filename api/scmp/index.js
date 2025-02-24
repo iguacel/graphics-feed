@@ -80,16 +80,18 @@ function convertToISODate(dateStr) {
  * Processes SCMP graphics data.
  */
 function processSCMPData(data) {
-    return data.entries.map(entry => ({
-        id: generateShortId(entry.url),
-        headline: entry.title || "Untitled",
-        url: entry.url,
-        label: extractLabel(entry.topic1),
-        date: convertToISODate(entry.date), // Convert to ISO format
-        description: entry.desc || "No description available",
-        credits: formatCredits([entry.creator1, entry.creator2, entry.creator3]),
-        img: entry.imageurl || entry.coverimage || "No Image"
-    }));
+    return data.entries
+        .map(entry => ({
+            id: generateShortId(entry.url),
+            headline: entry.title || "Untitled",
+            url: entry.url,
+            label: extractLabel(entry.topic1),
+            date: convertToISODate(entry.date), // Convert to ISO format
+            description: entry.desc || "No description available",
+            credits: formatCredits([entry.creator1, entry.creator2, entry.creator3]),
+            img: entry.imageurl || entry.coverimage || "No Image"
+        }))
+        .sort((a, b) => new Date(b.date) - new Date(a.date)); // Sort from newest to oldest
 }
 
 /**

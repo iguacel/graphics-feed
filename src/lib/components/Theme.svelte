@@ -62,4 +62,11 @@
 :root[data-theme='dark'] {
 	--icon-border-color: white;
 }
+
+.theme-toggle {
+    outline: none;
+    box-shadow: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
 </style>

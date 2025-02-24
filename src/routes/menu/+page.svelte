@@ -19,6 +19,7 @@
 		<a href="{base}/bloomberg" class="placeholder">
 			<h1>Bloomberg</h1>
 		</a>
+		<a href="{base}/scmp" class="placeholder"><h1>SCMP</h1></a>
 	</div>
 </main>
 
@@ -34,7 +35,7 @@
 
 	.grid {
 		display: grid;
-		grid-template-rows: repat(4, 1fr);
+		grid-template-rows: repat(5, 1fr);
 		gap: 1em;
 		align-items: center;
 		width: 100%;

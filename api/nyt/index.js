@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import fs from "fs";
 import * as cheerio from "cheerio";
 
-const limit = 20; // 🔹 Solo 20 resultados
+const limit = 25; // 🔹 Solo 20 resultados
 const headersPath = "api/nyt/headers.json";
 const resultsFile = "api/nyt/nyt_graphics_full.json";
 const maxConcurrentRequests = 5; // 🔹 Limita la concurrencia en fetch
@@ -72,7 +72,6 @@ async function fetchNYTGraphics() {
         id: "/spotlight/graphics",
         first: limit,
         streamQuery: { sort: "newest" },
-        exclusionMode: "HIGHLIGHTS_AND_EMBEDDED",
         isFetchMore: true,
         isTranslatable: true,
         isEspanol: false,

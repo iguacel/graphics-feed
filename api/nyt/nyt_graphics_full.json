@@ -1472,8 +1472,8 @@
       }
     ],
     "description": "Some workers would be forced to report to work, while others would be furloughed.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzYxMzQ4YzhjLTBjMzEtNWUyNy1iMWUxLTVjYTY3YmQ1NTdiMw==",
@@ -1504,8 +1504,8 @@
       }
     ],
     "description": "Here’s why it’s hard to distinguish objects in the night sky.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMWQwYTM4MjYtNjllNS01MzU0LWFkMzAtZmU0ODFkYjYwODNh",
@@ -1636,8 +1636,8 @@
       }
     ],
     "description": "Si se comprueba que se usó un arma impresa en 3D para matar al ejecutivo Brian Thompson el 4 de diciembre, eso desataría un incómodo foco de atención sobre ese tipo de armamento y las leyes que lo regulan.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzc3OTZmZDU1LWMwMjItNTk3Zi1hZTNjLTJmY2FkNTRiNGY1MA==",
@@ -1656,8 +1656,8 @@
       }
     ],
     "description": "Part of the gun that the police believe was used to kill the C.E.O. of UnitedHealthcare was made by a 3D printer using a popular design found online.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzdlMzQ1MjBjLTM4NTUtNTk2Yi1hM2FkLTliYjE4ZTY3Y2EyMA==",
@@ -2603,8 +2603,8 @@
       }
     ],
     "description": "In a plain-spoken but forceful speech at the Ellipse in Washington, Kamala Harris presented herself as a protector of the public good and used the arc of history to attack her Republican rival.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNWQ3N2UyNDItNDk1Yy01NWUzLThhYzEtOTAyZDkzYmQyNzEz",
@@ -3578,8 +3578,8 @@
       }
     ],
     "description": "Visual evidence analyzed by The New York Times shows that nearby buildings were damaged in the attacks, which targeted Hezbollah’s leader. The extent of the destruction is not yet clear.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzdlYWZiZmQtNWIzYi01Nzg2LWI4MmItNTczYzU2Yzc0NTM0",
@@ -3778,8 +3778,8 @@
       }
     ],
     "description": "Videos from Tulkarm and Jenin show bulldozers destroying infrastructure and businesses, as well as soldiers impeding local emergency responders.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjZlZjRhOTQtMTE5Ni01YjJhLWExNTUtZDZjOWNlMDIxODEw",
@@ -5544,8 +5544,8 @@
       }
     ],
     "description": "Los videos de las cámaras corporales y otras imágenes aportan nuevos datos sobre la respuesta y la presencia de las fuerzas del orden en el edificio donde se situó el atacante.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGQ1NDJiN2EtZTAzMS01NzFmLWEyODktMDU1NDY1Y2E5NjVi",
@@ -5652,8 +5652,8 @@
       }
     ],
     "description": "Bodycam videos and other footage provide new insights into the law enforcement response and presence at the building where the shooter was positioned.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGJiYWNlOWMtMjdlMi01OGRhLTk3NTktNWFkMTUzMzVmYmI5",
@@ -8559,8 +8559,8 @@
       }
     ],
     "description": "Prime Minister Robert Fico of Slovakia, an ally of Vladimir V. Putin and Viktor Orban, was shot multiple times on Wednesday, stoking fears that Europe’s polarized politics were tipping into violence.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTMzNTQ0MTYtNzRiOS01MGIzLWE1NDQtODEzYjFkNWRlOTdk",
@@ -8746,8 +8746,8 @@
       }
     ],
     "description": "A day of national mourning was interrupted by hecklers who blamed government officials for failing to secure the release of hostages still being held by Hamas.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYTgyN2EwY2QtY2M3ZC01MWUxLTkwY2UtYmI4ODBiODcxNWUz",
@@ -10452,8 +10452,8 @@
       }
     ],
     "description": "The deaths of dozens of people amid a rush for aid trucks in Gaza City showed the degree of hunger in the territory.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjY1NzBkMzktZDJhMi01YjRhLTlhZGQtOWUxMjg4YWExM2Iw",
@@ -10553,7 +10553,7 @@
     ],
     "description": "See results from every precinct and demographic analysis of the vote in the South Carolina G.O.P. primary.",
     "square_img": "https://static01.nyt.com/images/2024/02/23/multimedia/2024-02-20-south-carolina-precincts-gop-index/2024-02-20-south-carolina-precincts-gop-index-square320-v8.png",
-    "img": "https://static01.nyt.com/images/2024/02/23/multimedia/2024-02-20-south-carolina-precincts-gop-index/2024-02-20-south-carolina-precincts-gop-index-facebookJumbo-v11.png?year=2024&h=514&w=981&s=69b2f2e1737ad60544d58966bb0111564d874289fd075729230d7775ddaf0dfb&k=ZQJBKqZ0VN"
+    "img": "https://static01.nyt.com/images/2024/02/23/multimedia/2024-02-20-south-carolina-precincts-gop-index/2024-02-20-south-carolina-precincts-gop-index-facebookJumbo-v11.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2VjNmIxNmUtMTgyZi01YTUwLTk0MWMtZmM4MzdmNjA5MDVl",
@@ -10955,8 +10955,8 @@
       }
     ],
     "description": "No building remains intact at 600 Konut, an apartment complex in Antakya, Turkey, near the epicenter of the earthquake. Many residents were killed in the collapse.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzVhZDIxNDMwLTljOGMtNWRjZi05NmYxLWIyODRmNGUzYTYyMQ==",
@@ -10971,8 +10971,8 @@
       }
     ],
     "description": "When I arrived in southern Turkey on Tuesday, residents had joined the search for bodies as rescue workers continued to sift through endless mountains of debris.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QzZmIxM2E1LTlmYTktNWU3Yi1iN2M5LTFiMTYzNTEyYTlhMQ==",
@@ -11781,8 +11781,8 @@
       }
     ],
     "description": "Hundreds of thousands of Palestinians have fled to southern Gaza, but they cannot cross into Egypt because the border is heavily fortified and Cairo is determined to keep it closed.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGJhMTZjNTYtMDM3OS01MjJhLWExZTgtY2Q5MDVlZDE1YTBm",
@@ -11917,8 +11917,8 @@
       }
     ],
     "description": " ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzFjMzU1NDQxLTM4MzEtNTAzOS05MmVjLTdlNmE3MDQwZjgxNg==",
@@ -12017,7 +12017,7 @@
       }
     ],
     "description": "60 days of life in the Gaza Strip.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2023/05/12/gaza-walkthrough-promo-image/gaza-walkthrough-promo-image-facebookJumbo.png?year=2023&h=529&w=1012&s=9a7602442c24870a01925c8bc98fa5d88e01f12648f815058f5df942e5b25359&k=ZQJBKqZ0VN"
   },
   {
@@ -13825,8 +13825,8 @@
       }
     ],
     "description": "As part of our coverage of abortion access, we are looking for people to share their experiences.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzViMTBiNzg3LTk2MTItNWI2NS1hZDM0LWFjNTI0MGY4NTBmYw==",
@@ -14169,7 +14169,7 @@
       }
     ],
     "description": "Football gave the University of Maryland Coach Michael Locksley a scholarship, a family and a career. But it also likely contributed to his son’s C.T.E. diagnosis.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2023/08/28/sports/football/locksley-b/locksley-b-facebookJumbo.jpg?video-overlay"
   },
   {
@@ -15368,8 +15368,8 @@
       }
     ],
     "description": "See maps of where smoke is traveling and how harmful the air has become.",
-    "square_img": "https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-square320-v54704.jpeg",
-    "img": "https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-facebookJumbo-v54206.jpeg"
+    "square_img": "https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-square320-v54705.jpeg",
+    "img": "https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-facebookJumbo-v54195.jpeg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOWEyZjUyMzEtZDRjZi01MzJjLWJmMjUtZmNmM2E2MjZjZDBk",
@@ -15596,8 +15596,8 @@
       }
     ],
     "description": "A New York Times analysis highlights a flaw in the regulation of political nonprofit groups.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzkxZWZjM2MtODYyYy01ZGI2LWI1NmEtNmVkMjdmOWE1YWI0",
@@ -16851,8 +16851,8 @@
       }
     ],
     "description": "Please share your photos if you participated in the New York Times survey.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDYyMjMyYzYtM2MwNS01NjM2LTkzZDMtMDUwOGE4Y2VkNjRk",
@@ -17367,7 +17367,7 @@
       }
     ],
     "description": "A catastrophic string of storms continued to pummel California on Tuesday. Here’s what it looked like.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2023/01/10/autossell/shaver-lake-cover/shaver-lake-cover-facebookJumbo.png?year=2023&h=550&w=1050&s=d2d3d884ec45e58d5a60103a7237c0ad2161d5c9671fab823ef7ea4931dd152a&k=ZQJBKqZ0VN"
   },
   {
@@ -17970,7 +17970,7 @@
       }
     ],
     "description": "This small collection of precincts has backed both Democrats and Republicans in recent elections and could be the most competitive areas in Georgia.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2022/12/02/us/georgia-senate-results-analysis-promo/georgia-senate-results-analysis-promo-facebookJumbo.png?year=2022&h=549&w=1050&s=a68af2ec87043166a6d84387978e941168be135973f3dd396ae95a7d5ec97b85&k=ZQJBKqZ0VN"
   },
   {
@@ -18202,7 +18202,7 @@
       }
     ],
     "description": "See the strongest scoring chance created by the Americans in their scoreless draw with England.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2022/11/25/sports/usa-england-world-cup-goal-tktk-promo/usa-england-world-cup-goal-tktk-promo-facebookJumbo-v3.jpg?year=2022&h=549&w=1050&s=325f53af0f4334d4e0f3ff9452d408405371fe599e16fe43e4b2b02b461763b2&k=ZQJBKqZ0VN"
   },
   {
@@ -18254,7 +18254,7 @@
       }
     ],
     "description": "See the moment when Belgium scored the decisive goal to secure a 1-0 victory despite being outplayed by Canada for most of the match.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2022/11/23/sports/belgium-canada-playername-goal-tktk-promo/belgium-canada-playername-goal-tktk-promo-facebookJumbo.jpg?year=2022&h=549&w=1050&s=780f75fee8763ec456eb20e258b5a1f870ce63f6ff75edd7ebc3b72e411f9c4c&k=ZQJBKqZ0VN"
   },
   {
@@ -18298,7 +18298,7 @@
       }
     ],
     "description": "See the key play where the Americans scored the opening goal in their 1-1 draw with Wales.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2022/11/21/sports/wales-usmnt-world-cup-goal-pulisic-promo/wales-usmnt-world-cup-goal-pulisic-promo-facebookJumbo.jpg?year=2022&h=549&w=1050&s=0308ef71cfae0d897715819e9e7b939cc42f100c87b4a460be972f37e781e75c&k=ZQJBKqZ0VN"
   },
   {
@@ -18669,8 +18669,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNWJkZDdlMjktMmM2My01MTY5LThhMTQtYTdhNDFhMGVhMTVh",
@@ -19033,7 +19033,7 @@
       }
     ],
     "description": "Aerial videos and photos show the destruction caused by Hurricane Ian on Fort Myers Beach, Fla.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2022/10/01/video/01vid-ian-ft-myers-promo-COVER/01vid-ian-ft-myers-promo-COVER-facebookJumbo-v2.png?year=2022&h=550&w=1050&s=f0c78764fbfb493610a2645830bf790339b9599bdc6c3dce457df26d1246a0e9&k=ZQJBKqZ0VN"
   },
   {
@@ -19464,8 +19464,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvM2EzMzkxMWUtMmFhNy01YzgyLTk3ZDYtOGY2Y2I5ZGZjZGZl",
@@ -20308,8 +20308,8 @@
       }
     ],
     "description": "About half the states are expected to ban or further restrict access to abortion.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2VkNmIwZjktZWU1ZC01NThlLTg1M2MtZjI1NWJjYmZiM2Qx",
@@ -21139,7 +21139,7 @@
       }
     ],
     "description": "The most extensive aerodynamics changes in 40 years have allowed drivers to race more closely and pass more easily.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2022/05/05/sports/formula-one-miami-1651954272150/formula-one-miami-1651954272150-facebookJumbo.png?year=2022&h=550&w=1050&s=7a63e6851f4f3165673319f8eb3ce8bd3a6f67cd4b572dd48289bb4ca96e0e46&k=ZQJBKqZ0VN"
   },
   {
@@ -21223,8 +21223,8 @@
       }
     ],
     "description": "As the host turned a civil war at Fox to his advantage, he found himself at the forefront of the nativist forces transforming conservative politics.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FiNjhmYzI3LWZiNGEtNTU4NS05ZDJkLTRhMjZiZDhkNThmNQ==",
@@ -21239,8 +21239,8 @@
       }
     ],
     "description": "A string of setbacks made the pundit flee television, the Republican establishment and even his home. He re-emerged with what may be the most racist, and successful, show in the history of cable news.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTlkOTFiYWMtNGMwMS01ZDVhLTg4ZTMtMWNlOWU3MWJiYzgz",
@@ -21843,8 +21843,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2U3NzRlZTAtYjVlOC01MmFhLWIyMmUtZTgxMmVhZmFmMmU0",
@@ -24492,8 +24492,8 @@
       }
     ],
     "description": "Oregon, Hawaii, South Carolina and have reported more cases in the past week than in any other seven-day period. Weekly deaths in Florida are at record highs.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzU0OTRmOGQtMDkzNS01MTM4LTk0OTctN2I4MmIyODBlYjYx",
@@ -26266,8 +26266,8 @@
       }
     ],
     "description": "Some engineers looking at the failure of a 13-story condo tower in Florida said the collapse appeared to have begun somewhere near the bottom of the building.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MwYjYxZjAwLWNmNjUtNTUzNi05OGQzLTc5ZmI5ZGI3OTQ5Zg==",
@@ -26378,8 +26378,8 @@
       }
     ],
     "description": "Speaking at the White House, the president did not mention his goal of getting 70 percent of adults partly vaccinated by July 4 but trumpeted a different milestone: 300 million shots in his first 150 days in office.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2NkMDcwOGNhLTc4NTgtNTczNi1iYmM3LWMyZDA5ZDlkMzgzNQ==",
@@ -27394,8 +27394,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGNlODA2ZTctZDAwZi01MGMwLWFmZjktYWQwMzEwODU2NWIz",
@@ -27602,8 +27602,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTY5ODIyMjctOWM3Yy01MzNlLWFkYTUtNjNmYmE4YzEwYjlm",
@@ -27666,7 +27666,7 @@
       }
     ],
     "description": "Using media reports from across the country, The Times found more than 110 episodes since March 2020 in which there was clear evidence of race-based hate.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2021/04/03/us/anti-asian-attacks-promo-1617469774300/anti-asian-attacks-promo-1617469774300-facebookJumbo.png?year=2021&h=549&w=1050&s=acf478a025adfbaa238fdf9f76a6ac5d83c520f2343f585601eaba9de7bdd0e1&k=ZQJBKqZ0VN"
   },
   {
@@ -27722,8 +27722,8 @@
       }
     ],
     "description": "Fatigue among donors and workers is a concern. ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTMzMGQwYzctYmE5OS01NjdiLTgwMzMtY2EzYzYzNjI0Yzdk",
@@ -31117,8 +31117,8 @@
       }
     ],
     "description": "Un voyage virtuel à travers le monde microscopique du coronavirus nous montre comment les masques sont un moyen de défense important contre sa transmission.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjRmNWI2NTktNTM5MC01YzQ2LTg0N2UtMGI3NTdmNzJmZTg1",
@@ -31173,7 +31173,7 @@
       }
     ],
     "description": "Un voyage virtuel à travers le monde microscopique du coronavirus nous montre comment les masques sont un moyen de défense important contre sa transmission.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/11/04/science/masks-explainer-static-promo/masks-explainer-static-promo-facebookJumbo-v4.png?year=2020&h=550&w=1050&s=99065a11a1bbea00bfac0dcd3e4ffb77f0b9641efaa0d91b58ce814f241fb944&k=ZQJBKqZ0VN"
   },
   {
@@ -32605,8 +32605,8 @@
       }
     ],
     "description": "Un viaje visual a través del mundo microscópico del coronavirus demuestra el modo en que las mascarillas son una importante defensa contra la transmisión.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzgwOTEwZTA5LTFlMjctNWUyNS1hZTJmLTFkNDc4YTcwNmZhYg==",
@@ -32749,7 +32749,7 @@
       }
     ],
     "description": "A visual journey through the microscopic world of the coronavirus shows how masks provide an important defense against transmission.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/11/04/science/masks-explainer-static-promo/masks-explainer-static-promo-facebookJumbo-v4.png?year=2020&h=550&w=1050&s=99065a11a1bbea00bfac0dcd3e4ffb77f0b9641efaa0d91b58ce814f241fb944&k=ZQJBKqZ0VN"
   },
   {
@@ -32776,7 +32776,7 @@
     "date": "2020-10-28T23:38:45.466Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32787,7 +32787,7 @@
     "date": "2020-10-28T23:38:45.324Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32798,7 +32798,7 @@
     "date": "2020-10-28T23:38:45.323Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32809,7 +32809,7 @@
     "date": "2020-10-28T23:38:45.449Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32820,7 +32820,7 @@
     "date": "2020-10-28T23:38:45.533Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32831,7 +32831,7 @@
     "date": "2020-10-28T23:38:44.643Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32842,7 +32842,7 @@
     "date": "2020-10-28T23:38:43.307Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32853,7 +32853,7 @@
     "date": "2020-10-28T23:38:42.913Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32864,7 +32864,7 @@
     "date": "2020-10-28T23:38:42.127Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32875,7 +32875,7 @@
     "date": "2020-10-28T23:38:42.845Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32886,7 +32886,7 @@
     "date": "2020-10-28T23:38:41.973Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32897,7 +32897,7 @@
     "date": "2020-10-28T23:38:41.615Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -32925,7 +32925,7 @@
       }
     ],
     "description": "We answered the questions on many voters’ minds as Election Day approaches.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/10/27/us/politics/election-faq-still/election-faq-still-facebookJumbo-v2.jpg?year=2020&h=550&w=1050&s=4af40084fc808f474ca389bc912b52fb10f08e3e7cb8e0be992d6cf49ceef5f4&k=ZQJBKqZ0VN"
   },
   {
@@ -33073,8 +33073,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMWVhNjBiZTktMGM0NC01NDUyLTgzODYtMjllZjI0OWE3MGNj",
@@ -33225,8 +33225,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTNmNWMwMTItN2EzZi01MjkxLTg5Y2ItNmZjZjVjM2EwNzJj",
@@ -33633,7 +33633,7 @@
       }
     ],
     "description": "Many rules have changed during the pandemic, so this interactive guide can help you ensure your vote is counted.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/09/28/us/politics/stillpromo-how-to-vote-register/stillpromo-how-to-vote-register-facebookJumbo.jpg?year=2020&h=550&w=1050&s=206f467be80a154b515661ebd8d69a717083da5ccb45c9bf9acb04a1fd4a1f0e&k=ZQJBKqZ0VN"
   },
   {
@@ -34037,7 +34037,7 @@
       }
     ],
     "description": "Fifteen tons of fireworks. Jugs of kerosene and acid. Thousands of tons of ammonium nitrate. A system of corruption and bribes let the perfect bomb sit for years.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/09/10/multimedia/hp-beirut-promo-still/hp-beirut-promo-still-facebookJumbo.jpg?year=2020&h=550&w=1050&s=91ad2340ee4ebeb4ba561cd5336c834bce68134ff3f2028a3ce046f736770d00&k=ZQJBKqZ0VN"
   },
   {
@@ -34077,8 +34077,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGJmMDg5ZDktOTdkYS01OGE5LWE0ZDQtYjcwZThmOTM4YjVl",
@@ -34201,7 +34201,7 @@
       }
     ],
     "description": "With the White House blocking the way to network news, Dr. Fauci talks about the pandemic wherever he can.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/08/27/upshot/up-promo-fauci/up-promo-fauci-facebookJumbo.jpg?year=2020&h=376&w=720&s=eddd4259bcd7d3e7d600b3bcad06bd85b2ee043499650627b5bd9b4e37d3e7e7&k=ZQJBKqZ0VN"
   },
   {
@@ -34552,7 +34552,7 @@
       }
     ],
     "description": "Many New Yorkers are avoiding the subway, fearful of jostling with strangers in crowded cars. Masks and social distancing are essential, but good air flow is also key to reducing the risk of exposure to the coronavirus.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/08/06/video/subway-hp-promo-vid-loop2-still/subway-hp-promo-vid-loop2-still-facebookJumbo.jpg?year=2020&h=550&w=1050&s=9c561c26f7a5811449c82aada195654901ce886bf40ead62c751decf057b74a6&k=ZQJBKqZ0VN"
   },
   {
@@ -35040,7 +35040,7 @@
       }
     ],
     "description": "Kentucky’s largest city has seen weeks of demonstrators demanding justice in the case of Breonna Taylor, who was killed by the police in her home there.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/07/15/us/black-lives-matter-protests-louisville-breonna-taylor-promo-1594850974180/black-lives-matter-protests-louisville-breonna-taylor-promo-1594850974180-facebookJumbo.jpg?year=2020&h=549&w=1050&s=e737f673ca86ba733af0541885ac6bed40983d4ecf7abc35001d21afbd34fbed&k=ZQJBKqZ0VN"
   },
   {
@@ -35171,7 +35171,7 @@
       }
     ],
     "description": "Recent polls suggest that about 15 million to 26 million people in the U.S. have participated in recent protests.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/07/02/us/george-floyd-protests-crowd-size-promo-1593723475595/george-floyd-protests-crowd-size-promo-1593723475595-facebookJumbo.png?year=2020&h=549&w=1050&s=7d65c4db7cc665fcff8386b2b18d65db420fd237df0b82a0b2c551705ae5d845&k=ZQJBKqZ0VN"
   },
   {
@@ -35745,7 +35745,7 @@
       }
     ],
     "description": "The deployment of tear gas against civilians has not been this widespread since the period of unrest in the 1960s and ’70s, according to a New York Times analysis.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/06/15/us/george-floyd-protests-police-tear-gas-promo-1592255840940/george-floyd-protests-police-tear-gas-promo-1592255840940-facebookJumbo-v3.jpg?year=2020&h=549&w=1050&s=9165dd74daae7d8f7d654dd45d279f236e9215a732fd0c70003b6ae8a4acfaee&k=ZQJBKqZ0VN"
   },
   {
@@ -35797,7 +35797,7 @@
       }
     ],
     "description": "George Floyd’s death has sparked more than two weeks of protests in all 50 states. See how the movement spread.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/06/13/us/floyd-protest-cities-promo-1592025151781/floyd-protest-cities-promo-1592025151781-facebookJumbo-v4.jpg?year=2020&h=549&w=1050&s=7bcb3d36cf9e7da5967805324e9668ef7e3432198416653dae9fd83fec3a824f&k=ZQJBKqZ0VN"
   },
   {
@@ -35877,7 +35877,7 @@
       }
     ],
     "description": "See how workers stand shoulder to shoulder to provide Americans with affordable meat. As plants reopen, the coronavirus remains a threat.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/06/08/us/scoop-meat-processing-covid-threeByTwoLargeAt2X/scoop-meat-processing-covid-threeByTwoLargeAt2X-facebookJumbo.png?year=2020&h=550&w=1050&s=3a64ab79857350b53eac673e2fde3f05e6aecf789febb5b7601a8967a3deabb9&k=ZQJBKqZ0VN"
   },
   {
@@ -35921,7 +35921,7 @@
       }
     ],
     "description": "Images from Saturday, June 6, show the scale of the protests against police brutality and racism, following the death of George Floyd.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/06/07/autossell/cover/cover-facebookJumbo-v3.jpg?year=2020&h=472&w=900&s=d2d6493566956a23367b5d6c37089480ba5a964c0d41edc448b03efb4c1c8e59&k=ZQJBKqZ0VN"
   },
   {
@@ -36293,7 +36293,7 @@
       }
     ],
     "description": "As the U.S. reached a grim milestone in the outbreak, The New York Times gathered names of the dead and memories of their lives from obituaries across the country.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/05/23/arts/us-obits-social/us-obits-social-facebookJumbo-v7.jpg?year=2020&h=549&w=1050&s=5091355a6ac0ef018aaff49994a0c49242d345755603af8559007c4af9d8715d&k=ZQJBKqZ0VN"
   },
   {
@@ -36537,7 +36537,7 @@
       }
     ],
     "description": "During the course of the pandemic, the Trump administration has relied on rapid coronavirus tests, including one that had been found to sometimes miss infections.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/05/12/autossell/poster-promo-3/poster-promo-3-facebookJumbo.jpg?year=2020&h=424&w=810&s=19a09d8ce034fead7dd55cd739311f661188ef37d634f03d9702933f403943d9&k=ZQJBKqZ0VN"
   },
   {
@@ -36620,7 +36620,7 @@
       }
     ],
     "description": "Both the human lung and a critical care ventilator are complicated pieces of machinery. We opened them up to show you how the coronavirus has changed what we thought we knew.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/05/05/us/coronavirus-covid-lungs-ventilators-promo-1588702292896/coronavirus-covid-lungs-ventilators-promo-1588702292896-facebookJumbo-v3.png?year=2020&h=549&w=1050&s=becaf8b6754c1a149e1944158ebaededdfefe9462eb35c65595ea57d7aec30ce&k=ZQJBKqZ0VN"
   },
   {
@@ -36878,7 +36878,7 @@
       }
     ],
     "description": "Three journalists from The New York Times reviewed more than 260,000 words spoken by President Trump during the pandemic. Here’s what we learned.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/04/22/autossell/trumpgrid/trumpgrid-facebookJumbo.png?year=2020&h=550&w=1050&s=ae26d4c9b2690c032b543e3c21b0ec72eb7403b644d1dba7ac2494f04b903b4c&k=ZQJBKqZ0VN"
   },
   {
@@ -37042,7 +37042,7 @@
       }
     ],
     "description": "We visualized a cough to show how far respiratory droplets can spread. If you haven’t been keeping your distance to fight the coronavirus, this may persuade you.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/04/13/science/cough-image-still-promo/cough-image-still-promo-facebookJumbo-v2.jpg?year=2020&h=550&w=1050&s=1ee812291e2c1f5bc0557e110d76b81e56da086b1b1a3c7422a9c028a15a4db6&k=ZQJBKqZ0VN"
   },
   {
@@ -37098,8 +37098,8 @@
       }
     ],
     "description": "A snapshot look at how the global sports calendar has shifted because of the virus.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzA4ZjFlYjQ5LWFlM2QtNThhOS04MGNhLTdlNmQxNTdmM2NkZQ==",
@@ -37142,7 +37142,7 @@
       }
     ],
     "description": "A late-arriving wave of illness could overwhelm rural communities that are older, poorer and sicker than much of the country.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/04/07/us/rural-america-coronavirus-promo/rural-america-coronavirus-promo-facebookJumbo-v3.png?year=2020&h=549&w=1050&s=4f54f4882054b66729e807d3857ef510c066ce4f8dd6eaf70f1406093ab3334a&k=ZQJBKqZ0VN"
   },
   {
@@ -37162,7 +37162,7 @@
       }
     ],
     "description": "The number of deaths from the virus doubled to more than 10,000 in fewer than five days, and two-thirds of the country’s metro areas have had at least one person succumb to the virus.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/04/06/us/coronavirus-deaths-united-states-promo-1586231664844/coronavirus-deaths-united-states-promo-1586231664844-facebookJumbo-v5.jpg?year=2020&h=549&w=1050&s=e4e7b8b6c4b7f11bfb97c69e50a03632eea75afbad9e57c257deb432cae1b1e3&k=ZQJBKqZ0VN"
   },
   {
@@ -37186,7 +37186,7 @@
       }
     ],
     "description": "Italy underestimated the spread of the virus at first. These maps show why the country’s nationwide lockdown came too late to contain it.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/04/05/us/italy-coronavirus-lockdown-promo-1586070679846/italy-coronavirus-lockdown-promo-1586070679846-facebookJumbo.jpg?year=2020&h=549&w=1050&s=2b99068811a739c5feb7b1c6564ba207000619e1c7e42dffcc6cda62770c1112&k=ZQJBKqZ0VN"
   },
   {
@@ -37478,7 +37478,7 @@
       }
     ],
     "description": "The pace of coronavirus testing in the United States has seen a meteoric rise in the past week. But the country still lags in tests relative to its population, despite having the world’s most reported coronavirus cases.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/03/26/us/coronavirus-testing-promo-countries/coronavirus-testing-promo-countries-facebookJumbo.png?year=2020&h=549&w=1048&s=81b095296ec6f82a9a80ef8a7180f6b62c41fa37600f2d6d0f809cf2c0204027&k=ZQJBKqZ0VN"
   },
   {
@@ -37550,7 +37550,7 @@
       }
     ],
     "description": "We analyzed the movements of hundreds of millions of people to show why the most extensive travel restrictions to stop an outbreak in human history haven’t been enough.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/03/21/world/coronavirus-spread-promo/coronavirus-spread-promo-facebookJumbo-v3.jpg?year=2020&h=549&w=1050&s=7727edb9d004b68c264da43f5c045ae9ad8b595e23e6a6f93dc65beb80a61ac1&k=ZQJBKqZ0VN"
   },
   {
@@ -37578,7 +37578,7 @@
       }
     ],
     "description": "It’s been two months since the first confirmed case was reported in the United States. As testing expanded and the virus spread, the number of new cases has multiplied at a rapid pace.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/03/21/us/coronavirus-us-cases-spread-promo-1584800081836/coronavirus-us-cases-spread-promo-1584800081836-facebookJumbo-v3.jpg?year=2020&h=549&w=1050&s=e997c8064fa59c19f09b04b3a479b5fb2bebae1d44c3f168f6aa637b31c3df77&k=ZQJBKqZ0VN"
   },
   {
@@ -37638,7 +37638,7 @@
       }
     ],
     "description": "Immediate steps to limit social contact in parts of the United States where few cases have been identified are needed to slow the outbreak, a model suggests.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/03/20/reader-center/infection-poster-image/infection-poster-image-facebookJumbo.jpg?year=2020&h=550&w=1050&s=6c43d42fdf4e7e200a7bafd180ecc26494da2395107a7578e8403b5180c80b80&k=ZQJBKqZ0VN"
   },
   {
@@ -37722,7 +37722,7 @@
       }
     ],
     "description": "Since World War II, there have been 12 bear markets and 12 recessions, but not every bear market has preceded a downturn in the economy.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/03/18/us/coronavirus-stock-market-recessions-promo-1584554191006/coronavirus-stock-market-recessions-promo-1584554191006-facebookJumbo.png?year=2020&h=549&w=1050&s=75b2c44c038d8cb54a17c3d136e1ee5243698799f89aaf832bd08c99b0b50b85&k=ZQJBKqZ0VN"
   },
   {
@@ -37873,7 +37873,7 @@
       }
     ],
     "description": "The young medical professionals came down with fevers. Within weeks, they were both lying in hospital beds, hooked up to IVs or oxygen machines.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/03/13/world/coronaviruswomen-promo1/coronaviruswomen-promo1-facebookJumbo.jpg?year=2020&h=550&w=1050&s=bdb7068d85ac4d825888175c3ff0a6d8d5bc8bdf3de19ce2f15a37c945a22cf3&k=ZQJBKqZ0VN"
   },
   {
@@ -38059,7 +38059,7 @@
       }
     ],
     "description": "One year after a second 737 Max jet went down, the victims’ families press on in memory of their loved ones. “They were an extraordinary group of people.”",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/03/09/business/boeing-737-anniversary-promo-still/boeing-737-anniversary-promo-still-facebookJumbo.jpg?year=2020&h=549&w=1050&s=aacb0bf033b5234bb844e86c789ed52f8b7f6af3038e798da9247bb2fdce2229&k=ZQJBKqZ0VN"
   },
   {
@@ -38311,7 +38311,7 @@
     "date": "2020-02-29T21:13:31.000Z",
     "credits": [],
     "description": "Detailed results and maps from the South Carolina primary election.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/29/multimedia/sc-standard-dem3x2/sc-standard-dem3x2-facebookJumbo-v2.jpg?year=2020&h=550&w=1050&s=2852cd135088ece06819d858a8f657f9cd65f883bfb9822781199d14553a993f&k=ZQJBKqZ0VN"
   },
   {
@@ -38429,7 +38429,7 @@
       }
     ],
     "description": "Democrats are fighting for the crucial black vote in the South Carolina primary tomorrow. Churches have long played the primary role in mobilizing black support, but some activists are pushing for change.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/27/multimedia/sc-black-churches-promo-image/sc-black-churches-promo-image-facebookJumbo-v2.png?year=2020&h=549&w=1050&s=982a144619e1225fdedf25ed693183d60a44990c2bc08448c590141d4a2533ef&k=ZQJBKqZ0VN"
   },
   {
@@ -38449,7 +38449,7 @@
       }
     ],
     "description": "Super Tuesday is when the presidential race really begins for Michael Bloomberg. Or that’s what he’s been preparing for — by blanketing the country with one ad per every 15 seconds.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/26/us/michael-bloomberg-ad-campaign-spending-promo-1582769415600/michael-bloomberg-ad-campaign-spending-promo-1582769415600-facebookJumbo.jpg?year=2020&h=549&w=1050&s=c58f03e5ad45d67ede1f55ccd4ec99ff51ffee8b62ea9a79e1d4d5a1d66449b0&k=ZQJBKqZ0VN"
   },
   {
@@ -38537,7 +38537,7 @@
       }
     ],
     "description": "The disappearance of thousands of flights from China’s skies in recent weeks points to how the coronavirus has hobbled a nation and is posing a threat to the global economy.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/20/us/coronavirus-flight-cancellations-promo-1582242728569/coronavirus-flight-cancellations-promo-1582242728569-facebookJumbo.jpg?year=2020&h=549&w=1050&s=67ac418a852e8dad3d9c6d745b200fc613c7a6310e8b82bd8f25dcea3fc51570&k=ZQJBKqZ0VN"
   },
   {
@@ -38557,7 +38557,7 @@
       }
     ],
     "description": "The rules are largely the same, but if the Nevada caucuses play out like those in Iowa earlier this month, there could be chaos.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/03/us/elections/promo-image/promo-image-facebookJumbo-v5.jpg?year=2020&h=549&w=1050&s=670452e47e5d3d12174ff71381641ecd943e2e10fa8d9761f7968050863146c8&k=ZQJBKqZ0VN"
   },
   {
@@ -38649,7 +38649,7 @@
       }
     ],
     "description": "Some crowd into trucks. Others go on foot. The current Syrian migration is similar in scale to the Rohingya crisis in 2017.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/14/world/middleeast/Idlib-loop-still/Idlib-loop-still-facebookJumbo.jpg?year=2020&h=549&w=1050&s=d228550ab365a28576078bdd46a86a76d06ff236ac03a1e146768d3201c3fa18&k=ZQJBKqZ0VN"
   },
   {
@@ -38677,7 +38677,7 @@
       }
     ],
     "description": "Detailed results and maps from the New Hampshire primary election, the second contest of the 2020 presidential election.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/10/us/nh_elexresults_promo/nh_elexresults_promo-facebookJumbo-v4.png?year=2020&h=550&w=1050&s=e5dbddfa73e3b01addecf671f01ade34446ea37e93cf2c094547bf04526c6114&k=ZQJBKqZ0VN"
   },
   {
@@ -38811,7 +38811,7 @@
       }
     ],
     "description": "See how each senator will vote on whether to convict and remove President Trump from office.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/05/us/politics/impeachment-vote-results-promo-final/impeachment-vote-results-promo-final-facebookJumbo.png?year=2020&h=549&w=1050&s=fb4f182167ebc31ac4982ce0c1f50f8338712fd63f209151a5b9985f61cc346e&k=ZQJBKqZ0VN"
   },
   {
@@ -38899,7 +38899,7 @@
       }
     ],
     "description": "Detailed results and maps from Iowa, the first contest in the 2020 presidential election.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/20/us/2020primary_demresults_promo/2020primary_demresults_promo-facebookJumbo-v72.jpg?year=2020&h=550&w=1050&s=d1b7026ae5d250c7ee3a0579993827cd5b37f434b5878e75ce8815cfd2e8a8aa&k=ZQJBKqZ0VN"
   },
   {
@@ -38938,7 +38938,7 @@
     "date": "2020-02-03T22:20:36.000Z",
     "credits": [],
     "description": "How different groups voted in Iowa.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2020"
   },
   {
@@ -39015,7 +39015,7 @@
       }
     ],
     "description": "On Monday, Democrats will make their choice for the Democratic presidential nominees at more than 1,600 precincts across Iowa. Here is how that will play out in one middle school gym.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/02/03/us/elections/promo-image/promo-image-facebookJumbo-v5.jpg?year=2020&h=549&w=1050&s=670452e47e5d3d12174ff71381641ecd943e2e10fa8d9761f7968050863146c8&k=ZQJBKqZ0VN"
   },
   {
@@ -39059,7 +39059,7 @@
       }
     ],
     "description": "See how each senator voted on whether to consider new evidence in the impeachment trial of President Trump.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/01/30/us/impeachment-vote-promo-1580441000963/impeachment-vote-promo-1580441000963-facebookJumbo.jpg?year=2020&h=549&w=1050&s=47b3823d1a4443a9def4535282b43f2cff367ccc6359e317227f2644e3b3bd51&k=ZQJBKqZ0VN"
   },
   {
@@ -39123,7 +39123,7 @@
       }
     ],
     "description": "Punch in your answers and find out which of these presidential candidates you agree with most.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/01/24/us/democratic-presidential-candidates-quiz-promo-1579884352273/democratic-presidential-candidates-quiz-promo-1579884352273-facebookJumbo.jpg?year=2020&h=549&w=1050&s=39e9bc705799ea034b8ab41b686d89fea6f11f2ebcd4d980cfa63b6ddff4d326&k=ZQJBKqZ0VN"
   },
   {
@@ -39143,7 +39143,7 @@
       }
     ],
     "description": "We analyzed the messaging in Facebook ads that appeared on voters’ screens in Iowa in the days leading up to the caucuses.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/01/28/us/grid/grid-facebookJumbo.png?year=2020&h=550&w=1050&s=851d47d03e7301f639454dd3d273ed107fe8d29b9c96481da60d7e079eb7ea6d&k=ZQJBKqZ0VN"
   },
   {
@@ -39187,7 +39187,7 @@
       }
     ],
     "description": "An immersive diagram of the storied chamber where President Trump’s trial is taking place — including what you won't see in photos.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/01/24/us/senate-trial-chamber-promo-image/senate-trial-chamber-promo-image-facebookJumbo.jpg?year=2020&h=472&w=900&s=38e1c31b64c863fa73e59f7ef3ea8fc4852ebc6703ffb39d8be2bea25c959364&k=ZQJBKqZ0VN"
   },
   {
@@ -39347,7 +39347,7 @@
       }
     ],
     "description": "It could be a long wait.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2020/01/08/us/betelgeuse-supernova-fading-promo-1578514311515/betelgeuse-supernova-fading-promo-1578514311515-facebookJumbo-v4.jpg?year=2020&h=549&w=1050&s=e567d8c40adea782d7a8ad3e2e6c21369a594e4b2f47573c0e1f02ca525f1033&k=ZQJBKqZ0VN"
   },
   {
@@ -39399,7 +39399,7 @@
       }
     ],
     "description": "I volunteered for the first squirrel census in the city. Here’s what I learned, in a nutshell.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/12/24/nyregion/squirrel-census-static-promo/squirrel-census-static-promo-facebookJumbo.jpg?year=2020&h=550&w=1050&s=f136d0b696336ece322032f06c58f2781c76fc66231e37182184ce4ea5ea456c&k=ZQJBKqZ0VN"
   },
   {
@@ -39503,7 +39503,7 @@
       }
     ],
     "description": "With every successive decade, passing in the N.F.L. gets better and better.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/12/30/us/decade-passing-comparison-promo-1577730587933/decade-passing-comparison-promo-1577730587933-facebookJumbo.jpg?year=2019&h=549&w=1050&s=a3593417bbe78d6e9b7b53a68c71bc397a2979308d1215ae4697fb8e0cb30885&k=ZQJBKqZ0VN"
   },
   {
@@ -39551,7 +39551,7 @@
       }
     ],
     "description": "Black people are dramatically overrepresented among those living on Los Angeles’s streets, where the bright future promised to earlier generations has been blunted by the bitter inheritance of racism.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/12/20/us/los-angeles-homeless-black-residents-promo-1576874956442/los-angeles-homeless-black-residents-promo-1576874956442-facebookJumbo-v5.jpg?year=2019&h=549&w=1050&s=8d63a3e536d19cf9dbc3753c66574fdf1028a55b9b19f991304ddba61d8de832&k=ZQJBKqZ0VN"
   },
   {
@@ -39651,7 +39651,7 @@
       }
     ],
     "description": "See how each House member voted on the articles of impeachment against President Trump.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/12/18/us/trump-impeachment-vote-promo-1576708669492/trump-impeachment-vote-promo-1576708669492-facebookJumbo-v3.jpg?year=2019&h=549&w=1050&s=a6b0c2acd25aa891c80d0fe99919809fa55cfe5d45883cd3fbd1fd5c3b2024d6&k=ZQJBKqZ0VN"
   },
   {
@@ -39730,7 +39730,7 @@
       }
     ],
     "description": "Data from more than 1 million races.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/12/11/reader-center/up-shoes-promo/up-shoes-promo-facebookJumbo.jpg?year=2019&h=550&w=1050&s=ef1bcf976b566038b96c671b2ef328733580aaa30845fcd6891848f94086e190&k=ZQJBKqZ0VN"
   },
   {
@@ -39770,7 +39770,7 @@
       }
     ],
     "description": "A majority of the House support the articles of impeachment against the president.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/12/12/us/trump-impeachment-house-vote-whip-count-promo-1576184833145/trump-impeachment-house-vote-whip-count-promo-1576184833145-facebookJumbo-v62.png?year=2019&h=549&w=1050&s=a9264090edb640c42453a816221d5d29842b683e638bc10f044d957189cd2b23&k=ZQJBKqZ0VN"
   },
   {
@@ -39790,7 +39790,7 @@
       }
     ],
     "description": "Federal Reserve officials believed that the labor market was about as good as it could get. They were wrong.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/12/11/us/fed-full-employment-promo-1576123761501/fed-full-employment-promo-1576123761501-facebookJumbo-v4.png?year=2019&h=549&w=1050&s=af78ed2585ea3a0fa3ca3cb61155d8b0332aebcb910b489b42f62889d18ff5ab&k=ZQJBKqZ0VN"
   },
   {
@@ -39897,7 +39897,7 @@
       }
     ],
     "description": "From the Bay Area to New Delhi, explore air pollution around the world.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/11/21/climate/air-pollution-compare-ar-ul-1575342753926/air-pollution-compare-ar-ul-1575342753926-facebookJumbo.jpg?year=2019&h=549&w=1050&s=4382fc9956e49a908216c33d388d2e6c0acc69cbe6c68bbde45a7141406cdbae&k=ZQJBKqZ0VN"
   },
   {
@@ -40033,7 +40033,7 @@
     "date": "2019-11-23T11:00:01.000Z",
     "credits": [],
     "description": "Hong Kong has been roiled by protests for six months. We photographed people who took sides and took to the streets.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/11/23/world/asia/HK-PORTRAITS-STILL/HK-PORTRAITS-STILL-facebookJumbo.jpg?year=2019&h=550&w=1050&s=3634c904dac71ba8886a2d355c833fadf0544315c6e33f4ff336ad7f926e6bce&k=ZQJBKqZ0VN"
   },
   {
@@ -40108,7 +40108,7 @@
       }
     ],
     "description": "Clashes in the last week between police and protesters at Hong Kong Polytechnic University and the Chinese University of Hong Kong marked a new level of violence.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/11/18/world/hk-protest-graphic-promo/hk-protest-graphic-promo-facebookJumbo.jpg?year=2019&h=550&w=1050&s=ab8bb07d96ab328f6ee7d08faa1f360c77aa5e84d206679b37c6aa890230eb76&k=ZQJBKqZ0VN"
   },
   {
@@ -40183,7 +40183,7 @@
       }
     ],
     "description": "The artist and photographer talks about her favorite piece of heartbreaking art.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/11/14/style/prettystill/prettystill-facebookJumbo.jpg?year=2019&h=549&w=1050&s=37cf5728ef0fd503766604c059595165e43fc619ae652664044bf14474799b14&k=ZQJBKqZ0VN"
   },
   {
@@ -40330,7 +40330,7 @@
     "date": "2019-11-05T21:02:19.000Z",
     "credits": [],
     "description": "Mr. Volker said that Mr. Trump’s envoys demanded that Ukraine commit to investigating his Democratic rivals.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2019"
   },
   {
@@ -40341,7 +40341,7 @@
     "date": "2019-11-05T20:13:02.000Z",
     "credits": [],
     "description": "Mr. Sondland said that the president delegated American policy on Ukraine to his personal lawyer.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2019"
   },
   {
@@ -40357,7 +40357,7 @@
       }
     ],
     "description": "From an audience of 11 followers to 66 million: the chaos and the compliment of getting a signal boost from @realdonaldtrump.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/10/31/autossell/00trumptweets-rt-promostill/00trumptweets-rt-promostill-facebookJumbo-v3.jpg?year=2019&h=549&w=1050&s=36234f6eaa640a3c251b0ac7a7a4816801ab5de1675080eb2efd60ec8fb4596a&k=ZQJBKqZ0VN"
   },
   {
@@ -40417,7 +40417,7 @@
       }
     ],
     "description": "Inside the alternate reality of the president’s Twitter account, where he absorbs and amplifies a noxious stream of disinformation.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/10/31/autossell/00trumptweets-darktweets-promostill/00trumptweets-darktweets-promostill-facebookJumbo.jpg?year=2019&h=550&w=1050&s=083845819d3dd8068abe7acfc76a6f373e351a406a5449a1a52156a1d1a39a56&k=ZQJBKqZ0VN"
   },
   {
@@ -40433,7 +40433,7 @@
       }
     ],
     "description": "A network of 350 cameras that serve as mountain-top fire lookouts in the West have become an essential firefighting tool.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/11/01/us/california-kincade-fire-1572647756461/california-kincade-fire-1572647756461-facebookJumbo-v5.jpg?year=2019&h=549&w=1050&s=33741e55b928c6f6023ac42c83592e9431240ba944ffd76e201c4e6980a8e596&k=ZQJBKqZ0VN"
   },
   {
@@ -40625,7 +40625,7 @@
       }
     ],
     "description": "The basements of Queens are the open secret of a literal underground economy, driven by a steady influx of immigrants and the need for affordable housing.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/10/15/nyregion/00BASEMENTSpromo3/00BASEMENTSpromo3-facebookJumbo-v2.jpg?year=2019&h=550&w=1050&s=af36cce17a9377385aed204b33dc7f7381641ecdc2cc68a2db9e2e5c9d32b64d&k=ZQJBKqZ0VN"
   },
   {
@@ -40744,7 +40744,7 @@
       }
     ],
     "description": "Officials insist the persecution of Rohingya Muslims never happened. Our correspondent visited Rakhine State and found a different story.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/10/14/autossell/cover-1254/cover-1254-facebookJumbo.jpg?year=2019&h=549&w=1050&s=2a5056f9a4ae24b0a60f6d1ca67554a1a4a5e499bd2b0a0cb05abedb291f1c74&k=ZQJBKqZ0VN"
   },
   {
@@ -40824,7 +40824,7 @@
       }
     ],
     "description": "Millions of Flickr images were sucked into a database called MegaFace. Now some of those faces may have the ability to sue.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/10/10/autossell/flickr-promo/flickr-promo-facebookJumbo.jpg?year=2019&h=549&w=1050&s=d984db3cd6fcfc3cd372894a2b0e8540167837d5e128140ea01f2ea888dfa880&k=ZQJBKqZ0VN"
   },
   {
@@ -40915,7 +40915,7 @@
       }
     ],
     "description": "Most Americans think of themselves as middle class. For many, the line between a stable life and a fragile one is thinning.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/09/18/business/18MIDDLECLASS-STILL-d/18MIDDLECLASS-STILL-d-facebookJumbo.png?year=2019&h=550&w=1050&s=7d055a08174bab9836bccc19567b7991e4eb9f97222039874177f7fe2d729c99&k=ZQJBKqZ0VN"
   },
   {
@@ -40983,7 +40983,7 @@
       }
     ],
     "description": "On a road trip across the island, music is everywhere and each region moves to its own defining rhythm.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/10/06/travel/30cuba/merlin_160294692_b0c85649-9b17-4b61-b627-0fe514d2d2c2-facebookJumbo.jpg?year=2019&h=550&w=1050&s=1df286c6cb8728f2ee5976cffd3708ab58e6e8d496d823d802f6ea9a49079ea5&k=ZQJBKqZ0VN"
   },
   {
@@ -41251,7 +41251,7 @@
       }
     ],
     "description": "But their chance of survival still depends on where they are born.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/09/17/upshot/child-mortality-1568668729530/child-mortality-1568668729530-facebookJumbo.png?year=2019&h=478&w=913&s=d9bd98ddab39dfb145f25282d7698df6ed6c0ec22912719895937c51b3880d0b&k=ZQJBKqZ0VN"
   },
   {
@@ -41315,7 +41315,7 @@
       }
     ],
     "description": "Flames engulfed 460 tons of lead when Notre-Dame’s roof and spire burned, scattering dangerous dust onto the streets and parks of Paris.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/09/12/autossell/notre-dame-vid-try2-cover/notre-dame-vid-try2-cover-facebookJumbo.png?year=2019&h=550&w=1050&s=2ffa47ca2995c2f39915de4255c311139b5a6944a8621dd5d300503bf97d23f6&k=ZQJBKqZ0VN"
   },
   {
@@ -41367,7 +41367,7 @@
       }
     ],
     "description": "A New York Times analysis shows how far this spring’s unprecedented floods spread.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/09/11/us/midwest-floods-promo-1568220557752/midwest-floods-promo-1568220557752-facebookJumbo-v3.jpg?year=2019&h=549&w=1050&s=f66f0c35c1d8b0e9dcedf52c74b86c95083a550cfa65116166971be27a709766&k=ZQJBKqZ0VN"
   },
   {
@@ -41407,7 +41407,7 @@
       }
     ],
     "description": "The top results of many common searches in the company’s App Store were packed with its own apps, as concerns grow that Apple may be tipping the scales in its own favor.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/09/09/autossell/scoop-app-store-videoSixteenByNineJumbo1600/scoop-app-store-videoSixteenByNineJumbo1600-facebookJumbo-v2.jpg?year=2019&h=551&w=1050&s=0052dd6ae8c7ff29b5b7b7f1f183ff67c7eeaa0c487dbafb293c5a50fe4db87e&k=ZQJBKqZ0VN"
   },
   {
@@ -41571,7 +41571,7 @@
       }
     ],
     "description": "Mapping the hurricane’s strength, storm surge and expected path.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/08/27/us/hurricane-dorian-map-promo-1566933204147/hurricane-dorian-map-promo-1566933204147-facebookJumbo-v25432.png?year=2019&h=550&w=1050&s=7358fec9efc8656125dd76a4ef12cf4e53225f1fdf1c28a76d3160cb81ab3864&k=ZQJBKqZ0VN"
   },
   {
@@ -41643,7 +41643,7 @@
       }
     ],
     "description": "Over the years, players have moved their grips farther and farther under the handle. It creates a lot of topspin, and some strange looking swings.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/08/29/us/tennis-evolution-four-grips-promo-1567116343849/tennis-evolution-four-grips-promo-1567116343849-facebookJumbo-v4.jpg?year=2019&h=549&w=1050&s=c236a993d4be29d1af36de3bae47b04099e7a4591dabfaad44cd2f0395027cde&k=ZQJBKqZ0VN"
   },
   {
@@ -41663,7 +41663,7 @@
       }
     ],
     "description": "Maps tracking the hurricane’s path as it makes its way toward Florida, Georgia and the Carolinas.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/08/27/us/hurricane-dorian-map-promo-1566933204147/hurricane-dorian-map-promo-1566933204147-facebookJumbo-v25432.png?year=2019&h=550&w=1050&s=7358fec9efc8656125dd76a4ef12cf4e53225f1fdf1c28a76d3160cb81ab3864&k=ZQJBKqZ0VN"
   },
   {
@@ -41751,7 +41751,7 @@
       }
     ],
     "description": "Since the United States increased its efforts to deter migrants, more are waiting at the border, and for longer. This is what that looks like.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/08/16/us/mexico-immigration-asylum-promo-1566000069400/mexico-immigration-asylum-promo-1566000069400-facebookJumbo-v5.png?year=2019&h=549&w=1050&s=9ffb10cafb224d2ed6213a89c7efeca876c992b23c0f6092942d144a2be22cd5&k=ZQJBKqZ0VN"
   },
   {
@@ -42091,7 +42091,7 @@
       }
     ],
     "description": "Joe Biden and Kamala Harris face off again in the second round of debates. Here are other political dynamics and tension points to look for.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/07/26/us/politics/democratic-debate-night-2-1564427369978/democratic-debate-night-2-1564427369978-facebookJumbo-v3.png?year=2019&h=549&w=1050&s=a277fd8dbb08608e526a6d3b0187a7d73e6183d2016f54dedeb2ca3e1940b385&k=ZQJBKqZ0VN"
   },
   {
@@ -42115,7 +42115,7 @@
       }
     ],
     "description": "Aside from the marquee matchup between Bernie Sanders and Elizabeth Warren, there are plenty of other dynamics to watch for in second round of debates.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/07/29/us/democratic-debate-night-1-promo-1564425879196/democratic-debate-night-1-promo-1564425879196-facebookJumbo-v5.jpg?year=2019&h=549&w=1050&s=9555fcb32e980dadc17751bf06a1747fd0b9203357689edba393150695611468&k=ZQJBKqZ0VN"
   },
   {
@@ -42363,7 +42363,7 @@
       }
     ],
     "description": "See Neil Armstrong and Buzz Aldrin’s historic photographs and words from the moonwalk.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/07/18/science/apollo-11-moon-landing-photos-ul-1563466868618/apollo-11-moon-landing-photos-ul-1563466868618-facebookJumbo-v2.jpg?year=2019&h=549&w=1050&s=c68e09bf2b54f2bed7dfb9741e465b95ebbbba1d26fb441feb3fa327caa03dbb&k=ZQJBKqZ0VN"
   },
   {
@@ -42471,8 +42471,8 @@
       }
     ],
     "description": "Bob Ross painted more than 1,000 landscapes for his television show — so why are they so hard to find? We solve one of the internet’s favorite little mysteries.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vZTRmY2MwZDItOTE2OS01Nzc2LTlmZWYtMWIwMTgyNTJmNjMz",
@@ -42631,7 +42631,7 @@
       }
     ],
     "description": "We mapped 3,600 artists from nearly a century of Whitney Biennials.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/07/03/arts/whitney_static_promo/whitney_static_promo-facebookJumbo.jpg?year=2019&h=549&w=1050&s=b36a59575befc6ea1f62e0f9c7a658bdeff57aa9fdc14a732a93330e8e729daa&k=ZQJBKqZ0VN"
   },
   {
@@ -42671,7 +42671,7 @@
       }
     ],
     "description": "With the aid of new technology, a team estimated that more than 265,000 people participated in a protest on July 1.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/07/03/world/asia/hong-kong-protest-crowd-ai-1562190505519/hong-kong-protest-crowd-ai-1562190505519-facebookJumbo-v2.jpg?year=2019&h=550&w=1050&s=7248ed5fd188737d22f083d601d36ea5e59730a09396a914a8e1235d194c391b&k=ZQJBKqZ0VN"
   },
   {
@@ -42839,7 +42839,7 @@
       }
     ],
     "description": "Biden, Sanders, Buttigieg and Harris: Top-tier candidates face off tonight. Here’s a guide to the second night of the first Democratic presidential debates.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/06/26/us/politics/candidates-debate-night-2/58fc7b81100340b4b69aa279a35c2261-facebookJumbo.jpg?year=2019&h=550&w=1050&s=3c19e22c84ee3244ba6d3cb447ceecf56a5f3ae934f9afab9f2ea0a668f22d4a&k=ZQJBKqZ0VN"
   },
   {
@@ -42895,7 +42895,7 @@
       }
     ],
     "description": "Here's a guide to help you understand the political dynamics and tension points in the first Democratic presidential debate.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/06/25/us/politics/candidate-debate-promo/813c86fde060401a9b7afa29535be4e5-facebookJumbo.jpg?year=2019&h=550&w=1050&s=10082f94326ffac954fb68902956e2490f393bf0716aac7840b5f19d75dbea18&k=ZQJBKqZ0VN"
   },
   {
@@ -43023,8 +43023,8 @@
       }
     ],
     "description": "Rejecting notions about how they should present themselves as female athletes, the women are turning to colorful hair and bold lips to showcase their style and enhance performance.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzYwOWU4YzItMTkxYy01MjVlLWFkZTktOGUzZmI0ZTc3Njc1",
@@ -43067,7 +43067,7 @@
       }
     ],
     "description": "New Yorkers are witnessing a boom of luxury residential buildings, which some see as a sign of the city’s wealth gap.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/06/14/autossell/intro-horizontal/intro-horizontal-facebookJumbo.jpg?year=2019&h=550&w=1050&s=8d0c62e5c316f08277bd1967417b05d2a151814637320b8449711cf9f523294b&k=ZQJBKqZ0VN"
   },
   {
@@ -43151,8 +43151,8 @@
       }
     ],
     "description": "La delantera australiana, de 25 años, es de las mejores futbolistas del mundo. Hacemos un repaso de sus toques al balón.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTIzODg5YjQtZmYwMC01MWM0LWI1NDQtZTU0MDliZGVkZDc0",
@@ -43203,7 +43203,7 @@
       }
     ],
     "description": "We fitted her with motion-capture sensors, and she showed us how she beats the defense.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/06/10/multimedia/dunn-world-cup/dunn-world-cup-facebookJumbo.jpg?year=2019&h=550&w=1050&s=dd9eaec940381b436b1993288cdcaf176d48d22e5ea77859adb1cd05656dfc28&k=ZQJBKqZ0VN"
   },
   {
@@ -43255,7 +43255,7 @@
       }
     ],
     "description": "The 25-year-old Australian striker is one of the best players in the world right now.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/06/09/autossell/9972806b/9972806b-facebookJumbo-v2.jpg?year=2019&h=550&w=1050&s=abf955ee955f1f68fd55ec764158ef7c5e66e2b0168f0e13c7e8d9ab1bca6edd&k=ZQJBKqZ0VN"
   },
   {
@@ -43271,7 +43271,7 @@
       }
     ],
     "description": "Caleb Cain was a college dropout looking for direction. He turned to YouTube, where he was pulled into a world filled with conspiracy theories, misogyny and racism.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/06/08/business/youtube-radical-twobytwo/youtube-radical-twobytwo-facebookJumbo.jpg?year=2019&h=550&w=1050&s=128335ae0dd0453cb6a8dac9d1ab1e2504390ecd1032a9f935366ae173dcfb3c&k=ZQJBKqZ0VN"
   },
   {
@@ -43567,7 +43567,7 @@
       }
     ],
     "description": "A Times analysis of school shooting data identified hundreds of deaths and injuries across more than 100 episodes since 1970.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/05/10/us/school-shootings-colorado-over-half-a-century-promo-1557530593590/school-shootings-colorado-over-half-a-century-promo-1557530593590-facebookJumbo-v4.png?year=2019&h=549&w=1050&s=4290ea48638f30b57e63f1c838120092d6b82c393ba57c5e3ad8dd1b55cfbcf4&k=ZQJBKqZ0VN"
   },
   {
@@ -44115,7 +44115,7 @@
       }
     ],
     "description": "Children are interrogated. Neighbors become informants. Mosques are monitored. Cameras are everywhere.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/04/04/world/asia/2019-04-04-xinjiang-tap-promo-1554362076029/2019-04-04-xinjiang-tap-promo-1554362076029-facebookJumbo-v3.jpg?year=2019&h=550&w=1050&s=98b055dbfb5a41ac073172c27fbbedfc6034dbd3c660d86da44e66ba803a5d3a&k=ZQJBKqZ0VN"
   },
   {
@@ -44363,7 +44363,7 @@
       }
     ],
     "description": "Pacific Gas & Electric, California’s largest utility, has been responsible for wildfires in recent years that destroyed hundreds of thousands of acres. Several proved fatal.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/03/18/business/18utility3-print/00utility5-facebookJumbo.jpg?year=2019&h=550&w=1050&s=6e9391103270e32a5909e55c323cf40ca66f2ea416f50d220efab8f89eae72bc&k=ZQJBKqZ0VN"
   },
   {
@@ -44403,7 +44403,7 @@
       }
     ],
     "description": "Twelve Republicans joined Democrats to block Trump’s emergency declaration.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/03/14/us/politics/senate-vote-trump-national-emergency-1552514933147/senate-vote-trump-national-emergency-1552514933147-facebookJumbo-v2.png?year=2019&h=550&w=1050&s=a09b9740b114459bfa72d91b16bdedbd4060a23f28533bab0c58720158abe2c5&k=ZQJBKqZ0VN"
   },
   {
@@ -44459,7 +44459,7 @@
       }
     ],
     "description": "Hudson Yards presented the city with a grand opportunity to remake Manhattan’s West Side. But what has arrived? A review of the most ambitious private development in New York in a century.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/03/13/arts/design/hudson-yards-promo/hudson-yards-promo-facebookJumbo.jpg?year=2019&h=550&w=1050&s=c6d5c68f379c84c0ed6ce968484ef049e25756cd07a3ec345437beb83c1bdefc&k=ZQJBKqZ0VN"
   },
   {
@@ -44543,8 +44543,8 @@
       }
     ],
     "description": "Por los mares hay cientos de miles de kilómetros de cableado que une a continentes para saciar nuestras demandas de comunicación y entretenimiento en línea. Las empresas suelen juntar los recursos, pero ahora Google se quiere aventurar solo con un proyecto que cruza toda América.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2ZjYzEwNWMtZDAyNS01ZjI3LTg0MWUtZTAwMjkyZWViNGFi",
@@ -44571,7 +44571,7 @@
       }
     ],
     "description": "China was the first major country to ground the jets. The U.S. was last.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/03/11/world/where-boeing-737-max-flies-1552329118347/where-boeing-737-max-flies-1552329118347-facebookJumbo-v18.jpg?year=2019&h=549&w=1050&s=603317d68f0916a09d44bec3eb5783bdd8467266e3344e8cdd23a74df012fabb&k=ZQJBKqZ0VN"
   },
   {
@@ -44603,7 +44603,7 @@
       }
     ],
     "description": "Hundreds of thousands of miles of cable connect continents to support our insatiable demand for communication and entertainment. Companies have typically pooled their resources. Now Google is going its own way.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/03/07/technology/internet-cables-oceans-1552081048106/internet-cables-oceans-1552081048106-facebookJumbo-v5.png?year=2019&h=549&w=1050&s=086d22888cddc173b288a99f22ff7c6ffd27f509e618735b67dd5155986c9074&k=ZQJBKqZ0VN"
   },
   {
@@ -44651,8 +44651,8 @@
       }
     ],
     "description": "A reconstruction of the moment when a truck bearing humanitarian supplies was set on fire shows the likely cause was a Molotov cocktail thrown by a protester.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vNTE1ZGYyYTktMDA0OC01MWE2LThjZTAtOTcxNGViOTM4YjE0",
@@ -44767,7 +44767,7 @@
       }
     ],
     "description": "More than a dozen Republicans voted with Democrats to block President Trump’s declaration of a national emergency on the United States border with Mexico.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/02/26/us/politics/house-vote-trump-national-emergency-1551212019373/house-vote-trump-national-emergency-1551212019373-facebookJumbo-v2.png?year=2019&h=550&w=1050&s=e1927dd4e3571c8c5f67e215a3c6655e81712551844371423cf6d9bc3ed67eb1&k=ZQJBKqZ0VN"
   },
   {
@@ -45019,7 +45019,7 @@
       }
     ],
     "description": "Fifteen years and 28 miles on the red planet.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/02/13/science/opportunity-rover-mars-map-1550082012212/opportunity-rover-mars-map-1550082012212-facebookJumbo.jpg?year=2019&h=550&w=1050&s=0ae4ed37121971bc967cd81751e8f7d7ff465af925d3c2d7c92507a47f6779c2&k=ZQJBKqZ0VN"
   },
   {
@@ -45095,7 +45095,7 @@
       }
     ],
     "description": "A mining dam collapsed and buried more than 150 people. Now Brazil is casting an anxious eye on dozens of dams like it.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/02/08/us/brazil-dam-collapse-promo-1549657373974/brazil-dam-collapse-promo-1549657373974-facebookJumbo-v3.jpg?year=2019&h=549&w=1050&s=6ad6451129198e2ddc9061e3703b3c1baf790b15f97c8975c4ddb94018f25afc&k=ZQJBKqZ0VN"
   },
   {
@@ -45199,7 +45199,7 @@
       }
     ],
     "description": "We fly you through the scenes of two pivotal Super Bowl plays.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/02/04/sports/football/super-bowl-flythrough-promo-1549285436536/super-bowl-flythrough-promo-1549285436536-facebookJumbo.jpg?year=2019&h=550&w=1050&s=90ef1f86f5edef2dfd89da567f0991071df3d41ee2f8de6422eced506ef4123b&k=ZQJBKqZ0VN"
   },
   {
@@ -45251,7 +45251,7 @@
       }
     ],
     "description": "Chicago will be as cold as the Arctic on Wednesday. We’ll show you why.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/01/29/science/polar-vortex-image-promo/polar-vortex-image-promo-facebookJumbo-v3.jpg?year=2019&h=550&w=1050&s=c2ded76fb4b6d8de47962201c493efe63ecbbdd78b70f34c2fa3babde80dfa21&k=ZQJBKqZ0VN"
   },
   {
@@ -45291,7 +45291,7 @@
       }
     ],
     "description": "Donald J. Trump and 18 of his associates had at least 140 contacts with Russian nationals and WikiLeaks, or their intermediaries, during the 2016 campaign and presidential transition.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/01/25/us/trump-contacts-russians-wikileaks-promo-1548467557347/trump-contacts-russians-wikileaks-promo-1548467557347-facebookJumbo.png?year=2019&h=549&w=1050&s=528e3c77b68de49272c56468905b06fa3cb49fbeb04c10823ff471c32b4b1777&k=ZQJBKqZ0VN"
   },
   {
@@ -45335,7 +45335,7 @@
       }
     ],
     "description": "Senators rejected two different bills to end the shutdown on Thursday.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/01/24/us/politics/senate-shutdown-bills-live-vote-1548343701560/senate-shutdown-bills-live-vote-1548343701560-facebookJumbo-v5.png?year=2019&h=549&w=1050&s=cbe0c4837ae156c3415d36e79b2d4fb203352ca2d700638d585a5fab6213f09f&k=ZQJBKqZ0VN"
   },
   {
@@ -45527,7 +45527,7 @@
       }
     ],
     "description": "Just over 100 years ago, the first woman was sworn into Congress. As of this month, a record 131 women are serving in the Legislature. The New York Times photographed them.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/01/13/us/woc-social/woc-social-facebookJumbo.jpg?year=2019&h=550&w=1050&s=0f5232190a26de88598efc6aef976eac037d5a802e8ac9e80bf40bddbce4aebb&k=ZQJBKqZ0VN"
   },
   {
@@ -45547,7 +45547,7 @@
       }
     ],
     "description": "Here’s what we know about what’s happening at the border.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/01/11/us/trump-border-crisis-reality-promo-1547262004916/trump-border-crisis-reality-promo-1547262004916-facebookJumbo.png?year=2019&h=549&w=1050&s=536d5821577dea395190baf3c3c5d94beaaf5de3b3d5c0878d6d882b0f60f4ef&k=ZQJBKqZ0VN"
   },
   {
@@ -45691,7 +45691,7 @@
       }
     ],
     "description": "How the number of people affected compares to different American companies and industries.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2019/01/04/us/government-shutdown-comparisons-companies-promo-1546664389499/government-shutdown-comparisons-companies-promo-1546664389499-facebookJumbo-v3.jpg?year=2019&h=549&w=1050&s=261a9e4b4b981fcf1f13a013ec4b4816de2ddce56ccd669f70c7aa970728d4a2&k=ZQJBKqZ0VN"
   },
   {
@@ -45815,7 +45815,7 @@
       }
     ],
     "description": "After a firestorm nearly wiped out an entire California town, residents are coming to terms with what’s left.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/12/27/us/paradise-california-camp-fire-1545869738448/paradise-california-camp-fire-1545869738448-facebookJumbo.jpg?year=2018&h=549&w=1050&s=60cb9a591c653117eee8d13f421e6143c5492d2f54196049d0b7e78498a7cafd&k=ZQJBKqZ0VN"
   },
   {
@@ -45887,8 +45887,8 @@
       }
     ],
     "description": "Beneath the fields of Switzerland and France lies the largest machine ever built. Tour the Large Hadron Collider in virtual reality.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTRmZDc0ZTctNTY0Mi01NjVhLWE0NmEtNjg2MjJhODNjYTdm",
@@ -45931,7 +45931,7 @@
       }
     ],
     "description": "The largest machine ever built is shutting down for two years of upgrades. Take an immersive tour of the collider with AR and 360° photos.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/12/20/science/CERN_HPstill/CERN_HPstill-facebookJumbo-v2.png?year=2018&h=549&w=1050&s=e6ae903cd37f839afbe9d220150ab945174bfd511c6a5b73782737cd8c78c47c&k=ZQJBKqZ0VN"
   },
   {
@@ -46023,8 +46023,8 @@
       }
     ],
     "description": "A New York Times investigation showed that data from over a million devices in the New York area exposed people’s daily habits.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTVmMjE1NTEtYzBkNi01Mzg4LWI2ZTctNzdkMjFmMzFkZmQw",
@@ -46067,7 +46067,7 @@
       }
     ],
     "description": "We dare you to live through 2018 — again.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/12/11/style/11shaker-promo/11shaker-promo-facebookJumbo.jpg?year=2018&h=550&w=1050&s=9b3ffd2c1087b1c9b4a566a503f067287cc346a88cc0be386b961c9b5cbf5113&k=ZQJBKqZ0VN"
   },
   {
@@ -46211,7 +46211,7 @@
       }
     ],
     "description": "See a life-size hologram of the actor teetering on an iron beam, high above the city, in augmented reality.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/12/04/magazine/gp-promo-img/gp-promo-img-facebookJumbo.jpg?year=2018&h=550&w=1050&s=1caa6af9a7a5622b353e46bca2004fbc275948f99722d552d3d8f98c7824c56e&k=ZQJBKqZ0VN"
   },
   {
@@ -46227,7 +46227,7 @@
       }
     ],
     "description": "Eritrea’s 20-year war with neighboring Ethiopia is finally over. A journalist with roots in both nations visited to see if Eritrea can turn away from years of isolation.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/11/29/world/eritrea-loop-1543523239150/eritrea-loop-1543523239150-facebookJumbo.jpg?year=2018&h=550&w=1050&s=60f0b633b59f0d36b86911b0ba75b60240b12c90e8133a2b68f52a92eb32f788&k=ZQJBKqZ0VN"
   },
   {
@@ -46287,7 +46287,7 @@
       }
     ],
     "description": "The congressional freshman class of 2019 includes the most racially diverse and most female group of representatives ever elected to the House.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/11/28/us/congress-freshman-class-promo-1543382112172/congress-freshman-class-promo-1543382112172-facebookJumbo.jpg?year=2018&h=549&w=1050&s=543719145602b82e574f1b19c37a5349f25595ef5c008a7764880521c0fd0e91&k=ZQJBKqZ0VN"
   },
   {
@@ -46687,7 +46687,7 @@
       }
     ],
     "description": "The shift to the left in the House in the 2018 Midterm elections went well beyond the districts Democrats flipped.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/11/07/us/politics/how-the-democrats-took-the-house-1541588374843/how-the-democrats-took-the-house-1541588374843-facebookJumbo-v2.png?year=2018&h=550&w=1050&s=06c3740bfaab0680a8089cd35f15014e3a168ba075431257460c58d85f384769&k=ZQJBKqZ0VN"
   },
   {
@@ -46871,7 +46871,7 @@
       }
     ],
     "description": "Good news: You’re never home alone. Meet your microscopic roommates and hairy houseguests up close and personal in bug-tastic augmented reality.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/10/25/multimedia/bugs-stillpromo/bugs-stillpromo-facebookJumbo.jpg?year=2018&h=550&w=1050&s=66319cfbabe0aa53c11a7ccc136c83c08821ea81df5f408bec2b6a4084ae1684&k=ZQJBKqZ0VN"
   },
   {
@@ -46895,8 +46895,8 @@
       }
     ],
     "description": "Desde que salieron a luz las acusaciones contra el productor hollywoodense Harvey Weinstein, hace un año, alrededor de doscientos hombres de diversas industrias han sido denunciados y destituidos de sus cargos; en 43 por ciento de los casos, los remplazos fueron mujeres.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2NiOGQzZWNkLWJjMWItNTdmMy04NTJjLTkyMDdiNDFjYTg5ZA==",
@@ -46951,7 +46951,7 @@
       }
     ],
     "description": "A list of cases since the Harvey Weinstein scandal, and an analysis of those who have filled the vacated roles.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/10/23/us/metoo-replacements-promo-1540319791481/metoo-replacements-promo-1540319791481-facebookJumbo.jpg?year=2018&h=549&w=1050&s=5d31637ab5f8106f7e5e4d8cd0a64f13873a8bf3b9462a369fd7f907e5944453&k=ZQJBKqZ0VN"
   },
   {
@@ -46971,7 +46971,7 @@
       }
     ],
     "description": "Democrats have to defend more than twice as many seats as Republicans in their bid to flip the Senate.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/10/22/us/senate-race-ratings-promo-1540229067973/senate-race-ratings-promo-1540229067973-facebookJumbo.jpg?year=2018&h=549&w=1050&s=80e17b744e3c6a0ad1e99c3633b885a4ff28977afcc4451c6302fdcec5a8798f&k=ZQJBKqZ0VN"
   },
   {
@@ -46991,7 +46991,7 @@
       }
     ],
     "description": "The Khashoggi crisis has called attention to a largely overlooked Saudi-led war in Yemen. On a rare trip to the front line, we found Yemenis fighting and dying in a war that has gone nowhere.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2018"
   },
   {
@@ -47083,7 +47083,7 @@
       }
     ],
     "description": "People waiting in the many lines scattered throughout the region at grocery stores and gas stations are seeking water, ice, fuel and other essentials.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/10/15/us/hurricane-michael-lines-food-gas-promo-1539577115566/hurricane-michael-lines-food-gas-promo-1539577115566-facebookJumbo.jpg?year=2018&h=549&w=1050&s=bd6067744d677bf5123e96b37f629d86c229bbba53b7a8488ac6e7712318d695&k=ZQJBKqZ0VN"
   },
   {
@@ -47127,7 +47127,7 @@
       }
     ],
     "description": "Explore your community with this one-of-a-kind interactive map.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/10/11/us/map-of-every-building-in-the-united-states-promo-1539298868206/map-of-every-building-in-the-united-states-promo-1539298868206-facebookJumbo.jpg?year=2018&h=549&w=1050&s=b4007c98a5edc26cd82b2c7c4b92ffaff5553687bf61739a6852d1f84fa0b74b&k=ZQJBKqZ0VN"
   },
   {
@@ -47263,7 +47263,7 @@
       }
     ],
     "description": "The Senate voted 50-48 on Saturday to confirm the Supreme Court nomination of Judge Brett M. Kavanaugh.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/01/19/us/politics/live-senate-vote-government-shutdown2-1516420123855/live-senate-vote-government-shutdown2-1516420123855-facebookJumbo.jpg?year=2018&h=550&w=1050&s=0ed6999f5751696fdfde4a358d6a1fff13cd3a1ae7daf3f4a4425fcf4fde72ba&k=ZQJBKqZ0VN"
   },
   {
@@ -47323,7 +47323,7 @@
       }
     ],
     "description": "A map of the counties targeted by China, Mexico, Canada and the European Union in a trade war looks strikingly similar to a map of the 2016 presidential election.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/10/03/us/china-tariff-retaliation-promo-1538570842145/china-tariff-retaliation-promo-1538570842145-facebookJumbo.png?year=2018&h=549&w=1050&s=d592397e9573ff2d607a255468da8a3a1012b67fe88796b6d7fdcec2a83d0f70&k=ZQJBKqZ0VN"
   },
   {
@@ -47743,7 +47743,7 @@
       }
     ],
     "description": "A NASA satellite captured the intense rainfall of 2018’s strongest storm so far.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/09/15/world/asia/typhoon-mangkhut-promo-image/typhoon-mangkhut-promo-image-facebookJumbo-v2.jpg?year=2018&h=549&w=1050&s=28a55309971a7c4001846a0a86f70da292ac227ec23e27740adc50c8c391f020&k=ZQJBKqZ0VN"
   },
   {
@@ -47927,7 +47927,7 @@
       }
     ],
     "description": "The New York Times ha ricostruito la dinamica del disastro di Genova dall’inizio alla fine.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/09/07/world/xxgenoa-bridge-promo-sub/xxgenoa-bridge6-facebookJumbo-v3.jpg?year=2018&h=550&w=1050&s=2d99bb5f5920370810a5712fbbb28e90339e116556cbb17c5459b248949639be&k=ZQJBKqZ0VN"
   },
   {
@@ -47963,7 +47963,7 @@
       }
     ],
     "description": "New York City’s streetscape has been transformed — visually and economically — by the staggering numbers of vacant storefronts now dotting its most popular retail corridors.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/09/07/nyregion/07STOREFRONTSfader1/07STOREFRONTSfader1-facebookJumbo-v2.jpg?year=2018&h=550&w=1050&s=f70a05482d1626fabcf71b560e11ad42dc3073756c93c7578bd90bc1c2779209&k=ZQJBKqZ0VN"
   },
   {
@@ -48047,7 +48047,7 @@
       }
     ],
     "description": "The model and activist believes in the power of depicting women as they are, not as perfectly doctored images. We used 100 cameras to record her runway walk in 3-D holographic motion — no alterations to her form.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/09/09/fashion/imr-graham-hp-loop-still/imr-graham-hp-loop-still-facebookJumbo-v2.jpg?year=2018&h=550&w=1050&s=9cb06b58b9be408eabe1c9a996001419ee2cfa43e6e95c91f89153c5865751d4&k=ZQJBKqZ0VN"
   },
   {
@@ -48127,7 +48127,7 @@
       }
     ],
     "description": "Here are all the people connected to President Trump who have been charged with crimes or found to have violated federal ethics rules.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/08/31/us/trump-officials-crimes-and-ethical-violations-promo-1535755498785/trump-officials-crimes-and-ethical-violations-promo-1535755498785-facebookJumbo.jpg?year=2018&h=549&w=1050&s=32f2fa220f4d71b09dc3ede4d3917dfbf011c53ca976c0a5e64378d0ef245952&k=ZQJBKqZ0VN"
   },
   {
@@ -48191,7 +48191,7 @@
       }
     ],
     "description": "Take a unique tour of the renovated U.S.T.A. Billie Jean King National Tennis Center. Michael Kimmelman, The Times’s architecture critic, says that despite being a corporate playground, it maintains the spirit of the 1964 World’s Fair, on whose bones the tennis center rests.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/08/26/sports/tennis/us-open-promo-1535175729386/us-open-promo-1535175729386-facebookJumbo.png?year=2018&h=550&w=1050&s=fc5c5ec7f3e3a6d83a5fc703689c1e96e931840e9762f2682faabe855a96befa&k=ZQJBKqZ0VN"
   },
   {
@@ -48935,8 +48935,8 @@
       }
     ],
     "description": "Four virtual-reality films that take you on, above and below the Antarctic ice. ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYTUyOWNmMzktMjEyMi01MmIwLWExMDktOGFmOWE1NzkwNDFi",
@@ -49567,7 +49567,7 @@
       }
     ],
     "description": "A New York Times investigation found that the Syrian government dropped a chlorine bomb on this apartment in Douma, Syria, in April, killing dozens. Explore the evidence in augmented reality.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/06/25/world/middleeast/douma-syria-chemical-attack-augmented-reality-ar-ul-1529877138805/douma-syria-chemical-attack-augmented-reality-ar-ul-1529877138805-facebookJumbo.jpg?year=2018&h=549&w=1050&s=dc916879c4e4469a97f9efa779a35270485958c2d5fb7fef5392e069ca390e33&k=ZQJBKqZ0VN"
   },
   {
@@ -49811,7 +49811,7 @@
       }
     ],
     "description": "When the Fuego volcano erupted in June, its pyroclastic flows buried much of the Guatemalan village of San Miguel Los Lotes. Explore the damage in augmented reality.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2018/06/22/world/americas/guatemala-volcano-augmented-reality-ar-ul-1529431452873/guatemala-volcano-augmented-reality-ar-ul-1529431452873-facebookJumbo.png?year=2018&h=549&w=1050&s=64c919c991a8c39c63268e7d64c3e6eada7b9268e59a0b1d6aa5e3212ac9d19b&k=ZQJBKqZ0VN"
   },
   {
@@ -51015,8 +51015,8 @@
       }
     ],
     "description": "Officials were investigating the motivation behind a woman’s attack at the suburban California headquarters.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTVjNWVhZmMtMjhjMS01ODJkLWIyNTctYTg2ZmRhNGQ4Nzlj",
@@ -53107,8 +53107,8 @@
       }
     ],
     "description": "The Federal Communications Commission voted Thursday to repeal Obama-era net neutrality rules. Here’s what you need to know.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMmY1MDI1YTYtMjI1Yi01MzNlLWIwZDAtYTFjYjJiZDM4MGE2",
@@ -64035,8 +64035,8 @@
       }
     ],
     "description": "The company’s monthly survey, released on Thursday, is meant to complement the Labor Department’s Consumer Price Index, which tracks fewer goods online.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGFjOGJiYWUtNDdiMy01NjdjLWFkZmMtNTA1NzA4M2Q4OTUy",
@@ -64475,8 +64475,8 @@
       }
     ],
     "description": "A reader analytics company in London wants to use data on our reading habits to transform how publishers acquire, edit and market books.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2RmMTllN2NhLTUzZWMtNWQ3Yi04NmY0LWFlODBlYjc3YWIyZQ==",
@@ -64495,8 +64495,8 @@
       }
     ],
     "description": "The American man left Virginia to fight for the Islamic State and was caught near the northern city of Sinjar, Kurdish and U.S. officials said.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZGZmZjUwNDMtNjRiMi01OWM5LTlmMDktMjczMDI5ZmE4MmRh",
@@ -66575,8 +66575,8 @@
       }
     ],
     "description": "Presidential candidates have grown deeply dependent on the contributions of a tiny slice of the richest Americans as “super PACs” have raised money much more quickly than hopefuls could have on their own.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDA2NjliMWYtMTU3Yy01YmQ0LTlmNWYtMDgyN2JjYzNmOThk",
@@ -67127,8 +67127,8 @@
       }
     ],
     "description": "Even if Congress restricts domestic surveillance, the counterterrorism infrastructure built in recent years has become firmly embedded in society.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMThhNzFjNjQtYjFiMC01OWJlLWExMDQtZDM5ZjRlNjFhMjdi",
@@ -68419,8 +68419,8 @@
       }
     ],
     "description": "The steering wheel in a Formula One racecar does more than direct the car’s path. A driver can make more than a dozen adjustments, like limiting his pit speed and shifting gears, without lifting a hand from the wheel.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjU0MGY1ZDgtNDhlYi01ODBkLThmZDUtNGU5YmE0ZmQ2YzNk",
@@ -69411,8 +69411,8 @@
       }
     ],
     "description": "An old mathematical proposition, Sperner’s lemma, can be used to resolve thorny modern predicaments fairly.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTBhYmM0NmQtODc0ZC01NDQxLWE5ODAtNTFjMDVlYzc2N2E1",
@@ -69527,7 +69527,7 @@
       }
     ],
     "description": "New impact sensors in helmets promise to warn coaches and parents when a young athlete has sustained a blow that might have caused a concussion.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2014/03/10/multimedia/gadgets-checklight/gadgets-checklight-videoSixteenByNine600.jpg"
   },
   {
@@ -69903,8 +69903,8 @@
       }
     ],
     "description": "The day before the much-anticipated men’s halfpipe competition, there were broad concerns ranging from the shape of the pipe to the snow condition.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vYjMxOTk1NDctZjM1MS01ZmE5LWI1YzItOTgzYjY4MjVlOGEz",
@@ -70023,7 +70023,7 @@
       }
     ],
     "description": "See a selection of programs in the spending bill (and a couple of others), expressed in cost per U.S. resident.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2014"
   },
   {
@@ -70203,8 +70203,8 @@
       }
     ],
     "description": "Of the 13 states that have so far said they will allow consumers to renew canceled plans, all but four are led by Republican governors and have generally been opposed to the new health care law.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vZDRkMjI2ODgtZDQ0OC01YTY0LTg4ZTgtNjI1ZWU4YTNiMTdl",
@@ -70239,7 +70239,7 @@
       }
     ],
     "description": "The Giants’ kicker, holder and snapper share the details of how a field goal is executed.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2013/10/06/sports/video-kicker-video/video-kicker-video-articleLarge.jpg?video-overlay"
   },
   {
@@ -70299,7 +70299,7 @@
       }
     ],
     "description": "This year’s America’s Cup vessels are more flying machines than yachts.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2013/09/18/sports/video-american-cup-video/video-american-cup-video-articleLarge.jpg?video-overlay"
   },
   {
@@ -70315,7 +70315,7 @@
       }
     ],
     "description": "An aerial view of the Yarnell Hill Fire.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2013/07/06/us/video-fireflyover/video-fireflyover-articleLarge.jpg?video-overlay"
   },
   {
@@ -70347,7 +70347,7 @@
       }
     ],
     "description": "The actress performs “Raglan Road” from this Broadway musical about two musicians who fall in love.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/06/06/arts/video-tonys-milioti/video-tonys-milioti-articleLarge.jpg?video-overlay"
   },
   {
@@ -70379,7 +70379,7 @@
       }
     ],
     "description": "Lydia Callis, a sign language interpreter, translates a shortened version of an article by Douglas Quenqua, explaining how new signs are being developed that may enhance scientific communication.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/12/03/science/video-scientific-signs/video-scientific-signs-articleLarge.jpg?video-overlay"
   },
   {
@@ -70399,8 +70399,8 @@
       }
     ],
     "description": "How voter groups have swung in presidential elections as far back as 1972, based on exit polls.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vYTIwMWY2ZTctNWVhZC01OGVkLWFhZTUtNDZhMjg0NWNmNDM3",
@@ -70415,7 +70415,7 @@
       }
     ],
     "description": "Watching the hurricane from the 51st floor of the New York Times building.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/10/31/nyregion/video-sandy-view-from-above/video-sandy-view-from-above-articleLarge.jpg?video-overlay"
   },
   {
@@ -70431,8 +70431,8 @@
       }
     ],
     "description": "New rules cover voters in 13 states. Here are four types of voter laws and where they have been put in place since 2011.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzEwMjhkYzA0LWE0NTEtNTQzNS1hOTk0LTE4YjI2MTI4Y2VkMA==",
@@ -70455,7 +70455,7 @@
       }
     ],
     "description": "With the choice of Paul D. Ryan to be the Republican vice- presidential nominee, not one person in a group of top political jobs — the presidential and vice-presidential nominees of both parties, the Supreme Court justices, the speaker of the House or the Senate majority leader — is a white Protestant.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70471,8 +70471,8 @@
       }
     ],
     "description": "David Boudia of the United States was the last to make the semifinals of the 10-meter platform dive, but he ultimately beat out China’s Qiu Bo and Britain’s Tom Daley to win gold.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzM0ZjdlNDllLTY2YTktNTc4ZS04ZDhkLTAxZTAxZTZmYjA2YQ==",
@@ -70487,8 +70487,8 @@
       }
     ],
     "description": "Individual droughts in the West, like those in this young century, may be severe, but the bigger picture suggests that the area has endured far drier periods.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhkODJhZjRjLTVkZTEtNTJmMC1hZDE4LTFlYzJmMzFhY2M1ZA==",
@@ -70507,7 +70507,7 @@
       }
     ],
     "description": "The final installment of Christoph Niemann’s illustrated, interactive live report from the 2012 London Olympic Games.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70523,7 +70523,7 @@
       }
     ],
     "description": "The final installment of an illustrated, interactive live report from the 2012 London Olympic Games.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/08/09/magazine/video-armchair-olympics-finale/video-armchair-olympics-finale-articleLarge.jpg?video-overlay"
   },
   {
@@ -70543,7 +70543,7 @@
       }
     ],
     "description": "Usain Bolt can run. But can he jump?",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70563,7 +70563,7 @@
       }
     ],
     "description": "Live from the Horse Guards Parade: the semifinals of bully beach volleyball.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70583,7 +70583,7 @@
       }
     ],
     "description": "LeBron James’s bike has a flat tire, so he’s taking a cab to see the weight lifting competition, for which, as it happens, he did not qualify.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70603,7 +70603,7 @@
       }
     ],
     "description": "Despite the poor weather, there is great excitement over at Greenwich Park as Rafalca, the horse partly owned by Mitt Romney’s wife, competes in dressage. The rider Jan Ebeling is struggling to steer Rafalca clear of the drizzle.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70623,7 +70623,7 @@
       }
     ],
     "description": "LeBron and I never actually made it to the 100-meter hurdles. We got stuck at ExCel Center and saw how Anna Laurell and Naomi-Lee Fischer-Rasmussen got in a really bad fight. Security was on top of it, though.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70643,7 +70643,7 @@
       }
     ],
     "description": "O.M.G.! I spotted Geoff Dyer, the famous author and critic, just three seats down from me! Really curious to know what he thinks of that short story that I’ve been working on.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70663,7 +70663,7 @@
       }
     ],
     "description": "Off to see the 100-meter hurdles. LeBron James did not qualify for this event either and has time to give me a ride.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70683,7 +70683,7 @@
       }
     ],
     "description": "Olympic Stadium, Sunday night. Imagining what I could have seen had I come an hour earlier and gotten a better seat.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70703,7 +70703,7 @@
       }
     ],
     "description": "At the ExCel Arena. The British are wonderful hosts. Everybody is rooting for them.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70723,7 +70723,7 @@
       }
     ],
     "description": "At last: they included mini golf this year. Sadly, LeBron James did not qualify here, either.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70743,7 +70743,7 @@
       }
     ],
     "description": "The volunteers here at Olympic park are incredibly nice. I just wish the accuracy of their directions would match their enthusiasm.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70763,7 +70763,7 @@
       }
     ],
     "description": "Taking the bus back to the Underground. Seems like javelin is still going on.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70783,7 +70783,7 @@
       }
     ],
     "description": "Rock, paper, scissors: men’s final. Kobe Bryant vs me. LeBron James didn’t qualify.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70803,7 +70803,7 @@
       }
     ],
     "description": "At the Velododrome to see track racing. Electrifying atmosphere! Need to check smart phone to see which event it is that I am actually watching.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70823,7 +70823,7 @@
       }
     ],
     "description": "Aquatic Center, 3m spring board. Helping the girls to get a spin on.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70843,7 +70843,7 @@
       }
     ],
     "description": "Help Xu Chen of China keep the ball up in the air.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -70863,8 +70863,8 @@
       }
     ],
     "description": "Move your mouse to play.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJjOGY1MGNkLTZkMjAtNTFjMS1hNDA0LTYyNGNlYTA5NjU1MA==",
@@ -70883,8 +70883,8 @@
       }
     ],
     "description": "When you are taller than six feet, you have to be very careful with those slanted doors.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2VjODFkMWE5LWM3ODEtNTBlMC04YTQ2LTY1NGMxN2FjZTk3ZQ==",
@@ -70903,8 +70903,8 @@
       }
     ],
     "description": "At last, heading overseas for the Olympic Games.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzUzMjlmZjU3LTI2ZDItNTQ3Zi04MjM1LTE1NjNlNTY4MWU3NA==",
@@ -70923,7 +70923,7 @@
       }
     ],
     "description": "The United States women’s eight Olympic rowing team won gold in Beijing in 2008.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_2048_black.png"
   },
   {
@@ -70939,7 +70939,7 @@
       }
     ],
     "description": "The U.S. women’s eight Olympic rowing team won gold in Beijing in 2008. They trained for London with an eye to doing it again.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/07/18/sports/video-rowing/video-rowing-articleLarge.jpg?video-overlay"
   },
   {
@@ -70955,7 +70955,7 @@
       }
     ],
     "description": "Basketball takes center stage early on Sunday with Team U.S.A. taking on France while Dana Vollmer looks to secure a gold medal in the 100m Butterfly. Jason Stallman has the latest from London. ",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/07/29/multimedia/video-london3/video-london3-articleLarge.jpg?video-overlay"
   },
   {
@@ -70971,7 +70971,7 @@
       }
     ],
     "description": "With the Opening Ceremony just hours away, Jason Stallman brings you the latest from London.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/07/27/multimedia/video-london1/video-london1-articleLarge.jpg?video-overlay"
   },
   {
@@ -70987,8 +70987,8 @@
       }
     ],
     "description": "Noise measurements at 37 restaurants, bars, stores and gyms across the city showed, according to experts, potentially dangerous conditions at one-third of them.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vNmVmNGIxNzItODEzOS01ZTgwLWExNmYtOGFlMzg3NWJlN2I1",
@@ -71003,7 +71003,7 @@
       }
     ],
     "description": "Teri McKeever, who has led the University of California-Berkeley women’s swim team to three N.C.A.A. titles in the past four years, is the first woman to be named head coach of the U.S. Olympic team.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/07/17/sports/video-mckeever/video-mckeever-articleLarge.jpg?video-overlay"
   },
   {
@@ -71023,8 +71023,8 @@
       }
     ],
     "description": "Counting down until the Games begin? Score points for twiddling while you wait.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzRlMjRlZmM4LTA4OTEtNTZmYi04M2JmLTc2ZTYxMDVhMGVhNQ==",
@@ -71043,7 +71043,7 @@
       }
     ],
     "description": "The American men’s eight rowing team ended a 40-year gold-medal drought in 2004. That team’s coxswain, Peter Cipollone, revisits the historic win in Athens.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_2048_black.png"
   },
   {
@@ -71059,7 +71059,7 @@
       }
     ],
     "description": "The American men’s eight rowing team ended a 40-year gold-medal drought in 2004. That team’s coxswain, Peter Cipollone, revisits the historic win in Athens.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/06/28/sports/video-rowing/video-rowing-articleLarge.jpg?video-overlay"
   },
   {
@@ -71075,7 +71075,7 @@
       }
     ],
     "description": "How many bottles of cola would fill a supersize fast-food drink cup? Take the Well Soda Quiz to find out.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../../images/icons/t_logo_291_black.png"
   },
   {
@@ -71115,7 +71115,7 @@
       }
     ],
     "description": "Apple’s iPhone is a model of American ingenuity, but most of its components are manufactured somewhere else. The decline of manufacturing led to the loss of other kinds of jobs.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2012/01/20/business/video-apple-motion-graphic/video-apple-motion-graphic-articleLarge.jpg?video-overlay"
   },
   {
@@ -71139,8 +71139,8 @@
       }
     ],
     "description": "Under renewed pressure to release his personal income tax returns, Mitt Romney said that he paid a tax rate approaching 15 percent.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzA5NTkwMDllLTZlYzQtNTZiMy04NmMyLWQxMzkzZjYxOTg4ZA==",
@@ -71159,8 +71159,8 @@
       }
     ],
     "description": "An interactive, crowd-sourced timeline looks into the future and envisions a wealth of life-altering technological innovation.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vM2Q2NzMwY2UtZjY1Ny01YWJiLThhMjMtNjM5NDM5ZWIyOGUz",
@@ -71175,7 +71175,7 @@
       }
     ],
     "description": "How CTE could lead to dementia and other symptoms in athletes like Derek Boogaard\n",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2011/11/28/sports/video-boogaard-brain/video-boogaard-brain-articleLarge.jpg?video-overlay"
   },
   {
@@ -71191,7 +71191,7 @@
       }
     ],
     "description": "An analysis of a D.J. King - Derek Boogaard fight",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2011/12/04/sports/video-boogaard-fight/video-boogaard-fight-articleLarge.jpg?video-overlay"
   },
   {
@@ -71207,7 +71207,7 @@
       }
     ],
     "description": "The young and old on what they hope to accomplish by joining the Occupy Wall Street demonstration in Zuccotti Park.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2011/09/30/nyregion/video-wallstreet-voices/video-wallstreet-voices-articleLarge.jpg?video-overlay"
   },
   {
@@ -71227,8 +71227,8 @@
       }
     ],
     "description": "Solutions to the nation’s economic problems may be scarce, but ways to put them into perspective are not.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vNjY4NWFhY2MtYmE0YS01N2Q1LWJiYzktNjk5ZmZjZTJhNDc3",
@@ -71243,7 +71243,7 @@
       }
     ],
     "description": "Rafael Nadal’s forehand is a rare combination of speed and tremendous topspin, making it one of the most lethal weapons in tennis.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/2011/08/31/sports/video-20110901-nadal/video-20110901-nadal-articleLarge.jpg?video-overlay"
   },
   {
@@ -71291,8 +71291,8 @@
       }
     ],
     "description": "After Sept. 11, it took nearly a decade to locate and kill Osama bin Laden. It will take much longer to heal the gaping wound in the Lower Manhattan cityscape.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2VhNDIxZjJmLTg1YzctNTg1NC1hMmM4LWJmNTEzMzQ3YjVjNA==",
@@ -71311,7 +71311,7 @@
       }
     ],
     "description": "Galleon founder Raj Rajaratnam is on trial, accused of making $45 million trading on illegal information scoured from a network of sources that spanned Wall Street and corporate America. Here’s a revealing view of the Galleon information web.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -71327,7 +71327,7 @@
       }
     ],
     "description": "Narrated by Jamie Foxx and Kareem Abdul-Jabbar, it tells the story of the Harlem Renaissance Big Five, more commonly known as the Harlem Rens.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_2048_black.png"
   },
   {
@@ -71343,7 +71343,7 @@
       }
     ],
     "description": "Kareem Abdul-Jabbar talks about his new documentary about the Harlem Renaissance (Photos by The New York Times. Associated Press, Smithsonian American Art Museum and Getty Images).",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
   },
   {
@@ -71359,8 +71359,8 @@
       }
     ],
     "description": "Rare earths are in fact relatively abundant. But they are very hard to extract, and processing them can cause environmental damage.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzcxODk2MzM4LWVjMzAtNWFlMS04NzMwLTY3YmNlYTUxYzhjMA==",
@@ -71375,8 +71375,8 @@
       }
     ],
     "description": "A private group dedicated to saving the United States, a 1952 ocean liner that has been mothballed in Philadelphia since 1996, announced Tuesday that it had purchased the ship for $3 million.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzYwZjRmM2NhLWE4ZDYtNWUyOC1hNmUyLTEwNzIxMDFlODIxMQ==",
@@ -71391,8 +71391,8 @@
       }
     ],
     "description": "Among all the bad news about state budgets, there are few bright spots.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQ5ZTlhYzFkLWNmZGQtNTZhYi05ZDUyLWE1YTk0YzJlYmQ1MQ==",
@@ -71407,8 +71407,8 @@
       }
     ],
     "description": "New music by Jazmine Sullivan, Wyclef Jean, Warpaint, Pomegranates and Bonjay, and from the show “Treme.”",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzlmODIwZWU2LWIyZWItNWYyOC05YThiLTFkMzczYjcwOWMxOQ==",
@@ -71427,8 +71427,8 @@
       }
     ],
     "description": "Democrats lost support in almost every demographic group — men, women, independents, whites, even gays and lesbians. A closer look at the midterm exit polls.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzY2MjY0NzQwLTU1NzEtNWRmMC05ODQ3LTFiNWZiYzc4YTg3MA==",
@@ -71443,8 +71443,8 @@
       }
     ],
     "description": "Fans may have to wait until the 2012 season to see Stephen Strasburg as he is expected to have the surgical reconstruction known as Tommy John surgery.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Y2NjkzODIwLWM2YTQtNWRmMC04N2IzLTU2NjZjYjA5YTkzYw==",
@@ -71459,8 +71459,8 @@
       }
     ],
     "description": "This weekend thousands of people are expected to descend into the center of Grand Rapids, Mich., on what promoters of the event believe is the world’s longest inflatable water slide.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzMxZTljMmNlLTNhMTMtNTRmNC05ZjUzLTNiODlkNDFkNDFmYw==",
@@ -71475,8 +71475,8 @@
       }
     ],
     "description": "Three historic but badly aging ships sit along the Delaware River as supporters pursue various schemes to revive them.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZWVlNzg0LTMzNTQtNTdhMi1hNWM4LWZlNDNmOGQ0YmVkZA==",
@@ -71491,8 +71491,8 @@
       }
     ],
     "description": "Consumer preferences and animal welfare advocacy are driving big changes in the industrialized treatment of farm animals. Here’s a look at what they mean for egg-laying hens.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzIxNWYxNzMzLWQ1MjQtNWU1NC1iZWZhLWU5N2VlMzdkMGQyYg==",
@@ -71507,8 +71507,8 @@
       }
     ],
     "description": "If past catastrophes are guides, the cleanup by BP workers will capture only a fraction of the spilled crude. ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNjZjAzNTZlLTRjNWUtNTZiYS1hYzdhLWNiYmNiMjhjNTA5Mg==",
@@ -71523,8 +71523,8 @@
       }
     ],
     "description": "Sodium overload lurks in places you don’t expect: bread, salad dressing, chicken.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzA1MTg1NDAwLTI5MjItNTg1NC04NWE0LTY5N2ZmZmZlOGRlYQ==",
@@ -71539,8 +71539,8 @@
       }
     ],
     "description": "There have been 66 earthquakes of a magnitude 6 or higher this year, as of Friday, and six of 7-plus magnitude.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQyODI0MTMzLTQ5MzYtNTE4ZS04Yjg5LTk5YTExOTJmOTgwMg==",
@@ -71555,8 +71555,8 @@
       }
     ],
     "description": "As dangerous as coal mining is, there are even riskier ways to earn a living, like logging or commercial fishing.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2U5MzJkYTliLTIzNmYtNWFkOS05OTMzLTA1MTgzODIxOWJjNA==",
@@ -71571,7 +71571,7 @@
       }
     ],
     "description": "From the DealBook Spring 2010 Special Section: DealBook lays out in a comprehensive graphic the prosecutors’ description of how one of the biggest insider trading rings in recent memory worked.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -71587,8 +71587,8 @@
       }
     ],
     "description": "Could this Chinese Year of the Tiger be the last one with actual tigers still afoot in the world’s wild?",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzFiZGRiOTM0LWZkZGMtNTc0My05MzdhLTU0ZjEwMmIxNWZmYQ==",
@@ -71603,7 +71603,7 @@
       }
     ],
     "description": "Jon Nolting, the sports education manager for Alpine for the U.S. Ski and Snowboard Association, uses a Web channel called Dartfish.tv to help train the next generation of ski racers.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_2048_black.png"
   },
   {
@@ -71619,7 +71619,7 @@
       }
     ],
     "description": "Jon Nolting, the sports education manager for Alpine for the US Ski and Snowboard Association, uses a Web channel called Dartfish.tv to help train the next generation of ski racers. ",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
   },
   {
@@ -71635,7 +71635,7 @@
       }
     ],
     "description": "Mark Grimmette, a doubles luge athlete for the United States Olympic team, describes how to steer the sled going 90 miles per hour.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
   },
   {
@@ -71651,7 +71651,7 @@
       }
     ],
     "description": "Are baseball playoff games getting longer?",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -71662,8 +71662,8 @@
     "date": "2009-10-30T05:55:18.000Z",
     "credits": [],
     "description": "Are baseball playoff games getting longer?.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZlMmY2MjU1LTc3MzgtNWU3ZS1hMjZmLTJkYWI0MjQ1ODI2OA==",
@@ -71678,8 +71678,8 @@
       }
     ],
     "description": "The pollutants that coal plants are scrubbing from their smokestacks are finding their way into water instead.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzgyZWIzNWYwLWQ0NWEtNTU1Mi1hYWY5LWRkNGYzYTFjYjdjYg==",
@@ -71694,8 +71694,8 @@
       }
     ],
     "description": "With the fewest home runs in the majors, the Mets are faced with a key question — is their new field too large?",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2M3ZGVmNzcxLWFiN2UtNTE0Ni05NTY4LTgwNTA2MzE5YmIyMw==",
@@ -71710,8 +71710,8 @@
       }
     ],
     "description": "A primer on George W. Bush’s missile defense plan, and the one President Obama is putting in its place.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZlM2FkYTQzLTMwMGEtNTQ4MS1iOWFmLTI1YTU4NzIxMzdjMw==",
@@ -71726,8 +71726,8 @@
       }
     ],
     "description": "In the past five years, companies and workplaces have violated pollution laws more than 500,000 times. But most polluters have escaped punishment.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzg3M2ZhNTBmLWQ0MjgtNTdiYS1hMmIwLTBiMjM4MzQxNzFhMQ==",
@@ -71742,8 +71742,8 @@
       }
     ],
     "description": "A recent survey of the unemployed by Rutgers University is a catalog of personal devastation — abrupt dismissals, abandoned careers, dwindling options.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MxOWJjYWJiLTFlMDktNTJkMi1hOGI5LTJjNTg0NjY4OTQ4Ng==",
@@ -71758,8 +71758,8 @@
       }
     ],
     "description": "The dubious arts of splicing, posing and wholesale erasing in the iconic photography of history.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzIxMjIzZGFiLTIxYmItNWM1Ny1iYjBhLTUyZjk2ZDc2Yjk4MA==",
@@ -71774,8 +71774,8 @@
       }
     ],
     "description": "Here’s how a half-dozen record-setters from the past century would have fared against Usain Bolt in his 100-meter dash last week.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzM0NjNkNWM2LTg0ZTQtNWI1Zi05ZmY2LTNmZTE4MzM5OGJiNA==",
@@ -71790,8 +71790,8 @@
       }
     ],
     "description": "A sampling of July Top Ten hits that Mr. Kasem introduced and played, from his debut to his final sign-off on Independence Day.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzViZTNmZDgzLTE3NzEtNTM0Mi1hOGFmLTYyZDE4ZDFlYmY1Yg==",
@@ -71806,8 +71806,8 @@
       }
     ],
     "description": "Behold corporate logos for hard times: not emblems of distant behemoths, but faces of friends.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzg3ZTQ5ZmI2LWIzNjYtNTJhYy04Zjg5LWUyMTJjNmM3ZWY2MQ==",
@@ -71826,8 +71826,8 @@
       }
     ],
     "description": "Baby names provide a stark example of cultural boom-and-bust cycles.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQ4ZWM4ZTRiLTliNjItNWFhOC1iNzcxLTFkOWQ5NjMwODNjZA==",
@@ -71842,7 +71842,7 @@
       }
     ],
     "description": "The Yankees went to great lengths to incorporate many features of their old stadium into their new one.",
-    "square_img": "No Image",
+    "square_img": null,
     "img": "https://static01.nyt.com/images/blogs_v5/../icons/t_logo_291_black.png"
   },
   {
@@ -71853,8 +71853,8 @@
     "date": "2009-04-16T09:00:00.000Z",
     "credits": [],
     "description": "The Yankees went to great lengths to incorporate many features of their old stadium into their new one.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzM1ZDMxOGZkLWFlZjAtNTg2MS04ODIzLWJjZjc0MzY5N2ZjMg==",
@@ -71869,8 +71869,8 @@
       }
     ],
     "description": "The huge F-22 fighter jet program is well into its third decade, continually finding new ways to justify its existence.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZhZTljZDUxLTZiNjItNTU2YS04ZDM5LTE4ZTFjMTM1ZjEzYw==",
@@ -71885,8 +71885,8 @@
       }
     ],
     "description": "A “microexpressions” expert re-examines Alex Rodriguez’s 2007 interview with Katie Couric, looking for telltale signs of lying.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzI0NGVlZjQ0LWM0ZTctNWU1OC1hZTQ4LWU3MGIwMDhiZDUxNw==",
@@ -71901,8 +71901,8 @@
       }
     ],
     "description": "There are several ways to gauge levels of government corruption. We rank the states here according to three methods.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzRjMWE1ZWJmLTg0Y2QtNWY1Yi05MWVkLTE4Y2M1NDkyZDQ0NA==",
@@ -71917,8 +71917,8 @@
       }
     ],
     "description": "Officially, the nation may or may not be in a recession. But measured at the local level, slowdowns are well under way.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNmOGUwY2ZlLWMwYmMtNTJmNi1hNGQ5LTk2ZTZiZDhhNDRiZg==",
@@ -71933,8 +71933,8 @@
       }
     ],
     "description": "Between 1970 and 2006, average Americans added 1.8 pounds of food a week to their diet.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzg0ZGQ0MDFhLTc4NjctNTExZi05NWJiLWQ1Njc3ZDVkYzU1Ng==",
@@ -71949,8 +71949,8 @@
       }
     ],
     "description": "Gasoline in the United States is cheap — compared to prices in most other industrialized nations, that is.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzI0MDk5M2I3LWUzYTQtNThmMS05ZmI3LTg1YWJmMTUzZWQzMA==",
@@ -71965,8 +71965,8 @@
       }
     ],
     "description": "By several imperfect measures, Grand Theft Auto IV is shaping up to be one of the biggest products in entertainment history.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2UzZTU5NmY0LTI5OTYtNTBlOC04NDRmLWZkNTk3MDZlMzAyMQ==",
@@ -71993,8 +71993,8 @@
       }
     ],
     "description": "A deadly bombing that threw the triumphant return of Benazir Bhutto to Karachi into chaos puts a focus on the multiple conflicts and rivalries that roil Pakistan.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzEwMmNlZDgyLWQ4MTktNTAxZC1hNjFhLTE2MGQwM2VjNDgyZg==",
@@ -72009,8 +72009,8 @@
       }
     ],
     "description": "Assigning a dollar value to a person’s life might seem impossible, not to mention unthinkable. But after a wrongful death, the needs of the surviving family often lead to that grim calculation.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQ3NzhmNDBmLWE4MDgtNTlkMi1iYzVlLWY3YmZmNTU1YjE0MA==",
@@ -72025,8 +72025,8 @@
       }
     ],
     "description": "Getting out of a war requires as much planning as getting into one. Here are five questions that any administration will have to answer as part of an exit from Iraq.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzMzODlmNzdmLWIyNWUtNWJkNy04MmE5LTU0ODMwMWZlZmQyMw==",
@@ -72041,8 +72041,8 @@
       }
     ],
     "description": "Thirsty? How much money do you have on you?",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzFkZGI2ZGM3LTA5ODEtNWI0My05Mzg5LTY3ZTg5NjA0ZDI0Mg==",
@@ -72057,8 +72057,8 @@
       }
     ],
     "description": "While television coverage of auto racing has developed into a finely tuned presentation in the last two decades, the trackside experience has hardly advanced.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzcyMjJlMWYyLTAwZmEtNTE1Ni04MTQxLTFjZDVmNjZmODM4Mg==",
@@ -72073,8 +72073,8 @@
       }
     ],
     "description": "There are an estimated 636,000 “fugitive aliens” in the United States, and at this point, the government doesn’t have the manpower or the technology it needs to catch them all.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2U2N2JlZWM3LWY4NWQtNWMyNC1iYTUyLTRiYzA0MjM4NDg0Mw==",
@@ -72089,8 +72089,8 @@
       }
     ],
     "description": "People in many countries have less favorable views of United States than they did six years ago according to latest Pew Global Attitudes Project survey; graphs (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzU5N2ViYTU3LWFkNmMtNTY0Zi05MjRkLTBiMTQ5ZTBiMWMzYg==",
@@ -72105,8 +72105,8 @@
       }
     ],
     "description": "Map and chart detailing military prowess of five largest nations bordering Iraq--Jordan, Syria, Turkey, Saudi Arabia and Iran; discusses their motivations for intervening in Iraq (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2M2ZDZmZDkxLWU2NjEtNWU2My1hMGY3LTY2MmZiYTM4YTU4NA==",
@@ -72121,8 +72121,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQ1NmI3OGZlLTEzYjMtNWU1Mi05ZmVhLTA5NzViODZlYTQ3Zg==",
@@ -72137,8 +72137,8 @@
       }
     ],
     "description": "If Iraq should descend into full-blown civil war, could its neighbors be drawn into a much wider conflict?",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzVmMWFkODU5LTRiOTYtNTgyNy05NDNjLTMyNGYwYWMwMGIwZA==",
@@ -72153,8 +72153,8 @@
       }
     ],
     "description": "Question of whether American military can prevail in Iraq and save country from civil war starkly divides those offering strategies for Iraq; Sen John McCain and Gen John P Abizaid argue that yes, US military can determine outcome of war; Sen Carl Levin argues that situation is beyond US military's control; other viewpoints detailed; photos; chart (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2M1MzdiM2QzLTE3ZjItNWJmOS1hYTk3LTMxMmMxZTI0YjBlYQ==",
@@ -72169,8 +72169,8 @@
       }
     ],
     "description": "There is no dearth of strategies for Iraq, in officialdom and beyond, but will any of them work?",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQ1NzgwZWE3LTg5NTUtNWU1Ny05NjM0LTgyNDcxNjJlODYzOQ==",
@@ -72185,8 +72185,8 @@
       }
     ],
     "description": "Candidates in midterm elections employed some innovations in campaign tactics and political advertising, which are sure to be refined for 2008 presidential campaign; Internet videos affected some races; examples detailed; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzFjMGQ3YjZjLWExNDMtNThkMi05ZmE3LWQ5M2E5NTMyMGYxMQ==",
@@ -72201,8 +72201,8 @@
       }
     ],
     "description": "You, the electoral lab rat, may have noticed a few innovations in campaign tactics during the lead-up to the midterm elections. Here’s a short list just in case you missed them.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2ZjNjUxMWY4LTM1MDgtNWFlZS05MDQ0LWYwNTgxZjAyNWVkOA==",
@@ -72217,8 +72217,8 @@
       }
     ],
     "description": "Gaffes made by campaigning Congressional candidates have been well-publicized and may have an effect on elections; recent examples cited (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzE0YWQwM2FlLTQ1NzktNTE2NC1iZWIyLTYxZGU3M2Q5OTRmNw==",
@@ -72233,8 +72233,8 @@
       }
     ],
     "description": "Online futures market Tradesports.com allows traders to bet on whether Republicans will retain control of Congress; graph (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2U0ZmFhZTU3LWY0MWItNTgyOS1hZTJkLTk2OWQ1OWVmMDU4NA==",
@@ -72249,8 +72249,8 @@
       }
     ],
     "description": "Bob Woodward's State of Denial is most recent book on inner workings of Bush administration, especially disputes; chart and photos of tensions between cabinet members over Iraq war (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzljMWY3MWY1LTIxOTEtNTFlNi1hY2U4LTljNDhiZmYxODBiMA==",
@@ -72265,8 +72265,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2NjNjZhZmU2LTRlZTgtNTQ3Yi04ZjVhLTM5OGQ5Y2JmYmRjNg==",
@@ -72281,8 +72281,8 @@
       }
     ],
     "description": "Chart of major coalitions and blocs of Democratic Party, including centrist coalition, social justice coalition, old line coalition and new left coalition (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q5OTNlZGM1LTRmZWItNWRmNy04MTEyLTdlZDk3MGNlZWVhZg==",
@@ -72297,8 +72297,8 @@
       }
     ],
     "description": "Photos and maps showing post-hurricane housing situations in New Orleans neighborhoods of Lakeview, Broadmoor and New Orleans East",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2I2NjEwMjc0LWMwOGEtNWZlMC1hZWJkLWJmOGM5NWM1ZTE5ZA==",
@@ -72313,8 +72313,8 @@
       }
     ],
     "description": "Profile of Raul Castro, who is leading Cuba while Fidel Castro recovers from surgery; Raul, who has always been deferential to Fidel, has led military for 47 years; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Y3Y2U0ZmYxLTExYzUtNTY1YS05YmFiLWQ2OTk0N2QwZTdkNA==",
@@ -72329,8 +72329,8 @@
       }
     ],
     "description": "Restoration is underway on Philadelphia's City Hall; restoration of building's lavish statuary and exteriors, perhaps nation's largest-ever art conservation effort, is slowly transforming its dingy main floors into bright granite and marble; history of building detailed; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2I3OTZmMmUyLTJmMGUtNWEwZC1hNmU4LWE1MTJiMTk2MTFlOQ==",
@@ -72345,8 +72345,8 @@
       }
     ],
     "description": "Hiding for more than 100 years behind a drape of grime, an \"ugly monstrosity\" may finally achieve the grandeur that was intended.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzA5NWY1MTA0LTg0NGUtNWM3OC1iNmE3LWE3NmZkMTI5YWE3Yw==",
@@ -72361,8 +72361,8 @@
       }
     ],
     "description": "R.V. builders face challenges like those faced by apartment dwellers in Manhattan: how to pack in all the comforts of a furnished condominium.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJmMTA3MzM3LTBkODgtNTUzZi05ZDhhLTQ5ZmFiYjQzZmEzZQ==",
@@ -72377,8 +72377,8 @@
       }
     ],
     "description": "US National Whitewater Center, $32 million commercial theme park, is to open in August in Charlotte, NC; center, with engineered rapids, is completely artificial; some people wonder if, in manufacturing of outdoor experience, something is lost; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2NkZGFhNWIwLWRjMTctNWVmMi04N2FmLWEwMWRhOTA2MTEwZg==",
@@ -72393,8 +72393,8 @@
       }
     ],
     "description": "Citigroup may eliminate its famous 136-year-old umbrella logo, adopted from Travelers Group when two merged; examples of other companies' redesigned logos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzE1ZWNjNGE3LWY3M2ItNTRlZS1iZDQ1LTBmMTdjM2QzNDU5Mg==",
@@ -72409,8 +72409,8 @@
       }
     ],
     "description": "Killing of Iraq's most wanted terrorist leader, Abu Musab al-Zarqawi, will not end country's civil strife; there may be as many as 100 insurgent groups waging war against US forces, and often, each other; chart shows how major Sunni insurgent groups divide into three general categories; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzg1YzIzNzg0LTRlMjEtNTA2Yy1iMWMxLTMxNjRhZDM4N2FiMQ==",
@@ -72425,8 +72425,8 @@
       }
     ],
     "description": "People magazine has denied reports that it paid $4.1 million for first pictures of Angelina Jolie-Brad Pitt baby; examples of recent high-priced art sales; photos (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNkNWU3OGM0LWE3NWItNWJkMC1hYjlkLTEyMjk0OTU5YzI3Mg==",
@@ -72441,8 +72441,8 @@
       }
     ],
     "description": "Brent R Wilkes, California defense contractor, emerges as hub of corruption invesgitations stretching from Congress to CIA; diagram (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQzNTBkYmRkLWM3YWYtNTU4OS1iOGJkLTEyYTdmYTQ5ZmFiNA==",
@@ -72457,8 +72457,8 @@
       }
     ],
     "description": "THE ''nationally recognized teapot collection of Sonny and Gloria Kamm,'' as its keepers call it, needs a home. Thus the proposed Sparta Teapot Museum in Sparta, N.C.     The museum's Web site suggests the trove will draw 60,000 yearly visitors to the remote mountain region, creating ''synergies with the state's tourism industry'' and offsetting local job losses.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhlZDE5Y2Q4LWJlYTYtNTQxZS1hZWM0LWI4MjAxZjRjYWMzYg==",
@@ -72473,8 +72473,8 @@
       }
     ],
     "description": "Nomination of Nuri Kamal al-Maliki as new prime minister of Iraq would seem to increase chances for stable government, but other hopeful moments were later marred by spikes in violence; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzExMmE1MjczLWUwZDctNWVjYy1iMWE2LWJmMDUzODljZGE4Ng==",
@@ -72489,8 +72489,8 @@
       }
     ],
     "description": "Setting aside even modest amounts for hometown projects in an era of ballooning deficits and Medicaid cuts is risky for politicians.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzc3YmMxYmQzLTQzZjYtNTQ0MS04M2JkLTU3ZTViN2E1MWJiYg==",
@@ -72505,8 +72505,8 @@
       }
     ],
     "description": "Bill Marsh article about scandal at New York Post involving Page Six columnist Jared Paul Stern, who has been accused of extortion by billionaire businessman Ronald W Burkle; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNlNTQzNmUyLWUzMGYtNWI2OC1hMDNkLWUyYzQwNWIxY2E0Ng==",
@@ -72521,8 +72521,8 @@
       }
     ],
     "description": "Since 2000, estimated 850,000 unauthorized immigrants have entered US each year; two-thirds of arrivals get jobs, many at low wages; 16 percent are children; graphs (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzIxZjM1ZGE0LTdjZGQtNTcyMS1iNzVlLWYzNWI0M2ZhNGZjMg==",
@@ -72537,8 +72537,8 @@
       }
     ],
     "description": "Spring break now sprawls across international borders, with students either welcomed as free-spenders or shunned for being little more than drunken mobs; rite began in 1935 when Colgate University swim team trained in Fort Lauderdale, Fla, during Christmas break and other schools followed; chronology; graph; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2ExMmE5MmMzLWJmOWItNWY1MS1iYzdlLWYxOTA2NmIxNjBmMQ==",
@@ -72553,8 +72553,8 @@
       }
     ],
     "description": "Spring break, with its unruly hordes, now sprawls across international borders, but it seems to have started out innocently enough.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzU4YzhmOGUzLTk5N2MtNTlhYi1iYzJiLTNjMGIxOGFkM2E0Mg==",
@@ -72569,8 +72569,8 @@
       }
     ],
     "description": "Report by 9/11 Public Discourse Project gives Bush administration near-failure grade for its slow progress on 41 recommendations made by 9/11 Commission in 2004; excerpts; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzk1YWZkYjQ0LWY0YTYtNWI5My04ZDViLTE0MGQwYWRiZGUzZg==",
@@ -72585,8 +72585,8 @@
       }
     ],
     "description": "Blood doping methods, prevalent during Olympic competition, discussed (S)6",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2ZiYzQyNzJlLTY5MzYtNTk0NS05ZjM0LTlmMjNiNDI2NjU4Ng==",
@@ -72596,8 +72596,8 @@
     "date": "2006-02-17T05:00:00.000Z",
     "credits": [],
     "description": "Florence Baverel-Robert (France) Wins women's 7.5-kilometer sprint biathlon event; Anna Carin Olofsson (Sweden) wins silver; Lilia Efremova (Ukraine) wins bronze (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2YyZjc3YjJkLTNhYzMtNWE0NS04ZDBlLTRmZjI1OWY5NTZjMA==",
@@ -72612,8 +72612,8 @@
       }
     ],
     "description": "For the first time in the Winter Games, the men and women speedskaters will compete in the team pursuit. It will be the second of five events for Chad Hedrick, who won a gold medal on Saturday in the 5,000-meter race. The preliminaries and the quarterfinals will be held today; the semifinals and the final tomorrow. Here is a look at the event and the strategy used.    JOE WARD",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzg2ZGZhZTIyLWVlY2ItNWM0Ny1iYjJjLTMxOWRlYjZhNGFjNg==",
@@ -72628,8 +72628,8 @@
       }
     ],
     "description": " The men's course in Sestriere Borgata has a series of difficult elements in store for the skiers in tomorrow's downhill. During Thursday's training run, Daron Rahlves of the United States had the fastest time. Here is a look at Rahlves negotiating some of the tricky spots near the top portion of the run.   JOE WARD    FALLAWAY TURNS  The terrain beneath the skier slopes in the opposite direction of the turn. It can pull the skier away from his intended path and slow his run.    NAVIGATING THE FALLAWAY  Instead of skiing down the slope, Rahlves must cut across. Body is tilted parallel to the slope. Weight is Balanced entirely on the inside edge of one ski.    HIDDEN KNOLLS  Dozens of well-disguised bumps can cause racers to become airborne. Downhillers try to minimize time in the air.    SIDEHILLS  The many sidehill slopes force racers to think constantly about what the fastest route down the mountain is.    TREACHEROUS START  The top of the course has been injected with water, making it very hard and icy. It is the steepest part of the course.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzFmMDU3N2FhLTg5YjMtNWNhMS04YWY4LWVkM2VkN2M5ZmMxNA==",
@@ -72644,8 +72644,8 @@
       }
     ],
     "description": "Congressional leaders of both parties made high-profile efforts last week to improve public confidence in the ethical standards of Capitol Hill. Stung by ever more revelations about the activities of the Republican lobbyist Jack Abramoff, they sought to show that they're dismantling a culture favorable to influence peddling.     As the week ended, proposals were still being revised, with the all-important fine print yet to be written. But the broad outlines of their ideas, scrutinized by government watchdog groups, still presents loopholes for lobbyists who press legislators for favors. (Some individual members of Congress are proposing tougher laws that would eliminate some of these loopholes.)  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJkMTU5OGJmLThjYWUtNTJlMS04ZDQzLTVkOTJjZTBkOGRhZg==",
@@ -72660,8 +72660,8 @@
       }
     ],
     "description": "All Washington is waiting for the details of a reported plea agreement with Jack Abramoff, the influential Republican lobbyist who is facing multiple investigations; a deal could be reached soon. In the world of Washington power brokers -- some would say influence peddlers -- his stadium and arena skyboxes were often stages for favors given and returned among lobbyists and legislators. Mr. Abramoff, left, had four skyboxes in the capital area: one each in the MCI Center in Washington and Baltimore's Oriole Park at Camden Yards, and two in FedEx Field, where the Redskins play. His aeries were leased mostly with money from Indian tribe clients, who paid Mr. Abramoff and his partner a total of more than $80 million to influence Congress on matters of casino gambling.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzYwODVjZWE3LWE4OTYtNTE5NS1hY2UzLTY5Nzk5ZjJmYzhkMA==",
@@ -72676,8 +72676,8 @@
       }
     ],
     "description": "Justice Antonin Scalia's wit is widely admired, and now it has been quantified. He is, a new study concludes, 19 times as funny as Justice Ruth Bader Ginsburg.     Transcripts of oral arguments at the United States Supreme Court have long featured the notation ''[laughter]'' after a successful quip from a justice or lawyer. But until October 2004, justices were not identified by name, making it impossible to construct a reliable index of judicial wit.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJmYzc0YzI1LTczZDgtNTU2OS1iNmI4LWZkNGIxM2VlMjhlZg==",
@@ -72696,8 +72696,8 @@
       }
     ],
     "description": "WI",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2U1ZjdhN2Y5LTU1ZDItNTc0Mi05MjkzLTkwNjQzMWRhMTc4Ng==",
@@ -72712,8 +72712,8 @@
       }
     ],
     "description": "Congress is getting unruly. Last week, the once-disciplined G.O.P. suffered a split over civil liberties, pitting President Bush and the party's leadership against the suddenly considerable weight of a handful of rebels. Four senators joined Democrats in a successful filibuster against renewal of the USA Patriot Act, set to expire this week, unhappy with some of its anti-terror tactics. News that the president authorized secret domestic eavesdropping by the National Security Agency only sharpened their worries and doomed renewal this year.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IxYzFlMTllLWY0ODItNWQzYS05YTFjLTMwMGVkMWFkMzdkZg==",
@@ -72728,8 +72728,8 @@
       }
     ],
     "description": "Last week, for the first time, President Bush gave an estimate of the number of Iraqis killed since American forces invaded in March 2003.     ''How many Iraqi citizens have died in this war?'' he was asked after a speech in Philadelphia. His reply: ''I would say 30,000, more or less, have died as a result of the initial incursion and the ongoing violence against Iraqis.''  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJhYmNlOWZjLTdlZDEtNWI0YS1hYWFiLTE3NzU4ZDlhMGEyOA==",
@@ -72744,8 +72744,8 @@
       }
     ],
     "description": "President Bush got some good news last week: His ratings improved, somewhat, in the latest New York Times/CBS News poll. Forty percent approved of his job performance, up from 35 percent in November, his worst showing. Of the most recent two-term presidents, only Richard M. Nixon had a lower approval rating at the same point in his presidency. And last month's 57 percent Bush disapproval rate came perilously close to President Nixon's in December 1973, after news broke of an 18 3/5rsaquo 4/5-minute gap in a White House tape recording that was central to the Watergate investigation.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzlkMmQxZDZmLWJjOTMtNThhOS1hOGMwLTA2YmQzZWJkNGY0NQ==",
@@ -72760,8 +72760,8 @@
       }
     ],
     "description": "Washington has a new guessing game, thanks yet again to the C.I.A. leak scandal. Sometime in mid-June of 2003, the first known talk of Valerie Wilson's identity as a C.I.A. operative occurred between an official and a journalist. Bob Woodward of The Washington Post came forward as the journalist, but who was his source? Among those who may have been in a position to know about Ms. Wilson, there are plenty of denials -- some of them shown below -- and others who haven't denied involvement, at right.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzIzNTU0YzU5LTE4ZDktNWM5MS1iOGUxLTVhNjRiNThkYmUxMQ==",
@@ -72776,8 +72776,8 @@
       }
     ],
     "description": "Last week, Bob Woodward of The Washington Post revealed that he was among the first journalists to discuss the identity of Valerie Wilson, the covert C.I.A. operative, with Bush administration officials. The disclosure ensured that officials will be checking their 2003 datebooks very carefully. Further investigation of the leak will surely focus on the period from June to July 2003, when the first rumors and interviews began.   BILL MARSH",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Y5MWZlNWM4LTk0YzYtNWJkNi05MWJmLWIyZGE5Yjc3YmQ1Zg==",
@@ -72792,8 +72792,8 @@
       }
     ],
     "description": "THE C.I.A. leak case could bedevil the Bush administration for months. So far, however, it has not nearly approached the scale of an earlier White House scandal, Iran-contra, and its 11 convictions. The sweep of the Watergate scandal is in a class by itself. Since then, special prosecutors have taken aim at people tied to government's highest offices more than 20 times. Some inquiries, months or years long and costing millions, have found nothing to prosecute. Ronald Reagan's labor secretary, Raymond J. Donovan, was investigated for allegations of mob ties; Reagan's attorney general, Edwin Meese III, was accused of financial improprieties. Neither was indicted. After six years, prosecutors could not prove that Bill and Hillary Clinton's Whitewater real estate venture involved any criminal behavior or attempt to conceal evidence.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNjYWUwMzJhLTg1MzktNTZlNS1hMzBhLWYxYzdlNDNhZGJkNw==",
@@ -72808,8 +72808,8 @@
       }
     ],
     "description": "WITH an announcement likely soon in the case involving the leak of a C.I.A. operative's name, worry among Republicans about the effects of several investigations is at a peak.     There is much to keep track of: in the C.I.A. case, the special counsel's scrutiny of conversations between White House officials and journalists; in the money-laundering and conspiracy charges against Representative Tom DeLay, questions about the funneling of corporate money to Republican candidates; in the investigation of the Republican lobbyist Jack Abramoff, accusations of improper dealings with Indian tribes, among other things.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzE0OTg2NGE0LTUwYzQtNWFlYy04NjRhLWRmZmQ2YTI2MTU0NQ==",
@@ -72824,8 +72824,8 @@
       }
     ],
     "description": "THE government buys everything from warships to paper clips, the latter being an example of a ''micropurchase.''     Before this month, micropurchasing with government-issued credit cards meant anything up to $2,500 on a single shopping trip, with certain purchases relating to homeland security allowed to reach $15,000 domestically and $25,000 abroad.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzljMDE0Y2Q1LWU4ODQtNTA5Ny1iMTJjLWU2NWNlMjIzODcwYw==",
@@ -72835,8 +72835,8 @@
     "date": "2005-09-11T05:00:00.000Z",
     "credits": [],
     "description": "NEW ORLEANS has long lived with the hurricane protection that it, and the nation, were willing to pay for. Measured against the costs of Katrina's fury, however, better armor may suddenly seem more affordable.     With officials vowing to rebuild New Orleans, the question of how fully to defend the city against another catastrophe will be examined as never before.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2I3M2QwNmUwLTUwYzEtNWVjMC04NDVjLTBmNjVhMTVlZDc3Ng==",
@@ -72851,8 +72851,8 @@
       }
     ],
     "description": "Wheelchair tennis makes its competitive debut at the United States Open today. While the rules are similar to the ones used by able-bodied athletes, wheelchair players are allowed two bounces. Esther Vergeer of the Netherlands demonstrates the style and strategy of play.  By BEDEL SAGET    STRAPS  Over the feet, femur, hips and waist allow the chair and player to move as one.    ANGLED WHEELS  For increased speed, stability and turning    ANTI-TOP CASTORS  Improve balance and allow the athlete to push his or her weight forward or backward without tipping over.    Mobility Is Key  Players with the greater mobility usually have the edge, and most use patterns to simulate the lateral movement that the chair does not provide them. Vergeer explains some patterns and techniques used for the forehand and the backhand.    THE FOREHAND    THE APPROACH -- Using both hands, Vergeer moves towards the ball. To hit the ball, the racket starts low and ends over her left shoulder. To follow through on the shot, she pulls on the left wheel, which swings her body and chair through the shot.    THE RECOVERY -- Vergeer quickly circles back to the hub, turning her back to the net in the process.    THE BACKHAND    THE APPROACH -- When making contact, she stops the chair with her left hand and keeps herself parallel to the baseline.    THE RECOVERY -- Again she circles back into position at the hub.",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzExNzQ5NDdhLTNjYjItNTIzZC05MmRmLWQ5OTE5OThjNjY1MA==",
@@ -72867,8 +72867,8 @@
       }
     ],
     "description": "Fresh Pork, Coming to a District Near You N July 28 and 29, the House and Senate approved the transportation bill.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzI4YTlhNGQ2LWQwMzAtNTFmZi04OGM2LWMxODhiMzdjYTRhMg==",
@@ -72883,8 +72883,8 @@
       }
     ],
     "description": "PRISTINE lands, by the strictest definition, no longer exist. Atmospheric pollution has settled on every earthly surface; human-induced climate change is affecting ecosystems across the planet, scientists say.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQzMzc5NTJmLWFhOGQtNWE0ZC1hYTMyLTM2OTFjOTdjNTU4YQ==",
@@ -72899,8 +72899,8 @@
       }
     ],
     "description": "Terrorist attacks on buses, railroads, subways and bridges increased during seven decades studied by the Mineta Transportation Institute at San Jose State University. It compiled lists of attacks starting in the 1920's; the most detailed reports focused on the period from the 1970's through mid-1997, which charted here. This tally includes both successful attacks and those that were set in motion but ultimately thwarted by authorities.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2M1NTliYzcwLTEzYWQtNTY2OC1hNWI0LTI3YTAwMmE1ZmFlMg==",
@@ -72915,8 +72915,8 @@
       }
     ],
     "description": "Terrorist attacks on buses, railroads, subways and bridges increased during seven decades studied by the Mineta Transportation Institute at San Jose State University. It compiled lists of attacks starting in the 1920's; the most detailed reports focused on the period from the 1970's through mid-1997, which charted here. This tally includes both successful attacks and those that were set in motion but ultimately thwarted by authorities.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzcyY2U2YTcxLTk3NWQtNTUwNi1hMzcwLTA0OGNmZGY3Mzc4NA==",
@@ -72931,8 +72931,8 @@
       }
     ],
     "description": "The European Union gained its 21st official language last week: Irish Gaelic. About 30 speakers will be hired to translate legislation and at E.U. meetings, all to help keep Ireland's native tongue from disappearing.     Europe is dotted with dying languages, some having dwindled to a few dozen speakers -- which linguists call ''hearth languages,'' used only by elders in one another's homes. Votian, in Russia, is one: With no written script and no children who speak it, Votian will vanish when its last speaker dies, probably within a decade or two.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzllYzcwODlkLThhNjItNTc2MC04MzI2LTE5ZmI5YjU2NGM1OA==",
@@ -72947,8 +72947,8 @@
       }
     ],
     "description": "Searching for a gift? If a car is out of the question, perhaps a book about cars is within reach. Here are some possibilities, just in time for Father's Day:    The Complete Book of BMW  Every Model Since 1950  By Tony Lewin  Illustrated. 384 pages. Motorbooks International. $55.       Tony Lewin chronicles BMW's transformation from near-bankruptcy to its current place as one of the premier manufacturers of high performance luxury cars.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzE0MGNjZDU0LTMwYWUtNTgwNi05MzA4LTg1ZTgwMmVhNzI3Mw==",
@@ -72963,8 +72963,8 @@
       }
     ],
     "description": "Fratricide -- the accidental killing of fellow soldiers in war -- is difficult to quantify.    Some of these events made headlines, as with the four Canadian soldiers serving in Afghanistan who were mistakenly bombed by an American pilot in 2002. And last week, the family of Cpl. Pat Tillman, the National Football League star and Army Ranger accidentally shot by a fellow soldier, expressed anger at the military for concealing the nature of his death in Afghanistan in April 2004.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzgzNDhmM2M2LTU5NDAtNTU3My1hNGNmLTQxODdlNjBiZTYxZA==",
@@ -72979,8 +72979,8 @@
       }
     ],
     "description": "Kuwait's Parliament granted full voting rights to women last week, a surprising reversal: two weeks earlier, a similar measure was defeated.    Women's suffrage has been entwined with other struggles. Canadian women won the right to vote in 1917 -- except for native Americans. They (and native men) were denied the vote until 1960. Likewise, Australia gave most women the vote in 1902, but its aboriginal population had to wait six more decades.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MwYmJmODhjLWY3ZmItNTkyYy05MzU2LWQ3YmQ2MTc5NmM4NA==",
@@ -72995,8 +72995,8 @@
       }
     ],
     "description": "TAX filers may be surprised this week to hear that they have it pretty good: their I.R.S.-mandated paperwork load is actually not so heavy. Not compared to the elderly of Wisconsin, Medicaid providers in Florida or immigrants, among others.    Consumer advocates and officials at the Office of Management and Budget, which oversees many federal forms, say that the Paperwork Reduction Act of 1995 improved many burdensome applications, especially those for children's aid. But other forms remain daunting, running many pages in length, with additional pages needed to explain it all.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q5ZGNiZWQ2LWYyYjQtNTMyNy05NmFlLTRlOWE1ZjQwZWE1Nw==",
@@ -73011,8 +73011,8 @@
       }
     ],
     "description": "HERE is an attempt to portray various philosophical and political factions under the Republicans' big tent, taking account of the many overlapping concerns that unite them. This is based on the views of various Republican sources, notably Frank Luntz, the Republican pollster, who himself is controversial within his party. Different analysts prefer their own classifications, so there will be a lot here to provoke discussion.   BILL MARSH  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzUyNTU2OTc0LTE2MDgtNTc1Ni05NGVmLTg0NjY3YjcwNWY0ZQ==",
@@ -73027,8 +73027,8 @@
       }
     ],
     "description": "Chart discusses New York Mets first baseman Doug Mientkiewicz, who team hopes will boost defense at position; chart; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzE1MTNjNTlkLWI4YmQtNWVlMC1iNWEyLTBkOTYzOWNjODE0NQ==",
@@ -73043,8 +73043,8 @@
       }
     ],
     "description": "Urgent efforts to shelter people homeless after catastrophes like Indian Ocean tsunami may lead to future disasters on even greater scale because of tendency to rebuild in same place and in same way; some of world's largest cities sit on faults and flood plains and entire regions are dotted with active volcanoes, their slopes crowded with farms and towns; photos, map, graph and table illustrating where billions of people live atop shifting earth and where millions of people have died over last century (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2UzMjNmMDAzLWE5Y2MtNWI2Ni05ZmM4LWU0ODVjMTI1MmZlYg==",
@@ -73059,8 +73059,8 @@
       }
     ],
     "description": "Article recalls 2004 in numbers; graphs; photos (M)ú",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzcwZjM2YzU2LWQ3YzItNWMwZC1iN2FhLWMwZGEwYjMxMGUxNA==",
@@ -73075,8 +73075,8 @@
       }
     ],
     "description": "Photo of US gymnast Paul Hamm's fall after being unable to hold landing after pommel horse vault; photo",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzVjZGI0NzM1LTVlNDktNWFlMy1iZTU5LWUyMmRkODNlNDMzZA==",
@@ -73091,8 +73091,8 @@
       }
     ],
     "description": "Erin Parsons-Wright, 23-year-old delegate from Michigan, as well as official of College Democrats of America, has hectic and exhausting first day at Democratic National Convention; time line shows her busy day; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2M2MmE2ZWNiLWMxMGYtNTkyZC04OThhLTkxMDQ5M2IyYWJhMQ==",
@@ -73107,8 +73107,8 @@
       }
     ],
     "description": "The International Olympic Committee announced last Monday that its board of directors had approved a proposal to allow transsexuals to compete in the Olympic Games.    The decision, which will be in effect for the Summer Games in Athens, covers both male-to-female and female-to-male athletes. Those who have undergone a sex change that has been legally recognized and who have had at least two years of hormone therapy after surgery will be eligible.  ",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzU0YzA2YzY5LTFhYzYtNTE3Yi05ZDc3LTE5NzcwMDFkYzc4MQ==",
@@ -73123,8 +73123,8 @@
       }
     ],
     "description": "Various methods of fueling earth while reducing greenhouse gas emissions are presented and divided into existing technologies and ones that would require extensive research and development to impact planet; wind, solar, hydroelectric and geothermal power along with increased energy efficiency are discussed; space-based solar and advanced nuclear power along with carbon dioxide sequestration detailed; suppositions are based on changes in how humans will power world by 2050; graphs, maps, drawings (L)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzVjYzZjNTUzLWJlMDMtNTJiNC05NTZjLTk1MzhjOWU2MWFiMA==",
@@ -73139,8 +73139,8 @@
       }
     ],
     "description": "Chart and diagrams analyze swings of New York Yankees designated hitter Jason Giambi and second baseman Alfonso Soriano, both of whom are experiencing hitting slumps this postseason; diagrams; chart; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzkyYjRjNzUyLTRiNjEtNTg2Ni05ZGNhLTY1ZGZmMGIwZmU4ZA==",
@@ -73155,8 +73155,8 @@
       }
     ],
     "description": "New York Jets defensive end John Abraham pleads not guilty to driving while intoxicated charge after crashing his car into guard rail in Baldwin, NY; apologizes to team, friends and family; photo (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJlM2I4ZWQzLTI3OTctNTM1MC05NzdhLTI4ZDViNDU1Y2ZmNg==",
@@ -73171,8 +73171,8 @@
       }
     ],
     "description": "Hoyt Wilhelm's 1958 feat in pitching no-hit game against New York Yankees recalled in light of Houston Astros having first no-hit game against Yankees since them; photo (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzI3MGViODY0LTljNjMtNTk0Ni04YzQyLWYyMWIxZTk4ZDFiOQ==",
@@ -73187,8 +73187,8 @@
       }
     ],
     "description": "Number of groups that used SARS as acronym before severe acute respiratory syndrome became worldwide threat noted; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Y1MTU3MjAzLWQwNGEtNTMwNS05YzBiLTZlYjc2YTUwN2ZkMw==",
@@ -73203,8 +73203,8 @@
       }
     ],
     "description": "People should see that they get enough vitamin D in winter months, when they are indoors most of time and may not get enough vitamin D from sun; map; photos; chart shows dietary sources for vitamin D (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JjYmQ3ZGNlLWJiYmQtNTZhZC1iMTFjLTU1NzVkYzdkNjg5Yg==",
@@ -73219,8 +73219,8 @@
       }
     ],
     "description": "Most American children still do not get enough calcium, nutrient vital for growth; diets have evolved away from milk and vegetables in favor of soft drinks and snack foods, leading experts to predict sharp increase in osteoporosis if trends continue; dairy products provide about 75 percent of calcium in food supply; charts show recommended daily calcium intake, and some foods rich in calcium; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzc4ZTc0NjFmLTczY2EtNTUwZS04Y2E0LWZkZjhlNjZkN2U3NQ==",
@@ -73235,8 +73235,8 @@
       }
     ],
     "description": "Income Dynamics produces booklet and software that provide suggested values for tax purposes of about 2,000 items that are commonly donated to charity; table (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2M5NGQ2ZmUwLTY4NzAtNWFmZS04M2YzLTc3Zjk2MmJiNzlhMw==",
@@ -73251,8 +73251,8 @@
       }
     ],
     "description": "Yield on series EE United States savings bond, currently 3.25 percent, attracts many investors recoiling from lower yields in other financial instruments and losses in stock market; graphs (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzEyOGRjMmRmLWQxMTAtNWI1Yy1hZmM2LTBlYzM0ZTg1ZWQwMg==",
@@ -73267,8 +73267,8 @@
       }
     ],
     "description": "Article describes sophisticated methods for timekeeping in automobile racing; photos; illustration shows how system works (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzg1Njg5MWU4LTVlMWMtNWFhYi1iOGU1LWNhY2FiNGFiYmQwMQ==",
@@ -73283,8 +73283,8 @@
       }
     ],
     "description": "Chart shows categories of fats that are good and bad for health; graphs; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QwODI2MjUyLTIwYTItNTUxZS05Nzg0LWZjNTNmNjcyYTRiNQ==",
@@ -73299,8 +73299,8 @@
       }
     ],
     "description": "Market researcher NPDTechworld predicts students returning to school will buy more portable computers and other portable digital electronic devices; graph (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q2ZDEzZTNkLTkxN2EtNTAzOC1iNDQ3LWFkZjc5NTI4MjljMA==",
@@ -73315,8 +73315,8 @@
       }
     ],
     "description": "Charts and diagrams display information about spacecraft from Earth: when they were launched, where they have gone, what they have discovered and where they are heading (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzkxN2MxZjYxLTZhMDEtNTQ3ZS05MWEyLWUzNDY1MjY1Y2FkZg==",
@@ -73331,8 +73331,8 @@
       }
     ],
     "description": "Pictures and chart analyze characterists of champion horse; photos; chart (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FmYTlhZGJmLTEzM2QtNTM3Ni05OTIwLWQxNDYyYjJlY2QxNw==",
@@ -73347,8 +73347,8 @@
       }
     ],
     "description": "Latest radio-controlled cars are smaller and more sophisticated, for older hobbyists; they include Formula One replicas, and many can reach speeds approaching 80 mph; community of RC hobbyists has sprung up; Radio-Operated Auto Racers, one of two sanctioning groups for RC racing, claims 5,000 racing members; diagrams (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzk1MDJkNGJiLWJhYWItNWQ2ZC04ZTE2LTkyYjExNjM0Njk0Mw==",
@@ -73363,8 +73363,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JmM2U5MzBmLWNiMTAtNTQ0Mi05ZGM4LTQxN2U1NGUwY2E4NA==",
@@ -73379,8 +73379,8 @@
       }
     ],
     "description": "Article describes process of resurfacing courts at USTA National Tennis Center in Flushing Meadows, New York, for United States Open tennis tournament; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1MjJkYWEyLTgyNTktNWJkNC1iNTQ1LTVmMGU0MmZhZWU5Zg==",
@@ -73395,8 +73395,8 @@
       }
     ],
     "description": "Article recalls 26 world championships won by New York Yankees; photo (L)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhiMzIxNTM4LWY5YjctNTI2ZC1hNzM2LTcwZmM5ZDNmYTUwZQ==",
@@ -73415,8 +73415,8 @@
       }
     ],
     "description": "Photos and descriptions of classic cars from each decade of twentieth century",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2EyMDQ5OGJiLTUxZjctNWIxYi1iMDQ3LTQyMmY1YmM3NTVhNg==",
@@ -73431,8 +73431,8 @@
       }
     ],
     "description": "Article compares Aleksandr Karelin, Russian Greco-Roman wrestler who had not lost match since 1987, to wrestlers of ancient games who had similar winning streaks until younger competitors wore them down; Karelin lost to Rulon Gardner of United States; photo (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2U2ODRjNzFiLWNiMGQtNWQ4My1iNDdmLWUzN2U5ZTcyNzJhNA==",
@@ -73447,8 +73447,8 @@
       }
     ],
     "description": "Ian Thorpe, young Australian, led charge of high-promise swimmers into Sydney Games; 15 world records were set in 32 events; photo (S)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzMzOTNiZTZmLTM4ZmQtNTY5MS1iYTIzLTI3MTViOTY3NDk5ZA==",
@@ -73463,8 +73463,8 @@
       }
     ],
     "description": "Perspective article by Bedel Saget interviews Andy Portilla, veteran tour caddie and former club professional, who provides window into life and work of PGA Tour caddie, in anticipation of upcoming PGA Championship at Valhalla Golf Club in Louisville, Ky; photos; map (L)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzU0ZWRhZGFlLTc5NTAtNTUxNC04MmQ0LWYwNTc4NjAzNzdjNQ==",
@@ -73474,8 +73474,8 @@
     "date": "2000-01-27T05:00:00.000Z",
     "credits": [],
     "description": "Sportvision's approach to virtual first-down line will be on display during ABC's broadcast of Super Bowl; photos, diagrams and detailed description of process (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQ3ZTliYWVhLTEzNWMtNThkMS1hZjMwLTI2NDY2MzNlMzRmYw==",
@@ -73490,8 +73490,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQxMGI4MjQ5LTIxZmEtNTBiMC05MDg1LTk4OWJhMjIzNzQyYg==",
@@ -73510,8 +73510,8 @@
       }
     ],
     "description": "Set of charts based on Bureau of Labor Statistics figures for 1997 shows salaries for highest- and lowest-paying occupations in US's largest cities and salaries in most common jobs; drawings (L)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzViN2M3NzJiLWNmYTEtNTNlMi1iN2VkLTliNmU3OWI5NTk2Yw==",
@@ -73526,8 +73526,8 @@
       }
     ],
     "description": "Figure-skating judges Joan Burns and Chuck Foster answer questions about Olympics scoring; photos (M)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzY5OGQzMWQxLWFkNTItNTk2Mi1iZTczLTZmZmVhMjk0YjY5OQ==",
@@ -73542,8 +73542,8 @@
       }
     ],
     "description": "Swings that golfers and baseball players use are strikingly similar, and Ken Griffey Jr and Tiger Woods have soared to top of their sports with swings that approach perfection; photos and diagrams showing components of swing in golf and baseball (L)",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q3ODE3NzNiLWY1MGUtNTFkYi1hODM0LTZmNzkzNjQwZDUyNg==",
@@ -73558,8 +73558,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzRiYmUwYzczLTY5M2MtNThlNC1hOGUzLTQ0OTFmMzUxYjgxYQ==",
@@ -73574,8 +73574,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzY5MzlhYTIyLTM3NDUtNTdjMS1iMWU0LTFlOWQxODY3MDA1ZQ==",
@@ -73590,8 +73590,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzEwZGVjYWMxLTYxODctNWU1ZC04ZmQxLWZlMWQzMmE2YjM2YQ==",
@@ -73606,8 +73606,8 @@
       }
     ],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQ0ZTczZTRlLTJkMjMtNTQ3NC04M2Q1LTA3YzZkZDFmMjk5Yw==",
@@ -73617,7 +73617,7 @@
     "date": "1942-02-06T05:00:00.000Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "No Image",
-    "img": "No Image"
+    "square_img": null,
+    "img": null
   }
 ]

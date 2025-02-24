@@ -32,7 +32,7 @@ function extractLabelUrl(articleUrl) {
 /**
  * Extracts og:image from article HTML using cheerio.
  */
-async function extractOGImage(articleUrl) {
+async function extractOGImage(articleUrl, square_img) {
     try {
         console.log(`🔍 Fetching OG image from: ${articleUrl}`);
 
@@ -46,7 +46,7 @@ async function extractOGImage(articleUrl) {
 
         if (!response.ok) {
             console.error(`❌ Failed to fetch OG image for ${articleUrl} (HTTP ${response.status})`);
-            return null;
+            return square_img;
         }
 
         const html = await response.text();
@@ -54,11 +54,11 @@ async function extractOGImage(articleUrl) {
 
         return $('meta[property="og:image"]').attr("content") ||
             $('meta[property="twitter:image"]').attr("content") ||
-            null;
+            square_img;
 
     } catch (error) {
         console.error(`❌ Failed to extract OG image for ${articleUrl}:`, error);
-        return null;
+        return square_img;
     }
 }
 
@@ -126,7 +126,7 @@ async function fetchNYTGraphics() {
             )[0] || "No Image";
 
             // 🔹 Fetch OG image
-            const img = await extractOGImage(url);
+            const img = await extractOGImage(url, square_img );
 
             return { id, headline, url, label, date, credits, description, square_img, img };
         });

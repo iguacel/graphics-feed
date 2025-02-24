@@ -1,12 +1,18 @@
 import fs from "fs";
 import path from "path";
 
-const nytFile = "api/nyt/nyt_graphics_full.json";
-const reutersFile = "api/reuters/reuters_graphics_feed.json";
-const wapoFile = "api/wp/wapo_graphics_feed.json";
+const sources = [
+    { file: "api/nyt/nyt_graphics_full.json", medium: "NYT" },
+    { file: "api/reuters/reuters_graphics_feed.json", medium: "Reuters" },
+    { file: "api/wp/wapo_graphics_feed.json", medium: "WP" },
+    { file: "api/bloomberg/bloomberg_graphics_feed.json", medium: "Bloomberg" }
+];
+
 const mergedFile = "api/merge/graphics_feed.json";
 
-// Helper function to read and parse JSON
+/**
+ * Reads and parses a JSON file.
+ */
 function readJsonFile(filePath) {
     if (!fs.existsSync(filePath)) {
         console.warn(`⚠️ Warning: File not found - ${filePath}`);
@@ -20,10 +26,12 @@ function readJsonFile(filePath) {
     }
 }
 
-// Filter function to keep only articles from the last 7 days
-function filterLastWeek(data, medium) {
-    const oneWeekAgo = new Date();
-    oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+/**
+ * Filters articles from the last month.
+ */
+function filterLastMonth(data, medium) {
+    const oneMonthAgo = new Date();
+    oneMonthAgo.setMonth(oneMonthAgo.getMonth() - 1);
 
     return data
         .map(entry => ({
@@ -31,21 +39,19 @@ function filterLastWeek(data, medium) {
             medium, // Add source identifier
             date: new Date(entry.date) // Convert to Date object for sorting
         }))
-        .filter(entry => entry.date >= oneWeekAgo);
+        .filter(entry => entry.date >= oneMonthAgo);
 }
 
-// Read and filter data
-const nytData = filterLastWeek(readJsonFile(nytFile), "NYT");
-const reutersData = filterLastWeek(readJsonFile(reutersFile), "Reuters");
-const wapoData = filterLastWeek(readJsonFile(wapoFile), "WP");
+// Read, filter, and merge data from all sources
+let mergedData = sources.flatMap(({ file, medium }) => filterLastMonth(readJsonFile(file), medium));
 
-// Merge and sort by date (newest first)
-const mergedData = [...nytData, ...reutersData, ...wapoData].sort((a, b) => b.date - a.date);
+// Sort by date (newest first)
+mergedData.sort((a, b) => b.date - a.date);
 
 // Convert dates back to ISO string format
 mergedData.forEach(entry => entry.date = entry.date.toISOString());
 
-// Save merged result
+// Save the merged result
 fs.mkdirSync(path.dirname(mergedFile), { recursive: true });
 fs.writeFileSync(mergedFile, JSON.stringify(mergedData, null, 2));
 

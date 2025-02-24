@@ -6,11 +6,10 @@
 <main>
 	<Header
 		siteTitle="Reuters graphics feed"
-		siteDescription="Articles from <a href='https://www.bloomberg.com/graphics' target='_blank' rel='noopener noreferrer'>Bloomberg Graphics</a>"
+		siteDescription="Articles from <a href='https://www.reuters.com/graphics/' target='_blank' rel='noopener noreferrer'>Reuters Graphics</a>"
 	/>
 	<List
-		url="https://raw.githubusercontent.com/iguacel/graphics-feed/main/api/bloomberg/bloomberg_graphics_feed.json"
-		media="bloomberg"
+		url="https://raw.githubusercontent.com/iguacel/graphics-feed/main/api/reuters/reuters_graphics_feed.json" media="reuters"
 	/>
 </main>
 

@@ -5,7 +5,8 @@ const sources = [
     { file: "api/nyt/nyt_graphics_full.json", medium: "NYT" },
     { file: "api/reuters/reuters_graphics_feed.json", medium: "Reuters" },
     { file: "api/wp/wapo_graphics_feed.json", medium: "WP" },
-    { file: "api/bloomberg/bloomberg_graphics_feed.json", medium: "Bloomberg" }
+    { file: "api/bloomberg/bloomberg_graphics_feed.json", medium: "Bloomberg" },
+    { file: "api/scmp/scmp_graphics_feed.json", medium: "SCMP" }
 ];
 
 const mergedFile = "api/merge/graphics_feed.json";

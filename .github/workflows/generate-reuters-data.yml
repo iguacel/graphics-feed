@@ -1,4 +1,4 @@
-name: Generate Reuters Data
+name: Data Reuters
 
 on:
   schedule:

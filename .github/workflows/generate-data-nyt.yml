@@ -1,4 +1,4 @@
-name: Generate NYT Data
+name: Data NYT
 
 on:
   schedule:

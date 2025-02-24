@@ -1,5 +1,93 @@
 [
   {
+    "id": "MLLORNLLCZHSJCDCJ624TMENRM",
+    "headline": "Gaza's garbage crisis",
+    "url": "https://www.reuters.com/world/israel-hamas/gazas-garbage-crisis-2025-02-24/",
+    "label": "https://www.reuters.com/world/",
+    "date": "2025-02-24T08:17:11.927Z",
+    "description": "More than a year of conflict has crippled the already limited waste collection infrastructure in Gaza. Hundreds of thousands of tons of solid waste has piled up in the streets.",
+    "credits": [
+      {
+        "name": "Jitesh Chowdhury",
+        "slug": "jitesh-chowdhury"
+      }
+    ],
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3BQRT2B5XFGX7E4MI2HNHYX5TE.png"
+  },
+  {
+    "id": "NFILZGEMMNBLNP5DJ65QNXJO5M",
+    "headline": "Live: German election results",
+    "url": "https://www.reuters.com/world/europe/live-german-election-results-2025-02-23/",
+    "label": "https://www.reuters.com/world/",
+    "date": "2025-02-23T07:40:04.182Z",
+    "description": "CDU/CSU look set to win, but far-right AfD are projected to have a strong night.",
+    "credits": [
+      {
+        "name": "Jon McClure",
+        "slug": "jon-mcclure"
+      },
+      {
+        "name": "Samuel Hart",
+        "slug": "samuel-hart"
+      },
+      {
+        "name": "Dea Bankova",
+        "slug": "dea-bankova"
+      },
+      {
+        "name": "Anurag Rao",
+        "slug": "anurag-rao"
+      },
+      {
+        "name": "Prasanta Dutta",
+        "slug": "prasanta-dutta"
+      }
+    ],
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6AICHGGV4FGDVKM3PCXMTAKV5Q.jpg"
+  },
+  {
+    "id": "JLYJWHGFARBIHO7FETIOUGWE6A",
+    "headline": "How Germany's economic strength became a weakness",
+    "url": "https://www.reuters.com/world/europe/how-germanys-economic-strength-became-weakness-2025-02-20/",
+    "label": "https://www.reuters.com/world/",
+    "date": "2025-02-20T08:31:56.158Z",
+    "description": "Germany's economic malaise has led some citizens to embrace populist parties, including on the far right. What does that mean for Sunday's election? And how did Germany arrive here?",
+    "credits": [
+      {
+        "name": "Maria Martinez",
+        "slug": "maria-martinez"
+      },
+      {
+        "name": "Dea Bankova",
+        "slug": "dea-bankova"
+      },
+      {
+        "name": "Anurag Rao",
+        "slug": "anurag-rao"
+      },
+      {
+        "name": "Prasanta Dutta",
+        "slug": "prasanta-dutta"
+      }
+    ],
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/USYKD5KXTJHKFKEOI7XBJIVVZ4.jpg"
+  },
+  {
+    "id": "DEQJPI5K7VGPDA3DHRSOU764YQ",
+    "headline": "German election: The latest polls",
+    "url": "https://www.reuters.com/world/europe/german-election-latest-polls-2025-02-14/",
+    "label": "https://www.reuters.com/world/",
+    "date": "2025-02-14T16:33:21.425Z",
+    "description": "Germany's snap national election follows the collapse of Chancellor Olaf Scholz's three-way coalition.",
+    "credits": [
+      {
+        "name": "Samuel Hart",
+        "slug": "samuel-hart"
+      }
+    ],
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/F67K7N3L6JFC7DSA3W6A4XKBKY.jpg"
+  },
+  {
     "id": "R2BUM4N7ZVELDKMGXKNVUWKS4U",
     "headline": "What makes Patrick Mahomes special?",
     "url": "https://www.reuters.com/sports/nfl/what-makes-patrick-mahomes-special-2025-02-07/",
@@ -577,6 +665,25 @@
       }
     ],
     "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/YT7AZRB6BNEHDAXADXHTUDUIFU.jpg"
+  },
+  {
+    "id": "P6QJLIS3CBDKTBDQTNKT2IMX6U",
+    "headline": "Rafael Nadal, saving one point at a time",
+    "url": "https://www.reuters.com/ar/sports/rafael-nadal-saving-one-point-time-2024-11-20/",
+    "label": "https://www.reuters.com/ar/",
+    "date": "2024-11-20T12:32:24.879Z",
+    "description": "The career of one of the greats of men’s tennis has been one of grit, determination and claycourt domination.",
+    "credits": [
+      {
+        "name": "Anand Katakam",
+        "slug": "anand-katakam"
+      },
+      {
+        "name": "Sumanta Sen",
+        "slug": "sumanta-sen"
+      }
+    ],
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DP5MXKVFYBCYVORWY2TTJFZJ6M.png"
   },
   {
     "id": "J2CBPO6WIBDAHKHPW46KDXKBY4",

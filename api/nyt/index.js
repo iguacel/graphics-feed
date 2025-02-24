@@ -123,7 +123,7 @@ async function fetchNYTGraphics() {
 
             const square_img = edge.node?.promotionalMedia?.crops?.flatMap(crop =>
                 crop.renditions?.map(r => r.url) || []
-            )[0] || "No Image";
+            )[0] || null;
 
             // 🔹 Fetch OG image
             const img = await extractOGImage(url, square_img );

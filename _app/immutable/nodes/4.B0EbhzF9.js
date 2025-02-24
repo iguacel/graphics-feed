@@ -1,4 +1,4 @@
-import{t as c,a as p}from"../chunks/GFEvi2bW.js";import"../chunks/Bmv_rN7v.js";import{l as o,r as t,m as d}from"../chunks/BRJUpaFT.js";import{s as i}from"../chunks/D5l_xSw9.js";import{b as l}from"../chunks/CBbthCbe.js";var h=c(`<code class="svelte-1li1x0m"><pre>
+import{t as p,a as i}from"../chunks/GFEvi2bW.js";import"../chunks/Bmv_rN7v.js";import{l as s,r as c,m as v}from"../chunks/BRJUpaFT.js";import{s as l}from"../chunks/D5l_xSw9.js";import{b as t}from"../chunks/DgViiJgn.js";var b=p(`<code class="svelte-1li1x0m"><pre>
     0000000                         000        0000000
   111111111      11111111100          000      111111111
   00000        111111111111111111      00000      000000
@@ -21,7 +21,7 @@ import{t as c,a as p}from"../chunks/GFEvi2bW.js";import"../chunks/Bmv_rN7v.js";i
   111111111        111111111111100000          111111111
     0000000              00000000              0000000
 
-</pre></code>`);function b(e){var a=h();p(e,a)}var u=c(`<code class="svelte-jp61u2"><pre>    ▄█▀                                     
+</pre></code>`);function u(e){var a=b();i(e,a)}var _=p(`<code class="svelte-jp61u2"><pre>    ▄█▀                                     
     ▄██                                      
    ████▄                                     
     █████   ▄█▄     ▄█▄      ▄█▄  ▐   ▄█▄    
@@ -41,4 +41,4 @@ import{t as c,a as p}from"../chunks/GFEvi2bW.js";import"../chunks/Bmv_rN7v.js";i
                              ████▀▐          
                              ██▀             
              ▀
-    </pre></code>`);function x(e){var a=u();p(e,a)}var _=c('<main class="svelte-1ib2yix"><div class="grid svelte-1ib2yix"><a class="placeholder"><!></a> <a class="placeholder"><!></a> <a class="placeholder"><h1 class="svelte-1ib2yix">Reuters</h1></a></div></main>');function N(e){var a=_(),v=o(a),r=o(v);i(r,"href",`${l??""}/wp`);var m=o(r);x(m),t(r);var s=d(r,2);i(s,"href",`${l??""}/nyt`);var n=o(s);b(n),t(s);var f=d(s,2);i(f,"href",`${l??""}/reuters`),t(v),t(a),p(e,a)}export{N as component};
+    </pre></code>`);function $(e){var a=_();i(e,a)}var g=p('<main class="svelte-1q0ockc"><div class="grid svelte-1q0ockc"><a class="placeholder"><!></a> <a class="placeholder"><!></a> <a class="placeholder"><h1 class="svelte-1q0ockc">Reuters</h1></a> <a class="placeholder"><h1 class="svelte-1q0ockc">Bloomberg</h1></a></div></main>');function y(e){var a=g(),d=s(a),r=s(d);l(r,"href",`${t??""}/wp`);var n=s(r);$(n),c(r);var o=v(r,2);l(o,"href",`${t??""}/nyt`);var h=s(o);u(h),c(o);var m=v(o,2);l(m,"href",`${t??""}/reuters`);var f=v(m,2);l(f,"href",`${t??""}/bloomberg`),c(d),c(a),i(e,a)}export{y as component};

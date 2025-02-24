@@ -1,6 +1,5 @@
 import fetch from "node-fetch";
 import fs from "fs";
-import * as cheerio from "cheerio";
 
 const limit = 99;
 const results = [];
@@ -31,31 +30,22 @@ function extractLabelUrl(articleUrl) {
 }
 
 /**
- * Extracts og:image from article HTML using cheerio.
+ * Generates OG image URL by:
+ * - Replacing 'square320' with 'facebookJumbo'
+ * - Removing '-v<number>' suffix from the filename
  */
-async function extractOGImage(articleUrl) {
-    try {
-        console.log(`🔍 Fetching OG image from: ${articleUrl}`);
+function generateOGImage(square_img) {
+    if (!square_img) return null;
 
-        const response = await fetch(articleUrl, { headers });
+    // Replace "square320" with "facebookJumbo"
+    let ogImage = square_img.replace("square320", "facebookJumbo");
 
-        if (!response.ok) {
-            console.error(`❌ Failed to fetch OG image for ${articleUrl} (HTTP ${response.status})`);
-            return null;
-        }
+    // Remove "-v<number>" at the end of the filename before the extension
+    ogImage = ogImage.replace(/-v\d+(?=\.\w{3,4}$)/, ""); 
 
-        const html = await response.text();
-        const $ = cheerio.load(html);
-
-        return $('meta[property="og:image"]').attr("content") ||
-            $('meta[property="twitter:image"]').attr("content") ||
-            null;
-
-    } catch (error) {
-        console.error(`❌ Failed to extract OG image for ${articleUrl}:`, error);
-        return null;
-    }
+    return ogImage;
 }
+
 
 /**
  * Fetch NYT graphics with pagination using a loop.
@@ -135,7 +125,7 @@ async function fetchNYTGraphicsLoop(cursor) {
                 )[0] || "No Image";
 
                 // 🔹 Fetch OG image
-                const img = await extractOGImage(url);
+                const img = await generateOGImage(square_img);
 
                 return { id, headline, url, label, date, credits, description, square_img, img };
             });

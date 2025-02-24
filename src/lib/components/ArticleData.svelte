@@ -13,9 +13,11 @@
 			{:else if data.medium === 'WP'}
 				<img class="wp medium" src="{base}/logos/wp.svg" alt="WP" />
 			{:else if data.medium === 'Reuters'}
-				<img class="reuters medium" src="{base}/logos/reuters.svg" alt="NYT" />
+				<img class="reuters medium" src="{base}/logos/reuters.svg" alt="Reuters" />
 			{:else if data.medium === 'Bloomberg'}
-				<img class="bloomberg medium" src="{base}/logos/bloomberg.svg" alt="NYT" />
+				<img class="bloomberg medium" src="{base}/logos/bloomberg.svg" alt="Bloomberg" />
+			{:else if data.medium === 'SCMP'}
+				<img class="scmp medium" src="{base}/logos/scmp.svg" alt="South China Morning Post" />
 			{:else}
 				<!-- else content here -->
 			{/if}

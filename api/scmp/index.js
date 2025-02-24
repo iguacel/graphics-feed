@@ -64,6 +64,19 @@ function formatCredits(creators) {
 }
 
 /**
+ * Converts date from `DD/MM/YYYY` to ISO 8601 (`YYYY-MM-DDTHH:mm:ss.sssZ`).
+ */
+function convertToISODate(dateStr) {
+    if (!dateStr || !/^\d{2}\/\d{2}\/\d{4}$/.test(dateStr)) {
+        console.warn(`⚠️ Invalid or missing date: ${dateStr}`);
+        return new Date().toISOString(); // Default to current date if invalid
+    }
+
+    const [day, month, year] = dateStr.split("/").map(Number);
+    return new Date(Date.UTC(year, month - 1, day, 0, 0, 0, 0)).toISOString();
+}
+
+/**
  * Processes SCMP graphics data.
  */
 function processSCMPData(data) {
@@ -72,7 +85,7 @@ function processSCMPData(data) {
         headline: entry.title || "Untitled",
         url: entry.url,
         label: extractLabel(entry.topic1),
-        date: entry.date, // Keep as string
+        date: convertToISODate(entry.date), // Convert to ISO format
         description: entry.desc || "No description available",
         credits: formatCredits([entry.creator1, entry.creator2, entry.creator3]),
         img: entry.imageurl || entry.coverimage || "No Image"

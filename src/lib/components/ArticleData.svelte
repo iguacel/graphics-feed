@@ -14,6 +14,8 @@
 				<img class="wp medium" src="{base}/logos/wp.svg" alt="WP" />
 			{:else if data.medium === 'Reuters'}
 				<img class="reuters medium" src="{base}/logos/reuters.svg" alt="NYT" />
+			{:else if data.medium === 'Bloomberg'}
+				<img class="bloomberg medium" src="{base}/logos/bloomberg.svg" alt="NYT" />
 			{:else}
 				<!-- else content here -->
 			{/if}

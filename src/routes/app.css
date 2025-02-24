@@ -7,6 +7,7 @@
 	--c-bg: light-dark(#ffffff, #111111);
 	--c-fg: light-dark(#111111, #fafafa);
 	--c-img-bg: light-dark(#e0e0e0, #242424);
+	--icon-border-color: light-dark(black, white);
 	--filter-medium: invert(1);
 }
 
@@ -55,17 +56,21 @@ a.author {
 	padding-bottom: -1px; /* Adjust offset */
 }
 
-:root[data-theme='light'] {
+/* Overrides for manual theme switching */
+body.light {
+	color-scheme: light;
 	--c-bg: #ffffff;
 	--c-fg: #111111;
 	--c-img-bg: #e0e0e0;
+	--icon-border-color: black;
 	--filter-medium: none;
 }
 
-:root[data-theme='dark'] {
+body.dark {
+	color-scheme: dark;
 	--c-bg: #111111;
 	--c-fg: #fafafa;
 	--c-img-bg: #242424;
+	--icon-border-color: white;
 	--filter-medium: invert(1);
 }
-

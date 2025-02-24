@@ -12,12 +12,11 @@
 		theme = value;
 		localStorage.setItem('theme', value);
 
-		if (value === 'light') {
-			document.documentElement.dataset.theme = 'light';
-		} else if (value === 'dark') {
-			document.documentElement.dataset.theme = 'dark';
-		} else {
-			document.documentElement.removeAttribute('data-theme');
+		console.log('theme', theme);
+		// Remove any previous class (light/dark)
+		document.body.classList.remove('light', 'dark');
+		if (value !== 'auto') {
+			document.body.classList.add(value);
 		}
 	}
 </script>
@@ -27,46 +26,32 @@
 </button>
 
 <style>
-/* Position the button at the top right */
-.theme-toggle {
-	position: fixed;
-	top: 1rem;
-	right: 1rem;
-	width: 40px;
-	height: 40px;
-	border: none;
-	background: transparent;
-	cursor: pointer;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	opacity: 0.9;
-	z-index: 1;
-}
+	/* Theme Toggle Button */
+	.theme-toggle {
+		position: fixed;
+		top: 1rem;
+		right: 1rem;
+		width: 40px;
+		height: 40px;
+		border: none;
+		background: transparent;
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		opacity: 0.9;
+		z-index: 10;
+		outline: none;
+		box-shadow: none;
+		-webkit-tap-highlight-color: transparent;
+	}
 
-/* Contrast icon: A sphere split into two halves */
-.contrast-icon {
-	width: 24px;
-	height: 24px;
-	border-radius: 50%;
-	background: linear-gradient(to right, black 50%, white 50%);
-	border: 2px solid var(--icon-border-color);
-}
-
-/* Light Mode: Black border */
-:root {
-	--icon-border-color: black;
-}
-
-/* Dark Mode: White border */
-:root[data-theme='dark'] {
-	--icon-border-color: white;
-}
-
-.theme-toggle {
-    outline: none;
-    box-shadow: none;
-    -webkit-tap-highlight-color: transparent;
-}
-
+	/* Contrast Icon */
+	.contrast-icon {
+		width: 24px;
+		height: 24px;
+		border-radius: 50%;
+		background: linear-gradient(to right, black 50%, white 50%);
+		border: 2px solid var(--icon-border-color);
+	}
 </style>

@@ -61,7 +61,7 @@
 	}
 
 	.medium {
-		filter: invert(1); /* Example: invert colors */
+		filter: var(--filter-medium, invert(1)); /* Default to invert(1) */
 		width: 16px;
 		height: 16px;
 	}

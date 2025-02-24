@@ -36,13 +36,7 @@ async function extractOGImage(articleUrl) {
     try {
         console.log(`🔍 Fetching OG image from: ${articleUrl}`);
 
-        const response = await fetch(articleUrl, {
-            headers: {
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-                "Referer": "https://www.nytimes.com/",
-                "Accept-Language": "en-US,en;q=0.9",
-            }
-        });
+        const response = await fetch(articleUrl, { headers });
 
         if (!response.ok) {
             console.error(`❌ Failed to fetch OG image for ${articleUrl} (HTTP ${response.status})`);

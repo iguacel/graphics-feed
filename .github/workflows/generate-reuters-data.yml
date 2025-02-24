@@ -34,7 +34,7 @@ jobs:
           git add api/wp/wapo_graphics_feed.json
           if [[ `git status --porcelain` ]]; then
             echo "OK: Changes detected."
-            git commit -m "gh-action get wapo data: $(date -u)"
+            git commit -m "gh-action get reuters data: $(date -u)"
             git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/iguacel/graphics-feed.git main
           else
             echo "No changes were detected."

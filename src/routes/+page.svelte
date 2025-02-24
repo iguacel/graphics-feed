@@ -1,22 +1,16 @@
 <script>
-	import { base } from '$app/paths';
-	import NYT from '$lib/components/NYT.svelte';
-	import WP from '$lib/components/WP.svelte';
-
+	import List from '$lib/components/List.svelte';
+	import Header from '$lib/components/Header.svelte';
 </script>
 
 <main>
-	<div class="grid">
-		<a href="{base}/wp" class="placeholder">
-			<WP/>
-		</a>
-		<a href="{base}/nyt" class="placeholder">
-			<NYT/>
-		</a>
-		<a href="{base}/reuters" class="placeholder">
-			<h1>Reuters</h1>
-		</a>
-	</div>
+	<Header
+		siteTitle="Graphics feed"
+		siteDescription="Last month"
+	/>
+	<List
+		url="https://raw.githubusercontent.com/iguacel/graphics-feed/main/api/merge/graphics_feed.json" media=""
+	/>
 </main>
 
 <style>
@@ -25,24 +19,6 @@
 		color: var(--c-fg);
 		padding: 1em;
 		max-width: 1600px;
-		height: 100vh;
-		display: flex;
-	}
-
-	.grid {
-		display: grid;
-		grid-template-rows: 1fr 1fr 1fr;
-		gap: 1em;
-		align-items: center;
-		width: 100%;
-		height: 1;
-	}
-
-	h1 {
-		font-family: 'Tiny5', serif;
-		font-size: 4.5rem;
-		opacity: 0.8;
-		text-align: center;
 	}
 
 	@media (min-width: 800px) {

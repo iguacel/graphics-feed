@@ -69,18 +69,3 @@ a.author {
 	--filter-medium: invert(1);
 }
 
-
-/* Prevent outline */
-
-*:focus {
-	outline: none;
-  }
-  
-
-  *:focus-visible {
-	outline: none;
-  }
-  
-  *:focus:-moz-focusring {
-	outline: none;
-  }

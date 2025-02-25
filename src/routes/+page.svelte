@@ -6,7 +6,7 @@
 <main>
 	<Header
 		siteTitle="Graphics feed"
-		siteDescription="Latest graphics from the past month by <a href='https://www.nytimes.com/spotlight/graphics' target='_blank' rel='noopener noreferrer'>NYT</a>, <a href='https://www.washingtonpost.com/' target='_blank' rel='noopener noreferrer'>The Washington Post</a>, <a href='https://www.bloomberg.com/graphics' target='_blank' rel='noopener noreferrer'>Bloomberg</a>, <a href='https://www.reuters.com/graphics/' target='_blank' rel='noopener noreferrer'>Reuters</a> and <a href='https://www.scmp.com/infographic/' target='_blank' rel='noopener noreferrer'>SCMP</a>."
+		siteDescription="Latest graphics from the past month by <a href='https://www.nytimes.com/spotlight/graphics' target='_blank' rel='noopener noreferrer'>NYT</a>, <a href='https://www.washingtonpost.com/' target='_blank' rel='noopener noreferrer'>WP</a>, <a href='https://www.bloomberg.com/graphics' target='_blank' rel='noopener noreferrer'>Bloomberg</a>, <a href='https://www.reuters.com/graphics/' target='_blank' rel='noopener noreferrer'>Reuters</a> and <a href='https://www.scmp.com/infographic/' target='_blank' rel='noopener noreferrer'>SCMP</a>."
 	/>
 	<List
 		url="https://raw.githubusercontent.com/iguacel/graphics-feed/main/api/merge/graphics_feed.json" media=""

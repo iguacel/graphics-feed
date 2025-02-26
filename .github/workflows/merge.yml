@@ -24,8 +24,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate Data
-        run: node api/reuters/index.js
+      - name: Merge Data
+        run: node api/merge/index.js
 
       - name: Commit files
         run: |

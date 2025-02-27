@@ -1,5 +1,59 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzYzY2E4NDctN2ExMC01MGNjLWI4ZWQtMzIwYzBkOWNhNWVk",
+    "headline": "The People Carrying Out Musk’s Plans at DOGE",
+    "url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-02-27T10:03:56.000Z",
+    "credits": [
+      {
+        "name": "The New York Times",
+        "slug": "the-new-york-times"
+      }
+    ],
+    "description": "The Times identified 45 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies.",
+    "square_img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-square320-v10.png",
+    "img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-facebookJumbo-v10.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "VmlkZW86bnl0Oi8vdmlkZW8vN2Q0ZTM0MDMtNTRkOC01MTMyLWIxMGEtMzc4MDJmMTY1MWQ4",
+    "headline": "The Organ Transplant List Is Being Ignored",
+    "url": "https://www.nytimes.com/video/health/100000010008813/the-organ-transplant-list-is-being-ignored.html",
+    "label": "https://www.nytimes.com/video/",
+    "date": "2025-02-27T10:02:19.240Z",
+    "credits": [
+      {
+        "name": "Brian Rosenthal",
+        "slug": "brian-rosenthal"
+      },
+      {
+        "name": "Christina Shaman",
+        "slug": "christina-shaman"
+      },
+      {
+        "name": "Christina Thornell",
+        "slug": "christina-thornell"
+      },
+      {
+        "name": "Laura Salaberry",
+        "slug": "laura-salaberry"
+      },
+      {
+        "name": "James Surdam",
+        "slug": "james-surdam"
+      },
+      {
+        "name": "Jeremy White",
+        "slug": "jeremy-white"
+      }
+    ],
+    "description": "Organ transplant waiting lists are designed to fairly distribute organs to the sickest patients in order of priority. Or so we thought. A New York Times investigation shows that the list leaves many patients waiting for organs despite being next in line. Brian Rosenthal, a New York Times reporter, explains how this list became so unreliable.",
+    "square_img": "https://static01.nyt.com/images/2025/02/27/autossell/THUMBNAIL/THUMBNAIL-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/02/27/autossell/THUMBNAIL/THUMBNAIL-facebookJumbo.jpg?video-overlay",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjAxNTA1ZWUtNDI0My01ZDhhLWFiMDktZmJhZWVhM2M4YWFi",
     "headline": "Organ Transplant System ‘in Chaos’ as Waiting Lists Are Ignored",
     "url": "https://www.nytimes.com/interactive/2025/02/26/us/organ-transplants-waiting-list-skipped-patients.html",
@@ -2598,29 +2652,5 @@
       "url": "https://www.washingtonpost.com/economy/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "JABSISA6NJFIFMMKOJRMFMCUCE",
-    "headline": "Cozy video games can quell stress and anxiety",
-    "url": "https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/",
-    "label": "https://www.reuters.com/business/",
-    "date": "2025-01-27T10:25:24.616Z",
-    "description": "New research backs up what gamers have thought for years: cozy video games can be an antidote to stress and anxiety.",
-    "credits": [
-      {
-        "name": "Tiana McGee",
-        "slug": "tiana-mcgee"
-      },
-      {
-        "name": "Daisy Chung",
-        "slug": "daisy-chung"
-      },
-      {
-        "name": "Dea Bankova",
-        "slug": "dea-bankova"
-      }
-    ],
-    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4HGG7USYSFHQXOR6GL3G3YEJ6Y.png",
-    "medium": "Reuters"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMWUyODRkNDItMGYyZi01ODE0LWEzZDMtYWQ3ZmU4YTFmNGEx",
+    "headline": "More than 70 Million Americans Are on Medicaid. This Is Where They Live.",
+    "url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/medicaid-enrollment.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-02-28T02:28:13.000Z",
+    "credits": [
+      {
+        "name": "Sarah Kliff",
+        "slug": "sarah-kliff"
+      },
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      }
+    ],
+    "description": "As Republicans weigh deep cuts, these congressional districts — some red, some blue — have the most to lose.",
+    "square_img": "https://static01.nyt.com/images/2025/02/27/multimedia/2025-02-25-medicaid-enrollment-index/2025-02-25-medicaid-enrollment-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/02/27/multimedia/2025-02-25-medicaid-enrollment-index/2025-02-25-medicaid-enrollment-index-facebookJumbo-v4.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzYzY2E4NDctN2ExMC01MGNjLWI4ZWQtMzIwYzBkOWNhNWVk",
     "headline": "The People Carrying Out Musk’s Plans at DOGE",
     "url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html",
@@ -11,9 +31,9 @@
         "slug": "the-new-york-times"
       }
     ],
-    "description": "The Times identified 45 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies.",
-    "square_img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-square320-v10.png",
-    "img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-facebookJumbo-v10.png"
+    "description": "The Times identified 49 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies.",
+    "square_img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-square320-v12.png",
+    "img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-facebookJumbo-v11.png"
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vN2Q0ZTM0MDMtNTRkOC01MTMyLWIxMGEtMzc4MDJmMTY1MWQ4",

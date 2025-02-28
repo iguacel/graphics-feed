@@ -1,7 +1,39 @@
 [
   {
+    "id": "SSEC8ADWLU6800",
+    "headline": "DOGE Risks a New $5 Billion Headache for Struggling US Landlords",
+    "url": "https://www.bloomberg.com/news/features/2025-02-28/doge-government-cuts-target-federal-real-estate-deals?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/news/",
+    "date": "2025-02-28T14:00:10.299Z",
+    "description": "The Trump administration is rapidly cutting office leases, adding space to an already strained commercial real estate market.",
+    "credits": [
+      {
+        "name": "Ann Choi",
+        "slug": "ann-choi"
+      },
+      {
+        "name": "Natalie Wong",
+        "slug": "natalie-wong"
+      },
+      {
+        "name": "Dina Katgara",
+        "slug": "dina-katgara"
+      },
+      {
+        "name": "Demetrios Pogkas",
+        "slug": "demetrios-pogkas"
+      },
+      {
+        "name": "Marie Patino",
+        "slug": "marie-patino"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifizJ9l6ODsQ/v1/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMWUyODRkNDItMGYyZi01ODE0LWEzZDMtYWQ3ZmU4YTFmNGEx",
-    "headline": "More than 70 Million Americans Are on Medicaid. This Is Where They Live.",
+    "headline": "More Than 70 Million Americans Are on Medicaid. This Is Where They Live.",
     "url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/medicaid-enrollment.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-02-28T02:28:13.000Z",
@@ -19,6 +51,26 @@
     "square_img": "https://static01.nyt.com/images/2025/02/27/multimedia/2025-02-25-medicaid-enrollment-index/2025-02-25-medicaid-enrollment-index-square320-v4.jpg",
     "img": "https://static01.nyt.com/images/2025/02/27/multimedia/2025-02-25-medicaid-enrollment-index/2025-02-25-medicaid-enrollment-index-facebookJumbo-v4.jpg",
     "medium": "NYT"
+  },
+  {
+    "id": "7muPEL5XVx",
+    "headline": "Kai Tak Stadium: a game-changer for Hong Kong",
+    "url": "https://multimedia.scmp.com/infographics/sport/article/3300482/kai-tak-sports-park/index.html",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2025-02-28T00:00:00.000Z",
+    "description": "It’s finally showtime for Kai Tak Stadium, the centrepiece of Hong Kong’s new HK$30 billion (US$3.85 billion) Kai Tak Sports Park. Almost six years in the making, the 50,000-seat stadium was built to boost Hong Kong as a global stop for sports, entertainment and other mega-events.",
+    "credits": [
+      {
+        "name": "Kuen Lau",
+        "slug": "kuen-lau"
+      },
+      {
+        "name": "Marcelo Duhalde",
+        "slug": "marcelo-duhalde"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/sport/article/3300482/kai-tak-sports-park/img/cover.jpg",
+    "medium": "SCMP"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzYzY2E4NDctN2ExMC01MGNjLWI4ZWQtMzIwYzBkOWNhNWVk",
@@ -2544,44 +2596,5 @@
     "square_img": "https://static01.nyt.com/images/2025/01/28/multimedia/2025-01-23-gop-budget-cuts-list-index/2025-01-23-gop-budget-cuts-list-index-square320-v2.png",
     "img": "https://static01.nyt.com/images/2025/01/28/multimedia/2025-01-23-gop-budget-cuts-list-index/2025-01-23-gop-budget-cuts-list-index-facebookJumbo.png",
     "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNkNTRhODdmLTI3ODYtNTkwMi1hZGM0LWUxYmI5MzIzN2I0YQ==",
-    "headline": "La Oficina Presupuestaria de la Casa Blanca ordena pausar todos los préstamos y subvenciones federales",
-    "url": "https://www.nytimes.com/es/2025/01/28/espanol/estados-unidos/casa-blanca-pausa-prestamos-subvenciones-federales.html",
-    "label": "https://www.nytimes.com/es/",
-    "date": "2025-01-28T18:22:28.000Z",
-    "credits": [
-      {
-        "name": "Chris Cameron",
-        "slug": "chris-cameron"
-      }
-    ],
-    "description": "La directiva amenaza a diversos programas federales en EE. UU.: subvenciones a gobiernos estatales, locales y tribales, ayuda para catástrofes, financiación de la educación y el transporte, préstamos a pequeñas empresas.",
-    "square_img": "https://static01.nyt.com/images/2025/01/27/multimedia/27trump-news-federal-grants-halted/27trump-news-federal-grants-halted-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/01/27/multimedia/27trump-news-federal-grants-halted/27trump-news-federal-grants-halted-square320.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "IDRYFAKH7VDOJCRXZMWPPARASE",
-    "headline": "RFK Jr. disparaged vaccines dozens of times in recent years and made baseless claims on race",
-    "description": "A Post examination of Robert F. Kennedy Jr.’s statements finds the candidate for the nation’s top health post has repeatedly disparaged vaccines, linking them to autism.",
-    "url": "https://www.washingtonpost.com/health/2025/01/28/rfk-jr-disparaged-vaccines-dozens-times-recent-years-misled-race/",
-    "credits": [
-      {
-        "name": "Lauren Weber",
-        "slug": "lauren-weber"
-      },
-      {
-        "name": "Caitlin Gilbert",
-        "slug": "caitlin-gilbert"
-      }
-    ],
-    "date": "2025-01-28T15:00:59.384Z",
-    "img": "https://www.washingtonpost.com/resizer/tex3THCxOo8CRGP-M_ioVZFmAc0=/300x0/arc-anglerfish-washpost-prod-washpost/public/REU5MBLDLZH3FBKLPREPY2V75I.jpg",
-    "label": {
-      "url": ""
-    },
-    "medium": "WP"
   }
 ]

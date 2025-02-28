@@ -1,5 +1,26 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMWUyODRkNDItMGYyZi01ODE0LWEzZDMtYWQ3ZmU4YTFmNGEx",
+    "headline": "More than 70 Million Americans Are on Medicaid. This Is Where They Live.",
+    "url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/medicaid-enrollment.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-02-28T02:28:13.000Z",
+    "credits": [
+      {
+        "name": "Sarah Kliff",
+        "slug": "sarah-kliff"
+      },
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      }
+    ],
+    "description": "As Republicans weigh deep cuts, these congressional districts — some red, some blue — have the most to lose.",
+    "square_img": "https://static01.nyt.com/images/2025/02/27/multimedia/2025-02-25-medicaid-enrollment-index/2025-02-25-medicaid-enrollment-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/02/27/multimedia/2025-02-25-medicaid-enrollment-index/2025-02-25-medicaid-enrollment-index-facebookJumbo-v4.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzYzY2E4NDctN2ExMC01MGNjLWI4ZWQtMzIwYzBkOWNhNWVk",
     "headline": "The People Carrying Out Musk’s Plans at DOGE",
     "url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html",
@@ -11,9 +32,9 @@
         "slug": "the-new-york-times"
       }
     ],
-    "description": "The Times identified 45 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies.",
-    "square_img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-square320-v10.png",
-    "img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-facebookJumbo-v10.png",
+    "description": "The Times identified 49 people within the so-called Department of Government Efficiency, a group formed by Elon Musk that in a short few weeks has radically upended federal agencies.",
+    "square_img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-square320-v12.png",
+    "img": "https://static01.nyt.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-facebookJumbo-v11.png",
     "medium": "NYT"
   },
   {
@@ -2560,74 +2581,6 @@
     "img": "https://www.washingtonpost.com/resizer/tex3THCxOo8CRGP-M_ioVZFmAc0=/300x0/arc-anglerfish-washpost-prod-washpost/public/REU5MBLDLZH3FBKLPREPY2V75I.jpg",
     "label": {
       "url": ""
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzU2NDA0ZTY5LWEwYmUtNWFmNC05MGI5LTM5OTQ0ZTc3NWY3Mw==",
-    "headline": "White House Budget Office Orders Pause in All Federal Loans and Grants",
-    "url": "https://www.nytimes.com/2025/01/27/us/politics/white-house-pauses-federal-grants.html",
-    "label": "https://www.nytimes.com/us/",
-    "date": "2025-01-28T04:47:16.000Z",
-    "credits": [
-      {
-        "name": "Chris Cameron",
-        "slug": "chris-cameron"
-      }
-    ],
-    "description": "The full extent of the order was not immediately clear, but the directive sent to government agencies on Monday threatened to paralyze a vast swath of federal programs.",
-    "square_img": "https://static01.nyt.com/images/2025/01/27/multimedia/27trump-news-federal-grants-halted/27trump-news-federal-grants-halted-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/01/27/multimedia/27trump-news-federal-grants-halted/27trump-news-federal-grants-halted-square320.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDBlODYyZjAtZDdkMi01NmIxLWI2NzktMTEwMjQwZmYzNDI1",
-    "headline": "How Each Senator Voted on Confirming Scott Bessent as Treasury Secretary",
-    "url": "https://www.nytimes.com/interactive/2025/01/27/us/politics/bessent-senate-confirmation-vote.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-01-28T00:55:18.896Z",
-    "credits": [
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      },
-      {
-        "name": "Jasmine C. Lee",
-        "slug": "jasmine-c-lee"
-      },
-      {
-        "name": "Lily Boyce",
-        "slug": "lily-boyce"
-      }
-    ],
-    "description": "The Senate voted 68 to 29 to confirm Mr. Bessent, a billionaire hedge fund manager, as the next Treasury secretary.",
-    "square_img": "https://static01.nyt.com/images/2025/01/27/us/politics/bessent-senate-confirmation-vote-1738021967980/bessent-senate-confirmation-vote-1738021967980-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/01/27/us/politics/bessent-senate-confirmation-vote-1738021967980/bessent-senate-confirmation-vote-1738021967980-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "4JB5CM52WFFL3IOLAVGI3MVCKE",
-    "headline": "Countries refusing deportees could hinder Trump’s immigration plans",
-    "description": "Among the obstacles for Trump’s mass deportation campaign are the countries refusing to take back their undocumented migrants. ",
-    "url": "https://www.washingtonpost.com/world/2025/01/27/trump-deportees-venezuela-china-india-cuba/",
-    "credits": [
-      {
-        "name": "Maham Javaid",
-        "slug": "maham-javaid"
-      },
-      {
-        "name": "Adrián Blanco Ramos",
-        "slug": "adrian-blanco"
-      }
-    ],
-    "date": "2025-01-27T22:23:36.249Z",
-    "img": "https://www.washingtonpost.com/resizer/1xt28Q7zebx-hU6uWnkZ86WRSSs=/300x0/arc-anglerfish-washpost-prod-washpost/public/GXNRFQREHRXO7EXKZC7EQQWNNM.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/world/americas/"
     },
     "medium": "WP"
   }

@@ -1,5 +1,44 @@
 [
   {
+    "id": "GG7R57KTX5GOLHBG55ZYO2Y34E",
+    "headline": "Here’s what could get more expensive if Trump goes through with tariffs",
+    "description": "Tomatoes, T-shirts and cars are among the vast array of goods that could become pricier with new tariffs imposed by President Donald Trump.",
+    "url": "https://www.washingtonpost.com/business/2025/03/03/trump-tariffs-mexico-canada-prices/",
+    "credits": [
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      }
+    ],
+    "date": "2025-03-03T18:01:05.704Z",
+    "img": "https://www.washingtonpost.com/resizer/2CYRinHtZXBdth6nGJfnWCMtKuY=/300x0/arc-anglerfish-washpost-prod-washpost/public/P5MP2B6SVRC6ROWCKC4OU4GYJQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/economy/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYWZkNTliMmYtNjJiNC01Nzc1LThjZjItNmRjODQ3YzZiMmE1",
+    "headline": "10-Minute Challenge: A ‘Decisive Moment’ in Street Photography",
+    "url": "https://www.nytimes.com/interactive/2025/03/03/upshot/ten-minute-challenge-photo.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-03T10:01:48.000Z",
+    "credits": [
+      {
+        "name": "Larry Buchanan",
+        "slug": "larry-buchanan"
+      }
+    ],
+    "description": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
+    "square_img": "https://static01.nyt.com/images/2025/02/20/upshot/2025-02-20-ten-minute-challenge-photo-1740596412136/2025-02-20-ten-minute-challenge-photo-1740596412136-square320-v2.jpg",
+    "img": "https://static01.nyt.com/images/2025/02/20/upshot/2025-02-20-ten-minute-challenge-photo-1740596412136/2025-02-20-ten-minute-challenge-photo-1740596412136-facebookJumbo-v2.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "3Y7HAF2ONVBBNHFAQG5XEAJX3I",
     "headline": "The list of 2025 Oscar winners",
     "description": "“Anora” dominated the Academy Awards, where Adrien Brody and Mikey Madison took home the top acting prizes.",

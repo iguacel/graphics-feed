@@ -1,5 +1,26 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTZiMTAxOGItMTUwYS01MWNkLTgyMDItN2NiMGUwMDVkYjQ3",
+    "headline": "How Each Senator Voted to Confirm Linda McMahon as Education Secretary",
+    "url": "https://www.nytimes.com/interactive/2025/03/03/us/politics/mcmahon-senate-confirmation-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-03T23:54:34.000Z",
+    "credits": [
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      }
+    ],
+    "description": "The Senate confirmed Ms. McMahon to lead the Education Department by a party-line vote of 51 to 45.",
+    "square_img": "https://static01.nyt.com/images/2025/03/03/us/politics/mcmahon-senate-confirmation-vote-1741026739572/mcmahon-senate-confirmation-vote-1741026739572-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/03/us/politics/mcmahon-senate-confirmation-vote-1741026739572/mcmahon-senate-confirmation-vote-1741026739572-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "GG7R57KTX5GOLHBG55ZYO2Y34E",
     "headline": "Here’s what could get more expensive if Trump goes through with tariffs",
     "description": "Tomatoes, T-shirts and cars are among the vast array of goods that could become pricier with new tariffs imposed by President Donald Trump.",
@@ -2026,53 +2047,5 @@
     "square_img": "https://static01.nyt.com/images/2025/02/03/multimedia/2025-01-28-state-of-the-nation-index/2025-01-28-state-of-the-nation-index-square320-v6.png",
     "img": "https://static01.nyt.com/images/2025/02/03/multimedia/2025-01-28-state-of-the-nation-index/2025-01-28-state-of-the-nation-index-square320-v6.png",
     "medium": "NYT"
-  },
-  {
-    "id": "72RRUNTVINBBPNEQU7HW7R53PU",
-    "headline": "How each senator voted on Chris Wright for energy secretary",
-    "description": "The Senate confirmed Chris Wright, the head of a fracking company, as energy secretary in a 59-38 vote.",
-    "url": "https://www.washingtonpost.com/politics/interactive/2025/chris-wright-senate-vote-count-confirmation-energy-department/",
-    "credits": [
-      {
-        "name": "Kati Perry",
-        "slug": "kati-perry"
-      },
-      {
-        "name": "Szu Yu  Chen",
-        "slug": "szuyu-chen"
-      }
-    ],
-    "date": "2025-02-04T00:45:23.994Z",
-    "img": "https://www.washingtonpost.com/resizer/zpywixuyIbXs0tfOHESi4J7FLf4=/300x0/arc-anglerfish-washpost-prod-washpost/public/PXILBXX2S5FBVBZKXJZ4HKVUGA.png",
-    "label": {
-      "url": "https://www.washingtonpost.com/politics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "NPCZNG2OYJC7HEL4475HHV5YRU",
-    "headline": "Democrats seek answers on FBI, Justice Dept. ousters, say purge may expand",
-    "description": "The Justice Department and FBI have removed senior leaders and prosecutors and are reviewing agents’ work. Experts say some removals could violated due process.",
-    "url": "https://www.washingtonpost.com/national-security/2025/02/03/fbi-justice-firings-removals-due-process/",
-    "credits": [
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      },
-      {
-        "name": "Perry Stein",
-        "slug": "perry-stein"
-      },
-      {
-        "name": "Jeremy Roebuck",
-        "slug": "jeremy-roebuck"
-      }
-    ],
-    "date": "2025-02-03T20:41:56.910Z",
-    "img": "https://www.washingtonpost.com/resizer/C-jmyJJMYM92ssXHyPeX9DTXxhs=/300x0/arc-anglerfish-washpost-prod-washpost/public/GABTIVQABDJA42FAJSDJJZCOMM.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/justice/"
-    },
-    "medium": "WP"
   }
 ]

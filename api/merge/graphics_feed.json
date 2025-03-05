@@ -1,5 +1,101 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzA0YzVkZDYxLTYxZGItNTc4ZC05NTU4LWE3ZmQ3ZjM3YTE4MA==",
+    "headline": "Frustration Grows Inside the White House Over Pace of Deportations",
+    "url": "https://www.nytimes.com/2025/03/05/us/politics/trump-immigration-deportations-arrests.html",
+    "label": "https://www.nytimes.com/us/",
+    "date": "2025-03-05T16:00:09.000Z",
+    "credits": [
+      {
+        "name": "Hamed Aleaziz",
+        "slug": "hamed-aleaziz"
+      },
+      {
+        "name": "Zolan Kanno-Youngs",
+        "slug": "zolan-kanno-youngs"
+      }
+    ],
+    "description": "President Trump’s promise to launch the largest deportation operation in U.S. history is colliding with the practical difficulties of detaining people and transporting them across the globe.",
+    "square_img": "https://static01.nyt.com/images/2025/03/04/multimedia/04DC-IMMIG-jlzb/04DC-IMMIG-jlzb-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/04/multimedia/04DC-IMMIG-jlzb/04DC-IMMIG-jlzb-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "SSNLGXDWLU6800",
+    "headline": "Satellite Imagery Shows Gaza's Destruction, and Resilience, With War Unresolved",
+    "url": "https://www.bloomberg.com/graphics/2025-gaza-damage-assessment/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-03-05T13:58:10.012Z",
+    "description": "With 40% of structures still intact, Gazans have repopulated major cities with tents and tarpaulins.",
+    "credits": [
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Jason Kao",
+        "slug": "jason-kao"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      },
+      {
+        "name": "Rachel Lavin",
+        "slug": "rachel-lavin"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEmqNTKQEF6c/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzgzYjI0ZTM3LTM2NWYtNTIxNy05ZDU1LTY2MzE5M2U2Mjg4Zg==",
+    "headline": "How Soon Could Ukraine’s Forces ‘Start to Buckle’ Without U.S. Weapons?",
+    "url": "https://www.nytimes.com/2025/03/05/world/americas/ukraine-us-weapons-suspension.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-03-05T10:04:40.000Z",
+    "credits": [
+      {
+        "name": "Lara Jakes",
+        "slug": "lara-jakes"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      }
+    ],
+    "description": "It could be as little as four months, say analysts, as Europe scrambles to plug the hole in support left by President Trump’s suspension of military aid.",
+    "square_img": "https://static01.nyt.com/images/2025/03/04/multimedia/2025-03-04-ukraine-aid-treemap-static-index/2025-03-04-ukraine-aid-treemap-static-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/03/04/multimedia/2025-03-04-ukraine-aid-treemap-static-index/2025-03-04-ukraine-aid-treemap-static-index-facebookJumbo-v3.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "JKGXMXSZMFHIFFQEIXTYUEFBLE",
+    "headline": "You’ve never heard that in a presidential address to Congress before",
+    "description": "Trump used more than two dozen words Tuesday night that had never been spoken in a State of the Union or similar address to Congress.",
+    "url": "https://www.washingtonpost.com/politics/2025/03/05/trump-speech-words-compared-state-of-the-union/",
+    "credits": [
+      {
+        "name": "Dan Keating",
+        "slug": "dan-keating"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      }
+    ],
+    "date": "2025-03-05T10:00:32.258Z",
+    "img": "https://www.washingtonpost.com/resizer/OkD1OtqkRNruPCYuB2yGeeNNmR4=/300x0/arc-anglerfish-washpost-prod-washpost/public/ACM5OJHJANCKNOSWHNHW733CEU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "5BN3D73LYFFKNGEACYWP6SJQTY",
     "headline": "Visualizing Trump’s effort to reshape America through executive orders",
     "description": "What Trump has done with executive orders, actions in his first six weeks",
@@ -542,6 +638,22 @@
       "url": "https://www.washingtonpost.com/politics/"
     },
     "medium": "WP"
+  },
+  {
+    "id": "SS94ETT0AFB400",
+    "headline": "Germany’s Splintered Politics Complicates Coalition Building",
+    "url": "https://www.bloomberg.com/graphics/2025-german-election-coalitions/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-02-25T18:23:17.686Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaB0_HtEfjao/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "AHGNITN75RAD7I7G43X4PEW2MY",
@@ -2061,55 +2173,5 @@
       "url": "https://www.washingtonpost.com/justice/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjdiMDVmNWMtZDM2ZS01MmFhLThjYjEtYzc4ODUwNmVjZjI1",
-    "headline": "What the Black Hawk Pilots Could See, Just Before the Crash",
-    "url": "https://www.nytimes.com/interactive/2025/02/05/us/dc-crash-helicopter-black-hawk-pilots.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-05T15:16:47.000Z",
-    "credits": [
-      {
-        "name": "Helmuth Rosales",
-        "slug": "helmuth-rosales"
-      },
-      {
-        "name": "K.K. Rebecca Lai",
-        "slug": "kk-rebecca-lai"
-      },
-      {
-        "name": "Mika Gröndahl",
-        "slug": "mika-grondahl"
-      },
-      {
-        "name": "John Ismay",
-        "slug": "john-ismay"
-      }
-    ],
-    "description": "A 3-D model created by The Times visualizes the helicopter pilots’ field of view minutes before a fatal crash with a jet in Washington.",
-    "square_img": "https://static01.nyt.com/images/2025/02/04/multimedia/2025-02-02-reagan-crash-3d-analysis-index/2025-02-02-reagan-crash-3d-analysis-index-square320-v2.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/04/multimedia/2025-02-02-reagan-crash-3d-analysis-index/2025-02-02-reagan-crash-3d-analysis-index-facebookJumbo-v3.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODkwYjk0ZTYtNWM1YS01YTQ1LWE5ZjItZDgzYWVkN2NjZGM0",
-    "headline": "List: Examples of Trump’s Actions That Are Defying Legal Limits",
-    "url": "https://www.nytimes.com/interactive/2025/02/05/us/trump-agenda-defying-law.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-05T10:02:18.000Z",
-    "credits": [
-      {
-        "name": "Charlie Savage",
-        "slug": "charlie-savage"
-      },
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      }
-    ],
-    "description": "See examples of actions by President Trump and his administration that appear to constitute legal violations.",
-    "square_img": "https://static01.nyt.com/images/2025/02/04/multimedia/2025-02-04-trump-law-overreach-index/2025-02-04-trump-law-overreach-index-square320-v7.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/04/multimedia/2025-02-04-trump-law-overreach-index/2025-02-04-trump-law-overreach-index-facebookJumbo-v8.jpg",
-    "medium": "NYT"
   }
 ]

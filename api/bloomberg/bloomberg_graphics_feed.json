@@ -1,5 +1,32 @@
 [
   {
+    "id": "SSNLGXDWLU6800",
+    "headline": "Satellite Imagery Shows Gaza's Destruction, and Resilience, With War Unresolved",
+    "url": "https://www.bloomberg.com/graphics/2025-gaza-damage-assessment/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-03-05T13:58:10.012Z",
+    "description": "With 40% of structures still intact, Gazans have repopulated major cities with tents and tarpaulins.",
+    "credits": [
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Jason Kao",
+        "slug": "jason-kao"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      },
+      {
+        "name": "Rachel Lavin",
+        "slug": "rachel-lavin"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEmqNTKQEF6c/v0/-1x-1.webp"
+  },
+  {
     "id": "SSEC8ADWLU6800",
     "headline": "DOGE Risks a New $5 Billion Headache for Struggling US Landlords",
     "url": "https://www.bloomberg.com/news/features/2025-02-28/doge-government-cuts-target-federal-real-estate-deals?srnd=phx-graphics-v2",
@@ -29,6 +56,21 @@
       }
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifizJ9l6ODsQ/v1/-1x-1.webp"
+  },
+  {
+    "id": "SS94ETT0AFB400",
+    "headline": "Germany’s Splintered Politics Complicates Coalition Building",
+    "url": "https://www.bloomberg.com/graphics/2025-german-election-coalitions/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-02-25T18:23:17.686Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaB0_HtEfjao/v0/-1x-1.webp"
   },
   {
     "id": "SS07W7DWLU6800",

@@ -1,5 +1,69 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjA5YmM0ODktNDQzNy01ZTVjLWIzYzItMmQyNGM5NzJmZDcz",
+    "headline": "Fired, Then Rehired, by the Trump Administration",
+    "url": "https://www.nytimes.com/interactive/2025/03/06/us/politics/trump-federal-workers-fired-rehired.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-06T17:49:22.000Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      }
+    ],
+    "description": "Hundreds of federal workers — many of them in critical health and national security jobs — have been brought back, sometimes within days of their initial firings.",
+    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-square320-v6.png",
+    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-facebookJumbo-v8.png"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IzYzdmODM0LTNjZmYtNWJmMS05ZjNkLTNiNmUzODE3YWNlMA==",
+    "headline": "A Threat to Britain’s Conservatives as Donors Fund a Populist Rival, Reform U.K.",
+    "url": "https://www.nytimes.com/2025/03/06/world/europe/wealthy-conservatives-reform-uk.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-03-06T11:28:11.000Z",
+    "credits": [
+      {
+        "name": "Jane Bradley",
+        "slug": "jane-bradley"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      },
+      {
+        "name": "Jeremy Singer-Vine",
+        "slug": "jeremy-singer-vine"
+      }
+    ],
+    "description": "A New York Times analysis of campaign finance data also revealed an influx of funding to Nigel Farage’s right-wing party from fossil fuel investors, climate skeptics and multimillionaires.",
+    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/06UK-Reform-Donors-01-gtvp/06UK-Reform-Donors-01-gtvp-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/06UK-Reform-Donors-01-gtvp/06UK-Reform-Donors-01-gtvp-facebookJumbo.jpg"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FkYjhkZDAyLTU1ZDgtNWZjOC1iNGNiLWE3NDBlMjQ0ZDNjNA==",
+    "headline": "Trump quiere aumentar las detenciones y deportaciones, pero la logística es un reto",
+    "url": "https://www.nytimes.com/es/2025/03/06/espanol/estados-unidos/trump-detenciones-deportaciones.html",
+    "label": "https://www.nytimes.com/es/",
+    "date": "2025-03-06T10:03:51.478Z",
+    "credits": [
+      {
+        "name": "Hamed Aleaziz",
+        "slug": "hamed-aleaziz"
+      },
+      {
+        "name": "Zolan Kanno-Youngs",
+        "slug": "zolan-kanno-youngs"
+      }
+    ],
+    "description": "Dentro del gobierno, existe una creciente frustración por el ritmo de las detenciones y deportaciones, incluso mientras Trump moviliza todo el gobierno federal para realizar la mayor operación de deportación de la historia de EE. UU.",
+    "square_img": "https://static01.nyt.com/images/2025/03/04/espanol/04DC-IMMIG-jlzb-ES-copy1/04DC-IMMIG-jlzb-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/04/espanol/04DC-IMMIG-jlzb-ES-copy1/04DC-IMMIG-jlzb-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGFkYjE1OTctZjU1MC01OTFhLWI5OWQtOGY5NmRhMWQ5ZmM3",
     "headline": "A Timeline of Cuts, Legal Orders and Chaos at U.S.A.I.D.",
     "url": "https://www.nytimes.com/interactive/2025/03/05/us/politics/usaid-trump-timeline.html",

@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGFkYjE1OTctZjU1MC01OTFhLWI5OWQtOGY5NmRhMWQ5ZmM3",
+    "headline": "A Timeline of Cuts, Legal Orders and Chaos at U.S.A.I.D.",
+    "url": "https://www.nytimes.com/interactive/2025/03/05/us/politics/usaid-trump-timeline.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-05T22:00:39.000Z",
+    "credits": [
+      {
+        "name": "Amy Schoenfeld Walker",
+        "slug": "amy-schoenfeld-walker"
+      },
+      {
+        "name": "K.K. Rebecca Lai",
+        "slug": "kk-rebecca-lai"
+      }
+    ],
+    "description": "The Trump administration's moves to halt foreign assistance and lay off thousands at the nation's lead aid agency have been met with legal challenges that quickly ascended to the Supreme Court. See the major moments.",
+    "square_img": "https://static01.nyt.com/images/2025/03/05/multimedia/2025-03-05-usaid-timeline-index/2025-03-05-usaid-timeline-index-square320-v8.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/05/multimedia/2025-03-05-usaid-timeline-index/2025-03-05-usaid-timeline-index-facebookJumbo-v9.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzA0YzVkZDYxLTYxZGItNTc4ZC05NTU4LWE3ZmQ3ZjM3YTE4MA==",
     "headline": "Frustration Grows Inside the White House Over Pace of Deportations",
     "url": "https://www.nytimes.com/2025/03/05/us/politics/trump-immigration-deportations-arrests.html",

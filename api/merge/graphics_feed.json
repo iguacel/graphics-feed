@@ -1,5 +1,72 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjA5YmM0ODktNDQzNy01ZTVjLWIzYzItMmQyNGM5NzJmZDcz",
+    "headline": "Fired, Then Rehired, by the Trump Administration",
+    "url": "https://www.nytimes.com/interactive/2025/03/06/us/politics/trump-federal-workers-fired-rehired.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-06T17:49:22.000Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      }
+    ],
+    "description": "Hundreds of federal workers — many of them in critical health and national security jobs — have been brought back, sometimes within days of their initial firings.",
+    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-square320-v6.png",
+    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-facebookJumbo-v8.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IzYzdmODM0LTNjZmYtNWJmMS05ZjNkLTNiNmUzODE3YWNlMA==",
+    "headline": "A Threat to Britain’s Conservatives as Donors Fund a Populist Rival, Reform U.K.",
+    "url": "https://www.nytimes.com/2025/03/06/world/europe/wealthy-conservatives-reform-uk.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-03-06T11:28:11.000Z",
+    "credits": [
+      {
+        "name": "Jane Bradley",
+        "slug": "jane-bradley"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      },
+      {
+        "name": "Jeremy Singer-Vine",
+        "slug": "jeremy-singer-vine"
+      }
+    ],
+    "description": "A New York Times analysis of campaign finance data also revealed an influx of funding to Nigel Farage’s right-wing party from fossil fuel investors, climate skeptics and multimillionaires.",
+    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/06UK-Reform-Donors-01-gtvp/06UK-Reform-Donors-01-gtvp-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/06UK-Reform-Donors-01-gtvp/06UK-Reform-Donors-01-gtvp-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FkYjhkZDAyLTU1ZDgtNWZjOC1iNGNiLWE3NDBlMjQ0ZDNjNA==",
+    "headline": "Trump quiere aumentar las detenciones y deportaciones, pero la logística es un reto",
+    "url": "https://www.nytimes.com/es/2025/03/06/espanol/estados-unidos/trump-detenciones-deportaciones.html",
+    "label": "https://www.nytimes.com/es/",
+    "date": "2025-03-06T10:03:51.478Z",
+    "credits": [
+      {
+        "name": "Hamed Aleaziz",
+        "slug": "hamed-aleaziz"
+      },
+      {
+        "name": "Zolan Kanno-Youngs",
+        "slug": "zolan-kanno-youngs"
+      }
+    ],
+    "description": "Dentro del gobierno, existe una creciente frustración por el ritmo de las detenciones y deportaciones, incluso mientras Trump moviliza todo el gobierno federal para realizar la mayor operación de deportación de la historia de EE. UU.",
+    "square_img": "https://static01.nyt.com/images/2025/03/04/espanol/04DC-IMMIG-jlzb-ES-copy1/04DC-IMMIG-jlzb-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/04/espanol/04DC-IMMIG-jlzb-ES-copy1/04DC-IMMIG-jlzb-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "LTLZVE7EDNG25ASSNUQPXRJ65A",
     "headline": "Appeals court allows Trump to remove watchdog Hampton Dellinger for now",
     "description": "A lower court had blocked the president from firing Dellinger, head of the Office of Special Counsel.",
@@ -2057,75 +2124,6 @@
     "img": "https://www.washingtonpost.com/resizer/8J9Vd_CXW5fl3KVdcLDCSFSg0YU=/300x0/arc-anglerfish-washpost-prod-washpost/public/KRPPLTGDZCJTECF4BWT6CROYYI.jpg",
     "label": {
       "url": "https://www.washingtonpost.com/israel-hamas-war/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDM5NmVjODEtYjRiNy01MmMzLWJjMjctNmE5MjhlZTg0OGVj",
-    "headline": "How Each Senator Has Voted on Trump’s Nominees So Far",
-    "url": "https://www.nytimes.com/interactive/2025/02/06/us/politics/cabinet-confirmation-votes.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-06T16:56:34.000Z",
-    "credits": [
-      {
-        "name": "Jasmine C. Lee",
-        "slug": "jasmine-c-lee"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      }
-    ],
-    "description": "The Senate has confirmed each of President Trump’s cabinet nominees that faced a vote to this point.",
-    "square_img": "https://static01.nyt.com/images/2025/02/06/multimedia/2025-01-27-cabinet-confirmation-votes-index/2025-01-27-cabinet-confirmation-votes-index-square320.png",
-    "img": "https://static01.nyt.com/images/2025/02/06/multimedia/2025-01-27-cabinet-confirmation-votes-index/2025-01-27-cabinet-confirmation-votes-index-facebookJumbo.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "R445ILOPHNCAZFM6SP3NHHTFCY",
-    "headline": "Justice Department sues Illinois and Chicago over immigration enforcement",
-    "description": "It appears to be the first Justice Department lawsuit against local officials for allegedly interfering with the Trump administration’s immigration crackdown.",
-    "url": "https://www.washingtonpost.com/national-security/2025/02/06/justice-dept-chicago-illinois-lawsuit/",
-    "credits": [
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      },
-      {
-        "name": "David Nakamura",
-        "slug": "david-nakamura"
-      }
-    ],
-    "date": "2025-02-06T16:29:59.849Z",
-    "img": "https://www.washingtonpost.com/resizer/Jllhu_ngulAjx_db8Qf35rBybkc=/300x0/arc-anglerfish-washpost-prod-washpost/public/PLPPMBY5QKEO2S5N2VLODSRBYQ.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/justice/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "CAT6LKSLCFBM5HKKY4WAM7GFEU",
-    "headline": "DOGE aims to cut $2 trillion in federal spending. Where would you start?",
-    "description": "Billionaire Elon Musk has said his Department of Government Efficiency will work to cut $2 trillion from the federal budget. ",
-    "url": "https://www.washingtonpost.com/business/interactive/2025/elon-musk-doge-government-budget-cuts-quiz/",
-    "credits": [
-      {
-        "name": "Luis Melgar",
-        "slug": "luis-melgar"
-      },
-      {
-        "name": "Emma Kumer",
-        "slug": "emma-kumer"
-      },
-      {
-        "name": "Jeff Stein",
-        "slug": "jeff-stein"
-      }
-    ],
-    "date": "2025-02-06T11:35:55.928Z",
-    "img": "https://www.washingtonpost.com/resizer/UeKcqksDXvD2B1wI2PnvsabfhO0=/300x0/arc-anglerfish-washpost-prod-washpost/public/N3FSGVJHTRAPXO32RLMBBSB22A.png",
-    "label": {
-      "url": "https://www.washingtonpost.com/economy/"
     },
     "medium": "WP"
   }

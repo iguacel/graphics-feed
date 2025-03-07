@@ -1,5 +1,39 @@
 [
   {
+    "id": "7qzADFhC-b",
+    "headline": "The China-US face-off: a visual guide to Donald Trump and Xi Jinping’s inner circles",
+    "url": "https://multimedia.scmp.com/infographics/news/china/article/3300868/china_us_powers/index.html?1",
+    "label": "https://www.scmp.com/china/",
+    "date": "2025-03-07T00:00:00.000Z",
+    "description": "Discover the power players in Xi Jinping and Donald Trump’s teams; the key people setting the agenda on diplomacy, the military, the economy, security and science.",
+    "credits": [
+      {
+        "name": "Rocio Marquez",
+        "slug": "rocio-marquez"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/china/article/3300868/china_us_powers/social/cover_cms-min.jpg",
+    "medium": "SCMP"
+  },
+  {
+    "id": "UUAKKRRLCVHFDN2OKFYAWZJBAA",
+    "headline": "Head of watchdog agency ends lawsuit to stop his firing by Trump",
+    "description": "Hampton Dellinger also sought to halt the firing of some probationary government employees amid the Trump administration’s workforce cuts.",
+    "url": "https://www.washingtonpost.com/national-security/2025/03/06/federal-workers-special-counsel-hampton-dellinger/",
+    "credits": [
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      }
+    ],
+    "date": "2025-03-06T18:24:21.010Z",
+    "img": "https://www.washingtonpost.com/resizer/8p7DnY80j1nRqXLsWaxsi7rONv0=/300x0/arc-anglerfish-washpost-prod-washpost/public/CFJWVYMUXLD3LGBLBWMJG3HVQE.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/justice/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjA5YmM0ODktNDQzNy01ZTVjLWIzYzItMmQyNGM5NzJmZDcz",
     "headline": "Fired, Then Rehired, by the Trump Administration",
     "url": "https://www.nytimes.com/interactive/2025/03/06/us/politics/trump-federal-workers-fired-rehired.html",
@@ -16,13 +50,13 @@
       }
     ],
     "description": "Hundreds of federal workers — many of them in critical health and national security jobs — have been brought back, sometimes within days of their initial firings.",
-    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-square320-v6.png",
-    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-facebookJumbo-v8.png",
+    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-square320-v13.png",
+    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-facebookJumbo-v15.png",
     "medium": "NYT"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IzYzdmODM0LTNjZmYtNWJmMS05ZjNkLTNiNmUzODE3YWNlMA==",
-    "headline": "A Threat to Britain’s Conservatives as Donors Fund a Populist Rival, Reform U.K.",
+    "headline": "A Threat on the Right to Britain’s Conservatives, as Donors Fund a Populist Rival",
     "url": "https://www.nytimes.com/2025/03/06/world/europe/wealthy-conservatives-reform-uk.html",
     "label": "https://www.nytimes.com/world/",
     "date": "2025-03-06T11:28:11.000Z",
@@ -40,9 +74,9 @@
         "slug": "jeremy-singer-vine"
       }
     ],
-    "description": "A New York Times analysis of campaign finance data also revealed an influx of funding to Nigel Farage’s right-wing party from fossil fuel investors, climate skeptics and multimillionaires.",
-    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/06UK-Reform-Donors-01-gtvp/06UK-Reform-Donors-01-gtvp-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/06UK-Reform-Donors-01-gtvp/06UK-Reform-Donors-01-gtvp-facebookJumbo.jpg",
+    "description": "A New York Times analysis of campaign finance data shows an influx of funding to Nigel Farage’s anti-immigration Reform U.K. party from fossil fuel investors, climate skeptics and multimillionaires.",
+    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-reform-funders-index/2025-02-25-reform-funders-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-reform-funders-index/2025-02-25-reform-funders-index-facebookJumbo-v3.png",
     "medium": "NYT"
   },
   {
@@ -2075,56 +2109,5 @@
     ],
     "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WXBDE5PW25DULLTSSCFADSR6UY.png",
     "medium": "Reuters"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTAxOGFhYTktODBkNy01ZDFlLTk1MDUtODI0Y2Y2YzA2YWYx",
-    "headline": "How Each Senator Voted to Confirm Russell T. Vought as Budget Chief",
-    "url": "https://www.nytimes.com/interactive/2025/02/06/us/politics/vought-senate-confirmation-vote.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-07T02:01:26.000Z",
-    "credits": [
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      },
-      {
-        "name": "Jasmine C. Lee",
-        "slug": "jasmine-c-lee"
-      },
-      {
-        "name": "Lily Boyce",
-        "slug": "lily-boyce"
-      }
-    ],
-    "description": "The Senate voted 53 to 47 to confirm Russell T. Vought — an architect of the ultraconservative Project 2025 policy agenda — to lead the White House budget office.",
-    "square_img": "https://static01.nyt.com/images/2025/02/05/us/politics/vought-senate-confirmation-vote-1738870424870/vought-senate-confirmation-vote-1738870424870-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/05/us/politics/vought-senate-confirmation-vote-1738870424870/vought-senate-confirmation-vote-1738870424870-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "S7WEU22XKBHN5M6PASU5V6W4QY",
-    "headline": "What is making Gaza ‘uninhabitable’? Unexploded bombs and more.",
-    "description": "Trump says the destruction in Gaza means “no one can live there.” But experts say the enclave can be rebuilt without the mass displacement of all Palestinians.",
-    "url": "https://www.washingtonpost.com/world/2025/02/06/gaza-uninhabitable-bombs/",
-    "credits": [
-      {
-        "name": "Adam Taylor",
-        "slug": "adam-taylor"
-      },
-      {
-        "name": "Adrián Blanco Ramos",
-        "slug": "adrian-blanco"
-      }
-    ],
-    "date": "2025-02-06T22:50:46.189Z",
-    "img": "https://www.washingtonpost.com/resizer/8J9Vd_CXW5fl3KVdcLDCSFSg0YU=/300x0/arc-anglerfish-washpost-prod-washpost/public/KRPPLTGDZCJTECF4BWT6CROYYI.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/israel-hamas-war/"
-    },
-    "medium": "WP"
   }
 ]

@@ -1,5 +1,37 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2MyZmUxMDYtODFhYy01N2U2LWExYjgtOWU5ZTljZGZhM2Ji",
+    "headline": "These Words Are Disappearing in the New Trump Administration",
+    "url": "https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-07T18:17:15.000Z",
+    "credits": [
+      {
+        "name": "Karen Yourish",
+        "slug": "karen-yourish"
+      },
+      {
+        "name": "Annie Daniel",
+        "slug": "annie-daniel"
+      },
+      {
+        "name": "Saurabh Datar",
+        "slug": "saurabh-datar"
+      },
+      {
+        "name": "Isaac White",
+        "slug": "isaac-white"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "Federal agencies have issued guidance to employees on hundreds of terms to limit or avoid using. An analysis of government websites shows many of the same words being removed.",
+    "square_img": "https://static01.nyt.com/images/2025/03/07/multimedia/2025-02-28-trump-admin-words-index/2025-02-28-trump-admin-words-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/03/07/multimedia/2025-02-28-trump-admin-words-index/2025-02-28-trump-admin-words-index-facebookJumbo.png"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzY0YjUzNWFlLWExZmEtNTMwZC1iZGUzLTAwZTliNjQwMDg0Mw==",
     "headline": "Private Prisons Are Ramping Up Detention of Immigrants and Cashing In",
     "url": "https://www.nytimes.com/2025/03/07/us/politics/private-prisons-immigrants-detention-trump.html",

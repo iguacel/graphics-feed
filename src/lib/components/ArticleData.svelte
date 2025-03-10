@@ -2,6 +2,8 @@
 	import { base } from '$app/paths';
 	import { formatDate, formatAuthors } from '../../utils/utils';
 	const { data, media } = $props();
+
+	$inspect(media, data.medium);
 </script>
 
 <div class="article-data">
@@ -18,6 +20,8 @@
 				<img class="bloomberg medium" src="{base}/logos/bloomberg.svg" alt="Bloomberg" />
 			{:else if data.medium === 'SCMP'}
 				<img class="scmp medium" src="{base}/logos/scmp.svg" alt="South China Morning Post" />
+			{:else if data.medium === 'Pudding'}
+				<img class="thepudding medium" src="{base}/logos/thepudding.svg" alt="The Pudding" />
 			{:else}
 				<!-- else content here -->
 			{/if}

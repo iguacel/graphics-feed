@@ -20,6 +20,7 @@
 			<h1>Bloomberg</h1>
 		</a>
 		<a href="{base}/scmp" class="placeholder"><h1>SCMP</h1></a>
+		<a href="{base}/thepudding" class="placeholder"><h1>The Pudding</h1></a>
 	</div>
 </main>
 
@@ -44,7 +45,7 @@
 
 	h1 {
 		font-family: 'Tiny5', serif;
-		font-size: 4.5rem;
+		font-size: 2.5rem;
 		opacity: 0.8;
 		text-align: center;
 	}

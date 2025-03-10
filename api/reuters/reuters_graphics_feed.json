@@ -1,5 +1,45 @@
 [
   {
+    "id": "YWAGP4BI7BA3RIUKIVJZNQACTM",
+    "headline": "A tinderbox conflict in Congo is ready to explode",
+    "url": "https://www.reuters.com/world/africa/tinderbox-conflict-congo-is-ready-explode-2025-03-05/",
+    "date": "2025-03-05T13:05:33.28Z",
+    "description": "A conflict that has simmered in Democratic Republic of Congo’s eastern borderlands for years is set to erupt into a wider regional war.",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RQDLD4Q24ZAZREOIYWFEZAFBNA.jpg"
+  },
+  {
+    "id": "PNQQEVBBIVCY7CW4OY3QOFQVVA",
+    "headline": "The lives lost in Gaza: A closer look at those killed in the conflict so far",
+    "url": "https://www.reuters.com/world/israel-hamas/lives-lost-gaza-closer-look-those-killed-conflict-so-far-2025-03-01/",
+    "date": "2025-03-01T11:03:20.039Z",
+    "description": "The death toll from the war already dwarfs the numbers killed in previous bouts of fighting between Israelis and Palestinians in Gaza over many decades.",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NVI5NMXVHZF6NNVE7SHSNAQRWA.jpg"
+  },
+  {
+    "id": "G7MT3Z3QRFFTHIGZO5VZSM73UM",
+    "headline": "Trump’s tax on trade",
+    "url": "https://www.reuters.com/world/us/donald-trump/trumps-tax-trade-2025-02-27/",
+    "date": "2025-02-27T13:02:27.388Z",
+    "description": "Take a closer look at the $3 trillion the U.S. spends on imports.",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JA6FJJ52ERDJRBALCXKGBYOF5Y.jpg"
+  },
+  {
+    "id": "JMWFBIWAQNEMRFU73XKTRVFZJI",
+    "headline": "Mapping Ukraine’s mineral deal with the US",
+    "url": "https://www.reuters.com/world/europe/mapping-ukraines-mineral-deal-with-us-2025-02-26/",
+    "date": "2025-02-26T18:06:55.34Z",
+    "description": "Ukraine said on Wednesday that it had reached a framework agreement with the United States on jointly developing Ukraine’s natural resources including rare earths, critical minerals, oil and gas.",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/EJHLVPLZH5GFVLASKTMGMZGG24.jpg"
+  },
+  {
+    "id": "YNNHNFIKINC27LNIT3WLPYJREY",
+    "headline": "These countries could lose the most, if U.S. stops aid",
+    "url": "https://www.reuters.com/business/finance/these-countries-could-lose-most-if-us-stops-aid-2025-02-26/",
+    "date": "2025-02-26T11:31:18.784Z",
+    "description": "A deep dive into U.S. aid assistance and which countries have received the most of it.",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/XLD4LXWSMRFDRMCDWWUNJDGGZA.jpg"
+  },
+  {
     "id": "MLLORNLLCZHSJCDCJ624TMENRM",
     "headline": "Gaza's garbage crisis",
     "url": "https://www.reuters.com/world/israel-hamas/gazas-garbage-crisis-2025-02-24/",

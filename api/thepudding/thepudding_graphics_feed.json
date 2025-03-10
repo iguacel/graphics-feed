@@ -1,0 +1,4152 @@
+[
+  {
+    "id": "2025_02_middle-school",
+    "headline": "The Middle Ages",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_02_middle-school/",
+    "date": "2025-02-01",
+    "keywords": [
+      "school",
+      "survey",
+      "middle"
+    ],
+    "authors": [
+      "Alvin Chang"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_02_middle-school.jpg"
+  },
+  {
+    "id": "2024_11_sitters-standers",
+    "headline": "Sitters and Standers",
+    "description": "The American worker divide: Those who sit, and those who stand",
+    "url": "https://pudding.cool/projects/2024_11_sitters-standers/",
+    "date": "2024-11-01",
+    "keywords": [
+      "sit",
+      "stand",
+      "work",
+      "survey"
+    ],
+    "authors": [
+      "Alvin Chang"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_11_sitters-standers.jpg"
+  },
+  {
+    "id": "2024_11_love-songs",
+    "headline": "Is the Love Song Dying?",
+    "description": "We categorized songs in the Billboard Top 10 to see if love songs are on the decline.",
+    "url": "https://pudding.cool/projects/2024_11_love-songs/",
+    "date": "2024-11-01",
+    "keywords": [
+      "love",
+      "love songs",
+      "billboard",
+      "pop",
+      "serenade",
+      "music"
+    ],
+    "authors": [
+      "David Mora",
+      "Michelle Jia"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_11_love-songs.jpg"
+  },
+  {
+    "id": "2024_10_queues",
+    "headline": "An expert explains why queues are so tricky",
+    "description": "Queues are everywhere we go—discover the hidden mechanics that keep them moving smoothly.",
+    "url": "https://pudding.cool/projects/2024_10_queues/",
+    "date": "2024-10-01",
+    "keywords": [
+      "queues",
+      "queueing theory",
+      "lines",
+      "math"
+    ],
+    "authors": [
+      "Michelle Pera-McGhee",
+      "Mureji Fatunde",
+      "Uri Bram"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_queues.jpg"
+  },
+  {
+    "id": "2024_10_nba-uniforms",
+    "headline": "Colors of the Court",
+    "description": "Traditions, trends, and who's wearing what in today's NBA",
+    "url": "https://pudding.cool/projects/2024_10_nba-uniforms/",
+    "date": "2024-10-01",
+    "keywords": [
+      "basketball",
+      "nba",
+      "jersey",
+      "uniform",
+      "court",
+      "style",
+      "color",
+      "design"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Tyler Machado"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_nba-uniforms.jpg"
+  },
+  {
+    "id": "2024_10_abortion-mazes",
+    "headline": "The United States of Abortion Mazes",
+    "description": "We built a maze for each state where the difficulty is calculated by the state’s abortion policies.",
+    "url": "https://pudding.cool/projects/2024_10_abortion-mazes/",
+    "date": "2024-10-01",
+    "keywords": [
+      "abortion",
+      "maze",
+      "health",
+      "health care",
+      "reproductive rights",
+      "womens rights",
+      "bodily autonomy",
+      "roe v. wade",
+      "dobbs",
+      "supreme court",
+      "pregnancy"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Michelle Pera-McGhee"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_abortion-mazes.jpg"
+  },
+  {
+    "id": "2024_10_crokinole",
+    "headline": "The Greatest Game You’ve Never Heard of",
+    "description": "This isn’t just a flicking game, but a century-old test of skill and strategy.",
+    "url": "https://pudding.cool/projects/2024_10_crokinole/",
+    "date": "2024-10-01",
+    "keywords": [
+      "game",
+      "disc",
+      "sport",
+      "crokinole",
+      "flick",
+      "simulation",
+      "physics"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_crokinole.jpg"
+  },
+  {
+    "id": "2024_10_kpop-survey",
+    "headline": "Defining Generations in K-pop",
+    "description": "We want fans to have the opportunity to vote and determine the answers.",
+    "url": "https://pudding.cool/projects/2024_10_kpop-survey/",
+    "date": "2024-10-01",
+    "keywords": [
+      "music",
+      "kpop",
+      "survey"
+    ],
+    "authors": [
+      "Caitlyn Ralph",
+      "Jared Whalen",
+      "Eunice Lee",
+      "Minji Kim"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_kpop-survey.jpg"
+  },
+  {
+    "id": "2024_10_fanfic",
+    "headline": "Who Gets Shipped?",
+    "description": "An analysis of the top fanfic relationship pairings on Archive of Our Own from 2013–2024.",
+    "url": "https://pudding.cool/projects/2024_10_fanfic/",
+    "date": "2024-10-01",
+    "keywords": [
+      "fanfic",
+      "fanfiction",
+      "fan",
+      "fic",
+      "fiction",
+      "ao3",
+      "relationship",
+      "ship",
+      "slash",
+      "femslash",
+      "canon",
+      "non-canon",
+      "rpf",
+      "real person fiction",
+      "data",
+      "analysis",
+      "couple",
+      "pair",
+      "friendship"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Caitlyn Ralph",
+      "Ashley Cai",
+      "Florina Sutanto"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_fanfic.jpg"
+  },
+  {
+    "id": "2024_09_lineup",
+    "headline": "Batting by the Numbers",
+    "description": "The evolution of baseball's perfect lineup",
+    "url": "https://pudding.cool/projects/2024_09_lineup/",
+    "date": "2024-09-01",
+    "keywords": [
+      "sports",
+      "baseball",
+      "lineup",
+      "hitting",
+      "mlb"
+    ],
+    "authors": [
+      "Michelle Pera-McGhee",
+      "Neil Paine"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_09_lineup.jpg"
+  },
+  {
+    "id": "2024_09_courts",
+    "headline": "Every Outdoor Basketball Court in the U.S.A.",
+    "description": "Explore Satellite Imagery of 59,507 Basketball Courts",
+    "url": "https://pudding.cool/projects/2024_09_courts/",
+    "date": "2024-09-01",
+    "keywords": [
+      "basketball",
+      "courts"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_09_courts.jpg"
+  },
+  {
+    "id": "2024_07_ai",
+    "headline": "Can an AI make a data-driven, visual story?",
+    "description": "We review and grade what it created.",
+    "url": "https://pudding.cool/projects/2024_07_ai/",
+    "date": "2024-07-01",
+    "keywords": [
+      "ai",
+      "chatgpt",
+      "openai",
+      "claude",
+      "artificial",
+      "intelligence"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Michelle Pera-McGhee"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_07_ai.jpg"
+  },
+  {
+    "id": "2024_07_sleep-training",
+    "headline": "Is Sleep Training Harmful?",
+    "description": "Misinformation and facts behind the internet’s most polarizing parenting debate.",
+    "url": "https://pudding.cool/projects/2024_07_sleep-training/",
+    "date": "2024-07-01",
+    "keywords": [
+      "sleep training"
+    ],
+    "authors": [],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_07_sleep-training.jpg"
+  },
+  {
+    "id": "2024_07_scifi",
+    "headline": "Who killed the world?",
+    "description": "Explore science fiction worlds from the last few decades – and what these fictional settings tell us about ourselves",
+    "url": "https://pudding.cool/projects/2024_07_scifi/",
+    "date": "2024-07-01",
+    "keywords": [
+      "sci-fi",
+      "scifi",
+      "film",
+      "tv",
+      "movie",
+      "media",
+      "alien",
+      "space",
+      "theme"
+    ],
+    "authors": [
+      "Alvin Chang"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_07_scifi.jpg"
+  },
+  {
+    "id": "2024_06_ydc",
+    "headline": "Failures to Act",
+    "description": "We analyzed 1,281 court documents of alleged child abuse in New Hampshire youth facilities. Here’s what they show.",
+    "url": "https://pudding.cool/projects/2024_06_ydc/",
+    "date": "2024-06-01",
+    "keywords": [
+      "court",
+      "abuse",
+      "youth",
+      "child",
+      "new hampshire"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_06_ydc.jpg"
+  },
+  {
+    "id": "2024_06_climate-zones",
+    "headline": "Climate Zones",
+    "description": "Explore how your city will feel in the future.",
+    "url": "https://pudding.cool/projects/2024_06_climate-zones/",
+    "date": "2024-06-01",
+    "keywords": [
+      "climate",
+      "weather",
+      "maps"
+    ],
+    "authors": [
+      "Derek Taylor"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_06_climate-zones.jpg"
+  },
+  {
+    "id": "2024_03_teenagers",
+    "headline": "This is a teenager",
+    "description": "Watch hundreds of teenagers grow up into adults – and see how their lives turn out",
+    "url": "https://pudding.cool/projects/2024_03_teenagers/",
+    "date": "2024-03-01",
+    "keywords": [
+      "survey",
+      "time",
+      "teenager",
+      "life"
+    ],
+    "authors": [
+      "Alvin Chang"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_03_teenagers.jpg"
+  },
+  {
+    "id": "projects_flipbook",
+    "headline": "The Flipbook Experiment",
+    "description": "The results from making a crowd-sourced flipbook animation.",
+    "url": "https://pudding.cool/projects/projects_flipbook/",
+    "date": "Unknown date",
+    "keywords": [
+      "draw",
+      "game",
+      "art",
+      "illustration",
+      "flipbook",
+      "animation",
+      "pen",
+      "pencil"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_flipbook.jpg"
+  },
+  {
+    "id": "2024_03_greatest-music",
+    "headline": "What Makes an Album the Greatest of All Time?",
+    "description": "Examining 30 years of Rolling Stone’s “Greatest Albums of All Time” Rankings",
+    "url": "https://pudding.cool/projects/2024_03_greatest-music/",
+    "date": "2024-03-01",
+    "keywords": [
+      "music"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Chris Dalla Riva"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_03_greatest-music.jpg"
+  },
+  {
+    "id": "2024_02_anthems",
+    "headline": "The Diva-ness of 138 National Anthem Performances",
+    "description": "We compared 138 US National Anthem performances to see who is the ultimate diva",
+    "url": "https://pudding.cool/projects/2024_02_anthems/",
+    "date": "2024-02-01",
+    "keywords": [
+      "music",
+      "national anthem",
+      "us",
+      "united states",
+      "usa",
+      "star spangled banner",
+      "diva"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Michelle Pera-McGhee"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_02_anthems.jpg"
+  },
+  {
+    "id": "2023_10_genre",
+    "headline": "You should look at this chart about music genres.",
+    "description": "How Spotify's expanding catalog reflects 2023's musical frontier",
+    "url": "https://pudding.cool/projects/2023_10_genre/",
+    "date": "2023-10-01",
+    "keywords": [
+      "music",
+      "genre",
+      "spotify"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Michelle Pera-McGhee"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_10_genre.jpg"
+  },
+  {
+    "id": "2023_10_romance-covers",
+    "headline": "What Does a Happily Ever After Look Like?",
+    "description": "We looked at over 1,400 romance covers to measure raunchiness, art style, and diversity.",
+    "url": "https://pudding.cool/projects/2023_10_romance-covers/",
+    "date": "2023-10-01",
+    "keywords": [
+      "romance",
+      "book",
+      "novel",
+      "race",
+      "representation",
+      "design",
+      "illustration",
+      "cover"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Alice Liang"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_10_romance-covers.jpg"
+  },
+  {
+    "id": "2023_09_invisible-epidemic",
+    "headline": "24 hours in an invisible epidemic",
+    "description": "Watch 24 hours of an American day, and the invisible crisis hiding in plain sight.",
+    "url": "https://pudding.cool/projects/2023_09_invisible-epidemic/",
+    "date": "2023-09-01",
+    "keywords": [
+      "survey",
+      "time",
+      "spent",
+      "american",
+      "day",
+      "spend",
+      "people"
+    ],
+    "authors": [
+      "Alvin Chang"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_09_invisible-epidemic.jpg"
+  },
+  {
+    "id": "projects_clocks",
+    "headline": "Data Clocks",
+    "description": "Clocks that connect data to time",
+    "url": "https://pudding.cool/projects/projects_clocks/",
+    "date": "Unknown date",
+    "keywords": [
+      "clock",
+      "spotify",
+      "music",
+      "songs",
+      "time"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_clocks.jpg"
+  },
+  {
+    "id": "projects_heat-records-map",
+    "headline": "Mapping Record-High Heat in U.S. Cities",
+    "description": "We're tracking how the hottest year on Earth is affecting heat records.",
+    "url": "https://pudding.cool/projects/projects_heat-records-map/",
+    "date": "Unknown date",
+    "keywords": [
+      "weather",
+      "map",
+      "heat"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_heat-records-map.jpg"
+  },
+  {
+    "id": "2023_07_songwriters",
+    "headline": "Songwriting credits since 1958, broken down by gender",
+    "description": "Women are superstars on stage, but still rarely get to write songs",
+    "url": "https://pudding.cool/projects/2023_07_songwriters/",
+    "date": "2023-07-01",
+    "keywords": [
+      "songwriting",
+      "music",
+      "gender",
+      "music"
+    ],
+    "authors": [
+      "Chris Dalla Riva",
+      "Ashley Cai"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_07_songwriters.jpg"
+  },
+  {
+    "id": "2023_06_pass-the-mic",
+    "headline": "How much each person is talking in Google Meet",
+    "description": "A browser extension for your next meeting.",
+    "url": "https://pudding.cool/projects/2023_06_pass-the-mic/",
+    "date": "2023-06-01",
+    "keywords": [
+      "chrome",
+      "extension",
+      "pass",
+      "mic",
+      "talk",
+      "speak",
+      "share",
+      "google",
+      "meet"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_06_pass-the-mic.jpg"
+  },
+  {
+    "id": "2023_06_asterisks",
+    "headline": "Asterisking NBA Champions",
+    "description": "The official haters guide for salty fans.",
+    "url": "https://pudding.cool/projects/2023_06_asterisks/",
+    "date": "2023-06-01",
+    "keywords": [
+      "nba",
+      "champions",
+      "asterisk",
+      "basketball",
+      "crutch",
+      "metric"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_06_asterisks.jpg"
+  },
+  {
+    "id": "2023_06_groove",
+    "headline": "Wonky",
+    "description": "An exploration of rhythm and grooves that break the rules",
+    "url": "https://pudding.cool/projects/2023_06_groove/",
+    "date": "2023-06-01",
+    "keywords": [
+      "music",
+      "drums",
+      "groove",
+      "j dilla",
+      "dilla",
+      "hip hop"
+    ],
+    "authors": [
+      "Michelle Pera-McGhee"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_06_groove.jpg"
+  },
+  {
+    "id": "2023_05_country-radio",
+    "headline": "They Won't Play A Lady-O on Country Radio",
+    "description": "Examining back-to-back plays by gender, race, and sexual orientation",
+    "url": "https://pudding.cool/projects/2023_05_country-radio/",
+    "date": "2023-05-01",
+    "keywords": [
+      "music",
+      "country",
+      "radio",
+      "gender",
+      "race",
+      "sexual orientation",
+      "representation"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Jada Watson"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_05_country-radio.jpg"
+  },
+  {
+    "id": "2023_05_kimchi",
+    "headline": "The search for my kimchi",
+    "description": "I loved my grandmother's fresh kimchi. But as I aged, tasting the defining flavor of my childhood became elusive.",
+    "url": "https://pudding.cool/projects/2023_05_kimchi/",
+    "date": "2023-05-01",
+    "keywords": [
+      "kimchi",
+      "illustration",
+      "illustrated",
+      "grandmother",
+      "recipe",
+      "food"
+    ],
+    "authors": [
+      "Alvin Chang"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_05_kimchi.jpg"
+  },
+  {
+    "id": "2023_05_dark-patterns",
+    "headline": "How companies use dark patterns to keep you subscribed",
+    "description": "Unsubscribing should be easy. It’s not.",
+    "url": "https://pudding.cool/projects/2023_05_dark-patterns/",
+    "date": "2023-05-01",
+    "keywords": [
+      "design",
+      "dark patterns"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Caroline Sinders",
+      "Tynesha Foreman"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_05_dark-patterns.jpg"
+  },
+  {
+    "id": "games_where",
+    "headline": "Where in the USA is this?",
+    "description": "A daily photo location guessing game.",
+    "url": "https://pudding.cool/projects/games_where/",
+    "date": "Unknown date",
+    "keywords": [
+      "game",
+      "wordle",
+      "geo",
+      "geoguessr",
+      "location",
+      "photo",
+      "quiz",
+      "usa"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/games_where.jpg"
+  },
+  {
+    "id": "2023_03_same-name",
+    "headline": "A Map of Places in the US with the Same Name",
+    "description": "We calculated what place someone is most likely referring to, depending on where they are",
+    "url": "https://pudding.cool/projects/2023_03_same-name/",
+    "date": "2023-03-01",
+    "keywords": [
+      "map",
+      "us",
+      "places",
+      "same",
+      "name",
+      "cities",
+      "towns",
+      "shared"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_03_same-name.jpg"
+  },
+  {
+    "id": "2023_02_nba-unexpected",
+    "headline": "The Greatest Unexpected NBA Performances",
+    "description": "Using Gamescore and statistics to find the biggest single-game outliers.",
+    "url": "https://pudding.cool/projects/2023_02_nba-unexpected/",
+    "date": "2023-02-01",
+    "keywords": [
+      "nba",
+      "basketball",
+      "z-score",
+      "anomalies",
+      "outliers"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_02_nba-unexpected.jpg"
+  },
+  {
+    "id": "2023_01_lit-canon",
+    "headline": "What Literature Do we Study from the 1990s?",
+    "description": "The turn-of-the-century literary canon, using data from college syllabi",
+    "url": "https://pudding.cool/projects/2023_01_lit-canon/",
+    "date": "2023-01-01",
+    "keywords": [
+      "books",
+      "literature",
+      "syllabi"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_01_lit-canon.jpg"
+  },
+  {
+    "id": "2022_12_yard-sale",
+    "headline": "Why the Super Rich are Inevitable",
+    "description": "Why some mathematicians argue the economy is designed to create a few super rich people – unless we stop it.",
+    "url": "https://pudding.cool/projects/2022_12_yard-sale/",
+    "date": "2022-12-01",
+    "keywords": [
+      "yard sale model",
+      "inequality",
+      "redistribution",
+      "oligarchy",
+      "rich",
+      "poor",
+      "money",
+      "economy"
+    ],
+    "authors": [
+      "Alvin Chang"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_12_yard-sale.jpg"
+  },
+  {
+    "id": "2022_12_emotion-wheel",
+    "headline": "How Are You Doing?",
+    "description": "A journey of emotional awareness, where we uncover the power of naming and visualizing your feelings.",
+    "url": "https://pudding.cool/projects/2022_12_emotion-wheel/",
+    "date": "2022-12-01",
+    "keywords": [
+      "emotions",
+      "feelings",
+      "emotion wheel",
+      "personal",
+      "art",
+      "illustration"
+    ],
+    "authors": [
+      "Michelle Pera-McGhee",
+      "Abby VanMuijen"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_12_emotion-wheel.jpg"
+  },
+  {
+    "id": "2022_11_upward-mobility",
+    "headline": "Upward Mobility",
+    "description": "How does where you grow up impact your economic opportunity?",
+    "url": "https://pudding.cool/projects/2022_11_upward-mobility/",
+    "date": "2022-11-01",
+    "keywords": [
+      "upward",
+      "mobility",
+      "income",
+      "economy",
+      "economic",
+      "opportunity",
+      "opportunities",
+      "wealth",
+      "race",
+      "generation",
+      "family",
+      "neighborhood",
+      "great migration",
+      "migration"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Michelle Pera-McGhee",
+      "Aaron Williams"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_11_upward-mobility.jpg"
+  },
+  {
+    "id": "2022_09_wnba-kicks",
+    "headline": "A Visual History of WNBA Kicks",
+    "description": "Watch women's hoops signature sneakers morph from Swoopes to Stewie",
+    "url": "https://pudding.cool/projects/2022_09_wnba-kicks/",
+    "date": "2022-09-01",
+    "keywords": [
+      "wnba",
+      "shoes",
+      "sneakers",
+      "kicks",
+      "basketball",
+      "women",
+      "swoopes",
+      "lobo",
+      "leslie",
+      "cooper",
+      "mccray",
+      "staley",
+      "holdsclaw",
+      "taurasi",
+      "parker",
+      "delle donne",
+      "stewart"
+    ],
+    "authors": [
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_09_wnba-kicks.jpg"
+  },
+  {
+    "id": "games_words-against-strangers",
+    "headline": "Words Against Strangers",
+    "description": "One random person a day gets the chance to play against the internet in a game of words.",
+    "url": "https://pudding.cool/projects/games_words-against-strangers/",
+    "date": "Unknown date",
+    "keywords": [
+      "words",
+      "against",
+      "strangers",
+      "word",
+      "game",
+      "wordle",
+      "play",
+      "puzzle"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Michelle Pera-McGhee"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/games_words-against-strangers.jpg"
+  },
+  {
+    "id": "2022_09_cdmx",
+    "headline": "The Sounds of CDMX",
+    "description": "How informal street vendors define the sonic landscape of Mexico’s capital",
+    "url": "https://pudding.cool/projects/2022_09_cdmx/",
+    "date": "2022-09-01",
+    "keywords": [
+      "mexico",
+      "cities",
+      "audio",
+      "street vendors"
+    ],
+    "authors": [
+      "Michelle Pera-McGhee",
+      "Aaron Reiss",
+      "Oscar Molina Palestina"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_09_cdmx.jpg"
+  },
+  {
+    "id": "2022_08_censorship",
+    "headline": "The Big [Censored] Theory",
+    "description": "A case study on how the government censors TV in China.",
+    "url": "https://pudding.cool/projects/2022_08_censorship/",
+    "date": "2022-08-01",
+    "keywords": [
+      "china",
+      "tv",
+      "television",
+      "government",
+      "censor",
+      "censorship",
+      "media",
+      "big bang theory"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Manyun Zou"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_08_censorship.jpg"
+  },
+  {
+    "id": "2022_07_tiktok-story",
+    "headline": "The Unlikely Odds of Making it Big on TikTok",
+    "description": "Success on TikTok is hard, but the platform changes the role of audio.",
+    "url": "https://pudding.cool/projects/2022_07_tiktok-story/",
+    "date": "2022-07-01",
+    "keywords": [
+      "music",
+      "tiktok"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_07_tiktok-story.jpg"
+  },
+  {
+    "id": "2022_06_streaming",
+    "headline": "How Artists Get Paid From Streaming",
+    "description": "We explain how your money gets from you to a streaming platform, and finally to an artist.",
+    "url": "https://pudding.cool/projects/2022_06_streaming/",
+    "date": "2022-06-01",
+    "keywords": [
+      "music",
+      "streaming",
+      "spotify",
+      "apple music",
+      "deezer",
+      "royalties",
+      "money"
+    ],
+    "authors": [
+      "Elio Quinton"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_06_streaming.jpg"
+  },
+  {
+    "id": "2022_06_aztec-gods",
+    "headline": "A Visual Guide to the Aztec Pantheon",
+    "description": "An Introduction to Aztec Gods",
+    "url": "https://pudding.cool/projects/2022_06_aztec-gods/",
+    "date": "2022-06-01",
+    "keywords": [
+      "history",
+      "aztecs",
+      "gods",
+      "pantheon",
+      "aztec"
+    ],
+    "authors": [
+      "Gwendal Uguen",
+      "Luc Guillemot"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_06_aztec-gods.jpg"
+  },
+  {
+    "id": "2022_06_tiktok-video",
+    "headline": "We tracked what happens after TikTok songs go viral",
+    "description": "A data investigation into how TikTok is shaping the music industry.",
+    "url": "https://pudding.cool/projects/2022_06_tiktok-video/",
+    "date": "2022-06-01",
+    "keywords": [
+      "music",
+      "tiktok"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_06_tiktok-video.jpg"
+  },
+  {
+    "id": "projects_heat-records",
+    "headline": "Tracking Heat Records in 400 U.S. Cities",
+    "description": "Was yesterday a daily heat record where you live?",
+    "url": "https://pudding.cool/projects/projects_heat-records/",
+    "date": "Unknown date",
+    "keywords": [
+      "climate change",
+      "weather"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_heat-records.jpg"
+  },
+  {
+    "id": "2022_04_random",
+    "headline": "Help us reproduce this flawed study.",
+    "description": "Are 25 year olds really more random than 60 year olds?",
+    "url": "https://pudding.cool/projects/2022_04_random/",
+    "date": "2022-04-01",
+    "keywords": [
+      "study",
+      "random",
+      "research",
+      "reproduction",
+      "replication",
+      "age",
+      "experiment"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Arjun Kakkar"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_04_random.jpg"
+  },
+  {
+    "id": "2022_04_banknotes",
+    "headline": "Who’s in Your Wallet?",
+    "description": "A visual essay about the famous figures representing currencies around the world",
+    "url": "https://pudding.cool/projects/2022_04_banknotes/",
+    "date": "2022-04-01",
+    "keywords": [
+      "money",
+      "banknotes",
+      "currency",
+      "representation",
+      "gender",
+      "equality"
+    ],
+    "authors": [
+      "Jeff MacInnes",
+      "Alejandra Arevalo",
+      "Eric Hausken"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_04_banknotes.jpg"
+  },
+  {
+    "id": "2022_03_cough",
+    "headline": "Chalamet Coughs, Dune Wins",
+    "description": "Predicting Best Picture winners using coughs and sneezes.",
+    "url": "https://pudding.cool/projects/2022_03_cough/",
+    "date": "2022-03-01",
+    "keywords": [
+      "movie",
+      "film",
+      "oscar",
+      "academy",
+      "cough",
+      "sneeze",
+      "dune",
+      "award"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Mike Lacher",
+      "Jason Eppink"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_03_cough.jpg"
+  },
+  {
+    "id": "2022_03_weather-map",
+    "headline": "How many days since a record-high temperature?",
+    "description": "Counting the time elapsed since a U.S. city set a record-high temperature",
+    "url": "https://pudding.cool/projects/2022_03_weather-map/",
+    "date": "2022-03-01",
+    "keywords": [
+      "climate change",
+      "weather",
+      "map"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_03_weather-map.jpg"
+  },
+  {
+    "id": "2022_02_redraft",
+    "headline": "The NBA Redrafted 2.0",
+    "description": "A data-driven revisionist history of the NBA draft.",
+    "url": "https://pudding.cool/projects/2022_02_redraft/",
+    "date": "2022-02-01",
+    "keywords": [
+      "nba",
+      "basketball",
+      "draft",
+      "redraft",
+      "team",
+      "player"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_02_redraft.jpg"
+  },
+  {
+    "id": "2022_02_plain",
+    "headline": "What Makes Writing More Readable?",
+    "description": "An examination of translating text to make it as accessible as possible.",
+    "url": "https://pudding.cool/projects/2022_02_plain/",
+    "date": "2022-02-01",
+    "keywords": [
+      "accessibility",
+      "language",
+      "translation",
+      "disability",
+      "reading",
+      "algorithm",
+      "plain"
+    ],
+    "authors": [
+      "Michelle Pera-McGhee",
+      "Jamie Brew",
+      "Rebecca Monteleone"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_02_plain.jpg"
+  },
+  {
+    "id": "2022_02_women-in-headlines",
+    "headline": "When Women Make Headlines",
+    "description": "A visual essay about the (mis)representation of women in the news",
+    "url": "https://pudding.cool/projects/2022_02_women-in-headlines/",
+    "date": "2022-02-01",
+    "keywords": [
+      "women",
+      "news",
+      "media",
+      "headlines",
+      "gender",
+      "newspaper"
+    ],
+    "authors": [
+      "Leonardo Nicoletti",
+      "Sahiti Sarva"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_02_women-in-headlines.jpg"
+  },
+  {
+    "id": "projects_caption-contest",
+    "headline": "Help a Computer Win the New Yorker Cartoon Caption Contest",
+    "description": "This is an experiment to see if an AI program can produce humor.",
+    "url": "https://pudding.cool/projects/projects_caption-contest/",
+    "date": "Unknown date",
+    "keywords": [
+      "comedy",
+      "ai",
+      "artificial intelligence",
+      "gpt-3",
+      "computer",
+      "computer generated",
+      "caption",
+      "cartoon",
+      "new yorker",
+      "contest",
+      "vote"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora",
+      "Pamela Mishkin"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_caption-contest.jpg"
+  },
+  {
+    "id": "2022_01_deepwork",
+    "headline": "Deepwork",
+    "description": "A satire about the future of job hunting.",
+    "url": "https://pudding.cool/projects/2022_01_deepwork/",
+    "date": "2022-01-01",
+    "keywords": [
+      "deepwork",
+      "satire",
+      "humor",
+      "comedy",
+      "deepfake",
+      "ai",
+      "machine learning",
+      "gpt-2",
+      "jobs",
+      "bias"
+    ],
+    "authors": [
+      "Jess Peter"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_01_deepwork.jpg"
+  },
+  {
+    "id": "2021_12_sesame",
+    "headline": "The Hidden Risks of Sesame Allergies",
+    "description": "What we learned from reading the labels of 200 crackers.",
+    "url": "https://pudding.cool/projects/2021_12_sesame/",
+    "date": "2021-12-01",
+    "keywords": [
+      "sesame",
+      "allergies",
+      "allergy",
+      "food",
+      "risks",
+      "reaction",
+      "grocery",
+      "8-bit",
+      "pixel",
+      "animation"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Michelle Pera-McGhee"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_12_sesame.jpg"
+  },
+  {
+    "id": "2021_10_lenna",
+    "headline": "Can Data Die? Tracking the Lenna Image",
+    "description": "Why one of the internet’s oldest images lives on without its subject’s consent",
+    "url": "https://pudding.cool/projects/2021_10_lenna/",
+    "date": "2021-10-01",
+    "keywords": [
+      "lenna",
+      "lena",
+      "playboy",
+      "image",
+      "processing",
+      "meme",
+      "photo",
+      "jpeg",
+      "data",
+      "privacy",
+      "rights",
+      "internet"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Michelle Pera-McGhee",
+      "Jennifer Ding"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_10_lenna.jpg"
+  },
+  {
+    "id": "2021_10_judge-my-music",
+    "headline": "How Bad is Your Streaming Music?",
+    "description": "Our sophisticated A.I. judges your awful taste in music.",
+    "url": "https://pudding.cool/projects/2021_10_judge-my-music/",
+    "date": "2021-10-01",
+    "keywords": [
+      "music",
+      "spotifiy",
+      "bad",
+      "rate",
+      "judge",
+      "roast",
+      "playlist"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Mike Lacher"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_10_judge-my-music.jpg"
+  },
+  {
+    "id": "2021_08_spades",
+    "headline": "How you play Spades is how you play life",
+    "description": "First-of-its kind data exploration of Spades in the African-American community",
+    "url": "https://pudding.cool/projects/2021_08_spades/",
+    "date": "2021-08-01",
+    "keywords": [
+      "spades",
+      "card game",
+      "black",
+      "african-american",
+      "card",
+      "community",
+      "survey",
+      "deck",
+      "play",
+      "game"
+    ],
+    "authors": [
+      "Gabrielle Hickmon"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_08_spades.jpg"
+  },
+  {
+    "id": "2021_08_nba-carry",
+    "headline": "Ranking the Biggest NBA Finals Carry Jobs",
+    "description": "It is mostly LeBron James.",
+    "url": "https://pudding.cool/projects/2021_08_nba-carry/",
+    "date": "2021-08-01",
+    "keywords": [
+      "basketball",
+      "nba",
+      "final",
+      "rank",
+      "carry"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_08_nba-carry.jpg"
+  },
+  {
+    "id": "2021_07_rickrolling",
+    "headline": "A Visual History of Rickrolling",
+    "description": "Millions of comments, posts, and links, charted.",
+    "url": "https://pudding.cool/projects/2021_07_rickrolling/",
+    "date": "2021-07-01",
+    "keywords": [
+      "music",
+      "rick astley",
+      "rickroll",
+      "video",
+      "meme"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_07_rickrolling.jpg"
+  },
+  {
+    "id": "2021_06_same-gender-lyrics",
+    "headline": "“I Kissed A Girl” to “Call Me By Your Name”",
+    "description": "A story about hearing yourself in same-gender lyrics for the first time",
+    "url": "https://pudding.cool/projects/2021_06_same-gender-lyrics/",
+    "date": "2021-06-01",
+    "keywords": [
+      "music",
+      "queer",
+      "song",
+      "lyric",
+      "language",
+      "gender",
+      "representation",
+      "diversity",
+      "lgbtq",
+      "celebrities",
+      "celebrity",
+      "katy perry",
+      "lil nas x",
+      "i kissed a girl",
+      "call me by your name"
+    ],
+    "authors": [
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_06_same-gender-lyrics.jpg"
+  },
+  {
+    "id": "2021_04_solo",
+    "headline": "How many artists overshadow their band after going solo?",
+    "description": "What the data say about Beyoncé, Nick Lachey, and others.",
+    "url": "https://pudding.cool/projects/2021_04_solo/",
+    "date": "2021-04-01",
+    "keywords": [
+      "music",
+      "solo",
+      "artist",
+      "band",
+      "group",
+      "celebrities",
+      "celebrity"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_04_solo.jpg"
+  },
+  {
+    "id": "2021_04_music-bubble",
+    "headline": "Get out of your geographic music bubble",
+    "description": "The songs that are popular, far away from you.",
+    "url": "https://pudding.cool/projects/2021_04_music-bubble/",
+    "date": "2021-04-01",
+    "keywords": [
+      "music",
+      "geography",
+      "bubble",
+      "map",
+      "youtube",
+      "song"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_04_music-bubble.jpg"
+  },
+  {
+    "id": "2021_03_covid-science",
+    "headline": "How Science Came Together During COVID-19",
+    "description": "A look at the global research effort to combat the coronavirus pandemic.",
+    "url": "https://pudding.cool/projects/2021_03_covid-science/",
+    "date": "2021-03-01",
+    "keywords": [
+      "science",
+      "covid",
+      "research",
+      "coronavirus",
+      "covid-19",
+      "study"
+    ],
+    "authors": [
+      "Jeff MacInnes"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_03_covid-science.jpg"
+  },
+  {
+    "id": "2021_03_foundation-names",
+    "headline": "The Naked Truth",
+    "description": "How the names of 6,816 complexion products can reveal bias in beauty.",
+    "url": "https://pudding.cool/projects/2021_03_foundation-names/",
+    "date": "2021-03-01",
+    "keywords": [
+      "diversity",
+      "equality",
+      "makeup",
+      "foundation",
+      "beauty",
+      "skin",
+      "color"
+    ],
+    "authors": [
+      "Amber Thomas",
+      "Ofunne Amaka"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_03_foundation-names.jpg"
+  },
+  {
+    "id": "2021_03_wine-model",
+    "headline": "Wine & Math: A Model Pairing",
+    "description": "We built a model that attempts to predict a wine’s quality.",
+    "url": "https://pudding.cool/projects/2021_03_wine-model/",
+    "date": "2021-03-01",
+    "keywords": [
+      "wine",
+      "math",
+      "predictive model"
+    ],
+    "authors": [
+      "Lars Verspohl"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_03_wine-model.jpg"
+  },
+  {
+    "id": "2021_03_love-and-ai",
+    "headline": "Nothing Breaks Like A.I. Heart",
+    "description": "An essay about artificial and emotional intelligence and finding an ending.",
+    "url": "https://pudding.cool/projects/2021_03_love-and-ai/",
+    "date": "2021-03-01",
+    "keywords": [
+      "language",
+      "relationship",
+      "ai",
+      "artificial intelligence",
+      "gpt-3",
+      "computer generated",
+      "computer",
+      "love"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Jan Diehm",
+      "Pamela Mishkin"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_03_love-and-ai.jpg"
+  },
+  {
+    "id": "2021_02_jukebox",
+    "headline": "Introducing the Live Music Analyst",
+    "description": "An auditory comparison of 770 artists’ live and studio tracks",
+    "url": "https://pudding.cool/projects/2021_02_jukebox/",
+    "date": "2021-02-01",
+    "keywords": [
+      "music",
+      "performance",
+      "live",
+      "compare",
+      "analyst",
+      "song"
+    ],
+    "authors": [
+      "Kevin Litman-Navarro",
+      "Kat Wilson"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_02_jukebox.jpg"
+  },
+  {
+    "id": "2021_01_cool",
+    "headline": "Every time someone says cool in Community",
+    "description": "Watch all 412 cools from Abed, and others.",
+    "url": "https://pudding.cool/projects/2021_01_cool/",
+    "date": "2021-01-01",
+    "keywords": [
+      "television",
+      "cool",
+      "community",
+      "tv",
+      "show",
+      "language",
+      "video"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_01_cool.jpg"
+  },
+  {
+    "id": "2021_01_oreo",
+    "headline": "Oreos and the Art of Crossword Puzzle Construction",
+    "description": "A chronicle of a controversial cookie and condiment crossword clue.",
+    "url": "https://pudding.cool/projects/2021_01_oreo/",
+    "date": "2021-01-01",
+    "keywords": [
+      "crossword",
+      "puzzle",
+      "play",
+      "game",
+      "oreo",
+      "sandwich cookie",
+      "language"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_01_oreo.jpg"
+  },
+  {
+    "id": "2020_12_lighting-cost",
+    "headline": "The Historical Cost of Light",
+    "description": "How difficult was it to obtain artificial light before the 19th century? Well...",
+    "url": "https://pudding.cool/projects/2020_12_lighting-cost/",
+    "date": "2020-12-01",
+    "keywords": [
+      "history",
+      "light",
+      "cost",
+      "illumination",
+      "price"
+    ],
+    "authors": [
+      "Ilia Blinderman",
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_12_lighting-cost.jpg"
+  },
+  {
+    "id": "2020_11_crossword",
+    "headline": "Who’s in the Crossword?",
+    "description": "A look at representation and inclusivity in crossword puzzles.",
+    "url": "https://pudding.cool/projects/2020_11_crossword/",
+    "date": "2020-11-01",
+    "keywords": [
+      "equality",
+      "crossword",
+      "puzzle",
+      "play",
+      "game",
+      "race",
+      "gender",
+      "language",
+      "diversity"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Jan Diehm",
+      "Michelle Pera-McGhee"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_11_crossword.jpg"
+  },
+  {
+    "id": "2020_11_crossword-puzzles",
+    "headline": "Playble Puzzles About Race and Gender in Crosswords",
+    "description": "Minis generated from an analysis of the New York Times, and others.",
+    "url": "https://pudding.cool/projects/2020_11_crossword-puzzles/",
+    "date": "2020-11-01",
+    "keywords": [
+      "equality",
+      "crossword",
+      "puzzle",
+      "play",
+      "game",
+      "race",
+      "gender",
+      "language",
+      "diversity"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Michelle Pera-McGhee",
+      "Amelia Wattenberger"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_11_crossword-puzzles.jpg"
+  },
+  {
+    "id": "2020_11_cloud-zoo",
+    "headline": "Welcome to the Cloud Zoo",
+    "description": "Live-streamed animals from your favorite zoos and aquariums all in one place",
+    "url": "https://pudding.cool/projects/2020_11_cloud-zoo/",
+    "date": "2020-11-01",
+    "keywords": [
+      "zoo",
+      "animal",
+      "video",
+      "cloud",
+      "virtual",
+      "web cam",
+      "live"
+    ],
+    "authors": [
+      "Amber Thomas",
+      "RJ Andrews"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_11_cloud-zoo.jpg"
+  },
+  {
+    "id": "2020_10_police-misconduct",
+    "headline": "How officer complaints are investigated",
+    "description": "A case study of Philadelphia police",
+    "url": "https://pudding.cool/projects/2020_10_police-misconduct/",
+    "date": "2020-10-01",
+    "keywords": [
+      "police",
+      "equality",
+      "criminal justice",
+      "race",
+      "racism",
+      "philadelphia",
+      "cop",
+      "complaint"
+    ],
+    "authors": [
+      "Sam Learner"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_10_police-misconduct.jpg"
+  },
+  {
+    "id": "2020_10_photo-history",
+    "headline": "This is an Experiment about How We View History",
+    "description": "We’re going to show you some photos and ask you when each picture was taken.",
+    "url": "https://pudding.cool/projects/2020_10_photo-history/",
+    "date": "2020-10-01",
+    "keywords": [
+      "history",
+      "design",
+      "image",
+      "photo",
+      "quiz",
+      "date",
+      "year",
+      "color"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_10_photo-history.jpg"
+  },
+  {
+    "id": "2020_09_wedding-playlists",
+    "headline": "A Data-Led Theory to Generationally Divide Dance Floors",
+    "description": "Some age groups are more likely to recognize certain songs than others",
+    "url": "https://pudding.cool/projects/2020_09_wedding-playlists/",
+    "date": "2020-09-01",
+    "keywords": [
+      "music",
+      "generation",
+      "age",
+      "history",
+      "song",
+      "dance floor"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Liana Sposto"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_09_wedding-playlists.jpg"
+  },
+  {
+    "id": "2020_08_income",
+    "headline": "How rigid is the middle class in the US, really?",
+    "description": "Exploring the economic mobility of 11,172 middle class families over 50 years",
+    "url": "https://pudding.cool/projects/2020_08_income/",
+    "date": "2020-08-01",
+    "keywords": [
+      "politics",
+      "equality",
+      "america",
+      "united states",
+      "middle class",
+      "income",
+      "economy",
+      "economics",
+      "money",
+      "ridig",
+      "mobile",
+      "mobility"
+    ],
+    "authors": [
+      "Amber Thomas",
+      "Alice Feng"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_08_income.jpg"
+  },
+  {
+    "id": "2020_08_campaign-colors",
+    "headline": "How candidate diversity impacts color diversity",
+    "description": "We examined 271 presidential designs from 1968–2020.",
+    "url": "https://pudding.cool/projects/2020_08_campaign-colors/",
+    "date": "2020-08-01",
+    "keywords": [
+      "politics",
+      "design",
+      "democrat",
+      "republican",
+      "red",
+      "blue",
+      "white",
+      "america",
+      "united states",
+      "color",
+      "poster",
+      "logo",
+      "race",
+      "gender",
+      "president",
+      "election",
+      "diversity",
+      "repsentation"
+    ],
+    "authors": [
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_08_campaign-colors.jpg"
+  },
+  {
+    "id": "projects_newsletter",
+    "headline": "Winning the Internet",
+    "description": "A data-driven newsletter of links in other newsletters.",
+    "url": "https://pudding.cool/projects/projects_newsletter/",
+    "date": "Unknown date",
+    "keywords": [
+      "new",
+      "newsletter",
+      "email",
+      "win",
+      "inbox",
+      "internet",
+      "link"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_newsletter.jpg"
+  },
+  {
+    "id": "2020_07_song-decay",
+    "headline": "Defining the ’90s Music Canon",
+    "description": "Quantifying the songs that will characterize the ’90s",
+    "url": "https://pudding.cool/projects/2020_07_song-decay/",
+    "date": "2020-07-01",
+    "keywords": [
+      "music",
+      "1990s",
+      "nineties",
+      "song",
+      "canon",
+      "hit",
+      "chart"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Ilia Blinderman"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_07_song-decay.jpg"
+  },
+  {
+    "id": "2020_07_gendered-descriptions",
+    "headline": "The Physical Traits that Define Men and Women in Literature",
+    "description": "An analysis of 2,000 books and how body parts are described, by gender.",
+    "url": "https://pudding.cool/projects/2020_07_gendered-descriptions/",
+    "date": "2020-07-01",
+    "keywords": [
+      "book",
+      "gender",
+      "literature",
+      "language",
+      "sex",
+      "men",
+      "women",
+      "trait",
+      "physical"
+    ],
+    "authors": [
+      "Erin Davis",
+      "Liana Sposto"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_07_gendered-descriptions.jpg"
+  },
+  {
+    "id": "2020_06_karen",
+    "headline": "You Know Karen",
+    "description": "We found names that could be “other Karens,” \"male Karens,\" and “future Karens.”",
+    "url": "https://pudding.cool/projects/2020_06_karen/",
+    "date": "2020-06-01",
+    "keywords": [
+      "karen",
+      "name",
+      "meme",
+      "race",
+      "culture",
+      "racism"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Amber Thomas",
+      "Sara Stoudt"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_06_karen.jpg"
+  },
+  {
+    "id": "2020_05_travel-local",
+    "headline": "A Data-driven Trip Through the USA",
+    "description": "A travel-like-a-local guide to 74,762 attractions according to 9,526,193 reviews",
+    "url": "https://pudding.cool/projects/2020_05_travel-local/",
+    "date": "2020-05-01",
+    "keywords": [
+      "america",
+      "travel",
+      "visit",
+      "united states",
+      "trip",
+      "tripadvisor",
+      "things to do",
+      "map",
+      "geography"
+    ],
+    "authors": [
+      "Ilia Blinderman"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_05_travel-local.jpg"
+  },
+  {
+    "id": "2020_05_wrestling",
+    "headline": "An Illustrated Guide to Masked Wrestlers",
+    "description": "Stories, facts, and pixel art drawings of hundreds of masked wrestlers.",
+    "url": "https://pudding.cool/projects/2020_05_wrestling/",
+    "date": "2020-05-01",
+    "keywords": [
+      "sports",
+      "mask",
+      "wrestling",
+      "lucha libre",
+      "luchador",
+      "pixel",
+      "wrestle"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Jan Diehm",
+      "Gwendal Uguen"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_05_wrestling.jpg"
+  },
+  {
+    "id": "2020_04_music-challenge",
+    "headline": "Identifying Generational Gaps in Music",
+    "description": "Do you recognize songs from history more than people your age?",
+    "url": "https://pudding.cool/projects/2020_04_music-challenge/",
+    "date": "2020-04-01",
+    "keywords": [
+      "music",
+      "generation",
+      "age",
+      "quiz",
+      "history",
+      "song"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_04_music-challenge.jpg"
+  },
+  {
+    "id": "2020_04_infinite",
+    "headline": "The Infinite Monkey Theorem Experiment",
+    "description": "What happens when you combine music, Joe Rogan, and probability?",
+    "url": "https://pudding.cool/projects/2020_04_infinite/",
+    "date": "2020-04-01",
+    "keywords": [
+      "explainer",
+      "infinite",
+      "monkey",
+      "music",
+      "piano",
+      "song",
+      "experiment"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_04_infinite.jpg"
+  },
+  {
+    "id": "2020_04_kidz-bop",
+    "headline": "Just How Does Kidz Bop Censor Songs?",
+    "description": "We looked at 19 years of albums to find out what gets the black bar.",
+    "url": "https://pudding.cool/projects/2020_04_kidz-bop/",
+    "date": "2020-04-01",
+    "keywords": [
+      "music",
+      "kidz bop",
+      "censor",
+      "lyric",
+      "song"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Amber Thomas",
+      "Sara Stoudt"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_04_kidz-bop.jpg"
+  },
+  {
+    "id": "2020_03_census-history",
+    "headline": "The Evolution of the American Census",
+    "description": "What do the questions reveal about American culture and society?",
+    "url": "https://pudding.cool/projects/2020_03_census-history/",
+    "date": "2020-03-01",
+    "keywords": [
+      "history",
+      "census",
+      "united states",
+      "america",
+      "population",
+      "demographic",
+      "people"
+    ],
+    "authors": [
+      "Alec Barrett"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_03_census-history.jpg"
+  },
+  {
+    "id": "2020_03_gifs",
+    "headline": "The Emotional GIF Range of Celebs",
+    "description": "Breaking down how celebrities are used to convey feelings.",
+    "url": "https://pudding.cool/projects/2020_03_gifs/",
+    "date": "2020-03-01",
+    "keywords": [
+      "culture",
+      "gif",
+      "celebrities",
+      "emotion",
+      "meme"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Charlie Smart"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_03_gifs.jpg"
+  },
+  {
+    "id": "2020_02_rain",
+    "headline": "Where will you need your umbrella?",
+    "description": "Seattle may be further down that list than you’d think.",
+    "url": "https://pudding.cool/projects/2020_02_rain/",
+    "date": "2020-02-01",
+    "keywords": [
+      "climate",
+      "weather",
+      "rain",
+      "seattle",
+      "precipitation",
+      "cities",
+      "city",
+      "united states",
+      "america"
+    ],
+    "authors": [
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_02_rain.jpg"
+  },
+  {
+    "id": "2020_02_authors",
+    "headline": "Do Authors Write Where They Know?",
+    "description": "Examining how far authors set their books from where they’ve lived.",
+    "url": "https://pudding.cool/projects/2020_02_authors/",
+    "date": "2020-02-01",
+    "keywords": [
+      "geography",
+      "book",
+      "author",
+      "literature"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Amber Thomas",
+      "Simran Vatsa"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_02_authors.jpg"
+  },
+  {
+    "id": "2020_01_diaspora",
+    "headline": "Where International Communities Cluster",
+    "description": "America has often been called a nation of immigrants. Here’s where they settled.",
+    "url": "https://pudding.cool/projects/2020_01_diaspora/",
+    "date": "2020-01-01",
+    "keywords": [
+      "america",
+      "international",
+      "geography",
+      "map",
+      "diaspora",
+      "diversity"
+    ],
+    "authors": [
+      "Ilia Blinderman",
+      "Isabel Carter"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_01_diaspora.jpg"
+  },
+  {
+    "id": "2020_01_apology",
+    "headline": "The Aftermath of a YouTube Apology",
+    "description": "Quantifying the lasting impact of a YouTube controversy.",
+    "url": "https://pudding.cool/projects/2020_01_apology/",
+    "date": "2020-01-01",
+    "keywords": [
+      "media",
+      "youtube",
+      "apology",
+      "apologies",
+      "celebrities",
+      "celebrities",
+      "video",
+      "sorry",
+      "controversy"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Arjun Kakkar"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_01_apology.jpg"
+  },
+  {
+    "id": "2019_12_real-mvp",
+    "headline": "The Worst, Highest-Paid NBA Player, Ever",
+    "description": "Using advanced NBA stats to rank player performance against pay.",
+    "url": "https://pudding.cool/projects/2019_12_real-mvp/",
+    "date": "2019-12-01",
+    "keywords": [
+      "sports",
+      "nba",
+      "basketball",
+      "video",
+      "worst",
+      "player"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_12_real-mvp.jpg"
+  },
+  {
+    "id": "2019_11_big-hair",
+    "headline": "The Big Data of Big Hair",
+    "description": "Investigating when big hair was at its height.",
+    "url": "https://pudding.cool/projects/2019_11_big-hair/",
+    "date": "2019-11-01",
+    "keywords": [
+      "images",
+      "history",
+      "hair",
+      "deep learing",
+      "neural network",
+      "video",
+      "style",
+      "fashion",
+      "men",
+      "women",
+      "gender"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Elle O’Brien"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_11_big-hair.jpg"
+  },
+  {
+    "id": "2019_10_laugh",
+    "headline": "Laughing OnLine",
+    "description": "Exploring the usage, evolution, and perception of digital laughter.",
+    "url": "https://pudding.cool/projects/2019_10_laugh/",
+    "date": "2019-10-01",
+    "keywords": [
+      "language",
+      "laugh",
+      "lol",
+      "word",
+      "text",
+      "online",
+      "internet"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Jan Diehm",
+      "Caitlyn Ralph",
+      "Kishan Sheth"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_laugh.jpg"
+  },
+  {
+    "id": "2019_10_prosecutors",
+    "headline": "The Kim Foxx Effect",
+    "description": "Measuring the data behind a promise to transform prosecution.",
+    "url": "https://pudding.cool/projects/2019_10_prosecutors/",
+    "date": "2019-10-01",
+    "keywords": [
+      "politics",
+      "incarceration",
+      "criminal justice",
+      "kim foxx",
+      "chicago",
+      "cook county",
+      "attorney",
+      "prosecution"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_prosecutors.jpg"
+  },
+  {
+    "id": "2019_10_shelters",
+    "headline": "Where Do Adoptable Dogs in Your State Come From?",
+    "description": "It may be further than you think.",
+    "url": "https://pudding.cool/projects/2019_10_shelters/",
+    "date": "2019-10-01",
+    "keywords": [
+      "america",
+      "dog",
+      "adoption",
+      "map",
+      "geography",
+      "animal",
+      "pup"
+    ],
+    "authors": [
+      "Amber Thomas",
+      "Sacha Maxim"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_shelters.jpg"
+  },
+  {
+    "id": "2019_10_pubs",
+    "headline": "Ye Olde Mad-Lib Pub Crawl Generator",
+    "description": "Finding the shortest route between UK pubs of the same name.",
+    "url": "https://pudding.cool/projects/2019_10_pubs/",
+    "date": "2019-10-01",
+    "keywords": [
+      "geography",
+      "food",
+      "pub",
+      "beer",
+      "brew",
+      "united kingdom",
+      "map",
+      "england",
+      "drink",
+      "pint"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Caitlyn Ralph"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_pubs.jpg"
+  },
+  {
+    "id": "2019_10_slang",
+    "headline": "Is “Ass” the Most Complicated Word in English?",
+    "description": "An investigation into the mutability of slang.",
+    "url": "https://pudding.cool/projects/2019_10_slang/",
+    "date": "2019-10-01",
+    "keywords": [
+      "language",
+      "ass",
+      "word",
+      "complicated",
+      "english"
+    ],
+    "authors": [
+      "Kevin Litman-Navarro"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_slang.jpg"
+  },
+  {
+    "id": "2019_09_millennials",
+    "headline": "The Millennial Question",
+    "description": "How does popular media see our generation?",
+    "url": "https://pudding.cool/projects/2019_09_millennials/",
+    "date": "2019-09-01",
+    "keywords": [
+      "language",
+      "millennial",
+      "headline",
+      "kill",
+      "news",
+      "media"
+    ],
+    "authors": [
+      "Ilia Blinderman",
+      "Jan Diehm",
+      "Alexandra Saizan"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_09_millennials.jpg"
+  },
+  {
+    "id": "2019_08_register",
+    "headline": "Are Men Singing Higher in Pop Music?",
+    "description": "Men’s voices in pop music seem really high. When was vocal register the highest?",
+    "url": "https://pudding.cool/projects/2019_08_register/",
+    "date": "2019-08-01",
+    "keywords": [
+      "music",
+      "history",
+      "falsetto",
+      "sing",
+      "pop",
+      "range",
+      "vocal",
+      "high"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_08_register.jpg"
+  },
+  {
+    "id": "2019_07_book-covers",
+    "headline": "Top-Selling Book Covers, Arranged by Visual Similarity",
+    "description": "An interactive map of over 5,000 book covers, organized by machine learning",
+    "url": "https://pudding.cool/projects/2019_07_book-covers/",
+    "date": "2019-07-01",
+    "keywords": [
+      "books",
+      "cover",
+      "best seller",
+      "literature",
+      "image"
+    ],
+    "authors": [
+      "Jess Peter"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_07_book-covers.jpg"
+  },
+  {
+    "id": "2019_06_summer-reading",
+    "headline": "Hipster Summer Reading List 2019",
+    "description": "An artisanal guide to obscure books based on 100 million checkout records.",
+    "url": "https://pudding.cool/projects/2019_06_summer-reading/",
+    "date": "2019-06-01",
+    "keywords": [
+      "books",
+      "hipster",
+      "read",
+      "list",
+      "2019",
+      "library",
+      "literature"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_06_summer-reading.jpg"
+  },
+  {
+    "id": "2019_06_science_etc_2",
+    "headline": "A Chronicle of the Anti-vaccination Movement",
+    "description": "How one unethical study on vaccines caused irreparable harm.",
+    "url": "https://pudding.cool/projects/2019_06_science_etc_2/",
+    "date": "2019-06-01",
+    "keywords": [
+      "health",
+      "science",
+      "vaccination",
+      "vaccine",
+      "research",
+      "study"
+    ],
+    "authors": [
+      "Ilia Blinderman"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_06_science_etc_2.jpg"
+  },
+  {
+    "id": "2019_06_people-map-uk",
+    "headline": "A People Map of the UK",
+    "description": "Where city names are replaced by their most Wikipedia’ed resident.",
+    "url": "https://pudding.cool/projects/2019_06_people-map-uk/",
+    "date": "2019-06-01",
+    "keywords": [
+      "wiki",
+      "geography",
+      "united kingdom",
+      "name",
+      "celebrity",
+      "celebrities",
+      "map",
+      "city",
+      "cities"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_06_people-map-uk.jpg"
+  },
+  {
+    "id": "2019_05_people-map",
+    "headline": "A People Map of the US",
+    "description": "Where city names are replaced by their most Wikipedia’ed resident.",
+    "url": "https://pudding.cool/projects/2019_05_people-map/",
+    "date": "2019-05-01",
+    "keywords": [
+      "wiki",
+      "geography",
+      "america",
+      "united states",
+      "city",
+      "cities",
+      "name",
+      "celebrity",
+      "celebrities",
+      "map"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_people-map.jpg"
+  },
+  {
+    "id": "2019_05_names-in-songs",
+    "headline": "How Often Names are in Songs",
+    "description": "Every song seems to be written about \"Baby\". Where does your name stack up?",
+    "url": "https://pudding.cool/projects/2019_05_names-in-songs/",
+    "date": "2019-05-01",
+    "keywords": [
+      "music",
+      "name",
+      "song",
+      "lyric"
+    ],
+    "authors": [
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_names-in-songs.jpg"
+  },
+  {
+    "id": "2019_05_science_etc_1",
+    "headline": "How Much Data Lies Behind the Paper You’re Reading?",
+    "description": "Want to access the raw data behind an academic paper? Good luck.",
+    "url": "https://pudding.cool/projects/2019_05_science_etc_1/",
+    "date": "2019-05-01",
+    "keywords": [
+      "science",
+      "research",
+      "data",
+      "study"
+    ],
+    "authors": [
+      "Ilia Blinderman"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_science_etc_1.jpg"
+  },
+  {
+    "id": "2019_05_hyphens",
+    "headline": "The Rise of Hyphenated Last Names in Pro Sports",
+    "description": "Since the 1990s names that arch over jerseys have become more common.",
+    "url": "https://pudding.cool/projects/2019_05_hyphens/",
+    "date": "2019-05-01",
+    "keywords": [
+      "sports",
+      "name",
+      "hyphen",
+      "language",
+      "basketball",
+      "baseball",
+      "football",
+      "hockey",
+      "soccer",
+      "diversity",
+      "representation"
+    ],
+    "authors": [
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_hyphens.jpg"
+  },
+  {
+    "id": "2019_05_three-seconds",
+    "headline": "The NBA Has a Defensive Three Seconds Problem",
+    "description": "NBA refs: stay in your lane. NBA players: don’t mind if we do.",
+    "url": "https://pudding.cool/projects/2019_05_three-seconds/",
+    "date": "2019-05-01",
+    "keywords": [
+      "basketball",
+      "nba",
+      "sports",
+      "ref",
+      "defensive",
+      "three seconds",
+      "defense",
+      "video"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Owen Phillips"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_three-seconds.jpg"
+  },
+  {
+    "id": "2019_04_vogue",
+    "headline": "Colorism in High Fashion",
+    "description": "We looked at 19 years of covers to see if Vogue represents women of all shades.",
+    "url": "https://pudding.cool/projects/2019_04_vogue/",
+    "date": "2019-04-01",
+    "keywords": [
+      "diversity",
+      "equality",
+      "fashion",
+      "colorism",
+      "vogue",
+      "skin",
+      "color",
+      "cover",
+      "model",
+      "women",
+      "magazine",
+      "shade",
+      "tone",
+      "representation"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Amber Thomas",
+      "Malaika Handa"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_04_vogue.jpg"
+  },
+  {
+    "id": "2019_04_eu-regions",
+    "headline": "Why Budapest, Warsaw, and Lithuania split themselves in two",
+    "description": "Explaining how the European Union calculates wealth distribution",
+    "url": "https://pudding.cool/projects/2019_04_eu-regions/",
+    "date": "2019-04-01",
+    "keywords": [
+      "politics",
+      "europe",
+      "map",
+      "countries",
+      "country",
+      "eu",
+      "european union",
+      "economy",
+      "economics",
+      "region",
+      "border",
+      "district",
+      "boundary",
+      "budapest",
+      "warsaw",
+      "lithuania"
+    ],
+    "authors": [
+      "Maarten Lambrechts"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_04_eu-regions.jpg"
+  },
+  {
+    "id": "2018_06_music-map",
+    "headline": "The Cultural Borders of Songs",
+    "description": "We mapped last month’s #1 songs in 3,000 places. ",
+    "url": "https://pudding.cool/projects/2018_06_music-map/",
+    "date": "2018-06-01",
+    "keywords": [
+      "geography",
+      "music",
+      "map",
+      "border",
+      "song"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_06_music-map.jpg"
+  },
+  {
+    "id": "projects_music-history",
+    "headline": "Best Year in Music",
+    "description": "A journey through every Billboard top 5 hit to find music’s greatest era",
+    "url": "https://pudding.cool/projects/projects_music-history/",
+    "date": "Unknown date",
+    "keywords": [
+      "music",
+      "history",
+      "year",
+      "best",
+      "hit",
+      "chart",
+      "song"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_music-history.jpg"
+  },
+  {
+    "id": "2019_04_text-prediction",
+    "headline": "How Algorithms Know What You’ll Type Next",
+    "description": "Exploring how text prediction really works",
+    "url": "https://pudding.cool/projects/2019_04_text-prediction/",
+    "date": "2019-04-01",
+    "keywords": [
+      "language",
+      "explainer",
+      "algorithms",
+      "tech",
+      "type",
+      "word",
+      "text",
+      "predictive text"
+    ],
+    "authors": [
+      "Antal van den Bosch",
+      "Wessel Stoop"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_04_text-prediction.jpg"
+  },
+  {
+    "id": "projects_votes-for-women",
+    "headline": "Women’s Issues Within Political Party Platforms",
+    "description": "How often do women’s issues appear in party platform documents over time?",
+    "url": "https://pudding.cool/projects/projects_votes-for-women/",
+    "date": "Unknown date",
+    "keywords": [
+      "america",
+      "gender",
+      "history",
+      "politics",
+      "women",
+      "united states",
+      "platform",
+      "democrat",
+      "republican",
+      "national portrait gallery",
+      "npg",
+      "language"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_votes-for-women.jpg"
+  },
+  {
+    "id": "2019_03_nba-spelling",
+    "headline": "NBA Spelling Bee",
+    "description": "Can you spell the hardest names in the NBA?",
+    "url": "https://pudding.cool/projects/2019_03_nba-spelling/",
+    "date": "2019-03-01",
+    "keywords": [
+      "explainer",
+      "basketball",
+      "sports",
+      "language",
+      "celebrity",
+      "celebrities",
+      "spell",
+      "quiz",
+      "name"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_03_nba-spelling.jpg"
+  },
+  {
+    "id": "2019_03_pop-music",
+    "headline": "Who is the Biggest Pop Star?",
+    "description": "Today, there’s no single way to measure popularity in music.",
+    "url": "https://pudding.cool/projects/2019_03_pop-music/",
+    "date": "2019-03-01",
+    "keywords": [
+      "music",
+      "pop",
+      "celebrity",
+      "celebrities",
+      "fame"
+    ],
+    "authors": [
+      "The Pudding Team"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_03_pop-music.jpg"
+  },
+  {
+    "id": "2019_03_hype",
+    "headline": "How Many High School Stars Make It in the NBA?",
+    "description": "Every year the top high school basketball recruits get hyped up—do they pan out?",
+    "url": "https://pudding.cool/projects/2019_03_hype/",
+    "date": "2019-03-01",
+    "keywords": [
+      "basketball",
+      "sports",
+      "nba",
+      "high school",
+      "star"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_03_hype.jpg"
+  },
+  {
+    "id": "2019_02_gyllenhaal",
+    "headline": "The Gyllenhaal Experiment",
+    "description": "The many ways to misspell the hardest names in pop culture.",
+    "url": "https://pudding.cool/projects/2019_02_gyllenhaal/",
+    "date": "2019-02-01",
+    "keywords": [
+      "explainer",
+      "language",
+      "celebrity",
+      "celebrities",
+      "spell",
+      "quiz",
+      "name"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_02_gyllenhaal.jpg"
+  },
+  {
+    "id": "2019_02_dress-code-sexualization",
+    "headline": "The Sexualized Messages Dress Codes are Sending to Students",
+    "description": "What we learned about sexualization from analyzing 481 high school dress codes",
+    "url": "https://pudding.cool/projects/2019_02_dress-code-sexualization/",
+    "date": "2019-02-01",
+    "keywords": [
+      "gender",
+      "equality",
+      "explainer",
+      "fashion",
+      "dress code",
+      "school",
+      "sex",
+      "men",
+      "women",
+      "girl",
+      "boy"
+    ],
+    "authors": [
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_02_dress-code-sexualization.jpg"
+  },
+  {
+    "id": "projects_vocabulary",
+    "headline": "Rappers, Sorted by the Size of their Vocabulary",
+    "description": "The number of unique lyrics used within artists’ first 35,000 lyrics",
+    "url": "https://pudding.cool/projects/projects_vocabulary/",
+    "date": "Unknown date",
+    "keywords": [
+      "hip hop",
+      "music",
+      "rap",
+      "vocabulary",
+      "lyric",
+      "artist",
+      "size"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_vocabulary.jpg"
+  },
+  {
+    "id": "2018_12_brief-history",
+    "headline": "A Brief History of the Past 100 Years",
+    "description": "An analysis of 12 decades of New York Times headlines",
+    "url": "https://pudding.cool/projects/2018_12_brief-history/",
+    "date": "2018-12-01",
+    "keywords": [
+      "history",
+      "america",
+      "news",
+      "media",
+      "new york times",
+      "headline",
+      "language",
+      "united states",
+      "newspaper",
+      "word",
+      "nytimes"
+    ],
+    "authors": [
+      "Ilia Blinderman",
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_12_brief-history.jpg"
+  },
+  {
+    "id": "2018_12_countries",
+    "headline": "The World through the Eyes of the US",
+    "description": "The countries that have preoccupied Americans since 1900",
+    "url": "https://pudding.cool/projects/2018_12_countries/",
+    "date": "2018-12-01",
+    "keywords": [
+      "history",
+      "america",
+      "news",
+      "media",
+      "new york times",
+      "headlines",
+      "world",
+      "countries",
+      "country",
+      "newspaper",
+      "nytimes",
+      "flags"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_12_countries.jpg"
+  },
+  {
+    "id": "2018_12_3d-cities-story",
+    "headline": "Population Mountains",
+    "description": "This is a story about how to perceive the population size of cities.",
+    "url": "https://pudding.cool/projects/2018_12_3d-cities-story/",
+    "date": "2018-12-01",
+    "keywords": [
+      "geography",
+      "population",
+      "world",
+      "map",
+      "mountain",
+      "3d",
+      "population mountains",
+      "data mountains"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_12_3d-cities-story.jpg"
+  },
+  {
+    "id": "2018_11_boy-bands",
+    "headline": "Internet Boy Band Database",
+    "description": "Every boy band to chart the Hot 100 since 1980",
+    "url": "https://pudding.cool/projects/2018_11_boy-bands/",
+    "date": "2018-11-01",
+    "keywords": [
+      "music",
+      "pop",
+      "boy band",
+      "nsync",
+      "backstreet boys",
+      "bts",
+      "song",
+      "hit"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Amber Thomas",
+      "Malik Yusuf"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_11_boy-bands.jpg"
+  },
+  {
+    "id": "2018_11_dearabby",
+    "headline": "30 Years of American Anxieties",
+    "description": "What 20,000 letters to an advice columnist tell us about what concerns us most.",
+    "url": "https://pudding.cool/projects/2018_11_dearabby/",
+    "date": "2018-11-01",
+    "keywords": [
+      "relationships",
+      "anxieties",
+      "anxiety",
+      "dear abby",
+      "letter",
+      "language",
+      "ibm"
+    ],
+    "authors": [
+      "Ilia Blinderman",
+      "Caitlyn Ralph"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_11_dearabby.jpg"
+  },
+  {
+    "id": "2018_11_titletowns",
+    "headline": "The Winningest Cities in North American Sports",
+    "description": "What makes a titletown in sports?",
+    "url": "https://pudding.cool/projects/2018_11_titletowns/",
+    "date": "2018-11-01",
+    "keywords": [
+      "sports",
+      "geography",
+      "football",
+      "basketball",
+      "baseball",
+      "hockey",
+      "soccer",
+      "titletown",
+      "win",
+      "champ",
+      "champion",
+      "title",
+      "city",
+      "cities",
+      "north america",
+      "america",
+      "canada",
+      "united states"
+    ],
+    "authors": [
+      "Sam Vickars"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_11_titletowns.jpg"
+  },
+  {
+    "id": "2018_10_city_3d",
+    "headline": "Human Terrain: Population in 3D",
+    "description": "Visualizing the World’s Population as a Terrain",
+    "url": "https://pudding.cool/projects/2018_10_city_3d/",
+    "date": "2018-10-01",
+    "keywords": [
+      "geography",
+      "population",
+      "world",
+      "map",
+      "human",
+      "terrain",
+      "3d",
+      "data mountains",
+      "population mountains"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_10_city_3d.jpg"
+  },
+  {
+    "id": "2018_10_wiki-breakout",
+    "headline": "What Does the Path to Fame Look Like?",
+    "description": "Tracking the rise in popularity from Cardi B to Carson Wentz",
+    "url": "https://pudding.cool/projects/2018_10_wiki-breakout/",
+    "date": "2018-10-01",
+    "keywords": [
+      "wiki",
+      "celebrity",
+      "celebrities",
+      "fame",
+      "path"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Caitlyn Ralph"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_10_wiki-breakout.jpg"
+  },
+  {
+    "id": "2018_09_jordans",
+    "headline": "A Visual History of Every Air Jordan",
+    "description": "Watch as the design of the iconic Air Jordan morphs over the last 33 editions.",
+    "url": "https://pudding.cool/projects/2018_09_jordans/",
+    "date": "2018-09-01",
+    "keywords": [
+      "fashion",
+      "air jordan",
+      "shoe",
+      "basketball",
+      "michael jordan",
+      "sneaker",
+      "kick",
+      "jordan",
+      "brand",
+      "morph",
+      "svg"
+    ],
+    "authors": [
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_09_jordans.jpg"
+  },
+  {
+    "id": "2018_09_wiki-billboard",
+    "headline": "The Celebrity Billboard Project",
+    "description": "Tracking the popularity of cultural figures in 2018",
+    "url": "https://pudding.cool/projects/2018_09_wiki-billboard/",
+    "date": "2018-09-01",
+    "keywords": [
+      "wiki",
+      "celebrity",
+      "celebrities",
+      "billboard",
+      "popular"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Ilia Blinderman",
+      "Caitlyn Ralph"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_09_wiki-billboard.jpg"
+  },
+  {
+    "id": "2018_08_emo-rap",
+    "headline": "The Most Emo Lyrics: Emo Rap vs. Dashboard Confessional",
+    "description": "Who has more emotionally vulnerable lyrics, emo-rap or Dashboard Confessional?",
+    "url": "https://pudding.cool/projects/2018_08_emo-rap/",
+    "date": "2018-08-01",
+    "keywords": [
+      "music",
+      "emo",
+      "hip hop",
+      "lyric",
+      "rap"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_emo-rap.jpg"
+  },
+  {
+    "id": "2018_08_filmordigital",
+    "headline": "Film or Digital?",
+    "description": "Breaking down Hollywood’s choice of shooting medium",
+    "url": "https://pudding.cool/projects/2018_08_filmordigital/",
+    "date": "2018-08-01",
+    "keywords": [
+      "movie",
+      "film",
+      "digital",
+      "tech",
+      "video"
+    ],
+    "authors": [
+      "Damar Aji Pramudita"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_filmordigital.jpg"
+  },
+  {
+    "id": "2018_08_pockets",
+    "headline": "Women’s Pockets are Inferior",
+    "description": "You already know this. But now we’ve got the data to show it.",
+    "url": "https://pudding.cool/projects/2018_08_pockets/",
+    "date": "2018-08-01",
+    "keywords": [
+      "gender",
+      "equality",
+      "fashion",
+      "pocket",
+      "jean",
+      "women",
+      "size",
+      "jeans",
+      "pockets"
+    ],
+    "authors": [
+      "Jan Diehm",
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_pockets.jpg"
+  },
+  {
+    "id": "2018_08_wiki-death",
+    "headline": "Life After Death on Wikipedia",
+    "description": "What pageviews tell us about how famous people are remembered after they die",
+    "url": "https://pudding.cool/projects/2018_08_wiki-death/",
+    "date": "2018-08-01",
+    "keywords": [
+      "wiki",
+      "death",
+      "celebrities",
+      "dead",
+      "celebrity"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_wiki-death.jpg"
+  },
+  {
+    "id": "2018_08_retraining",
+    "headline": "Tech Jobs may not Solve America’s Looming Automation Crisis",
+    "description": "Tech retraining programs are becoming more popular. They may not be a solution.",
+    "url": "https://pudding.cool/projects/2018_08_retraining/",
+    "date": "2018-08-01",
+    "keywords": [
+      "jobs",
+      "automation",
+      "america",
+      "economy",
+      "tech",
+      "robot",
+      "economic",
+      "united states"
+    ],
+    "authors": [
+      "Ilia Blinderman",
+      "Jordan Dworkin"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_retraining.jpg"
+  },
+  {
+    "id": "2018_07_airports",
+    "headline": "What Airport Traffic Tells Us About the World’s Megacities",
+    "description": "Kinshasa, DR Congo, a city of 13 million has 13 departing flights per day.",
+    "url": "https://pudding.cool/projects/2018_07_airports/",
+    "date": "2018-07-01",
+    "keywords": [
+      "geography",
+      "airport",
+      "flight",
+      "city",
+      "cities",
+      "plane",
+      "airport",
+      "travel",
+      "world",
+      "map"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_07_airports.jpg"
+  },
+  {
+    "id": "2018_07_birth_control",
+    "headline": "Let’s Talk About Birth Control",
+    "description": "No TMI here, just 20,759 people describing their experiences with contraception.",
+    "url": "https://pudding.cool/projects/2018_07_birth_control/",
+    "date": "2018-07-01",
+    "keywords": [
+      "reproductive health",
+      "health",
+      "birth control",
+      "pregnant",
+      "pregnancy",
+      "women",
+      "cdc"
+    ],
+    "authors": [
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_07_birth_control.jpg"
+  },
+  {
+    "id": "2018_07_women-in-congress",
+    "headline": "The Road to Gender Parity in the House of Representatives",
+    "description": "Exploring 100 years of women in politics through data and machine learning",
+    "url": "https://pudding.cool/projects/2018_07_women-in-congress/",
+    "date": "2018-07-01",
+    "keywords": [
+      "gender",
+      "equality",
+      "politics",
+      "america",
+      "language",
+      "united states",
+      "congress",
+      "house of representatives",
+      "senate",
+      "representation"
+    ],
+    "authors": [
+      "Durand D’souza"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_07_women-in-congress.jpg"
+  },
+  {
+    "id": "2018_07_women-in-parliament",
+    "headline": "Gender Representation in Parliamentary Speeches",
+    "description": "Exploring 100 years of women in parliament through data and machine learning",
+    "url": "https://pudding.cool/projects/2018_07_women-in-parliament/",
+    "date": "2018-07-01",
+    "keywords": [
+      "gender",
+      "equality",
+      "politics",
+      "parliament",
+      "language",
+      "united kingdom",
+      "speech",
+      "house of commons",
+      "representation"
+    ],
+    "authors": [
+      "Durand D’souza"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_07_women-in-parliament.jpg"
+  },
+  {
+    "id": "2018_06_gayborhoods",
+    "headline": "Men are from Chelsea, Women are from Park Slope",
+    "description": "How “gayborhoods” in 15 major American cities are divided by gender",
+    "url": "https://pudding.cool/projects/2018_06_gayborhoods/",
+    "date": "2018-06-01",
+    "keywords": [
+      "lgbtq",
+      "neighborhood",
+      "queer",
+      "map",
+      "gender",
+      "gayborhood",
+      "men",
+      "women",
+      "city",
+      "cities"
+    ],
+    "authors": [
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_06_gayborhoods.jpg"
+  },
+  {
+    "id": "2018_06_makeup-shades",
+    "headline": "The Diversity of Makeup Shades",
+    "description": "Fenty Beauty is a champion for makeup inclusivity. How do other brands compare?",
+    "url": "https://pudding.cool/projects/2018_06_makeup-shades/",
+    "date": "2018-06-01",
+    "keywords": [
+      "diversity",
+      "equality",
+      "makeup",
+      "shade",
+      "color",
+      "beauty",
+      "skin",
+      "representation"
+    ],
+    "authors": [
+      "Amber Thomas",
+      "Jason Li",
+      "Divya Manian"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_06_makeup-shades.jpg"
+  },
+  {
+    "id": "2018_06_skate-music",
+    "headline": "The Good, the Rad, and the Gnarly",
+    "description": "An exploration into the music of skateboarding",
+    "url": "https://pudding.cool/projects/2018_06_skate-music/",
+    "date": "2018-06-01",
+    "keywords": [
+      "music",
+      "skate",
+      "genre",
+      "skateboard",
+      "rad",
+      "gnarly"
+    ],
+    "authors": [
+      "Jared Wilbur"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_06_skate-music.jpg"
+  },
+  {
+    "id": "2018_05_nba-top-plays",
+    "headline": "The Most-Viewed NBA Plays in 2017-18",
+    "description": "Warning: this video contains a high dosage of LeBron footage.",
+    "url": "https://pudding.cool/projects/2018_05_nba-top-plays/",
+    "date": "2018-05-01",
+    "keywords": [
+      "basketball",
+      "nba",
+      "sports",
+      "play",
+      "view",
+      "video",
+      "2017",
+      "2018",
+      "reddit"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_05_nba-top-plays.jpg"
+  },
+  {
+    "id": "2018_05_similarity",
+    "headline": "Are Hit Songs Becoming Less Musically Diverse?",
+    "description": "Today’s hit artists are take fewer risks and create a narrower range of sounds",
+    "url": "https://pudding.cool/projects/2018_05_similarity/",
+    "date": "2018-05-01",
+    "keywords": [
+      "music",
+      "pop",
+      "diversity",
+      "song",
+      "hit",
+      "diverse",
+      "sound"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Andrew Thompson"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_05_similarity.jpg"
+  },
+  {
+    "id": "2018_05_cookies",
+    "headline": "Baking the Most Average Chocolate Chip Cookie",
+    "description": "Cookie recipes written by computers — what could go wrong?",
+    "url": "https://pudding.cool/projects/2018_05_cookies/",
+    "date": "2018-05-01",
+    "keywords": [
+      "science",
+      "food",
+      "explainer",
+      "cookie",
+      "chocolate",
+      "chip",
+      "recipe",
+      "predictive text",
+      "algorithm",
+      "neutral network",
+      "average",
+      "experiment",
+      "video",
+      "bake",
+      "baking",
+      "cook",
+      "cooking"
+    ],
+    "authors": [
+      "Amber Thomas",
+      "Elle O’Brien"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_05_cookies.jpg"
+  },
+  {
+    "id": "2018_04_one-hit-wonders",
+    "headline": "One-Hit Wonders in Sports",
+    "description": "The greatest single-season anomalies in the last 30 years",
+    "url": "https://pudding.cool/projects/2018_04_one-hit-wonders/",
+    "date": "2018-04-01",
+    "keywords": [
+      "sports",
+      "basketball",
+      "one-hit",
+      "wonder",
+      "golf",
+      "baseball",
+      "tennis"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Jan Diehm"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_04_one-hit-wonders.jpg"
+  },
+  {
+    "id": "2018_04_birthday-paradox",
+    "headline": "The Birthday Paradox Experiment",
+    "description": "Your birthday twin is probably reading this right now. Because math.",
+    "url": "https://pudding.cool/projects/2018_04_birthday-paradox/",
+    "date": "2018-04-01",
+    "keywords": [
+      "science",
+      "explainer",
+      "birthday",
+      "paradox",
+      "experiment"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_04_birthday-paradox.jpg"
+  },
+  {
+    "id": "2018_03_neighborhoods",
+    "headline": "A Tale of Two Cities",
+    "description": "Using data to write love letters to the cities we call home",
+    "url": "https://pudding.cool/projects/2018_03_neighborhoods/",
+    "date": "2018-03-01",
+    "keywords": [
+      "geography",
+      "neighborhoods",
+      "map",
+      "cities",
+      "new york",
+      "nyc",
+      "seattle"
+    ],
+    "authors": [
+      "Ilia Blinderman",
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_03_neighborhoods.jpg"
+  },
+  {
+    "id": "2018_02_stand-up",
+    "headline": "The Structure of Stand-Up Comedy",
+    "description": "The genius of Ali Wong’s Netflix special",
+    "url": "https://pudding.cool/projects/2018_02_stand-up/",
+    "date": "2018-02-01",
+    "keywords": [
+      "comedy",
+      "ali wong",
+      "stand-up",
+      "language",
+      "laugh",
+      "climax",
+      "comedian",
+      "routine",
+      "structure"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_02_stand-up.jpg"
+  },
+  {
+    "id": "2018_02_waveforms",
+    "headline": "Let’s Learn About Waveforms",
+    "description": "An interactive guide that introduces and explores waveforms",
+    "url": "https://pudding.cool/projects/2018_02_waveforms/",
+    "date": "2018-02-01",
+    "keywords": [
+      "science",
+      "explainer",
+      "waveforms",
+      "sound",
+      "wave",
+      "hear"
+    ],
+    "authors": [
+      "Josh Comeau"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_02_waveforms.jpg"
+  },
+  {
+    "id": "2018_02_death",
+    "headline": "Limbo Lines: Dead Here, Alive There",
+    "description": "Brain death’s role in the uncertainties of death",
+    "url": "https://pudding.cool/projects/2018_02_death/",
+    "date": "2018-02-01",
+    "keywords": [
+      "america",
+      "geography",
+      "health",
+      "science",
+      "united states",
+      "limbo",
+      "death",
+      "dead",
+      "alive",
+      "life",
+      "live"
+    ],
+    "authors": [
+      "Beatrice Jin"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_02_death.jpg"
+  },
+  {
+    "id": "2018_02_restaurants",
+    "headline": "Mapping Gastronomic Borders in the US",
+    "description": "How US culture dictates geographic restaurant patterns",
+    "url": "https://pudding.cool/projects/2018_02_restaurants/",
+    "date": "2018-02-01",
+    "keywords": [
+      "america",
+      "food",
+      "geography",
+      "map",
+      "united states",
+      "border"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_02_restaurants.jpg"
+  },
+  {
+    "id": "2018_01_chyrons",
+    "headline": "How CNN, MSNBC, and FOX Cover the News",
+    "description": "The story you get depends on the channel you watch",
+    "url": "https://pudding.cool/projects/2018_01_chyrons/",
+    "date": "2018-01-01",
+    "keywords": [
+      "news",
+      "media",
+      "politics",
+      "language",
+      "chyron",
+      "cnn",
+      "fox",
+      "msnbs",
+      "word"
+    ],
+    "authors": [
+      "Charlie Smart"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_01_chyrons.jpg"
+  },
+  {
+    "id": "2017_12_hater",
+    "headline": "10 Things Everyone Hates About You",
+    "description": "Exploring over 30 million feelings towards 3,000+ topics",
+    "url": "https://pudding.cool/projects/2017_12_hater/",
+    "date": "2017-12-01",
+    "keywords": [
+      "relationships",
+      "hate",
+      "love",
+      "like",
+      "dislike",
+      "hater"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_12_hater.jpg"
+  },
+  {
+    "id": "2017_10_satellites",
+    "headline": "Seeing Earth from Outer Space",
+    "description": "A visual history of satellites",
+    "url": "https://pudding.cool/projects/2017_10_satellites/",
+    "date": "2017-10-01",
+    "keywords": [
+      "space",
+      "history",
+      "solar system",
+      "earth"
+    ],
+    "authors": [
+      "Matthew Conlen"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_10_satellites.jpg"
+  },
+  {
+    "id": "2017_10_asne",
+    "headline": "Newspapers: A Black & White Issue",
+    "description": "Measuring racial diversity in journalism",
+    "url": "https://pudding.cool/projects/2017_10_asne/",
+    "date": "2017-10-01",
+    "keywords": [
+      "news",
+      "media",
+      "equality",
+      "diversity",
+      "newspaper",
+      "gender",
+      "race"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_10_asne.jpg"
+  },
+  {
+    "id": "2017_10_superteams",
+    "headline": "What is a Superteam in the NBA?",
+    "description": "Defining what a superteam is with data",
+    "url": "https://pudding.cool/projects/2017_10_superteams/",
+    "date": "2017-10-01",
+    "keywords": [
+      "nba",
+      "basketball",
+      "sports",
+      "superteam"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_10_superteams.jpg"
+  },
+  {
+    "id": "2017_09_hip-hop-words",
+    "headline": "The Words That Are “Most Hip Hop”",
+    "description": "Using math to rank words that are central to artists’ vocabularies",
+    "url": "https://pudding.cool/projects/2017_09_hip-hop-words/",
+    "date": "2017-09-01",
+    "keywords": [
+      "hip hop",
+      "music",
+      "language",
+      "rap",
+      "lyric",
+      "word"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "The Data Face"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_09_hip-hop-words.jpg"
+  },
+  {
+    "id": "2017_09_this-american-life",
+    "headline": "Listen to Her: Gender on This American Life",
+    "description": "The story behind the gender divide on This American Life",
+    "url": "https://pudding.cool/projects/2017_09_this-american-life/",
+    "date": "2017-09-01",
+    "keywords": [
+      "gender",
+      "equality",
+      "radio",
+      "media",
+      "this american life",
+      "npr",
+      "men",
+      "women",
+      "representation",
+      "diversity"
+    ],
+    "authors": [
+      "Ash Ngu"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_09_this-american-life.jpg"
+  },
+  {
+    "id": "2017_09_clinics",
+    "headline": "An Analysis of Driving Times to Abortion Clinics in the US",
+    "description": "Mapping the cities and places with the worst access",
+    "url": "https://pudding.cool/projects/2017_09_clinics/",
+    "date": "2017-09-01",
+    "keywords": [
+      "reproductive health",
+      "health",
+      "america",
+      "geography",
+      "abortion",
+      "map",
+      "pregnant",
+      "pregnancy",
+      "roe",
+      "women",
+      "drive",
+      "driving",
+      "united states",
+      "distance",
+      "clinic"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Caitlyn Ralph",
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_09_clinics.jpg"
+  },
+  {
+    "id": "2017_08_screen-direction",
+    "headline": "She Giggles, He Gallops",
+    "description": "Analyzing gender tropes in film with screen direction from 2,000 scripts",
+    "url": "https://pudding.cool/projects/2017_08_screen-direction/",
+    "date": "2017-08-01",
+    "keywords": [
+      "gender",
+      "equality",
+      "movie",
+      "language",
+      "film",
+      "men",
+      "women",
+      "representation",
+      "diversity",
+      "trope",
+      "script"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Amber Thomas",
+      "Hanah Anderson",
+      "Julia Silge"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_08_screen-direction.jpg"
+  },
+  {
+    "id": "2017_08_the-office",
+    "headline": "‘The Office’ Dialogue in Five Charts",
+    "description": "A breakdown of how every character contributed to the show",
+    "url": "https://pudding.cool/projects/2017_08_the-office/",
+    "date": "2017-08-01",
+    "keywords": [
+      "television",
+      "language",
+      "the office",
+      "tv",
+      "dialogue"
+    ],
+    "authors": [
+      "Caitlyn Ralph"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_08_the-office.jpg"
+  },
+  {
+    "id": "2017_07_eating-alone",
+    "headline": "The Dining Habits and Companions of Americans",
+    "description": "The frequency of dining alone",
+    "url": "https://pudding.cool/projects/2017_07_eating-alone/",
+    "date": "2017-07-01",
+    "keywords": [
+      "america",
+      "food",
+      "eating alone",
+      "united states",
+      "dine",
+      "dining",
+      "restaurant"
+    ],
+    "authors": [
+      "Amber Thomas",
+      "Henrik Lindberg"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_07_eating-alone.jpg"
+  },
+  {
+    "id": "2017_07_comics",
+    "headline": "Gender Representation of 34,476 Comic Book Characters",
+    "description": "How are female characters in superhero comics depicted?",
+    "url": "https://pudding.cool/projects/2017_07_comics/",
+    "date": "2017-07-01",
+    "keywords": [
+      "gender",
+      "equality",
+      "comic",
+      "book",
+      "men",
+      "women",
+      "representation",
+      "diversity"
+    ],
+    "authors": [
+      "Amanda Shendruk"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_07_comics.jpg"
+  },
+  {
+    "id": "2017_07_jobs",
+    "headline": "Why the Republican Party Wins When Robots Take Your Job",
+    "description": "Job automation is only a matter of time. Here’s why the right will benefit.",
+    "url": "https://pudding.cool/projects/2017_07_jobs/",
+    "date": "2017-07-01",
+    "keywords": [
+      "jobs",
+      "automation",
+      "politics",
+      "america",
+      "economy",
+      "economic",
+      "republican",
+      "robot",
+      "united states",
+      "money"
+    ],
+    "authors": [
+      "Ilia Blinderman"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_07_jobs.jpg"
+  },
+  {
+    "id": "2017_07_cetaceans",
+    "headline": "Free Willy and Flipper by the Numbers",
+    "description": "The past, present, and future of captive whales and dolphins",
+    "url": "https://pudding.cool/projects/2017_07_cetaceans/",
+    "date": "2017-07-01",
+    "keywords": [
+      "science",
+      "animals",
+      "free willy",
+      "flipper",
+      "ocean",
+      "aquarium"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_07_cetaceans.jpg"
+  },
+  {
+    "id": "2017_06_film-trends",
+    "headline": "Plot Trends for Top-Grossing Film from the Past 50 Years",
+    "description": "This is a story about how film plots mirror (or shape) historical events.",
+    "url": "https://pudding.cool/projects/2017_06_film-trends/",
+    "date": "2017-06-01",
+    "keywords": [
+      "movie",
+      "film",
+      "grossing",
+      "plot",
+      "story"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_06_film-trends.jpg"
+  },
+  {
+    "id": "2017_06_best-sellers",
+    "headline": "Bias, She Wrote",
+    "description": "How much progress has American literature made towards gender equality?",
+    "url": "https://pudding.cool/projects/2017_06_best-sellers/",
+    "date": "2017-06-01",
+    "keywords": [
+      "books",
+      "gender",
+      "equality",
+      "literature",
+      "language",
+      "representation",
+      "men",
+      "women",
+      "new york times",
+      "best seller"
+    ],
+    "authors": [
+      "Rosie Cima"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_06_best-sellers.jpg"
+  },
+  {
+    "id": "2017_05_births",
+    "headline": "The Timing of Baby Making",
+    "description": "Births, broken down by geography and month",
+    "url": "https://pudding.cool/projects/2017_05_births/",
+    "date": "2017-05-01",
+    "keywords": [
+      "health",
+      "geography",
+      "baby",
+      "conception",
+      "time",
+      "sex",
+      "reproduction",
+      "reproductive health"
+    ],
+    "authors": [
+      "Amber Thomas"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_05_births.jpg"
+  },
+  {
+    "id": "2017_05_song-repetition",
+    "headline": "Are Pop Lyrics Getting More Repetitive?",
+    "description": "Measuring repetition in song lyrics over time using a compression algorithm",
+    "url": "https://pudding.cool/projects/2017_05_song-repetition/",
+    "date": "2017-05-01",
+    "keywords": [
+      "music",
+      "pop",
+      "lyric",
+      "repetivite",
+      "repetition",
+      "song"
+    ],
+    "authors": [
+      "Colin Morris"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_05_song-repetition.jpg"
+  },
+  {
+    "id": "2017_05_nba-moments",
+    "headline": "The Most Timeless NBA Plays",
+    "description": "Historic NBA games and plays, ranked by YouTube views",
+    "url": "https://pudding.cool/projects/2017_05_nba-moments/",
+    "date": "2017-05-01",
+    "keywords": [
+      "nba",
+      "basketball",
+      "timeless",
+      "play"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_05_nba-moments.jpg"
+  },
+  {
+    "id": "2017_04_beer",
+    "headline": "What City is the Microbrew Capital of the US?",
+    "description": "Using beer review data to rank the best cities in the country",
+    "url": "https://pudding.cool/projects/2017_04_beer/",
+    "date": "2017-04-01",
+    "keywords": [
+      "food",
+      "geography",
+      "map",
+      "beer",
+      "brew",
+      "america",
+      "united states"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_04_beer.jpg"
+  },
+  {
+    "id": "2017_03_incarceration",
+    "headline": "Why Does the US Lead the World in Incarceration?",
+    "description": "How we got here is one of the most debated questions in policy.",
+    "url": "https://pudding.cool/projects/2017_03_incarceration/",
+    "date": "2017-03-01",
+    "keywords": [
+      "america",
+      "incarceration",
+      "geography",
+      "united states",
+      "jail",
+      "prison"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_incarceration.jpg"
+  },
+  {
+    "id": "2017_03_westbrook",
+    "headline": "How Russell Westbrook Can Average a Triple-Double",
+    "description": "As of March 10, Russell Westbrook is averaging a triple-double.",
+    "url": "https://pudding.cool/projects/2017_03_westbrook/",
+    "date": "2017-03-01",
+    "keywords": [
+      "nba",
+      "basketball",
+      "russell westbrook"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_westbrook.jpg"
+  },
+  {
+    "id": "2017_03_home-court",
+    "headline": "Do NBA Refs Favor the Home Team?",
+    "description": "Analyzing reviewed calls to rank NBA teams by favorable home court officiating",
+    "url": "https://pudding.cool/projects/2017_03_home-court/",
+    "date": "2017-03-01",
+    "keywords": [
+      "nba",
+      "basketball",
+      "ref"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Oliver Roeder"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_home-court.jpg"
+  },
+  {
+    "id": "2017_03_hamilton",
+    "headline": "An Interactive Visualization of Every Line in Hamilton",
+    "description": "From the moment I sat down to listen the whole way through, I was done for...",
+    "url": "https://pudding.cool/projects/2017_03_hamilton/",
+    "date": "2017-03-01",
+    "keywords": [
+      "music",
+      "hamilton",
+      "theater",
+      "language",
+      "song",
+      "lyric",
+      "play",
+      "musical",
+      "rap",
+      "hip hop"
+    ],
+    "authors": [
+      "Shirley Wu"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_hamilton.jpg"
+  },
+  {
+    "id": "2017_03_elections",
+    "headline": "How News Media Covers Trump & Clinton",
+    "description": "Analyzing 12,147 images of Trump and Clinton",
+    "url": "https://pudding.cool/projects/2017_03_elections/",
+    "date": "2017-03-01",
+    "keywords": [
+      "politics",
+      "media",
+      "news",
+      "trump",
+      "clinton",
+      "republican",
+      "democrat"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_elections.jpg"
+  },
+  {
+    "id": "2017_03_redraft",
+    "headline": "Twenty Years of the NBA Redrafted",
+    "description": "Using career stats to prove the best/worst NBA draft picks, ever",
+    "url": "https://pudding.cool/projects/2017_03_redraft/",
+    "date": "2017-03-01",
+    "keywords": [
+      "nba",
+      "basketball",
+      "draft",
+      "redraft",
+      "team",
+      "player"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_redraft.jpg"
+  },
+  {
+    "id": "2017_03_sampling",
+    "headline": "How Robert Glasper Sampled Miles Davis on “Ghetto Walkin”",
+    "description": "An interactive story about the art of sampling",
+    "url": "https://pudding.cool/projects/2017_03_sampling/",
+    "date": "2017-03-01",
+    "keywords": [
+      "robert glasper",
+      "music",
+      "jazz",
+      "sample",
+      "sampling"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_sampling.jpg"
+  },
+  {
+    "id": "2017_03_miles",
+    "headline": "The 2,452 Wikipedia Pages on which Miles Davis is Mentioned",
+    "description": "25 years after his death, you can find Davis’ fingerprints on many other ideas.",
+    "url": "https://pudding.cool/projects/2017_03_miles/",
+    "date": "2017-03-01",
+    "keywords": [
+      "miles davis",
+      "music",
+      "jazz",
+      "wiki"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Hanah Anderson"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_miles.jpg"
+  },
+  {
+    "id": "2017_03_comeback",
+    "headline": "Ranking the Most Unlikely NBA Comebacks",
+    "description": "Identify the most statistically unlikely comebacks this season",
+    "url": "https://pudding.cool/projects/2017_03_comeback/",
+    "date": "2017-03-01",
+    "keywords": [
+      "nba",
+      "basketball",
+      "comebacks"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_comeback.jpg"
+  },
+  {
+    "id": "2017_03_film-dialogue",
+    "headline": "The Largest Analysis of Film Dialogue by Gender, Ever",
+    "description": "From 2,000 screeplays, broken down by age and gender",
+    "url": "https://pudding.cool/projects/2017_03_film-dialogue/",
+    "date": "2017-03-01",
+    "keywords": [
+      "gender",
+      "equality",
+      "movie",
+      "film",
+      "language",
+      "sex",
+      "men",
+      "women",
+      "dialogue"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Hanah Anderson"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_film-dialogue.jpg"
+  },
+  {
+    "id": "2017_03_punk",
+    "headline": "Crowdsourcing the Definition of “Punk”",
+    "description": "Looking at playlists to learn how parts of culture perceive genres",
+    "url": "https://pudding.cool/projects/2017_03_punk/",
+    "date": "2017-03-01",
+    "keywords": [
+      "music",
+      "punk",
+      "genre",
+      "song",
+      "spotify",
+      "youtube",
+      "playlist"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_punk.jpg"
+  },
+  {
+    "id": "2017_03_bechdel",
+    "headline": "Hollywood’s Gender Divide and its Effect on Films",
+    "description": "The writers, directors, and producers who make films that fail the Bechdel test",
+    "url": "https://pudding.cool/projects/2017_03_bechdel/",
+    "date": "2017-03-01",
+    "keywords": [
+      "gender",
+      "equality",
+      "movie",
+      "film",
+      "hollywood",
+      "sex",
+      "men",
+      "women",
+      "bechdel",
+      "writer",
+      "director",
+      "producer",
+      "studio"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Ilia Blinderman"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_bechdel.jpg"
+  },
+  {
+    "id": "2017_03_labels",
+    "headline": "The Most Succesful Labels in Hip Hop",
+    "description": "Hip hop record labels, sorted by their artists’ chart performance on Billboard",
+    "url": "https://pudding.cool/projects/2017_03_labels/",
+    "date": "2017-03-01",
+    "keywords": [
+      "hip hop",
+      "music",
+      "geography",
+      "label",
+      "map",
+      "rap"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_labels.jpg"
+  },
+  {
+    "id": "2017_03_timeless",
+    "headline": "The Most Timeless Songs of All-Time",
+    "description": "Using Spotify to measure the popularity of older music",
+    "url": "https://pudding.cool/projects/2017_03_timeless/",
+    "date": "2017-03-01",
+    "keywords": [
+      "music",
+      "timeless",
+      "song",
+      "history",
+      "hit",
+      "chart"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_timeless.jpg"
+  },
+  {
+    "id": "2017_03_outkast",
+    "headline": "Outkast, in Charts",
+    "description": "A look at Outkast’s history through the lens of data",
+    "url": "https://pudding.cool/projects/2017_03_outkast/",
+    "date": "2017-03-01",
+    "keywords": [
+      "hip hop",
+      "music",
+      "outkast",
+      "rap"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_outkast.jpg"
+  },
+  {
+    "id": "2017_02_oscars_so_mapped",
+    "headline": "The Geographic Divide of Oscars Films",
+    "description": "Mapping the popularity of Oscar-nominated films in 2017",
+    "url": "https://pudding.cool/projects/2017_02_oscars_so_mapped/",
+    "date": "2017-02-01",
+    "keywords": [
+      "oscar",
+      "movie",
+      "geography",
+      "film",
+      "map",
+      "academy award"
+    ],
+    "authors": [
+      "Matt Daniels",
+      "Russell Samora",
+      "Ilia Blinderman"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_02_oscars_so_mapped.jpg"
+  },
+  {
+    "id": "2017_02_two-minute-report",
+    "headline": "NBA Last Two Minute Report",
+    "description": "A review of the NBA officiating from the Last Two Minute Report",
+    "url": "https://pudding.cool/projects/2017_02_two-minute-report/",
+    "date": "2017-02-01",
+    "keywords": [
+      "nba",
+      "basketball",
+      "two minute report",
+      "ref"
+    ],
+    "authors": [
+      "Russell Samora"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_02_two-minute-report.jpg"
+  },
+  {
+    "id": "2017_02_new-slang",
+    "headline": "The Emergence Of Slang, Using Search Data",
+    "description": "Emerging slang, identified by searches for words’ definitions",
+    "url": "https://pudding.cool/projects/2017_02_new-slang/",
+    "date": "2017-02-01",
+    "keywords": [
+      "language",
+      "slang",
+      "vocabulary",
+      "google",
+      "search",
+      "word"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_02_new-slang.jpg"
+  },
+  {
+    "id": "2017_01_shape-of-slavery",
+    "headline": "Mapping Slavery Against US Incarceration",
+    "description": "How do historic incarceration rates differ between slave and non-slave states?",
+    "url": "https://pudding.cool/projects/2017_01_shape-of-slavery/",
+    "date": "2017-01-01",
+    "keywords": [
+      "history",
+      "america",
+      "geography",
+      "slavery",
+      "map",
+      "incarceration",
+      "slave",
+      "black",
+      "african-american",
+      "south",
+      "united states"
+    ],
+    "authors": [
+      "Matt Daniels"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_01_shape-of-slavery.jpg"
+  },
+  {
+    "id": "2017_01_making-it-big",
+    "headline": "The Unlikely Odds of Making it Big",
+    "description": "What three years and 75,000 shows tell us about the chance of success",
+    "url": "https://pudding.cool/projects/2017_01_making-it-big/",
+    "date": "2017-01-01",
+    "keywords": [
+      "music",
+      "celebrity",
+      "making it big",
+      "big",
+      "success"
+    ],
+    "authors": [
+      "Russell Samora",
+      "Dan Kopf"
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_01_making-it-big.jpg"
+  }
+]

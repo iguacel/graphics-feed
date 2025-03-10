@@ -10,8 +10,11 @@
       "survey",
       "middle"
     ],
-    "authors": [
-      "Alvin Chang"
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_02_middle-school.jpg"
   },
@@ -27,8 +30,11 @@
       "work",
       "survey"
     ],
-    "authors": [
-      "Alvin Chang"
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_11_sitters-standers.jpg"
   },
@@ -46,9 +52,15 @@
       "serenade",
       "music"
     ],
-    "authors": [
-      "David Mora",
-      "Michelle Jia"
+    "credits": [
+      {
+        "name": "David Mora",
+        "slug": "david-mora"
+      },
+      {
+        "name": "Michelle Jia",
+        "slug": "michelle-jia"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_11_love-songs.jpg"
   },
@@ -64,10 +76,19 @@
       "lines",
       "math"
     ],
-    "authors": [
-      "Michelle Pera-McGhee",
-      "Mureji Fatunde",
-      "Uri Bram"
+    "credits": [
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Mureji Fatunde",
+        "slug": "mureji-fatunde"
+      },
+      {
+        "name": "Uri Bram",
+        "slug": "uri-bram"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_queues.jpg"
   },
@@ -87,9 +108,15 @@
       "color",
       "design"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Tyler Machado"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Tyler Machado",
+        "slug": "tyler-machado"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_nba-uniforms.jpg"
   },
@@ -112,9 +139,15 @@
       "supreme court",
       "pregnancy"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Michelle Pera-McGhee"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_abortion-mazes.jpg"
   },
@@ -133,8 +166,11 @@
       "simulation",
       "physics"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_crokinole.jpg"
   },
@@ -149,11 +185,23 @@
       "kpop",
       "survey"
     ],
-    "authors": [
-      "Caitlyn Ralph",
-      "Jared Whalen",
-      "Eunice Lee",
-      "Minji Kim"
+    "credits": [
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      },
+      {
+        "name": "Jared Whalen",
+        "slug": "jared-whalen"
+      },
+      {
+        "name": "Eunice Lee",
+        "slug": "eunice-lee"
+      },
+      {
+        "name": "Minji Kim",
+        "slug": "minji-kim"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_kpop-survey.jpg"
   },
@@ -184,11 +232,23 @@
       "pair",
       "friendship"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Caitlyn Ralph",
-      "Ashley Cai",
-      "Florina Sutanto"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      },
+      {
+        "name": "Ashley Cai",
+        "slug": "ashley-cai"
+      },
+      {
+        "name": "Florina Sutanto",
+        "slug": "florina-sutanto"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_10_fanfic.jpg"
   },
@@ -205,9 +265,15 @@
       "hitting",
       "mlb"
     ],
-    "authors": [
-      "Michelle Pera-McGhee",
-      "Neil Paine"
+    "credits": [
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Neil Paine",
+        "slug": "neil-paine"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_09_lineup.jpg"
   },
@@ -221,8 +287,11 @@
       "basketball",
       "courts"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_09_courts.jpg"
   },
@@ -240,9 +309,15 @@
       "artificial",
       "intelligence"
     ],
-    "authors": [
-      "Russell Samora",
-      "Michelle Pera-McGhee"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_07_ai.jpg"
   },
@@ -255,7 +330,7 @@
     "keywords": [
       "sleep training"
     ],
-    "authors": [],
+    "credits": [],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_07_sleep-training.jpg"
   },
   {
@@ -275,8 +350,11 @@
       "space",
       "theme"
     ],
-    "authors": [
-      "Alvin Chang"
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_07_scifi.jpg"
   },
@@ -293,8 +371,11 @@
       "child",
       "new hampshire"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_06_ydc.jpg"
   },
@@ -309,8 +390,11 @@
       "weather",
       "maps"
     ],
-    "authors": [
-      "Derek Taylor"
+    "credits": [
+      {
+        "name": "Derek Taylor",
+        "slug": "derek-taylor"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_06_climate-zones.jpg"
   },
@@ -326,8 +410,11 @@
       "teenager",
       "life"
     ],
-    "authors": [
-      "Alvin Chang"
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_03_teenagers.jpg"
   },
@@ -347,8 +434,11 @@
       "pen",
       "pencil"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_flipbook.jpg"
   },
@@ -361,9 +451,15 @@
     "keywords": [
       "music"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Chris Dalla Riva"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Chris Dalla Riva",
+        "slug": "chris-dalla-riva"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_03_greatest-music.jpg"
   },
@@ -382,9 +478,15 @@
       "star spangled banner",
       "diva"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Michelle Pera-McGhee"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2024_02_anthems.jpg"
   },
@@ -399,9 +501,15 @@
       "genre",
       "spotify"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Michelle Pera-McGhee"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_10_genre.jpg"
   },
@@ -421,9 +529,15 @@
       "illustration",
       "cover"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Alice Liang"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Alice Liang",
+        "slug": "alice-liang"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_10_romance-covers.jpg"
   },
@@ -442,8 +556,11 @@
       "spend",
       "people"
     ],
-    "authors": [
-      "Alvin Chang"
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_09_invisible-epidemic.jpg"
   },
@@ -460,8 +577,11 @@
       "songs",
       "time"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_clocks.jpg"
   },
@@ -476,8 +596,11 @@
       "map",
       "heat"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_heat-records-map.jpg"
   },
@@ -493,9 +616,15 @@
       "gender",
       "music"
     ],
-    "authors": [
-      "Chris Dalla Riva",
-      "Ashley Cai"
+    "credits": [
+      {
+        "name": "Chris Dalla Riva",
+        "slug": "chris-dalla-riva"
+      },
+      {
+        "name": "Ashley Cai",
+        "slug": "ashley-cai"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_07_songwriters.jpg"
   },
@@ -516,8 +645,11 @@
       "google",
       "meet"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_06_pass-the-mic.jpg"
   },
@@ -535,8 +667,11 @@
       "crutch",
       "metric"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_06_asterisks.jpg"
   },
@@ -554,8 +689,11 @@
       "dilla",
       "hip hop"
     ],
-    "authors": [
-      "Michelle Pera-McGhee"
+    "credits": [
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_06_groove.jpg"
   },
@@ -574,9 +712,15 @@
       "sexual orientation",
       "representation"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Jada Watson"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Jada Watson",
+        "slug": "jada-watson"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_05_country-radio.jpg"
   },
@@ -594,8 +738,11 @@
       "recipe",
       "food"
     ],
-    "authors": [
-      "Alvin Chang"
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_05_kimchi.jpg"
   },
@@ -609,10 +756,19 @@
       "design",
       "dark patterns"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Caroline Sinders",
-      "Tynesha Foreman"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Caroline Sinders",
+        "slug": "caroline-sinders"
+      },
+      {
+        "name": "Tynesha Foreman",
+        "slug": "tynesha-foreman"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_05_dark-patterns.jpg"
   },
@@ -632,8 +788,11 @@
       "quiz",
       "usa"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/games_where.jpg"
   },
@@ -653,8 +812,11 @@
       "towns",
       "shared"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_03_same-name.jpg"
   },
@@ -671,8 +833,11 @@
       "anomalies",
       "outliers"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_02_nba-unexpected.jpg"
   },
@@ -687,8 +852,11 @@
       "literature",
       "syllabi"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2023_01_lit-canon.jpg"
   },
@@ -708,8 +876,11 @@
       "money",
       "economy"
     ],
-    "authors": [
-      "Alvin Chang"
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_12_yard-sale.jpg"
   },
@@ -727,9 +898,15 @@
       "art",
       "illustration"
     ],
-    "authors": [
-      "Michelle Pera-McGhee",
-      "Abby VanMuijen"
+    "credits": [
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Abby VanMuijen",
+        "slug": "abby-vanmuijen"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_12_emotion-wheel.jpg"
   },
@@ -755,10 +932,19 @@
       "great migration",
       "migration"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Michelle Pera-McGhee",
-      "Aaron Williams"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Aaron Williams",
+        "slug": "aaron-williams"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_11_upward-mobility.jpg"
   },
@@ -787,8 +973,11 @@
       "delle donne",
       "stewart"
     ],
-    "authors": [
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_09_wnba-kicks.jpg"
   },
@@ -808,9 +997,15 @@
       "play",
       "puzzle"
     ],
-    "authors": [
-      "Russell Samora",
-      "Michelle Pera-McGhee"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/games_words-against-strangers.jpg"
   },
@@ -826,10 +1021,19 @@
       "audio",
       "street vendors"
     ],
-    "authors": [
-      "Michelle Pera-McGhee",
-      "Aaron Reiss",
-      "Oscar Molina Palestina"
+    "credits": [
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Aaron Reiss",
+        "slug": "aaron-reiss"
+      },
+      {
+        "name": "Oscar Molina Palestina",
+        "slug": "oscar-molina-palestina"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_09_cdmx.jpg"
   },
@@ -849,9 +1053,15 @@
       "media",
       "big bang theory"
     ],
-    "authors": [
-      "Russell Samora",
-      "Manyun Zou"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Manyun Zou",
+        "slug": "manyun-zou"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_08_censorship.jpg"
   },
@@ -865,8 +1075,11 @@
       "music",
       "tiktok"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_07_tiktok-story.jpg"
   },
@@ -885,8 +1098,11 @@
       "royalties",
       "money"
     ],
-    "authors": [
-      "Elio Quinton"
+    "credits": [
+      {
+        "name": "Elio Quinton",
+        "slug": "elio-quinton"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_06_streaming.jpg"
   },
@@ -903,9 +1119,15 @@
       "pantheon",
       "aztec"
     ],
-    "authors": [
-      "Gwendal Uguen",
-      "Luc Guillemot"
+    "credits": [
+      {
+        "name": "Gwendal Uguen",
+        "slug": "gwendal-uguen"
+      },
+      {
+        "name": "Luc Guillemot",
+        "slug": "luc-guillemot"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_06_aztec-gods.jpg"
   },
@@ -919,8 +1141,11 @@
       "music",
       "tiktok"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_06_tiktok-video.jpg"
   },
@@ -934,9 +1159,15 @@
       "climate change",
       "weather"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_heat-records.jpg"
   },
@@ -955,9 +1186,15 @@
       "age",
       "experiment"
     ],
-    "authors": [
-      "Russell Samora",
-      "Arjun Kakkar"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Arjun Kakkar",
+        "slug": "arjun-kakkar"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_04_random.jpg"
   },
@@ -975,10 +1212,19 @@
       "gender",
       "equality"
     ],
-    "authors": [
-      "Jeff MacInnes",
-      "Alejandra Arevalo",
-      "Eric Hausken"
+    "credits": [
+      {
+        "name": "Jeff MacInnes",
+        "slug": "jeff-macinnes"
+      },
+      {
+        "name": "Alejandra Arevalo",
+        "slug": "alejandra-arevalo"
+      },
+      {
+        "name": "Eric Hausken",
+        "slug": "eric-hausken"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_04_banknotes.jpg"
   },
@@ -998,10 +1244,19 @@
       "dune",
       "award"
     ],
-    "authors": [
-      "Russell Samora",
-      "Mike Lacher",
-      "Jason Eppink"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Mike Lacher",
+        "slug": "mike-lacher"
+      },
+      {
+        "name": "Jason Eppink",
+        "slug": "jason-eppink"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_03_cough.jpg"
   },
@@ -1016,8 +1271,11 @@
       "weather",
       "map"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_03_weather-map.jpg"
   },
@@ -1035,8 +1293,11 @@
       "team",
       "player"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_02_redraft.jpg"
   },
@@ -1055,10 +1316,19 @@
       "algorithm",
       "plain"
     ],
-    "authors": [
-      "Michelle Pera-McGhee",
-      "Jamie Brew",
-      "Rebecca Monteleone"
+    "credits": [
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Jamie Brew",
+        "slug": "jamie-brew"
+      },
+      {
+        "name": "Rebecca Monteleone",
+        "slug": "rebecca-monteleone"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_02_plain.jpg"
   },
@@ -1076,9 +1346,15 @@
       "gender",
       "newspaper"
     ],
-    "authors": [
-      "Leonardo Nicoletti",
-      "Sahiti Sarva"
+    "credits": [
+      {
+        "name": "Leonardo Nicoletti",
+        "slug": "leonardo-nicoletti"
+      },
+      {
+        "name": "Sahiti Sarva",
+        "slug": "sahiti-sarva"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_02_women-in-headlines.jpg"
   },
@@ -1101,10 +1377,19 @@
       "contest",
       "vote"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora",
-      "Pamela Mishkin"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Pamela Mishkin",
+        "slug": "pamela-mishkin"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_caption-contest.jpg"
   },
@@ -1126,8 +1411,11 @@
       "jobs",
       "bias"
     ],
-    "authors": [
-      "Jess Peter"
+    "credits": [
+      {
+        "name": "Jess Peter",
+        "slug": "jess-peter"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2022_01_deepwork.jpg"
   },
@@ -1149,9 +1437,15 @@
       "pixel",
       "animation"
     ],
-    "authors": [
-      "Russell Samora",
-      "Michelle Pera-McGhee"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_12_sesame.jpg"
   },
@@ -1175,10 +1469,19 @@
       "rights",
       "internet"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Michelle Pera-McGhee",
-      "Jennifer Ding"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Jennifer Ding",
+        "slug": "jennifer-ding"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_10_lenna.jpg"
   },
@@ -1197,9 +1500,15 @@
       "roast",
       "playlist"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Mike Lacher"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Mike Lacher",
+        "slug": "mike-lacher"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_10_judge-my-music.jpg"
   },
@@ -1221,8 +1530,11 @@
       "play",
       "game"
     ],
-    "authors": [
-      "Gabrielle Hickmon"
+    "credits": [
+      {
+        "name": "Gabrielle Hickmon",
+        "slug": "gabrielle-hickmon"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_08_spades.jpg"
   },
@@ -1239,8 +1551,11 @@
       "rank",
       "carry"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_08_nba-carry.jpg"
   },
@@ -1257,8 +1572,11 @@
       "video",
       "meme"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_07_rickrolling.jpg"
   },
@@ -1285,8 +1603,11 @@
       "i kissed a girl",
       "call me by your name"
     ],
-    "authors": [
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_06_same-gender-lyrics.jpg"
   },
@@ -1305,8 +1626,11 @@
       "celebrities",
       "celebrity"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_04_solo.jpg"
   },
@@ -1324,8 +1648,11 @@
       "youtube",
       "song"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_04_music-bubble.jpg"
   },
@@ -1343,8 +1670,11 @@
       "covid-19",
       "study"
     ],
-    "authors": [
-      "Jeff MacInnes"
+    "credits": [
+      {
+        "name": "Jeff MacInnes",
+        "slug": "jeff-macinnes"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_03_covid-science.jpg"
   },
@@ -1363,9 +1693,15 @@
       "skin",
       "color"
     ],
-    "authors": [
-      "Amber Thomas",
-      "Ofunne Amaka"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Ofunne Amaka",
+        "slug": "ofunne-amaka"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_03_foundation-names.jpg"
   },
@@ -1380,8 +1716,11 @@
       "math",
       "predictive model"
     ],
-    "authors": [
-      "Lars Verspohl"
+    "credits": [
+      {
+        "name": "Lars Verspohl",
+        "slug": "lars-verspohl"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_03_wine-model.jpg"
   },
@@ -1401,10 +1740,19 @@
       "computer",
       "love"
     ],
-    "authors": [
-      "Russell Samora",
-      "Jan Diehm",
-      "Pamela Mishkin"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Pamela Mishkin",
+        "slug": "pamela-mishkin"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_03_love-and-ai.jpg"
   },
@@ -1422,9 +1770,15 @@
       "analyst",
       "song"
     ],
-    "authors": [
-      "Kevin Litman-Navarro",
-      "Kat Wilson"
+    "credits": [
+      {
+        "name": "Kevin Litman-Navarro",
+        "slug": "kevin-litman-navarro"
+      },
+      {
+        "name": "Kat Wilson",
+        "slug": "kat-wilson"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_02_jukebox.jpg"
   },
@@ -1443,8 +1797,11 @@
       "language",
       "video"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_01_cool.jpg"
   },
@@ -1463,8 +1820,11 @@
       "sandwich cookie",
       "language"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2021_01_oreo.jpg"
   },
@@ -1481,9 +1841,15 @@
       "illumination",
       "price"
     ],
-    "authors": [
-      "Ilia Blinderman",
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_12_lighting-cost.jpg"
   },
@@ -1504,10 +1870,19 @@
       "language",
       "diversity"
     ],
-    "authors": [
-      "Russell Samora",
-      "Jan Diehm",
-      "Michelle Pera-McGhee"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_11_crossword.jpg"
   },
@@ -1528,10 +1903,19 @@
       "language",
       "diversity"
     ],
-    "authors": [
-      "Russell Samora",
-      "Michelle Pera-McGhee",
-      "Amelia Wattenberger"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Amelia Wattenberger",
+        "slug": "amelia-wattenberger"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_11_crossword-puzzles.jpg"
   },
@@ -1550,9 +1934,15 @@
       "web cam",
       "live"
     ],
-    "authors": [
-      "Amber Thomas",
-      "RJ Andrews"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "RJ Andrews",
+        "slug": "rj-andrews"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_11_cloud-zoo.jpg"
   },
@@ -1572,8 +1962,11 @@
       "cop",
       "complaint"
     ],
-    "authors": [
-      "Sam Learner"
+    "credits": [
+      {
+        "name": "Sam Learner",
+        "slug": "sam-learner"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_10_police-misconduct.jpg"
   },
@@ -1593,9 +1986,15 @@
       "year",
       "color"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_10_photo-history.jpg"
   },
@@ -1613,9 +2012,15 @@
       "song",
       "dance floor"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Liana Sposto"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Liana Sposto",
+        "slug": "liana-sposto"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_09_wedding-playlists.jpg"
   },
@@ -1639,9 +2044,15 @@
       "mobile",
       "mobility"
     ],
-    "authors": [
-      "Amber Thomas",
-      "Alice Feng"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Alice Feng",
+        "slug": "alice-feng"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_08_income.jpg"
   },
@@ -1671,8 +2082,11 @@
       "diversity",
       "repsentation"
     ],
-    "authors": [
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_08_campaign-colors.jpg"
   },
@@ -1691,8 +2105,11 @@
       "internet",
       "link"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_newsletter.jpg"
   },
@@ -1711,9 +2128,15 @@
       "hit",
       "chart"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Ilia Blinderman"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_07_song-decay.jpg"
   },
@@ -1734,9 +2157,15 @@
       "trait",
       "physical"
     ],
-    "authors": [
-      "Erin Davis",
-      "Liana Sposto"
+    "credits": [
+      {
+        "name": "Erin Davis",
+        "slug": "erin-davis"
+      },
+      {
+        "name": "Liana Sposto",
+        "slug": "liana-sposto"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_07_gendered-descriptions.jpg"
   },
@@ -1754,10 +2183,19 @@
       "culture",
       "racism"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Amber Thomas",
-      "Sara Stoudt"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Sara Stoudt",
+        "slug": "sara-stoudt"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_06_karen.jpg"
   },
@@ -1778,8 +2216,11 @@
       "map",
       "geography"
     ],
-    "authors": [
-      "Ilia Blinderman"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_05_travel-local.jpg"
   },
@@ -1798,10 +2239,19 @@
       "pixel",
       "wrestle"
     ],
-    "authors": [
-      "Russell Samora",
-      "Jan Diehm",
-      "Gwendal Uguen"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Gwendal Uguen",
+        "slug": "gwendal-uguen"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_05_wrestling.jpg"
   },
@@ -1819,8 +2269,11 @@
       "history",
       "song"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_04_music-challenge.jpg"
   },
@@ -1839,9 +2292,15 @@
       "song",
       "experiment"
     ],
-    "authors": [
-      "Russell Samora",
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_04_infinite.jpg"
   },
@@ -1858,10 +2317,19 @@
       "lyric",
       "song"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Amber Thomas",
-      "Sara Stoudt"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Sara Stoudt",
+        "slug": "sara-stoudt"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_04_kidz-bop.jpg"
   },
@@ -1880,8 +2348,11 @@
       "demographic",
       "people"
     ],
-    "authors": [
-      "Alec Barrett"
+    "credits": [
+      {
+        "name": "Alec Barrett",
+        "slug": "alec-barrett"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_03_census-history.jpg"
   },
@@ -1898,9 +2369,15 @@
       "emotion",
       "meme"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Charlie Smart"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Charlie Smart",
+        "slug": "charlie-smart"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_03_gifs.jpg"
   },
@@ -1921,8 +2398,11 @@
       "united states",
       "america"
     ],
-    "authors": [
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_02_rain.jpg"
   },
@@ -1938,10 +2418,19 @@
       "author",
       "literature"
     ],
-    "authors": [
-      "Russell Samora",
-      "Amber Thomas",
-      "Simran Vatsa"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Simran Vatsa",
+        "slug": "simran-vatsa"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_02_authors.jpg"
   },
@@ -1959,9 +2448,15 @@
       "diaspora",
       "diversity"
     ],
-    "authors": [
-      "Ilia Blinderman",
-      "Isabel Carter"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      },
+      {
+        "name": "Isabel Carter",
+        "slug": "isabel-carter"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_01_diaspora.jpg"
   },
@@ -1982,9 +2477,15 @@
       "sorry",
       "controversy"
     ],
-    "authors": [
-      "Russell Samora",
-      "Arjun Kakkar"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Arjun Kakkar",
+        "slug": "arjun-kakkar"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2020_01_apology.jpg"
   },
@@ -2002,8 +2503,11 @@
       "worst",
       "player"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_12_real-mvp.jpg"
   },
@@ -2026,9 +2530,15 @@
       "women",
       "gender"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Elle O’Brien"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Elle O’Brien",
+        "slug": "elle-o’brien"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_11_big-hair.jpg"
   },
@@ -2047,11 +2557,23 @@
       "online",
       "internet"
     ],
-    "authors": [
-      "Russell Samora",
-      "Jan Diehm",
-      "Caitlyn Ralph",
-      "Kishan Sheth"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      },
+      {
+        "name": "Kishan Sheth",
+        "slug": "kishan-sheth"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_laugh.jpg"
   },
@@ -2071,8 +2593,11 @@
       "attorney",
       "prosecution"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_prosecutors.jpg"
   },
@@ -2091,9 +2616,15 @@
       "animal",
       "pup"
     ],
-    "authors": [
-      "Amber Thomas",
-      "Sacha Maxim"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Sacha Maxim",
+        "slug": "sacha-maxim"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_shelters.jpg"
   },
@@ -2115,9 +2646,15 @@
       "drink",
       "pint"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Caitlyn Ralph"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_pubs.jpg"
   },
@@ -2134,8 +2671,11 @@
       "complicated",
       "english"
     ],
-    "authors": [
-      "Kevin Litman-Navarro"
+    "credits": [
+      {
+        "name": "Kevin Litman-Navarro",
+        "slug": "kevin-litman-navarro"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_10_slang.jpg"
   },
@@ -2153,10 +2693,19 @@
       "news",
       "media"
     ],
-    "authors": [
-      "Ilia Blinderman",
-      "Jan Diehm",
-      "Alexandra Saizan"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Alexandra Saizan",
+        "slug": "alexandra-saizan"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_09_millennials.jpg"
   },
@@ -2176,8 +2725,11 @@
       "vocal",
       "high"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_08_register.jpg"
   },
@@ -2194,8 +2746,11 @@
       "literature",
       "image"
     ],
-    "authors": [
-      "Jess Peter"
+    "credits": [
+      {
+        "name": "Jess Peter",
+        "slug": "jess-peter"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_07_book-covers.jpg"
   },
@@ -2214,9 +2769,15 @@
       "library",
       "literature"
     ],
-    "authors": [
-      "Russell Samora",
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_06_summer-reading.jpg"
   },
@@ -2234,8 +2795,11 @@
       "research",
       "study"
     ],
-    "authors": [
-      "Ilia Blinderman"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_06_science_etc_2.jpg"
   },
@@ -2256,9 +2820,15 @@
       "city",
       "cities"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_06_people-map-uk.jpg"
   },
@@ -2280,9 +2850,15 @@
       "celebrities",
       "map"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_people-map.jpg"
   },
@@ -2298,8 +2874,11 @@
       "song",
       "lyric"
     ],
-    "authors": [
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_names-in-songs.jpg"
   },
@@ -2315,8 +2894,11 @@
       "data",
       "study"
     ],
-    "authors": [
-      "Ilia Blinderman"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_science_etc_1.jpg"
   },
@@ -2339,8 +2921,11 @@
       "diversity",
       "representation"
     ],
-    "authors": [
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_hyphens.jpg"
   },
@@ -2360,9 +2945,15 @@
       "defense",
       "video"
     ],
-    "authors": [
-      "Russell Samora",
-      "Owen Phillips"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Owen Phillips",
+        "slug": "owen-phillips"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_05_three-seconds.jpg"
   },
@@ -2388,10 +2979,19 @@
       "tone",
       "representation"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Amber Thomas",
-      "Malaika Handa"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Malaika Handa",
+        "slug": "malaika-handa"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_04_vogue.jpg"
   },
@@ -2419,8 +3019,11 @@
       "warsaw",
       "lithuania"
     ],
-    "authors": [
-      "Maarten Lambrechts"
+    "credits": [
+      {
+        "name": "Maarten Lambrechts",
+        "slug": "maarten-lambrechts"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_04_eu-regions.jpg"
   },
@@ -2437,8 +3040,11 @@
       "border",
       "song"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_06_music-map.jpg"
   },
@@ -2457,8 +3063,11 @@
       "chart",
       "song"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_music-history.jpg"
   },
@@ -2478,9 +3087,15 @@
       "text",
       "predictive text"
     ],
-    "authors": [
-      "Antal van den Bosch",
-      "Wessel Stoop"
+    "credits": [
+      {
+        "name": "Antal van den Bosch",
+        "slug": "antal-van-den-bosch"
+      },
+      {
+        "name": "Wessel Stoop",
+        "slug": "wessel-stoop"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_04_text-prediction.jpg"
   },
@@ -2504,9 +3119,15 @@
       "npg",
       "language"
     ],
-    "authors": [
-      "Russell Samora",
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_votes-for-women.jpg"
   },
@@ -2527,9 +3148,15 @@
       "quiz",
       "name"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_03_nba-spelling.jpg"
   },
@@ -2546,8 +3173,11 @@
       "celebrities",
       "fame"
     ],
-    "authors": [
-      "The Pudding Team"
+    "credits": [
+      {
+        "name": "The Pudding Team",
+        "slug": "the-pudding-team"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_03_pop-music.jpg"
   },
@@ -2564,9 +3194,15 @@
       "high school",
       "star"
     ],
-    "authors": [
-      "Russell Samora",
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_03_hype.jpg"
   },
@@ -2585,9 +3221,15 @@
       "quiz",
       "name"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_02_gyllenhaal.jpg"
   },
@@ -2610,8 +3252,11 @@
       "girl",
       "boy"
     ],
-    "authors": [
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2019_02_dress-code-sexualization.jpg"
   },
@@ -2630,8 +3275,11 @@
       "artist",
       "size"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_vocabulary.jpg"
   },
@@ -2654,9 +3302,15 @@
       "word",
       "nytimes"
     ],
-    "authors": [
-      "Ilia Blinderman",
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_12_brief-history.jpg"
   },
@@ -2680,8 +3334,11 @@
       "nytimes",
       "flags"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_12_countries.jpg"
   },
@@ -2701,8 +3358,11 @@
       "population mountains",
       "data mountains"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_12_3d-cities-story.jpg"
   },
@@ -2722,10 +3382,19 @@
       "song",
       "hit"
     ],
-    "authors": [
-      "Russell Samora",
-      "Amber Thomas",
-      "Malik Yusuf"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Malik Yusuf",
+        "slug": "malik-yusuf"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_11_boy-bands.jpg"
   },
@@ -2744,9 +3413,15 @@
       "language",
       "ibm"
     ],
-    "authors": [
-      "Ilia Blinderman",
-      "Caitlyn Ralph"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      },
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_11_dearabby.jpg"
   },
@@ -2776,8 +3451,11 @@
       "canada",
       "united states"
     ],
-    "authors": [
-      "Sam Vickars"
+    "credits": [
+      {
+        "name": "Sam Vickars",
+        "slug": "sam-vickars"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_11_titletowns.jpg"
   },
@@ -2798,8 +3476,11 @@
       "data mountains",
       "population mountains"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_10_city_3d.jpg"
   },
@@ -2816,9 +3497,15 @@
       "fame",
       "path"
     ],
-    "authors": [
-      "Russell Samora",
-      "Caitlyn Ralph"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_10_wiki-breakout.jpg"
   },
@@ -2841,8 +3528,11 @@
       "morph",
       "svg"
     ],
-    "authors": [
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_09_jordans.jpg"
   },
@@ -2859,10 +3549,19 @@
       "billboard",
       "popular"
     ],
-    "authors": [
-      "Russell Samora",
-      "Ilia Blinderman",
-      "Caitlyn Ralph"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      },
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_09_wiki-billboard.jpg"
   },
@@ -2879,8 +3578,11 @@
       "lyric",
       "rap"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_emo-rap.jpg"
   },
@@ -2897,8 +3599,11 @@
       "tech",
       "video"
     ],
-    "authors": [
-      "Damar Aji Pramudita"
+    "credits": [
+      {
+        "name": "Damar Aji Pramudita",
+        "slug": "damar-aji-pramudita"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_filmordigital.jpg"
   },
@@ -2919,9 +3624,15 @@
       "jeans",
       "pockets"
     ],
-    "authors": [
-      "Jan Diehm",
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_pockets.jpg"
   },
@@ -2938,8 +3649,11 @@
       "dead",
       "celebrity"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_wiki-death.jpg"
   },
@@ -2959,9 +3673,15 @@
       "economic",
       "united states"
     ],
-    "authors": [
-      "Ilia Blinderman",
-      "Jordan Dworkin"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      },
+      {
+        "name": "Jordan Dworkin",
+        "slug": "jordan-dworkin"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_08_retraining.jpg"
   },
@@ -2983,8 +3703,11 @@
       "world",
       "map"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_07_airports.jpg"
   },
@@ -3003,8 +3726,11 @@
       "women",
       "cdc"
     ],
-    "authors": [
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_07_birth_control.jpg"
   },
@@ -3026,8 +3752,11 @@
       "senate",
       "representation"
     ],
-    "authors": [
-      "Durand D’souza"
+    "credits": [
+      {
+        "name": "Durand D’souza",
+        "slug": "durand-d’souza"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_07_women-in-congress.jpg"
   },
@@ -3048,8 +3777,11 @@
       "house of commons",
       "representation"
     ],
-    "authors": [
-      "Durand D’souza"
+    "credits": [
+      {
+        "name": "Durand D’souza",
+        "slug": "durand-d’souza"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_07_women-in-parliament.jpg"
   },
@@ -3071,8 +3803,11 @@
       "city",
       "cities"
     ],
-    "authors": [
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_06_gayborhoods.jpg"
   },
@@ -3092,10 +3827,19 @@
       "skin",
       "representation"
     ],
-    "authors": [
-      "Amber Thomas",
-      "Jason Li",
-      "Divya Manian"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Jason Li",
+        "slug": "jason-li"
+      },
+      {
+        "name": "Divya Manian",
+        "slug": "divya-manian"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_06_makeup-shades.jpg"
   },
@@ -3113,8 +3857,11 @@
       "rad",
       "gnarly"
     ],
-    "authors": [
-      "Jared Wilbur"
+    "credits": [
+      {
+        "name": "Jared Wilbur",
+        "slug": "jared-wilbur"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_06_skate-music.jpg"
   },
@@ -3135,8 +3882,11 @@
       "2018",
       "reddit"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_05_nba-top-plays.jpg"
   },
@@ -3155,9 +3905,15 @@
       "diverse",
       "sound"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Andrew Thompson"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Andrew Thompson",
+        "slug": "andrew-thompson"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_05_similarity.jpg"
   },
@@ -3186,9 +3942,15 @@
       "cook",
       "cooking"
     ],
-    "authors": [
-      "Amber Thomas",
-      "Elle O’Brien"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Elle O’Brien",
+        "slug": "elle-o’brien"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_05_cookies.jpg"
   },
@@ -3207,9 +3969,15 @@
       "baseball",
       "tennis"
     ],
-    "authors": [
-      "Russell Samora",
-      "Jan Diehm"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_04_one-hit-wonders.jpg"
   },
@@ -3226,8 +3994,11 @@
       "paradox",
       "experiment"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_04_birthday-paradox.jpg"
   },
@@ -3246,9 +4017,15 @@
       "nyc",
       "seattle"
     ],
-    "authors": [
-      "Ilia Blinderman",
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_03_neighborhoods.jpg"
   },
@@ -3269,9 +4046,15 @@
       "routine",
       "structure"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_02_stand-up.jpg"
   },
@@ -3289,8 +4072,11 @@
       "wave",
       "hear"
     ],
-    "authors": [
-      "Josh Comeau"
+    "credits": [
+      {
+        "name": "Josh Comeau",
+        "slug": "josh-comeau"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_02_waveforms.jpg"
   },
@@ -3313,8 +4099,11 @@
       "life",
       "live"
     ],
-    "authors": [
-      "Beatrice Jin"
+    "credits": [
+      {
+        "name": "Beatrice Jin",
+        "slug": "beatrice-jin"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_02_death.jpg"
   },
@@ -3332,8 +4121,11 @@
       "united states",
       "border"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_02_restaurants.jpg"
   },
@@ -3354,8 +4146,11 @@
       "msnbs",
       "word"
     ],
-    "authors": [
-      "Charlie Smart"
+    "credits": [
+      {
+        "name": "Charlie Smart",
+        "slug": "charlie-smart"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2018_01_chyrons.jpg"
   },
@@ -3373,9 +4168,15 @@
       "dislike",
       "hater"
     ],
-    "authors": [
-      "Russell Samora",
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_12_hater.jpg"
   },
@@ -3391,8 +4192,11 @@
       "solar system",
       "earth"
     ],
-    "authors": [
-      "Matthew Conlen"
+    "credits": [
+      {
+        "name": "Matthew Conlen",
+        "slug": "matthew-conlen"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_10_satellites.jpg"
   },
@@ -3411,9 +4215,15 @@
       "gender",
       "race"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_10_asne.jpg"
   },
@@ -3429,9 +4239,15 @@
       "sports",
       "superteam"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_10_superteams.jpg"
   },
@@ -3449,9 +4265,15 @@
       "lyric",
       "word"
     ],
-    "authors": [
-      "Matt Daniels",
-      "The Data Face"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "The Data Face",
+        "slug": "the-data-face"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_09_hip-hop-words.jpg"
   },
@@ -3473,8 +4295,11 @@
       "representation",
       "diversity"
     ],
-    "authors": [
-      "Ash Ngu"
+    "credits": [
+      {
+        "name": "Ash Ngu",
+        "slug": "ash-ngu"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_09_this-american-life.jpg"
   },
@@ -3501,10 +4326,19 @@
       "distance",
       "clinic"
     ],
-    "authors": [
-      "Russell Samora",
-      "Caitlyn Ralph",
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_09_clinics.jpg"
   },
@@ -3527,11 +4361,23 @@
       "trope",
       "script"
     ],
-    "authors": [
-      "Russell Samora",
-      "Amber Thomas",
-      "Hanah Anderson",
-      "Julia Silge"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Hanah Anderson",
+        "slug": "hanah-anderson"
+      },
+      {
+        "name": "Julia Silge",
+        "slug": "julia-silge"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_08_screen-direction.jpg"
   },
@@ -3548,8 +4394,11 @@
       "tv",
       "dialogue"
     ],
-    "authors": [
-      "Caitlyn Ralph"
+    "credits": [
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_08_the-office.jpg"
   },
@@ -3568,9 +4417,15 @@
       "dining",
       "restaurant"
     ],
-    "authors": [
-      "Amber Thomas",
-      "Henrik Lindberg"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      },
+      {
+        "name": "Henrik Lindberg",
+        "slug": "henrik-lindberg"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_07_eating-alone.jpg"
   },
@@ -3590,8 +4445,11 @@
       "representation",
       "diversity"
     ],
-    "authors": [
-      "Amanda Shendruk"
+    "credits": [
+      {
+        "name": "Amanda Shendruk",
+        "slug": "amanda-shendruk"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_07_comics.jpg"
   },
@@ -3613,8 +4471,11 @@
       "united states",
       "money"
     ],
-    "authors": [
-      "Ilia Blinderman"
+    "credits": [
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_07_jobs.jpg"
   },
@@ -3632,9 +4493,15 @@
       "ocean",
       "aquarium"
     ],
-    "authors": [
-      "Russell Samora",
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_07_cetaceans.jpg"
   },
@@ -3651,9 +4518,15 @@
       "plot",
       "story"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_06_film-trends.jpg"
   },
@@ -3675,8 +4548,11 @@
       "new york times",
       "best seller"
     ],
-    "authors": [
-      "Rosie Cima"
+    "credits": [
+      {
+        "name": "Rosie Cima",
+        "slug": "rosie-cima"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_06_best-sellers.jpg"
   },
@@ -3696,8 +4572,11 @@
       "reproduction",
       "reproductive health"
     ],
-    "authors": [
-      "Amber Thomas"
+    "credits": [
+      {
+        "name": "Amber Thomas",
+        "slug": "amber-thomas"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_05_births.jpg"
   },
@@ -3715,8 +4594,11 @@
       "repetition",
       "song"
     ],
-    "authors": [
-      "Colin Morris"
+    "credits": [
+      {
+        "name": "Colin Morris",
+        "slug": "colin-morris"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_05_song-repetition.jpg"
   },
@@ -3732,9 +4614,15 @@
       "timeless",
       "play"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_05_nba-moments.jpg"
   },
@@ -3753,8 +4641,11 @@
       "america",
       "united states"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_04_beer.jpg"
   },
@@ -3772,8 +4663,11 @@
       "jail",
       "prison"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_incarceration.jpg"
   },
@@ -3788,8 +4682,11 @@
       "basketball",
       "russell westbrook"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_westbrook.jpg"
   },
@@ -3804,9 +4701,15 @@
       "basketball",
       "ref"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Oliver Roeder"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Oliver Roeder",
+        "slug": "oliver-roeder"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_home-court.jpg"
   },
@@ -3828,8 +4731,11 @@
       "rap",
       "hip hop"
     ],
-    "authors": [
-      "Shirley Wu"
+    "credits": [
+      {
+        "name": "Shirley Wu",
+        "slug": "shirley-wu"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_hamilton.jpg"
   },
@@ -3848,8 +4754,11 @@
       "republican",
       "democrat"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_elections.jpg"
   },
@@ -3867,8 +4776,11 @@
       "team",
       "player"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_redraft.jpg"
   },
@@ -3885,8 +4797,11 @@
       "sample",
       "sampling"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_sampling.jpg"
   },
@@ -3902,9 +4817,15 @@
       "jazz",
       "wiki"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Hanah Anderson"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Hanah Anderson",
+        "slug": "hanah-anderson"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_miles.jpg"
   },
@@ -3919,8 +4840,11 @@
       "basketball",
       "comebacks"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_comeback.jpg"
   },
@@ -3941,9 +4865,15 @@
       "women",
       "dialogue"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Hanah Anderson"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Hanah Anderson",
+        "slug": "hanah-anderson"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_film-dialogue.jpg"
   },
@@ -3962,8 +4892,11 @@
       "youtube",
       "playlist"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_punk.jpg"
   },
@@ -3988,9 +4921,15 @@
       "producer",
       "studio"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Ilia Blinderman"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_bechdel.jpg"
   },
@@ -4008,8 +4947,11 @@
       "map",
       "rap"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_labels.jpg"
   },
@@ -4027,8 +4969,11 @@
       "hit",
       "chart"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_timeless.jpg"
   },
@@ -4044,8 +4989,11 @@
       "outkast",
       "rap"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_03_outkast.jpg"
   },
@@ -4063,10 +5011,19 @@
       "map",
       "academy award"
     ],
-    "authors": [
-      "Matt Daniels",
-      "Russell Samora",
-      "Ilia Blinderman"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Ilia Blinderman",
+        "slug": "ilia-blinderman"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_02_oscars_so_mapped.jpg"
   },
@@ -4082,8 +5039,11 @@
       "two minute report",
       "ref"
     ],
-    "authors": [
-      "Russell Samora"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_02_two-minute-report.jpg"
   },
@@ -4101,8 +5061,11 @@
       "search",
       "word"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_02_new-slang.jpg"
   },
@@ -4125,8 +5088,11 @@
       "south",
       "united states"
     ],
-    "authors": [
-      "Matt Daniels"
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_01_shape-of-slavery.jpg"
   },
@@ -4143,9 +5109,15 @@
       "big",
       "success"
     ],
-    "authors": [
-      "Russell Samora",
-      "Dan Kopf"
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Dan Kopf",
+        "slug": "dan-kopf"
+      }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2017_01_making-it-big.jpg"
   }

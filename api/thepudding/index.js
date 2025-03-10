@@ -32,7 +32,7 @@ async function fetchPuddingGraphics() {
             url: `https://pudding.cool/projects/${row.slug}/`,
             date: extractDateFromSlug(row.slug),
             keywords: row.keyword ? row.keyword.split(",").map(k => k.trim()) : [],
-            authors: row.author ? row.author.split(",").map(a => a.trim()) : [],
+            credits: row.author ? formatCredits(row.author) : [],
             img: `https://pudding.cool/common/assets/thumbnails/screenshots/${row.slug}.jpg`
         }));
     } catch (error) {
@@ -47,6 +47,19 @@ async function fetchPuddingGraphics() {
 function extractDateFromSlug(slug) {
     const match = slug.match(/^(\d{4})_(\d{2})/);
     return match ? `${match[1]}-${match[2]}-01` : "Unknown date";  // Defaults to first day of the month
+}
+
+/**
+ * Converts author string into a formatted credits array.
+ */
+function formatCredits(authors) {
+    return authors.split(",").map(author => {
+        const trimmedName = author.trim();
+        return {
+            name: trimmedName,
+            slug: trimmedName.toLowerCase().replace(/\s+/g, "-")
+        };
+    });
 }
 
 /**

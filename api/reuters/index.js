@@ -46,6 +46,7 @@ async function fetchReutersGraphics(offset = 0, results = []) {
         console.log(chalk.green("✅ Reuters Graphics Retrieved!"));
 
         const articles = jsonResponse.result?.articles || [];
+        
         if (articles.length === 0) {
             console.log(chalk.yellow("⚠️ No more articles found."));
             return results;

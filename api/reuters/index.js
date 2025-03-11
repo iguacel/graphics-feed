@@ -23,7 +23,11 @@ async function fetchReutersGraphics(offset = 0, results = []) {
     console.log(chalk.blue(`🔗 URL: ${url}`));
 
     try {
-        const browser = await puppeteer.launch({ headless: "new" });
+        const browser = await puppeteer.launch({
+            headless: "new",
+            args: ["--no-sandbox", "--disable-setuid-sandbox"]
+        });
+        
         const page = await browser.newPage();
 
         // Set headers to simulate a real browser

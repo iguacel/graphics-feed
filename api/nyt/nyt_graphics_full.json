@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDg2OGNiZDUtOThlNC01ZGUxLWJmYTItZmRkYzNhOTJlN2M5",
+    "headline": "15 Lessons Scientists Learned About Us When the World Stood Still",
+    "url": "https://www.nytimes.com/interactive/2025/03/11/upshot/covid-lessons.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-11T09:05:04.000Z",
+    "credits": [
+      {
+        "name": "Claire Cain Miller",
+        "slug": "claire-cain-miller"
+      },
+      {
+        "name": "Irineo Cabreros",
+        "slug": "irineo-cabreros"
+      }
+    ],
+    "description": "The pandemic gave researchers a rare opportunity to study human behavior. Their work offers lessons about loneliness, remote work, high heels and more.",
+    "square_img": "https://static01.nyt.com/images/2025/03/07/upshot/covid-lessons-1741367316871/covid-lessons-1741367316871-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/07/upshot/covid-lessons-1741367316871/covid-lessons-1741367316871-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzE3NmNhNGUtOWRkMS01ZTc1LTk2MTMtYjcwNzBjN2Y2MTFj",
     "headline": "30 Charts That Show How Covid Changed Everything in March 2020",
     "url": "https://www.nytimes.com/interactive/2025/03/09/upshot/covid-lockdown-five-year-charts.html",

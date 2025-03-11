@@ -1,5 +1,26 @@
 [
   {
+    "id": "2025_03_language",
+    "headline": "Onomatopoeia Odyssey",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_03_language/",
+    "date": "2025-03-01",
+    "keywords": [
+      "language",
+      "sound",
+      "animal",
+      "noise",
+      "onomatopoeia"
+    ],
+    "credits": [
+      {
+        "name": "Vivian Li",
+        "slug": "vivian-li"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_03_language.jpg"
+  },
+  {
     "id": "2025_02_middle-school",
     "headline": "The Middle Ages",
     "description": "No description available",

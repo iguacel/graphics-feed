@@ -2,7 +2,7 @@ name: Data Reuters
 
 on:
   schedule:
-    - cron: '0 6,18 * * *' # Run at 6 AM and 6 PM UTC
+    - cron: '0 8,15 * * *'  # Run at 09:00 CET and 16:00 CET (08:00 and 15:00 UTC)
   push:
     branches:
       - main
@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full history to prevent push issues
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -30,15 +32,27 @@ jobs:
       - name: Generate Data
         run: node api/reuters/index.js
 
-      - name: Commit files
+      - name: Commit and Push Changes
         run: |
-          git config --local user.name "actions-user"
-          git config --local user.email "actions@github.com"
-          git add api/wp/wapo_graphics_feed.json
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+
+          # ✅ Temporarily stash unstaged changes before pulling
+          git stash push -m "Temp stash before pulling latest changes"
+          
+          # ✅ Pull latest changes without conflicts
+          git pull --rebase origin main
+          
+          # ✅ Restore stashed changes
+          git stash pop || echo "No stashed changes to restore."
+
+          # ✅ Add and commit changes
+          git add api/reuters/reuters_graphics_feed.json
+          
           if [[ `git status --porcelain` ]]; then
             echo "OK: Changes detected."
             git commit -m "gh-action get reuters data: $(date -u)"
             git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/iguacel/graphics-feed.git main
           else
-            echo "No changes were detected."
+            echo "📄 No changes detected, skipping push."
           fi

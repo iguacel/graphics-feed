@@ -83,6 +83,28 @@
     "medium": "Reuters"
   },
   {
+    "id": "2025_03_language",
+    "headline": "Onomatopoeia Odyssey",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_03_language/",
+    "date": "2025-03-11T00:00:00.000Z",
+    "keywords": [
+      "language",
+      "sound",
+      "animal",
+      "noise",
+      "onomatopoeia"
+    ],
+    "credits": [
+      {
+        "name": "Vivian Li",
+        "slug": "vivian-li"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_03_language.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "FCMJ7NYGMVC55DKJCT3ZQFTJCI",
     "headline": "Man shot outside White House had BB gun and ‘cell phone handgun,’ police say",
     "description": "D.C. police identified Andrew Dawson, of North Manchester, Indiana, as the man shot and critically wounded by Secret Service personnel early Sunday.",

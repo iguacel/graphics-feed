@@ -1,8 +1,8 @@
-name: Merge data (last month)
+name: Merge Data (Last Month)
 
 on:
   schedule:
-    - cron: '0 7,19 * * *' # Run at 7 AM and 7 PM UTC
+    - cron: '30 8,15 * * *'  # Runs at 08:30 UTC (09:30 CET) and 15:30 UTC (16:30 CET)
   push:
     branches:
       - main
@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full history to prevent push issues
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -27,15 +29,27 @@ jobs:
       - name: Merge Data
         run: node api/merge/index.js
 
-      - name: Commit files
+      - name: Commit and Push Changes
         run: |
-          git config --local user.name "actions-user"
-          git config --local user.email "actions@github.com"
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+
+          # ✅ Temporarily stash unstaged changes before pulling
+          git stash push -m "Temp stash before pulling latest changes"
+          
+          # ✅ Pull latest changes without conflicts
+          git pull --rebase origin main
+          
+          # ✅ Restore stashed changes
+          git stash pop || echo "No stashed changes to restore."
+
+          # ✅ Add and commit changes
           git add api/merge/graphics_feed.json
+          
           if [[ `git status --porcelain` ]]; then
             echo "OK: Changes detected."
             git commit -m "gh-action get merge data: $(date -u)"
             git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/iguacel/graphics-feed.git main
           else
-            echo "No changes were detected."
+            echo "📄 No changes detected, skipping push."
           fi

@@ -7,7 +7,7 @@ const sources = [
     { file: "api/wp/wapo_graphics_feed.json", medium: "WP" },
     { file: "api/bloomberg/bloomberg_graphics_feed.json", medium: "Bloomberg" },
     { file: "api/scmp/scmp_graphics_feed.json", medium: "SCMP" },
-    { file: "api/scmp/thepudding_feed.json", medium: "Pudding" }
+    { file: "api/thepudding/thepudding_graphics_feed.json", medium: "Pudding" }
 ];
 
 const mergedFile = "api/merge/graphics_feed.json";

@@ -3,7 +3,7 @@
 	import { formatDate, formatAuthors } from '../../utils/utils';
 	const { data, media } = $props();
 
-	$inspect(media, data.medium);
+	// $inspect(media, data.medium);
 </script>
 
 <div class="article-data">

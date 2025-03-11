@@ -1,5 +1,44 @@
 [
   {
+    "id": "SZHJD2Q3UFFVVBAWICUEWXU56E",
+    "headline": "What happened the last time Trump imposed tariffs on steel and aluminum",
+    "url": "https://www.reuters.com/world/us/donald-trump/what-happened-last-time-trump-imposed-tariffs-steel-aluminum-2025-03-11/",
+    "date": "2025-03-11T10:02:55.572Z",
+    "description": "A look at the 2018 tariffs on metals and what they can tell us about this round.",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/Q7D5JHW7S5HO7JRL5H26UGARKE.png",
+    "medium": "Reuters"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDg2OGNiZDUtOThlNC01ZGUxLWJmYTItZmRkYzNhOTJlN2M5",
+    "headline": "15 Lessons Scientists Learned About Us When the World Stood Still",
+    "url": "https://www.nytimes.com/interactive/2025/03/11/upshot/covid-lessons.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-11T09:05:04.000Z",
+    "credits": [
+      {
+        "name": "Claire Cain Miller",
+        "slug": "claire-cain-miller"
+      },
+      {
+        "name": "Irineo Cabreros",
+        "slug": "irineo-cabreros"
+      }
+    ],
+    "description": "The pandemic gave researchers a rare opportunity to study human behavior. Their work offers lessons about loneliness, remote work, high heels and more.",
+    "square_img": "https://static01.nyt.com/images/2025/03/07/upshot/covid-lessons-1741367316871/covid-lessons-1741367316871-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/07/upshot/covid-lessons-1741367316871/covid-lessons-1741367316871-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "2DMNKEXBBBANFKGQBQYAOBWTEU",
+    "headline": "Maps: US interest puts Greenland in focus",
+    "url": "https://www.reuters.com/world/europe/maps-us-interest-puts-greenland-focus-2025-03-11/",
+    "date": "2025-03-11T07:29:25.927Z",
+    "description": "Trump’s persistent interest has focused international attention on the sparsely populated island",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OKF2I7VNTRDCPJEHVVS5UWCBWA.jpg",
+    "medium": "Reuters"
+  },
+  {
     "id": "FCMJ7NYGMVC55DKJCT3ZQFTJCI",
     "headline": "Man shot outside White House had BB gun and ‘cell phone handgun,’ police say",
     "description": "D.C. police identified Andrew Dawson, of North Manchester, Indiana, as the man shot and critically wounded by Secret Service personnel early Sunday.",

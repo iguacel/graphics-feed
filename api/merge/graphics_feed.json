@@ -4,7 +4,7 @@
     "headline": "On the Trail of the Los Angeles Fires",
     "url": "https://www.nytimes.com/2025/03/12/insider/los-angeles-fires-maps.html",
     "label": "https://www.nytimes.com/insider/",
-    "date": "2025-03-12T07:00:07.511Z",
+    "date": "2025-03-12T07:00:08.000Z",
     "credits": [
       {
         "name": "K.K. Rebecca Lai",
@@ -2079,128 +2079,6 @@
     "description": "The Senate confirmed Mr. Kennedy by a vote of 52 to 48 to lead the department responsible for public health.",
     "square_img": "https://static01.nyt.com/images/2025/01/31/us/politics/kennedy-senate-confirmation-vote-1738352058427/kennedy-senate-confirmation-vote-1738352058427-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/01/31/us/politics/kennedy-senate-confirmation-vote-1738352058427/kennedy-senate-confirmation-vote-1738352058427-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvM2Y1NDYxMzAtNGVhNC01YTBlLTk0ZDItNzgxY2JlZjBlMTYx",
-    "headline": "Tracking the Lawsuits Against Trump’s Agenda",
-    "url": "https://www.nytimes.com/interactive/2025/us/trump-administration-lawsuits.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-12T21:17:54.000Z",
-    "credits": [
-      {
-        "name": "Alex Lemonides",
-        "slug": "alex-lemonides"
-      },
-      {
-        "name": "Seamus Hughes",
-        "slug": "seamus-hughes"
-      },
-      {
-        "name": "Mattathias Schwartz",
-        "slug": "mattathias-schwartz"
-      },
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      }
-    ],
-    "description": "Follow the lawsuits and rulings that are challenging President Trump's executive orders.",
-    "square_img": "https://static01.nyt.com/images/2025/02/12/multimedia/2025-02-07-trump-admin-lawsuit-tracker-index/2025-02-07-trump-admin-lawsuit-tracker-index-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/12/multimedia/2025-02-07-trump-admin-lawsuit-tracker-index/2025-02-07-trump-admin-lawsuit-tracker-index-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QTNMKUYHCZC2FEFRNOP6MT5OI4",
-    "headline": "Trump wants to substantially cut the federal workforce. Here’s what it looks like. ",
-    "description": "While federal hiring has increased in recent years, federal workers, as a share of all American workers, remains at a historic low.",
-    "url": "https://www.washingtonpost.com/business/2025/02/12/federal-workers-trump-doge-cuts/",
-    "credits": [
-      {
-        "name": "Hannah Dormido",
-        "slug": "hannah-dormido"
-      },
-      {
-        "name": "Nick Kirkpatrick",
-        "slug": "nick-kirkpatrick"
-      },
-      {
-        "name": "Kate Rabinowitz",
-        "slug": "kate-rabinowitz"
-      },
-      {
-        "name": "Andrew Tran",
-        "slug": "andrew-ba-tran"
-      }
-    ],
-    "date": "2025-02-12T21:01:01.470Z",
-    "img": "https://www.washingtonpost.com/resizer/DwsB3I_O2_V1HypDfGsFIRSNQcc=/300x0/arc-anglerfish-washpost-prod-washpost/public/2M6FEQB3GBFZNPFKWORA6UNFNQ.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/economy/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "7K7XUINWNZARBD6TDR3IGP3CFU",
-    "headline": "How every senator voted on Tulsi Gabbard for director of national intelligence",
-    "description": "The Senate confirmed Tulsi Gabbard, a veteran and former Democratic congresswoman, as director of national intelligence in a 52-48 vote.",
-    "url": "https://www.washingtonpost.com/politics/interactive/2025/02/12/tulsi-gabbard-senate-confirmation-vote-count-national-intelligence/",
-    "credits": [
-      {
-        "name": "Eric Lau",
-        "slug": "eric-lau"
-      },
-      {
-        "name": "Kati Perry",
-        "slug": "kati-perry"
-      },
-      {
-        "name": "Szu Yu  Chen",
-        "slug": "szuyu-chen"
-      },
-      {
-        "name": "Hannah Dormido",
-        "slug": "hannah-dormido"
-      }
-    ],
-    "date": "2025-02-12T17:20:18.620Z",
-    "img": "https://www.washingtonpost.com/resizer/jI-_v-Jh5HnkYsNeoHOlkmCAiXc=/300x0/arc-anglerfish-washpost-prod-washpost/public/V3226RJBN5C3BAJFNCC5ZUNYZQ.png",
-    "label": {
-      "url": "https://www.washingtonpost.com/politics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzY5MTlhZDYtYmM0MS01ODRjLWFiNjctZDlmZDcxYWUzM2Y3",
-    "headline": "How Each Senator Voted to Confirm Tulsi Gabbard as Director of National Intelligence",
-    "url": "https://www.nytimes.com/interactive/2025/02/12/us/politics/gabbard-senate-confirmation-vote.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-12T15:47:24.000Z",
-    "credits": [
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      },
-      {
-        "name": "Jon Huang",
-        "slug": "jon-huang"
-      },
-      {
-        "name": "June Kim",
-        "slug": "june-kim"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      },
-      {
-        "name": "Christine Zhang",
-        "slug": "christine-zhang"
-      }
-    ],
-    "description": "The Senate confirmed Ms. Gabbard by a vote of 52 to 48 to the position, which has oversight of 18 spy agencies.",
-    "square_img": "https://static01.nyt.com/images/2025/01/31/us/politics/gabbard-senate-confirmation-vote-1739310533243/gabbard-senate-confirmation-vote-1739310533243-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/01/31/us/politics/gabbard-senate-confirmation-vote-1739310533243/gabbard-senate-confirmation-vote-1739310533243-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

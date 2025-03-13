@@ -1,5 +1,65 @@
 [
   {
+    "id": "ST2EWHDWX2PS00",
+    "headline": "Trump's Tariffs Are Hitting Critical Goods That Contribute to the US Trade Deficit",
+    "url": "https://www.bloomberg.com/graphics/2025-us-trump-tariffs-trade-deficit/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-03-13T14:00:17.429Z",
+    "description": "Trump wants to reduce the $1.2 trillion trade deficit, so he's putting tariffs on popular imported goods from smartphones to household appliances.",
+    "credits": [
+      {
+        "name": "Denise Lu",
+        "slug": "denise-lu"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3vOReTPIFBE/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "3KR43BEEWBGSDGESSU226YWDJQ",
+    "headline": "Five years since the pandemic began, covid may now be endemic, experts say",
+    "description": "The pandemic may be over, but the endemic disease is still a threat, especially for older adults and those with certain risk factors.",
+    "url": "https://www.washingtonpost.com/wellness/2025/03/13/covid-endemic-pandemic-five-years/",
+    "credits": [
+      {
+        "name": "Lindsey Bever",
+        "slug": "lindsey-bever"
+      },
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      }
+    ],
+    "date": "2025-03-13T10:00:00.133Z",
+    "img": "https://www.washingtonpost.com/resizer/Pj_yVn0GZrt04R-ts_uGwSCb0Uw=/300x0/arc-anglerfish-washpost-prod-washpost/public/UEG5VXQC4BC5YIIU55C35Y5I5E.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/wellbeing/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "GBFAOV6S4BDT5HUFHJV5RVO7KA",
+    "headline": "Where to see cherry blossoms in the D.C. area, mapped ",
+    "description": "These maps show some of the best places to see cherry blossoms in Washington D.C., Maryland and Virginia.",
+    "url": "https://www.washingtonpost.com/dc-md-va/2025/cherry-blossom-map-dc-region/",
+    "credits": [
+      {
+        "name": "Tim Meko",
+        "slug": "tim-meko"
+      }
+    ],
+    "date": "2025-03-13T10:00:00.081Z",
+    "img": "https://www.washingtonpost.com/resizer/bgOmxg3Y1V30ThTyyH_G92tGSpk=/300x0/arc-anglerfish-washpost-prod-washpost/public/KTZGYCM6MBHJDP2WHJC2NP6C6A.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/local/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2RjMTljMGViLTlkZjMtNTNlNS1hMTE1LWM0NTI4MTMyZDcwYw==",
     "headline": "On the Trail of the Los Angeles Fires",
     "url": "https://www.nytimes.com/2025/03/12/insider/los-angeles-fires-maps.html",
@@ -2008,77 +2068,6 @@
     "description": "The United States, Mexico and Cuba have jurisdiction over different parts of the gulf.",
     "square_img": "https://static01.nyt.com/images/2025/02/13/multimedia/2025-02-12-gulf-boundaries-index/2025-02-12-gulf-boundaries-index-square320-v9.jpg",
     "img": "https://static01.nyt.com/images/2025/02/13/multimedia/2025-02-12-gulf-boundaries-index/2025-02-12-gulf-boundaries-index-facebookJumbo-v9.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "3737ZL5LCRCJDE7AOM2OZD2YOM",
-    "headline": "How every senator voted on RFK Jr. for health secretary",
-    "description": "The Senate voted to confirm Robert F. Kennedy, Jr., former environmental lawyer and anti-vaccine activist, as secretary of health and human services in a 52-48 vote.",
-    "url": "https://www.washingtonpost.com/politics/interactive/2025/02/13/rfk-jr-senate-confirmation-vote-count-health-secretary/",
-    "credits": [
-      {
-        "name": "Hannah Dormido",
-        "slug": "hannah-dormido"
-      },
-      {
-        "name": "Eric Lau",
-        "slug": "eric-lau"
-      },
-      {
-        "name": "Kati Perry",
-        "slug": "kati-perry"
-      },
-      {
-        "name": "Szu Yu  Chen",
-        "slug": "szuyu-chen"
-      },
-      {
-        "name": "Nick Mourtoupalas",
-        "slug": "nick-mourtoupalas"
-      }
-    ],
-    "date": "2025-02-13T15:30:12.671Z",
-    "img": "https://www.washingtonpost.com/resizer/jI-_v-Jh5HnkYsNeoHOlkmCAiXc=/300x0/arc-anglerfish-washpost-prod-washpost/public/V3226RJBN5C3BAJFNCC5ZUNYZQ.png",
-    "label": {
-      "url": "https://www.washingtonpost.com/politics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDhlMjAxYTQtZWQ5NC01M2U1LTkyNTgtYjY5OWMxNWZmZWI0",
-    "headline": "How Each Senator Voted to Confirm Robert F. Kennedy Jr. as Health Secretary",
-    "url": "https://www.nytimes.com/interactive/2025/02/13/us/politics/kennedy-senate-confirmation-vote.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-13T15:28:39.000Z",
-    "credits": [
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      },
-      {
-        "name": "Jon Huang",
-        "slug": "jon-huang"
-      },
-      {
-        "name": "Malika Khurana",
-        "slug": "malika-khurana"
-      },
-      {
-        "name": "Jasmine C. Lee",
-        "slug": "jasmine-c-lee"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      }
-    ],
-    "description": "The Senate confirmed Mr. Kennedy by a vote of 52 to 48 to lead the department responsible for public health.",
-    "square_img": "https://static01.nyt.com/images/2025/01/31/us/politics/kennedy-senate-confirmation-vote-1738352058427/kennedy-senate-confirmation-vote-1738352058427-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/01/31/us/politics/kennedy-senate-confirmation-vote-1738352058427/kennedy-senate-confirmation-vote-1738352058427-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

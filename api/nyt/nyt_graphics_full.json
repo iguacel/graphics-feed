@@ -1,5 +1,29 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzdlNjgxNmYwLWViZjMtNWYwYS05MDk1LWU5NGE0NWY0ZmQwOA==",
+    "headline": "Stocks Tumble Into Correction as Investors Sour on Trump",
+    "url": "https://www.nytimes.com/2025/03/13/business/sp-500-stocks-market-correction.html",
+    "label": "https://www.nytimes.com/business/",
+    "date": "2025-03-13T20:05:19.000Z",
+    "credits": [
+      {
+        "name": "Joe Rennison",
+        "slug": "joe-rennison"
+      },
+      {
+        "name": "Danielle Kaye",
+        "slug": "danielle-kaye"
+      },
+      {
+        "name": "Karl Russell",
+        "slug": "karl-russell"
+      }
+    ],
+    "description": "The S&P 500 is now more than 10 percent below its last record high — a line in the sand for investors worried about a sell-off gathering steam.",
+    "square_img": "https://static01.nyt.com/images/2025/03/13/multimedia/2025-03-13-stocks-since-election-index/2025-03-13-stocks-since-election-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/03/13/multimedia/2025-03-13-stocks-since-election-index/2025-03-13-stocks-since-election-index-facebookJumbo.png"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2RjMTljMGViLTlkZjMtNTNlNS1hMTE1LWM0NTI4MTMyZDcwYw==",
     "headline": "On the Trail of the Los Angeles Fires",
     "url": "https://www.nytimes.com/2025/03/12/insider/los-angeles-fires-maps.html",

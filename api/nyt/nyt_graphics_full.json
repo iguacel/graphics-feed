@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzVmYjZhZGUtMzI5Zi01NjkyLWJhOTctNDJhNGIxNmU1NDgz",
+    "headline": "Trade War Retaliation Will Hit Trump Voters Hardest",
+    "url": "https://www.nytimes.com/interactive/2025/03/15/business/economy/tariffs-trump-maps-voters.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-15T09:02:27.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Ana Swanson",
+        "slug": "ana-swanson"
+      }
+    ],
+    "description": "Nearly 8 million Americans work in industries targeted by the levies and the majority are Trump voters, a New York Times analysis shows",
+    "square_img": "https://static01.nyt.com/images/2025/03/14/multimedia/2025-03-04-county-tariff-impact-index/2025-03-04-county-tariff-impact-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/03/14/multimedia/2025-03-04-county-tariff-impact-index/2025-03-04-county-tariff-impact-index-facebookJumbo.png"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2I4MzFhZmU4LWVkYTUtNTNjMC1iYTI0LTY5NzIzNzAzODM5OQ==",
     "headline": "Draft List for New Travel Ban Proposes Trump Target 43 Countries",
     "url": "https://www.nytimes.com/2025/03/14/us/politics/trump-travel-ban.html",

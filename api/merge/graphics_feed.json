@@ -1,5 +1,72 @@
 [
   {
+    "id": "7VM7QAG5CRA7VLWOBVV2YNZBKY",
+    "headline": "What went wrong the night Altadena burned",
+    "description": "A Washington Post analysis shows that some officials knew of the fire’s westward spread hours before evacuation orders were sent to residents in western Altadena.",
+    "url": "https://www.washingtonpost.com/weather/interactive/2025/altadena-wildfire-destruction-eaton-fire/",
+    "credits": [
+      {
+        "name": "Joyce Lee",
+        "slug": "joyce-lee"
+      },
+      {
+        "name": "Josh Partlow",
+        "slug": "joshua-partlow"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      },
+      {
+        "name": "Samuel Oakford",
+        "slug": "samuel-oakford"
+      },
+      {
+        "name": "Sarah Kaplan",
+        "slug": "sarah-kaplan"
+      },
+      {
+        "name": "Brianna Sacks",
+        "slug": "brianna-sacks"
+      },
+      {
+        "name": "Aaron Davis",
+        "slug": "aaron-c-davis"
+      },
+      {
+        "name": "Imogen Piper",
+        "slug": "imogen-piper"
+      }
+    ],
+    "date": "2025-03-15T10:00:27.135Z",
+    "img": "https://www.washingtonpost.com/resizer/zutgmEMx11ZN4s7JZrVCFMKvpyw=/300x0/arc-anglerfish-washpost-prod-washpost/public/PZLZQJ43KZAIXGKVERMPPPNFBU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/extreme-weather/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzVmYjZhZGUtMzI5Zi01NjkyLWJhOTctNDJhNGIxNmU1NDgz",
+    "headline": "Trade War Retaliation Will Hit Trump Voters Hardest",
+    "url": "https://www.nytimes.com/interactive/2025/03/15/business/economy/tariffs-trump-maps-voters.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-15T09:02:27.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Ana Swanson",
+        "slug": "ana-swanson"
+      }
+    ],
+    "description": "Nearly 8 million Americans work in industries targeted by the levies and the majority are Trump voters, a New York Times analysis shows",
+    "square_img": "https://static01.nyt.com/images/2025/03/14/multimedia/2025-03-04-county-tariff-impact-index/2025-03-04-county-tariff-impact-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/03/14/multimedia/2025-03-04-county-tariff-impact-index/2025-03-04-county-tariff-impact-index-facebookJumbo.png",
+    "medium": "NYT"
+  },
+  {
     "id": "EMSUPORBWNBPREHXYDTBTWXFBQ",
     "headline": "Trump visits Justice Department for speech that breaks all norms",
     "description": "Donald Trump railed against the federal prosecutions he once faced during a rare presidential visit to the Justice Department. ",
@@ -2095,36 +2162,6 @@
     "date": "2025-02-16T10:00:40.356Z",
     "img": "https://www.washingtonpost.com/resizer/xkNKO_g2fl74GNUZdPhkVbCc6Mo=/300x0/arc-anglerfish-washpost-prod-washpost/public/ROMJAEKBXBGYVBUTI7D3MMGGO4.jpg",
     "label": {},
-    "medium": "WP"
-  },
-  {
-    "id": "CJRJTIGRINHVLHFD7JL4N3WSPU",
-    "headline": "See inside DOGE’s playbook for eliminating DEI",
-    "description": "Documents detail step-by-step plans by the U.S. DOGE Service to purge federal agencies of diversity, equity, and inclusion workers and offices. Here’s what comes next.",
-    "url": "https://www.washingtonpost.com/politics/interactive/2025/doge-playbook-dei-trump/",
-    "credits": [
-      {
-        "name": "Leslie Shapiro",
-        "slug": "leslie-shapiro"
-      },
-      {
-        "name": "Daniel Wolfe",
-        "slug": "daniel-wolfe"
-      },
-      {
-        "name": "Hannah Natanson",
-        "slug": "hannah-natanson"
-      },
-      {
-        "name": "Chris Dehghanpoor",
-        "slug": "chris-dehghanpoor"
-      }
-    ],
-    "date": "2025-02-15T14:00:32.768Z",
-    "img": "https://www.washingtonpost.com/resizer/SJgXP1S1YJpG0DSCggKUJNRN5to=/300x0/arc-anglerfish-washpost-prod-washpost/public/CHRVBS22JBBN5I7FCL2THQLINQ.jpg",
-    "label": {
-      "url": ""
-    },
     "medium": "WP"
   }
 ]

@@ -1,5 +1,148 @@
 [
   {
+    "id": "EMSUPORBWNBPREHXYDTBTWXFBQ",
+    "headline": "Trump visits Justice Department for speech that breaks all norms",
+    "description": "Donald Trump railed against the federal prosecutions he once faced during a rare presidential visit to the Justice Department. ",
+    "url": "https://www.washingtonpost.com/national-security/2025/03/14/trump-justice-department-speech/",
+    "credits": [
+      {
+        "name": "Perry Stein",
+        "slug": "perry-stein"
+      },
+      {
+        "name": "Jeremy Roebuck",
+        "slug": "jeremy-roebuck"
+      },
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      }
+    ],
+    "date": "2025-03-14T23:33:30.675Z",
+    "img": "https://www.washingtonpost.com/resizer/4Jp1dEasr4OfzXkSktICCIE5rrg=/300x0/arc-anglerfish-washpost-prod-washpost/public/D7N3CHNDE2FVR66D3SNOZXFEKA.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/justice/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2I4MzFhZmU4LWVkYTUtNTNjMC1iYTI0LTY5NzIzNzAzODM5OQ==",
+    "headline": "Draft List for New Travel Ban Proposes Trump Target 43 Countries",
+    "url": "https://www.nytimes.com/2025/03/14/us/politics/trump-travel-ban.html",
+    "label": "https://www.nytimes.com/us/",
+    "date": "2025-03-14T22:48:57.000Z",
+    "credits": [
+      {
+        "name": "Charlie Savage",
+        "slug": "charlie-savage"
+      },
+      {
+        "name": "Ken Bensinger",
+        "slug": "ken-bensinger"
+      },
+      {
+        "name": "Allison McCann",
+        "slug": "allison-mccann"
+      }
+    ],
+    "description": "A draft circulating inside the administration lists three tiers of countries whose citizens may face restrictions on entering the United States.",
+    "square_img": "https://static01.nyt.com/images/2025/03/14/multimedia/14dc-travel-ban-topart-whmt/14dc-travel-ban-topart-whmt-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/14/multimedia/14dc-travel-ban-topart-whmt/14dc-travel-ban-topart-whmt-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTc5MTYyMTgtOTVmNy01ODc2LTllZDMtNWU2YzcyYjA4OWI0",
+    "headline": "How Each Senator Voted to Fund the Government Through September",
+    "url": "https://www.nytimes.com/interactive/2025/03/14/us/politics/senate-government-funding-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-14T21:28:38.000Z",
+    "credits": [
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "June Kim",
+        "slug": "june-kim"
+      },
+      {
+        "name": "Jasmine C. Lee",
+        "slug": "jasmine-c-lee"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      }
+    ],
+    "description": "The Senate voted to advance a bill to fund the federal government through September and avoid a shutdown on Saturday.",
+    "square_img": "https://static01.nyt.com/images/2025/03/12/us/politics/senate-government-funding-vote-1741978761832/senate-government-funding-vote-1741978761832-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/12/us/politics/senate-government-funding-vote-1741978761832/senate-government-funding-vote-1741978761832-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "7KI7V6AW2FHABOAR3BUSIEAHGI",
+    "headline": "How senators voted on a bill to avert a government shutdown",
+    "description": "The Senate is voting on a measure to extend federal funding through September. See how your lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/03/14/senate-vote-results-government-shutdown-cr/",
+    "credits": [
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Janice Kai Chen",
+        "slug": "janice-kai-chen"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      }
+    ],
+    "date": "2025-03-14T18:33:29.343Z",
+    "img": "https://www.washingtonpost.com/resizer/3Sk9eCK5Qpxy7mHhJZBXx8yNDyc=/300x0/arc-anglerfish-washpost-prod-washpost/public/272EHA5ISVC25KB25C3U3K25EY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzMyODEwNGU3LWFjNjYtNTAyZi1hZjEwLTk3YTYyYWU0NjgwYw==",
+    "headline": "Las acciones entran en corrección y los inversores se decepcionan de Trump",
+    "url": "https://www.nytimes.com/es/2025/03/14/espanol/negocios/mercados-acciones-caen-correccion-sp-500-trump.html",
+    "label": "https://www.nytimes.com/es/",
+    "date": "2025-03-14T18:19:10.000Z",
+    "credits": [
+      {
+        "name": "Joe Rennison",
+        "slug": "joe-rennison"
+      },
+      {
+        "name": "Danielle Kaye",
+        "slug": "danielle-kaye"
+      },
+      {
+        "name": "Karl Russell",
+        "slug": "karl-russell"
+      }
+    ],
+    "description": "El movimiento se debe al creciente pesimismo de los inversores respecto a los pronunciamientos políticos volátiles de Washington en las últimas semanas.",
+    "square_img": "https://static01.nyt.com/images/2025/03/13/multimedia/2025-03-13-stocks-since-election-index/2025-03-13-stocks-since-election-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/03/13/multimedia/2025-03-13-stocks-since-election-index/2025-03-13-stocks-since-election-index-facebookJumbo.png",
+    "medium": "NYT"
+  },
+  {
     "id": "CMU4ESZAPJGOJDCIXCIOOZJUQI",
     "headline": "Trump wants Guantánamo to hold 30,000 migrants. So far it has held about 300.",
     "description": "Trump’s plan to vastly expand migrant detentions at the Guantánamo Bay Naval Station in Cuba has proven costly and logistically complicated.",
@@ -1983,85 +2126,5 @@
       "url": ""
     },
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTkyOTVmZGMtM2M3Ni01MjZmLWJiZjctOTEwNjY5OTUyOGMw",
-    "headline": "Diagram: How the Justice Department Resignations Unfolded",
-    "url": "https://www.nytimes.com/interactive/2025/02/14/us/doj-resignations-trump-adams.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-14T19:08:40.000Z",
-    "credits": [
-      {
-        "name": "Karen Yourish",
-        "slug": "karen-yourish"
-      },
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      }
-    ],
-    "description": "More than half a dozen government attorneys have resigned since an order by the Trump administration’s Justice Department to drop charges against Mayor Eric Adams of New York City.",
-    "square_img": "https://static01.nyt.com/images/2025/02/14/multimedia/2025-02-14-doj-resignations-index/2025-02-14-doj-resignations-index-square320-v4.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/14/multimedia/2025-02-14-doj-resignations-index/2025-02-14-doj-resignations-index-facebookJumbo-v5.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "PGZX2IJHYNHDHMYZ6JW4RGGJZU",
-    "headline": "Mapped: Russia’s and Ukraine’s competing visions for peace",
-    "description": "As Washington seeks to resolve the war in Ukraine with peace negotiations, these maps show what each side in the conflict is pushing for.",
-    "url": "https://www.washingtonpost.com/world/2025/02/14/ukraine-maps-demands-russia-negotiations/",
-    "credits": [
-      {
-        "name": "Siobhán O'Grady",
-        "slug": "siobhan-ogrady"
-      },
-      {
-        "name": "Laris Karklis",
-        "slug": "laris-karklis"
-      }
-    ],
-    "date": "2025-02-14T17:02:19.925Z",
-    "img": "https://www.washingtonpost.com/resizer/fbIq6cKp0qwoyAtGZhCF0LDzyI0=/300x0/arc-anglerfish-washpost-prod-washpost/public/MYY6BBRTCVBQVCUS5T7TFPR5HA.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/world/europe/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2Y2M2U0YTQtZjBhMC01YjU4LWJiY2EtNjQ4NjNlMDljOWJh",
-    "headline": "¿Quién controla el golfo de México?",
-    "url": "https://www.nytimes.com/es/interactive/2025/02/14/espanol/america-latina/golfo-mexico-trump.html",
-    "label": "https://www.nytimes.com/es/",
-    "date": "2025-02-14T16:50:25.000Z",
-    "credits": [
-      {
-        "name": "Zach Levitt",
-        "slug": "zach-levitt"
-      },
-      {
-        "name": "Tim Wallace",
-        "slug": "tim-wallace"
-      }
-    ],
-    "description": "Estados Unidos, México y Cuba tienen jurisdicción sobre distintas zonas del golfo.",
-    "square_img": "https://static01.nyt.com/images/2025/02/14/multimedia/2025-02-12-gulf-boundaries-index-es/2025-02-12-gulf-boundaries-index-es-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/14/multimedia/2025-02-12-gulf-boundaries-index-es/2025-02-12-gulf-boundaries-index-es-facebookJumbo-v3.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "DEQJPI5K7VGPDA3DHRSOU764YQ",
-    "headline": "German election: The latest polls",
-    "url": "https://www.reuters.com/world/europe/german-election-latest-polls-2025-02-14/",
-    "label": "https://www.reuters.com/world/",
-    "date": "2025-02-14T16:33:21.425Z",
-    "description": "Germany's snap national election follows the collapse of Chancellor Olaf Scholz's three-way coalition.",
-    "credits": [
-      {
-        "name": "Samuel Hart",
-        "slug": "samuel-hart"
-      }
-    ],
-    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/F67K7N3L6JFC7DSA3W6A4XKBKY.jpg",
-    "medium": "Reuters"
   }
 ]

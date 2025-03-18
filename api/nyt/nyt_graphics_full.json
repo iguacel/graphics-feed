@@ -1,5 +1,25 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Y3MDkxMzI4LWUzMzUtNTQ2Zi1iMjI2LTZjNmQ3YWY4MGQyYw==",
+    "headline": "Edison’s Power Lines Were Under Strain 14 Hours Before Eaton Fire",
+    "url": "https://www.nytimes.com/2025/03/18/business/energy-environment/socal-edison-eaton-fire.html",
+    "label": "https://www.nytimes.com/business/",
+    "date": "2025-03-18T14:32:58.000Z",
+    "credits": [
+      {
+        "name": "Ivan Penn",
+        "slug": "ivan-penn"
+      },
+      {
+        "name": "Blacki Migliozzi",
+        "slug": "blacki-migliozzi"
+      }
+    ],
+    "description": "New data suggests there were faults on Southern California Edison’s transmission lines early on Jan. 7 before the fire started that evening.",
+    "square_img": "https://static01.nyt.com/images/2025/03/17/multimedia/17biz-edison-fire-vjpc/17biz-edison-fire-vjpc-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/17/multimedia/17biz-edison-fire-vjpc/17biz-edison-fire-vjpc-facebookJumbo.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNlNWU0MDE4LWNkYWQtNTJhMC1hNmQ3LTZiZmViMWE0MjgzYQ==",
     "headline": "Un juez ordenó que los aviones de deportación regresaran. La Casa Blanca no hizo caso",
     "url": "https://www.nytimes.com/es/2025/03/18/espanol/estados-unidos/cronologia-trump-deportacion-vuelos-el-salvador.html",

@@ -1,5 +1,27 @@
 [
   {
+    "id": "Y3L27ECG6VGDBA4Q5W4TDHYUKI",
+    "headline": "DOGE plays hardball in U.S. Institute of Peace takeover",
+    "description": "DOGE, which stands for Department of Government Efficiency, took over the  U.S. Institute of Peace after threatening its officials with criminal prosecution.",
+    "url": "https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/",
+    "credits": [
+      {
+        "name": "Karen DeYoung",
+        "slug": "karen-deyoung"
+      },
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      }
+    ],
+    "date": "2025-03-19T00:41:46.908Z",
+    "img": "https://www.washingtonpost.com/resizer/fvAuVJjiwv8yD3-63KqtuytnVCo=/300x0/arc-anglerfish-washpost-prod-washpost/public/TZQCI2YCNRRS4F247HZLLZDAGY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national-security/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Y3MDkxMzI4LWUzMzUtNTQ2Zi1iMjI2LTZjNmQ3YWY4MGQyYw==",
     "headline": "Edison’s Power Lines Were Under Strain 14 Hours Before Eaton Fire",
     "url": "https://www.nytimes.com/2025/03/18/business/energy-environment/socal-edison-eaton-fire.html",
@@ -2379,29 +2401,5 @@
     ],
     "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/USYKD5KXTJHKFKEOI7XBJIVVZ4.jpg",
     "medium": "Reuters"
-  },
-  {
-    "id": "SRWZ87DWLU6800",
-    "headline": "German Election Federal Results",
-    "url": "https://www.bloomberg.com/graphics/2025-german-election-results/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-02-19T05:00:07.910Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Tom Fevrier",
-        "slug": "tom-fevrier"
-      },
-      {
-        "name": "Chris Reiter",
-        "slug": "chris-reiter"
-      },
-      {
-        "name": "Iain Rogers",
-        "slug": "iain-rogers"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ6YC6PNY2rw/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

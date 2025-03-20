@@ -1,5 +1,48 @@
 [
   {
+    "id": "2025_03_housewives",
+    "headline": "What we can learn from watching reality stars apologize",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_03_housewives/",
+    "date": "2025-03-20T00:00:00.000Z",
+    "keywords": [
+      "housewives",
+      "real housewives",
+      "rhoslc",
+      "bravo",
+      "apology",
+      "apologies",
+      "sorry",
+      "therapist"
+    ],
+    "credits": [
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_03_housewives.jpg",
+    "medium": "Pudding"
+  },
+  {
+    "id": "NYPQJ35I25FFFBSGNEJUY5TLOU",
+    "headline": "Judge denies request by U.S. Institute of Peace to stop DOGE takeover",
+    "description": "A USIP lawsuit filed in D.C. requested a temporary restraining order and named Trump, several members of his Cabinet and DOGE representatives as defendants.",
+    "url": "https://www.washingtonpost.com/national-security/2025/03/19/institute-of-peace-lawsuit-doge-musk-trump/",
+    "credits": [
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      }
+    ],
+    "date": "2025-03-19T21:15:21.377Z",
+    "img": "https://www.washingtonpost.com/resizer/MH9itfubKhplXKlfvAneHIslS-Y=/300x0/arc-anglerfish-washpost-prod-washpost/public/OEFB5XNGHBGANGXBLO7HY5SZWA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/courts-law/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "Y3L27ECG6VGDBA4Q5W4TDHYUKI",
     "headline": "DOGE plays hardball in U.S. Institute of Peace takeover",
     "description": "DOGE, which stands for Department of Government Efficiency, took over the  U.S. Institute of Peace after threatening its officials with criminal prosecution.",
@@ -2373,33 +2416,5 @@
       "url": "https://www.washingtonpost.com/sports/wizards/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "JLYJWHGFARBIHO7FETIOUGWE6A",
-    "headline": "How Germany's economic strength became a weakness",
-    "url": "https://www.reuters.com/world/europe/how-germanys-economic-strength-became-weakness-2025-02-20/",
-    "label": "https://www.reuters.com/world/",
-    "date": "2025-02-20T08:31:56.158Z",
-    "description": "Germany's economic malaise has led some citizens to embrace populist parties, including on the far right. What does that mean for Sunday's election? And how did Germany arrive here?",
-    "credits": [
-      {
-        "name": "Maria Martinez",
-        "slug": "maria-martinez"
-      },
-      {
-        "name": "Dea Bankova",
-        "slug": "dea-bankova"
-      },
-      {
-        "name": "Anurag Rao",
-        "slug": "anurag-rao"
-      },
-      {
-        "name": "Prasanta Dutta",
-        "slug": "prasanta-dutta"
-      }
-    ],
-    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/USYKD5KXTJHKFKEOI7XBJIVVZ4.jpg",
-    "medium": "Reuters"
   }
 ]

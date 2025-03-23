@@ -1,5 +1,44 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2M4NzM1NDNlLTU1MmQtNWZmNS05NGU1LWI5MmMxMTM0MGZjYg==",
+    "headline": "The Online Casinos That Can Operate as Long as They Say They Aren’t Actually Casinos",
+    "url": "https://www.nytimes.com/2025/03/23/upshot/online-casinos-sweepstakes-gambling.html",
+    "label": "https://www.nytimes.com/upshot/",
+    "date": "2025-03-23T09:00:23.000Z",
+    "credits": [
+      {
+        "name": "Ben Blatt",
+        "slug": "ben-blatt"
+      }
+    ],
+    "description": "Policing loopholes in gambling law can be challenging, and most states have been slow to adapt.",
+    "square_img": "https://static01.nyt.com/images/2025/03/21/multimedia/2025-03-21-sweeps-flowchart-index/2025-03-21-sweeps-flowchart-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/21/multimedia/2025-03-21-sweeps-flowchart-index/2025-03-21-sweeps-flowchart-index-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "SIQXYSILSVEOZDLNSB4BI3Q2HM",
+    "headline": "Greenland is hard to defend. As Trump threatens, the Danes are trying.",
+    "description": "“One way or the other,” President Donald Trump told Congress, the United States needs to “get” Greenland, strategically located and rich in rare metals.",
+    "url": "https://www.washingtonpost.com/world/interactive/2025/greenland-trump-defense-russia-china/",
+    "credits": [
+      {
+        "name": "William Booth",
+        "slug": "william-booth"
+      },
+      {
+        "name": "Laris Karklis",
+        "slug": "laris-karklis"
+      }
+    ],
+    "date": "2025-03-23T09:00:08.045Z",
+    "img": "https://www.washingtonpost.com/resizer/4ghegA5K_4H_9tejNAGaPwVxqPE=/300x0/arc-anglerfish-washpost-prod-washpost/public/ETIUMQX4EBCRTJWD5LN3Y5YHNA.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/europe/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZmZjAwZjJhLTQwNWEtNWI3NC05OWU2LWY5OGY5YTQwOTg4NA==",
     "headline": "The Scammer’s Manual: How to Launder Money and Get Away With It",
     "url": "https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html",
@@ -24,7 +63,7 @@
       }
     ],
     "description": "Documents and insiders reveal how one of the world’s major money laundering networks operates.",
-    "square_img": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-moneylaundering-03-hpgl/00int-moneylaundering-03-hpgl-square320.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-moneylaundering-03-hpgl/00int-moneylaundering-03-hpgl-square320-v2.jpg",
     "img": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-moneylaundering-03-hpgl/00int-moneylaundering-03-hpgl-facebookJumbo.jpg",
     "medium": "NYT"
   },
@@ -2259,23 +2298,5 @@
     "square_img": "https://static01.nyt.com/images/2025/02/24/multimedia/2025-02-03-german-election-analysis-index/2025-02-03-german-election-analysis-index-square320-v5.png",
     "img": "https://static01.nyt.com/images/2025/02/24/multimedia/2025-02-03-german-election-analysis-index/2025-02-03-german-election-analysis-index-facebookJumbo-v4.png",
     "medium": "NYT"
-  },
-  {
-    "id": "6OOB3JVLBRAQFCPYJO4DMUH4KU",
-    "headline": "At Federal Bureau of Prisons, senior retirements add to uncertainty",
-    "description": "At least six top Federal Bureau of Prisons officials have announced plans to retire in coming months, including acting director William Lothrop.",
-    "url": "https://www.washingtonpost.com/national-security/2025/02/23/bureau-of-prisons-officials-chaos-departures-retirements/",
-    "credits": [
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      }
-    ],
-    "date": "2025-02-23T12:00:37.847Z",
-    "img": "https://www.washingtonpost.com/resizer/qoV91L-pE3NQ8mcrwzqAFrIayIA=/300x0/arc-anglerfish-washpost-prod-washpost/public/YKYVW5URCYI63EHYKNTBVROZXE.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/justice/"
-    },
-    "medium": "WP"
   }
 ]

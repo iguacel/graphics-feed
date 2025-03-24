@@ -110,6 +110,15 @@
     "medium": "NYT"
   },
   {
+    "id": "U444DEDYJNHGTFTXL2VNHCCWGM",
+    "headline": "Why are there so many live-action remakes?",
+    "url": "https://www.reuters.com/business/media-telecom/why-are-there-so-many-live-action-remakes-2025-03-21/",
+    "date": "2025-03-21T11:00:47.493Z",
+    "description": "The live-action remake of Disney’s Snow White, starring Rachel Zegler and Gal Gadot, hits theaters Friday. The film is the latest in a steady stream of remakes of original films into modernized “live-action” — though still special-effect dependent — versions. This trend isn’t new; Disney's 101 Dalmatians remake was released in 1996. Since the release of the live-action Cinderella in 2015, the uptick has been palpable. Ten films were released in as many years, five in 2019 alone.",
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/HQGYT22CSVBOTC7DOBOL5A7GHI.jpg",
+    "medium": "Reuters"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzU5M2Q5YTc2LTQ1NTMtNTljYS05YmE0LTZkYWFjNTY3YzkxZA==",
     "headline": "Airlines Scramble to Rebook Travelers After Canceling Heathrow Flights",
     "url": "https://www.nytimes.com/2025/03/21/business/heathrow-airlines-travel.html",
@@ -2261,42 +2270,5 @@
     ],
     "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3BQRT2B5XFGX7E4MI2HNHYX5TE.png",
     "medium": "Reuters"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGU4YzA3MmEtZGI5Yi01NDM4LWIwNTgtMTI3YjIxMDM4MWIz",
-    "headline": "Germany Election Maps: How Conservatives Regained Power",
-    "url": "https://www.nytimes.com/interactive/2025/02/23/world/europe/germany-election-results-analysis.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-24T04:30:25.000Z",
-    "credits": [
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      },
-      {
-        "name": "Ilana Marcus",
-        "slug": "ilana-marcus"
-      },
-      {
-        "name": "Jasmine C. Lee",
-        "slug": "jasmine-c-lee"
-      },
-      {
-        "name": "Christopher F. Schuetze",
-        "slug": "christopher-f-schuetze"
-      },
-      {
-        "name": "Josh Holder",
-        "slug": "josh-holder"
-      },
-      {
-        "name": "Agnes Chang",
-        "slug": "agnes-chang"
-      }
-    ],
-    "description": "Maps show how every district in Germany voted. The conservative Christian Democrats have won the most seats while the far-right AfD placed second.",
-    "square_img": "https://static01.nyt.com/images/2025/02/24/multimedia/2025-02-03-german-election-analysis-index/2025-02-03-german-election-analysis-index-square320-v5.png",
-    "img": "https://static01.nyt.com/images/2025/02/24/multimedia/2025-02-03-german-election-analysis-index/2025-02-03-german-election-analysis-index-facebookJumbo-v4.png",
-    "medium": "NYT"
   }
 ]

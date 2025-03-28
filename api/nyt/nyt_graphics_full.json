@@ -1,5 +1,29 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDNmMTg4MTMtYjRiYS01NmE1LWEyMTMtYjZjZGY0NDE0YWUy",
+    "headline": "Russia’s Reach",
+    "url": "https://www.nytimes.com/interactive/2025/03/28/world/europe/russia-influence-europe-putin.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-28T09:03:28.000Z",
+    "credits": [
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      },
+      {
+        "name": "Lara Jakes",
+        "slug": "lara-jakes"
+      },
+      {
+        "name": "Bill Marsh",
+        "slug": "bill-marsh"
+      }
+    ],
+    "description": "President Trump’s disdain for protecting European allies gives Vladimir Putin a fresh opportunity to extend his influence.",
+    "square_img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-06-russian-european-influence-index/2025-03-06-russian-european-influence-index-square320-v6.png",
+    "img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-06-russian-european-influence-index/2025-03-06-russian-european-influence-index-facebookJumbo-v6.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOWFlNDg5NTItZGZjZS01NmRhLWFhM2YtYmM5MzhlMmU5MWI1",
     "headline": "The DOGE Playbook Targeting Federal Agencies",
     "url": "https://www.nytimes.com/interactive/2025/03/27/us/politics/doge-playbook-musk-cuts.html",

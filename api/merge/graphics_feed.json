@@ -1,10 +1,35 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOWFlNDg5NTItZGZjZS01NmRhLWFhM2YtYmM5MzhlMmU5MWI1",
+    "headline": "The DOGE Playbook Targeting Federal Agencies",
+    "url": "https://www.nytimes.com/interactive/2025/03/27/us/politics/doge-playbook-musk-cuts.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-03-28T03:18:43.000Z",
+    "credits": [
+      {
+        "name": "Eli Murray",
+        "slug": "eli-murray"
+      },
+      {
+        "name": "June Kim",
+        "slug": "june-kim"
+      },
+      {
+        "name": "Jeremy White",
+        "slug": "jeremy-white"
+      }
+    ],
+    "description": "The cost-cutting strategy of the group, led by billionaire Elon Musk, has played out at more than 30 agencies so far.",
+    "square_img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-12-doge-breakdown-index/2025-03-12-doge-breakdown-index-square320-v5.png",
+    "img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-12-doge-breakdown-index/2025-03-12-doge-breakdown-index-facebookJumbo-v5.png",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzAzNzhkNTQtODQxZS01YTkwLTliNjUtMjczMGYyZDY3MTYz",
     "headline": "Las deportaciones no han aumentado con Trump, pero así es como han cambiado",
     "url": "https://www.nytimes.com/es/interactive/2025/03/27/espanol/estados-unidos/trump-deportados-vuelos-mapas.html",
     "label": "https://www.nytimes.com/es/",
-    "date": "2025-03-27T07:01:00.598Z",
+    "date": "2025-03-27T07:01:01.000Z",
     "credits": [
       {
         "name": "Albert Sun",
@@ -2067,46 +2092,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifizJ9l6ODsQ/v1/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMWUyODRkNDItMGYyZi01ODE0LWEzZDMtYWQ3ZmU4YTFmNGEx",
-    "headline": "More Than 70 Million Americans Are on Medicaid. This Is Where They Live.",
-    "url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/medicaid-enrollment.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-02-28T02:28:13.000Z",
-    "credits": [
-      {
-        "name": "Sarah Kliff",
-        "slug": "sarah-kliff"
-      },
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      }
-    ],
-    "description": "As Republicans weigh deep cuts, these congressional districts — some red, some blue — have the most to lose.",
-    "square_img": "https://static01.nyt.com/images/2025/02/27/multimedia/2025-02-25-medicaid-enrollment-index/2025-02-25-medicaid-enrollment-index-square320-v4.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/27/multimedia/2025-02-25-medicaid-enrollment-index/2025-02-25-medicaid-enrollment-index-facebookJumbo-v4.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "7muPEL5XVx",
-    "headline": "Kai Tak Stadium: a game-changer for Hong Kong",
-    "url": "https://multimedia.scmp.com/infographics/sport/article/3300482/kai-tak-sports-park/index.html",
-    "label": "https://www.scmp.com/hong_kong/",
-    "date": "2025-02-28T00:00:00.000Z",
-    "description": "It’s finally showtime for Kai Tak Stadium, the centrepiece of Hong Kong’s new HK$30 billion (US$3.85 billion) Kai Tak Sports Park. Almost six years in the making, the 50,000-seat stadium was built to boost Hong Kong as a global stop for sports, entertainment and other mega-events.",
-    "credits": [
-      {
-        "name": "Kuen Lau",
-        "slug": "kuen-lau"
-      },
-      {
-        "name": "Marcelo Duhalde",
-        "slug": "marcelo-duhalde"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/sport/article/3300482/kai-tak-sports-park/img/cover.jpg",
-    "medium": "SCMP"
   }
 ]

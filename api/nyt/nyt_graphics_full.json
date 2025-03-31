@@ -1,5 +1,25 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzc3NDhhODBiLThiZjEtNTBhMy05OWQ0LWFkODQ3MmM4YWFmNA==",
+    "headline": "How Much Does America Spend?",
+    "url": "https://www.nytimes.com/2025/03/31/briefing/us-federal-government-spending-doge.html",
+    "label": "https://www.nytimes.com/briefing/",
+    "date": "2025-03-31T10:51:46.000Z",
+    "credits": [
+      {
+        "name": "German Lopez",
+        "slug": "german-lopez"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      }
+    ],
+    "description": "We explore what federal government spends its money on.",
+    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-02-20-ambriefing-federal-spending-index/2025-02-20-ambriefing-federal-spending-index-square320-v2.png",
+    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-02-20-ambriefing-federal-spending-index/2025-02-20-ambriefing-federal-spending-index-facebookJumbo-v3.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGM4N2ZiNzMtYTJkYS01ZGVmLWJhYzUtZGUyOWFiNmIwNmU0",
     "headline": "Where Was Each Member of the Signal Group Chat?",
     "url": "https://www.nytimes.com/interactive/2025/03/29/us/signal-group-chat-locations.html",

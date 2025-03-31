@@ -1,5 +1,28 @@
 [
   {
+    "id": "2025_04_music-dna",
+    "headline": "The Generational Legacy of Samples in Music",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_04_music-dna/",
+    "date": "2025-03-31",
+    "keywords": [
+      "music",
+      "samples",
+      "dna"
+    ],
+    "credits": [
+      {
+        "name": "Jared Whalen",
+        "slug": "jared-whalen"
+      },
+      {
+        "name": "Stephen Lurie",
+        "slug": "stephen-lurie"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_04_music-dna.jpg"
+  },
+  {
     "id": "2025_03_housewives",
     "headline": "What we can learn from watching reality stars apologize",
     "description": "No description available",

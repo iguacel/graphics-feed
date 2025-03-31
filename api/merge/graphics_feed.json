@@ -2136,25 +2136,5 @@
     "square_img": "https://static01.nyt.com/images/2025/02/20/upshot/2025-02-20-ten-minute-challenge-photo-1740596412136/2025-02-20-ten-minute-challenge-photo-1740596412136-square320-v2.jpg",
     "img": "https://static01.nyt.com/images/2025/02/20/upshot/2025-02-20-ten-minute-challenge-photo-1740596412136/2025-02-20-ten-minute-challenge-photo-1740596412136-facebookJumbo-v2.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "3Y7HAF2ONVBBNHFAQG5XEAJX3I",
-    "headline": "The list of 2025 Oscar winners",
-    "description": "“Anora” dominated the Academy Awards, where Adrien Brody and Mikey Madison took home the top acting prizes.",
-    "url": "https://www.washingtonpost.com/style/interactive/2025/oscars-winners-list-2025/",
-    "credits": [
-      {
-        "name": "Chiqui Esteban",
-        "slug": "chiqui-esteban"
-      },
-      {
-        "name": "Shelly Tan",
-        "slug": "shelly-tan"
-      }
-    ],
-    "date": "2025-03-02T22:00:14.766Z",
-    "img": "https://www.washingtonpost.com/resizer/V__N2aXtN82wtvf_Yq38B1Xj-D0=/300x0/arc-anglerfish-washpost-prod-washpost/public/C2SOTPEX25CK5HAIXYVK2OB74Y.jpg",
-    "label": {},
-    "medium": "WP"
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzc3NDhhODBiLThiZjEtNTBhMy05OWQ0LWFkODQ3MmM4YWFmNA==",
+    "headline": "How Much Does America Spend?",
+    "url": "https://www.nytimes.com/2025/03/31/briefing/us-federal-government-spending-doge.html",
+    "label": "https://www.nytimes.com/briefing/",
+    "date": "2025-03-31T10:51:46.000Z",
+    "credits": [
+      {
+        "name": "German Lopez",
+        "slug": "german-lopez"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      }
+    ],
+    "description": "We explore what federal government spends its money on.",
+    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-02-20-ambriefing-federal-spending-index/2025-02-20-ambriefing-federal-spending-index-square320-v2.png",
+    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-02-20-ambriefing-federal-spending-index/2025-02-20-ambriefing-federal-spending-index-facebookJumbo-v3.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "2025_04_music-dna",
+    "headline": "The Generational Legacy of Samples in Music",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_04_music-dna/",
+    "date": "2025-03-31T00:00:00.000Z",
+    "keywords": [
+      "music",
+      "samples",
+      "dna"
+    ],
+    "credits": [
+      {
+        "name": "Jared Whalen",
+        "slug": "jared-whalen"
+      },
+      {
+        "name": "Stephen Lurie",
+        "slug": "stephen-lurie"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_04_music-dna.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "L4VUH4YVPRE47L6QN6O5STCHVY",
     "headline": "See which cocktails and wines could get pricier if Trump adds tariffs",
     "description": "Americans who like to drink alcohol from Europe will have to spend lot more to indulge if the Trump administration makes good on its tariff threats.  ",
@@ -2119,22 +2164,5 @@
       "url": "https://www.washingtonpost.com/economy/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYWZkNTliMmYtNjJiNC01Nzc1LThjZjItNmRjODQ3YzZiMmE1",
-    "headline": "10-Minute Challenge: A ‘Decisive Moment’ in Street Photography",
-    "url": "https://www.nytimes.com/interactive/2025/03/03/upshot/ten-minute-challenge-photo.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-03T10:01:48.000Z",
-    "credits": [
-      {
-        "name": "Larry Buchanan",
-        "slug": "larry-buchanan"
-      }
-    ],
-    "description": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
-    "square_img": "https://static01.nyt.com/images/2025/02/20/upshot/2025-02-20-ten-minute-challenge-photo-1740596412136/2025-02-20-ten-minute-challenge-photo-1740596412136-square320-v2.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/20/upshot/2025-02-20-ten-minute-challenge-photo-1740596412136/2025-02-20-ten-minute-challenge-photo-1740596412136-facebookJumbo-v2.jpg",
-    "medium": "NYT"
   }
 ]

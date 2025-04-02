@@ -1,5 +1,43 @@
 [
   {
+    "id": "CZAJOKSWBJH6NDBODUKD26Q7KU",
+    "headline": "Nine GOP House members defy Speaker Mike Johnson on new parent proxy voting measure",
+    "description": "The group of Republicans teamed up with Democrats to overcome a procedural hurdle backed by GOP leadership that would have blocked a proposed resolution allowing new parents in Congress to vote remotely.",
+    "url": "https://www.washingtonpost.com/politics/2025/04/01/proxy-voting-congress-johnson-luna/",
+    "credits": [
+      {
+        "name": "Marianna Sotomayor",
+        "slug": "marianna-sotomayor"
+      },
+      {
+        "name": "Mariana Alfaro",
+        "slug": "mariana-alfaro"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      }
+    ],
+    "date": "2025-04-01T22:04:51.246Z",
+    "img": "https://www.washingtonpost.com/resizer/JrIBg6BvyaDqZXqGVizOJH71E6U=/300x0/arc-anglerfish-washpost-prod-washpost/public/TTCXX7UV5P7B2ZTUHEYCIV623Y.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjJjYjZiNTYtMTliNy01OWJlLTk2NmYtOGRhZTU1MWNiNGY4",
+    "headline": "See Which House Members Rejected Johnson’s Effort Against Proxy Voting",
+    "url": "https://www.nytimes.com/interactive/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-01T21:33:31.000Z",
+    "credits": [],
+    "description": "Nine Republicans joined Democrats to force a vote to allow members who had new children to vote by proxy.",
+    "square_img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "06f54ad7-ee9a-4c13-856a-bd1f12e740b9",
     "headline": "How to use your voice to ease stress and calm down",
     "description": "Humming can have positive effects on the part of the brain that controls mood, anxiety, cognition and memory. Follow these exercises to use your voice to relax.",
@@ -139,10 +177,10 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjJhZjk4OWUtMmFhZS01OGRhLWI4NWEtYzVjN2U5MDg2MTQ1",
-    "headline": "What We Know About Cuts to the Federal Work Force",
+    "headline": "The Federal Work Force Cuts So Far, Agency by Agency",
     "url": "https://www.nytimes.com/interactive/2025/03/28/us/politics/trump-doge-federal-job-cuts.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-29T00:35:58.750Z",
+    "date": "2025-03-29T00:35:59.000Z",
     "credits": [
       {
         "name": "Elena Shao",
@@ -154,8 +192,8 @@
       }
     ],
     "description": "Here are the layoffs, buyouts taken and planned reductions, by agency, that The New York Times has confirmed.",
-    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-square320-v8.png",
-    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-facebookJumbo-v9.png",
+    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-square320-v10.png",
+    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-facebookJumbo-v11.png",
     "medium": "NYT"
   },
   {
@@ -2241,45 +2279,6 @@
     "img": "https://www.washingtonpost.com/resizer/H3d4Lm7WXW-N8GvcuUb_IFwrbXg=/300x0/arc-anglerfish-washpost-prod-washpost/public/BHYATCUYGRCHBPCJKYOWMXULQQ.jpg",
     "label": {
       "url": "https://www.washingtonpost.com/economy/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FhYzc5NTlmLTc1ODEtNWI1Mi05MzU5LWI0ZjQyNTJjYmRmZQ==",
-    "headline": "An Immigrant Neighborhood Where Trump Made Inroads Now Fears ICE Raids",
-    "url": "https://www.nytimes.com/2025/03/02/nyregion/ice-raids-fears-corona-nyc-immigrants.html",
-    "label": "https://www.nytimes.com/nyregion/",
-    "date": "2025-03-02T08:00:27.000Z",
-    "credits": [
-      {
-        "name": "Luis Ferré-Sadurní",
-        "slug": "luis-ferre-sadurni"
-      },
-      {
-        "name": "Todd Heisler",
-        "slug": "todd-heisler"
-      }
-    ],
-    "description": "In Corona, a once-vibrant New York City enclave home to generations of Latino immigrants, the threat of mass deportations has made many residents afraid to go outside.",
-    "square_img": "https://static01.nyt.com/images/2025/02/19/multimedia/CORONA-01-wjfl/CORONA-01-wjfl-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/19/multimedia/CORONA-01-wjfl/CORONA-01-wjfl-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "APXRZZ7P3FDARF5GARC6SRQMAE",
-    "headline": "Judge says Trump cannot fire head of independent watchdog agency",
-    "description": "The federal judge’s decision blocks Trump from removing Hampton Dellinger as head of the Office of Special Counsel and sets up a likely Supreme Court battle over the president’s powers.",
-    "url": "https://www.washingtonpost.com/national-security/2025/03/01/hampton-dellinger-trump-office-special-counsel/",
-    "credits": [
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      }
-    ],
-    "date": "2025-03-02T01:56:20.578Z",
-    "img": "https://www.washingtonpost.com/resizer/HYwb1ApTMG4bcbuDP-PXJymrZOE=/300x0/arc-anglerfish-washpost-prod-washpost/public/ELDZVZECPIYDM7NFQZVXJYXRCU.JPG",
-    "label": {
-      "url": "https://www.washingtonpost.com/justice/"
     },
     "medium": "WP"
   }

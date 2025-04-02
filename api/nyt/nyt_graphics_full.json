@@ -1,5 +1,16 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjJjYjZiNTYtMTliNy01OWJlLTk2NmYtOGRhZTU1MWNiNGY4",
+    "headline": "See Which House Members Rejected Johnson’s Effort Against Proxy Voting",
+    "url": "https://www.nytimes.com/interactive/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-01T21:33:31.000Z",
+    "credits": [],
+    "description": "Nine Republicans joined Democrats to force a vote to allow members who had new children to vote by proxy.",
+    "square_img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-facebookJumbo.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzc3NDhhODBiLThiZjEtNTBhMy05OWQ0LWFkODQ3MmM4YWFmNA==",
     "headline": "How Much Does America Spend?",
     "url": "https://www.nytimes.com/2025/03/31/briefing/us-federal-government-spending-doge.html",
@@ -49,10 +60,10 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjJhZjk4OWUtMmFhZS01OGRhLWI4NWEtYzVjN2U5MDg2MTQ1",
-    "headline": "What We Know About Cuts to the Federal Work Force",
+    "headline": "The Federal Work Force Cuts So Far, Agency by Agency",
     "url": "https://www.nytimes.com/interactive/2025/03/28/us/politics/trump-doge-federal-job-cuts.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-29T00:35:58.750Z",
+    "date": "2025-03-29T00:35:59.000Z",
     "credits": [
       {
         "name": "Elena Shao",
@@ -64,8 +75,8 @@
       }
     ],
     "description": "Here are the layoffs, buyouts taken and planned reductions, by agency, that The New York Times has confirmed.",
-    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-square320-v8.png",
-    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-facebookJumbo-v9.png"
+    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-square320-v10.png",
+    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-facebookJumbo-v11.png"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzlmMGNhZWU1LWYyYzUtNTI0NS1iNGUzLTc1MmJmMzY1M2MzMg==",

@@ -1,5 +1,86 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJlNjM2NjAxLWFmZGUtNWU5MS1hOGYzLTg2YTgzMGFjM2EyNg==",
+    "headline": "How Are Trump’s Tariff Rates Calculated?",
+    "url": "https://www.nytimes.com/2025/04/02/business/economy/trump-tariff-rates-calculation.html",
+    "label": "https://www.nytimes.com/business/",
+    "date": "2025-04-03T01:53:43.000Z",
+    "credits": [
+      {
+        "name": "Tony Romm",
+        "slug": "tony-romm"
+      },
+      {
+        "name": "Ana Swanson",
+        "slug": "ana-swanson"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "The answer appears to begin with the total trade deficit America runs with its trading partners.",
+    "square_img": "https://static01.nyt.com/images/2025/04/02/business/tariff-trademath/tariff-trademath-square320.png",
+    "img": "https://static01.nyt.com/images/2025/04/02/business/tariff-trademath/tariff-trademath-facebookJumbo.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "UBW7OAQZTZDDDE2X3EQSUKMUS4",
+    "headline": "HHS layoffs include head of the World Trade Center Health Program",
+    "description": "As part of its widespread layoffs at U.S. health agencies, the Trump administration fired John Howard, the longtime head of the World Trade Center Health Program.",
+    "url": "https://www.washingtonpost.com/health/2025/04/02/health-human-services-layoffs-world-trade-center/",
+    "credits": [
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      }
+    ],
+    "date": "2025-04-02T22:58:42.436Z",
+    "img": "https://www.washingtonpost.com/resizer/9MTQw0Fh1ctGdrjSHtgCrzctFdk=/300x0/arc-anglerfish-washpost-prod-washpost/public/PI6SN33O5DMWGRBHXSN5N7SHMM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/health/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiMGU2YmQyLTliODgtNWRjYS1iZjA2LTQ1OTM1OTFiZTRhZA==",
+    "headline": "‘Reciprocal’ Tariffs: See Which Countries Have the Highest Rates",
+    "url": "https://www.nytimes.com/2025/04/02/business/economy/trump-tariffs-chart.html",
+    "label": "https://www.nytimes.com/business/",
+    "date": "2025-04-02T22:23:07.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "President Trump unveiled sweeping tariffs that included so-called reciprocal actions on dozens of other countries at very high levels.",
+    "square_img": "https://static01.nyt.com/images/2025/04/02/business/tariff-table-promo/tariff-table-promo-square320.png",
+    "img": "https://static01.nyt.com/images/2025/04/02/business/tariff-table-promo/tariff-table-promo-facebookJumbo.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzg2MDIyMjAtZTY0Ny01YzM5LWEyOTUtNzBiYjQ3Y2JkYmYx",
+    "headline": "The War on Nature in Ukraine",
+    "url": "https://www.nytimes.com/interactive/2025/04/02/world/europe/ukraine-russia-war-environment.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-02T19:22:40.000Z",
+    "credits": [
+      {
+        "name": "Brendan Hoffman",
+        "slug": "brendan-hoffman"
+      },
+      {
+        "name": "Evelina Riabenko",
+        "slug": "evelina-riabenko"
+      }
+    ],
+    "description": "Fires and smoke foul the air. Toxins seep into the earth and water. Habitats for wildlife disappear. Experts call it ecocide.",
+    "square_img": "https://static01.nyt.com/images/2025/04/02/world/02ukraine-ecocide-square-promo/02ukraine-ecocide-square-promo-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/02/world/02ukraine-ecocide-square-promo/02ukraine-ecocide-square-promo-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "UOAXZAYLGBBWVBAPUPFLCNTLVU",
     "headline": "These old Roman buildings could unlock how to build in a warming world",
     "description": "The recycled buildings of Rome, long dismissed by architects, are getting a reappraisal as a model for how to reduce waste while creating something fresh.",
@@ -20,6 +101,27 @@
       "url": "https://www.washingtonpost.com/climate-solutions/"
     },
     "medium": "WP"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzg5OWQzZGY5LTgyYTQtNTcxOC1iY2ZiLWNmM2YzZjlmMTQyZA==",
+    "headline": "Trump Unveils Expansive Global Tariffs",
+    "url": "https://www.nytimes.com/2025/04/02/business/economy/trump-tariffs.html",
+    "label": "https://www.nytimes.com/business/",
+    "date": "2025-04-02T09:04:25.000Z",
+    "credits": [
+      {
+        "name": "Ana Swanson",
+        "slug": "ana-swanson"
+      },
+      {
+        "name": "Tony Romm",
+        "slug": "tony-romm"
+      }
+    ],
+    "description": "The president said the charges, at least 10 percent on nearly all trading partners, would restore fairness, but experts warned they could destabilize the world’s economy.",
+    "square_img": null,
+    "img": "https://static01.nyt.com/images/2025/04/02/multimedia/02dc-tariffs-vid-cjqt/02dc-tariffs-vid-cjqt-facebookJumbo.jpg",
+    "medium": "NYT"
   },
   {
     "id": "CZAJOKSWBJH6NDBODUKD26Q7KU",
@@ -2257,25 +2359,5 @@
     "square_img": "https://static01.nyt.com/images/2025/02/20/upshot/2025-02-20-ten-minute-challenge-photo-1740596412136/2025-02-20-ten-minute-challenge-photo-1740596412136-square320-v2.jpg",
     "img": "https://static01.nyt.com/images/2025/02/20/upshot/2025-02-20-ten-minute-challenge-photo-1740596412136/2025-02-20-ten-minute-challenge-photo-1740596412136-facebookJumbo-v2.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "3Y7HAF2ONVBBNHFAQG5XEAJX3I",
-    "headline": "The list of 2025 Oscar winners",
-    "description": "“Anora” dominated the Academy Awards, where Adrien Brody and Mikey Madison took home the top acting prizes.",
-    "url": "https://www.washingtonpost.com/style/interactive/2025/oscars-winners-list-2025/",
-    "credits": [
-      {
-        "name": "Chiqui Esteban",
-        "slug": "chiqui-esteban"
-      },
-      {
-        "name": "Shelly Tan",
-        "slug": "shelly-tan"
-      }
-    ],
-    "date": "2025-03-02T22:00:14.766Z",
-    "img": "https://www.washingtonpost.com/resizer/V__N2aXtN82wtvf_Yq38B1Xj-D0=/300x0/arc-anglerfish-washpost-prod-washpost/public/C2SOTPEX25CK5HAIXYVK2OB74Y.jpg",
-    "label": {},
-    "medium": "WP"
   }
 ]

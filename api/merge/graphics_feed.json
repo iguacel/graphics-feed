@@ -1,5 +1,77 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1MGFiMmExLTAwNTEtNWQzNi05NmNmLTRmNDRiOGVhODExZQ==",
+    "headline": "What to Know About Trump’s New Tariffs",
+    "url": "https://www.nytimes.com/2025/04/03/business/economy/trump-tariffs-trade.html",
+    "label": "https://www.nytimes.com/business/",
+    "date": "2025-04-03T20:35:38.000Z",
+    "credits": [
+      {
+        "name": "Ana Swanson",
+        "slug": "ana-swanson"
+      }
+    ],
+    "description": "The president announced sweeping tariffs on Wednesday in an effort to reset global trading relationships. Here’s what you need to know.",
+    "square_img": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-tariffs-explainer-zbpj/03dc-tariffs-explainer-zbpj-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-tariffs-explainer-zbpj/03dc-tariffs-explainer-zbpj-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IwZDI5NGZiLTY2YWYtNTAzNC1hMmZlLTc3NTQ1Y2IwNWRkYw==",
+    "headline": "Estos son los países con los aranceles más altos",
+    "url": "https://www.nytimes.com/es/2025/04/03/espanol/estados-unidos/aranceles-trump-lista-paises.html",
+    "label": "https://www.nytimes.com/es/",
+    "date": "2025-04-03T18:48:21.492Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "El presidente Trump dio a conocer unos aranceles radicales que incluyen medidas sobre decenas de países.",
+    "square_img": "https://static01.nyt.com/images/2025/04/03/business/es-tabla-aranceles/es-tabla-aranceles-square320.png",
+    "img": "https://static01.nyt.com/images/2025/04/03/business/es-tabla-aranceles/es-tabla-aranceles-facebookJumbo.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjMxOTkxODYtZmEwNC01ODViLTgwMzMtMTQ1MTVmY2Y0OGVk",
+    "headline": "How Much Will Trump’s Tariffs Cost U.S. Importers?",
+    "url": "https://www.nytimes.com/interactive/2025/04/03/business/economy/trump-tariffs-us-imports.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-03T17:36:32.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "It will cost an extra $714 billion in tariffs to bring shoes, TVs and all other imports into the United States, a new analysis of trade data shows.",
+    "square_img": null,
+    "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjM0NDFiY2YtNTJjOC01NWMzLTk3NmMtZDY0MWZkNmNkMGEx",
+    "headline": "Where Trump’s Tariffs Will Hit Hardest",
+    "url": "https://www.nytimes.com/interactive/2025/04/03/world/trump-tariffs-charts.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-03T15:08:30.000Z",
+    "credits": [
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      }
+    ],
+    "description": "These economies are deeply reliant on selling goods to the United States, and many of them were hit with especially steep taxes.",
+    "square_img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-02-tariff-impact-index/2025-04-02-tariff-impact-index-square320-v8.png",
+    "img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-02-tariff-impact-index/2025-04-02-tariff-impact-index-facebookJumbo-v7.png",
+    "medium": "NYT"
+  },
+  {
     "id": "4U56PTF5UJGSPHLC7NYM5RLJ6M",
     "headline": "Could your name belong to a hurricane? Find out.",
     "description": "When it comes to naming a hurricane, not every name has what it takes. Could a hurricane ever be named Mortimer, Nixon or Helene?",
@@ -2365,48 +2437,5 @@
     "square_img": "https://static01.nyt.com/images/2025/03/03/multimedia/2025-02-25-ice-numbers-index/2025-02-25-ice-numbers-index-square320.png",
     "img": "https://static01.nyt.com/images/2025/03/03/multimedia/2025-02-25-ice-numbers-index/2025-02-25-ice-numbers-index-facebookJumbo.png",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTZiMTAxOGItMTUwYS01MWNkLTgyMDItN2NiMGUwMDVkYjQ3",
-    "headline": "How Each Senator Voted to Confirm Linda McMahon as Education Secretary",
-    "url": "https://www.nytimes.com/interactive/2025/03/03/us/politics/mcmahon-senate-confirmation-vote.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-03T23:54:34.000Z",
-    "credits": [
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      }
-    ],
-    "description": "The Senate confirmed Ms. McMahon to lead the Education Department by a party-line vote of 51 to 45.",
-    "square_img": "https://static01.nyt.com/images/2025/03/03/us/politics/mcmahon-senate-confirmation-vote-1741026739572/mcmahon-senate-confirmation-vote-1741026739572-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/03/03/us/politics/mcmahon-senate-confirmation-vote-1741026739572/mcmahon-senate-confirmation-vote-1741026739572-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "GG7R57KTX5GOLHBG55ZYO2Y34E",
-    "headline": "Here’s what could get more expensive if Trump goes through with tariffs",
-    "description": "Tomatoes, T-shirts and cars are among the vast array of goods that could become pricier with new tariffs imposed by President Donald Trump.",
-    "url": "https://www.washingtonpost.com/business/2025/03/03/trump-tariffs-mexico-canada-prices/",
-    "credits": [
-      {
-        "name": "Luis Melgar",
-        "slug": "luis-melgar"
-      },
-      {
-        "name": "Rachel Lerman",
-        "slug": "rachel-lerman"
-      }
-    ],
-    "date": "2025-03-03T18:01:05.704Z",
-    "img": "https://www.washingtonpost.com/resizer/2CYRinHtZXBdth6nGJfnWCMtKuY=/300x0/arc-anglerfish-washpost-prod-washpost/public/P5MP2B6SVRC6ROWCKC4OU4GYJQ.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/economy/"
-    },
-    "medium": "WP"
   }
 ]

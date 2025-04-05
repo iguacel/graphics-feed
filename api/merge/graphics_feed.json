@@ -1,5 +1,31 @@
 [
   {
+    "id": "JHFTDPEBKZF43OZ73ZJOMMUPKM",
+    "headline": "Here’s where prices could rise the most and least under Trump’s tariffs",
+    "description": "Shoppers will see uneven price increases on imported goods.",
+    "url": "https://www.washingtonpost.com/business/2025/04/04/tariff-prices-products-increases-trump/",
+    "credits": [
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      },
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      }
+    ],
+    "date": "2025-04-04T18:14:22.598Z",
+    "img": "https://www.washingtonpost.com/resizer/9fwqd0erTMt68vzSEK_zJ5tcYTY=/300x0/arc-anglerfish-washpost-prod-washpost/public/GS2WUBXX4RDDLPXFZITDWSAXOE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1MGFiMmExLTAwNTEtNWQzNi05NmNmLTRmNDRiOGVhODExZQ==",
     "headline": "What to Know About Trump’s New Tariffs",
     "url": "https://www.nytimes.com/2025/04/03/business/economy/trump-tariffs-trade.html",
@@ -46,8 +72,8 @@
       }
     ],
     "description": "It will cost an extra $714 billion in tariffs to bring shoes, TVs and all other imports into the United States, a new analysis of trade data shows.",
-    "square_img": null,
-    "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "square_img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-01-tariff-revenue-analysis-index/2025-04-01-tariff-revenue-analysis-index-square320-v7.png",
+    "img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-01-tariff-revenue-analysis-index/2025-04-01-tariff-revenue-analysis-index-facebookJumbo-v9.png",
     "medium": "NYT"
   },
   {
@@ -2352,48 +2378,5 @@
       "url": "https://www.washingtonpost.com/politics/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "5BN3D73LYFFKNGEACYWP6SJQTY",
-    "headline": "Visualizing Trump’s effort to reshape America through executive orders",
-    "description": "What Trump has done with executive orders, actions in his first six weeks",
-    "url": "https://www.washingtonpost.com/politics/interactive/2025/03/04/trump-executive-orders-actions-president/",
-    "credits": [
-      {
-        "name": "Daniel Wolfe",
-        "slug": "daniel-wolfe"
-      },
-      {
-        "name": "Chris Alcantara",
-        "slug": "chris-alcantara"
-      }
-    ],
-    "date": "2025-03-04T18:30:47.066Z",
-    "img": "https://www.washingtonpost.com/resizer/5tAmLgZ87bzKg_ji8isiFQXnlwE=/300x0/arc-anglerfish-washpost-prod-washpost/public/TR6JJ2BLEZHKXJ5JFKSAYVC2SY.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/politics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzg4NmI1ODVmLWE5ZDAtNTVlNi04MGNiLTA2Y2EzYzM3YzhlOQ==",
-    "headline": "El miedo a las deportaciones masivas silenció un barrio de Nueva York",
-    "url": "https://www.nytimes.com/es/2025/03/04/espanol/estados-unidos/deportaciones-ice-nueva-york-corona.html",
-    "label": "https://www.nytimes.com/es/",
-    "date": "2025-03-04T16:52:22.362Z",
-    "credits": [
-      {
-        "name": "Luis Ferré-Sadurní",
-        "slug": "luis-ferre-sadurni"
-      },
-      {
-        "name": "Todd Heisler",
-        "slug": "todd-heisler"
-      }
-    ],
-    "description": "En Corona, un enclave neoyorquino antaño vibrante, hogar de generaciones de migrantes latinos, muchos residentes ahora temen salir a la calle.",
-    "square_img": "https://static01.nyt.com/images/2025/02/19/espanol/CORONA-01-wjfl-ES-copy1/CORONA-01-wjfl-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/19/espanol/CORONA-01-wjfl-ES-copy1/CORONA-01-wjfl-facebookJumbo.jpg",
-    "medium": "NYT"
   }
 ]

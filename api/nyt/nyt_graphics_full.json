@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjgwYmFjYzUtNGEzNi01ZjNmLTkzNWYtYTg4Mzk1OWE3NGI3",
+    "headline": "How Measles Attacks an Unvaccinated Child",
+    "url": "https://www.nytimes.com/interactive/2025/04/05/health/measles-children-symptoms.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-05T09:02:00.823Z",
+    "credits": [
+      {
+        "name": "Emily Baumgaertner Nunn",
+        "slug": "emily-baumgaertner-nunn"
+      },
+      {
+        "name": "Marco Hernandez",
+        "slug": "marco-hernandez"
+      }
+    ],
+    "description": "With falling vaccination rates and outbreaks that have caused more than 580 U.S. cases and at least one death, health experts expect hundreds or even thousands more to be infected in the coming months.",
+    "square_img": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-20-measles-emma-index/2025-03-20-measles-emma-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-20-measles-emma-index/2025-03-20-measles-emma-index-facebookJumbo-v3.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1MGFiMmExLTAwNTEtNWQzNi05NmNmLTRmNDRiOGVhODExZQ==",
     "headline": "What to Know About Trump’s New Tariffs",
     "url": "https://www.nytimes.com/2025/04/03/business/economy/trump-tariffs-trade.html",

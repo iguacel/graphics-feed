@@ -1,5 +1,30 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDQ1N2JhYTQtN2Y0Yi01MmQyLWI5ZDUtOTQ1NzNlOTA1NDZj",
+    "headline": "List: Who Trump Has Targeted for Retribution",
+    "url": "https://www.nytimes.com/interactive/2025/04/07/us/trump-revenge-list.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-07T09:03:15.000Z",
+    "credits": [
+      {
+        "name": "Michael S. Schmidt",
+        "slug": "michael-s-schmidt"
+      },
+      {
+        "name": "Matthew Cullen",
+        "slug": "matthew-cullen"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "See a breakdown of some of the people and entities — including law firms, universities and more — that President Trump has retaliated against in the first few months of his new term.",
+    "square_img": "https://static01.nyt.com/images/2025/04/04/multimedia/2025-03-27-trump-retribution-index/2025-03-27-trump-retribution-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/04/multimedia/2025-03-27-trump-retribution-index/2025-03-27-trump-retribution-index-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmQ3NjAyZmEtYTQ1NS01YWM5LTk2YzEtYzI2MjcyNjE1MTBk",
     "headline": "10-Minute Challenge: ‘The Seasons’ by Lee Krasner",
     "url": "https://www.nytimes.com/interactive/2025/04/06/upshot/ten-minute-challenge-seasons.html",
@@ -2141,83 +2166,6 @@
     "description": "Federal agencies have issued guidance to employees on hundreds of terms to limit or avoid using. An analysis of government websites shows many of the same words being removed.",
     "square_img": "https://static01.nyt.com/images/2025/03/07/multimedia/2025-02-28-trump-admin-words-index/2025-02-28-trump-admin-words-index-square320.png",
     "img": "https://static01.nyt.com/images/2025/03/07/multimedia/2025-02-28-trump-admin-words-index/2025-02-28-trump-admin-words-index-facebookJumbo.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "VAZC2RYE75B3JA2PZUXZRIVN4I",
-    "headline": "How many goals Alex Ovechkin needs to break Wayne Gretzky’s NHL record",
-    "description": "Capitals star Alex Ovechkin is closing in on Wayne Gretzky’s mark of 894. Amid his pursuit, here’s a closer look at his career.",
-    "url": "https://www.washingtonpost.com/sports/interactive/2025/alex-ovechkin-goals-wayne-gretzky-nhl-record/",
-    "credits": [
-      {
-        "name": "Brianna Schroer",
-        "slug": "brianna-schroer"
-      },
-      {
-        "name": "Bailey Johnson",
-        "slug": "bailey-johnson"
-      },
-      {
-        "name": "William Neff",
-        "slug": "william-neff"
-      },
-      {
-        "name": "Artur Galocha",
-        "slug": "artur-galocha"
-      }
-    ],
-    "date": "2025-03-07T14:45:51.964Z",
-    "img": "https://www.washingtonpost.com/resizer/4scIK_eLRX9okAv0FqIrWqPPr_0=/300x0/arc-anglerfish-washpost-prod-washpost/public/P64ZGFC3U5HQFPGMLIGAABB7AI.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/sports/capitals/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "5F62PANVI5C2JCFIOSEQJJMC34",
-    "headline": "It’s not just the Gulf of Mexico. Why is so much of America named after foreign countries?",
-    "description": "Our exhaustive search of American place names discovered that one country has been a shockingly dominant source of inspiration. You’ll never guess which one. ",
-    "url": "https://www.washingtonpost.com/business/2025/03/07/gulf-mexico-foreign-country-names/",
-    "credits": [
-      {
-        "name": "Dylan Moriarty",
-        "slug": "dylan-moriarty"
-      },
-      {
-        "name": "Andrew Van Dam",
-        "slug": "andrew-van-dam"
-      }
-    ],
-    "date": "2025-03-07T11:00:00.107Z",
-    "img": "https://www.washingtonpost.com/resizer/s-Und3MayilJy_ZUP53eRBABQq8=/300x0/arc-anglerfish-washpost-prod-washpost/public/ZS5MTNN6PFEHRAJD3HCISER2TI.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/business/2022/06/29/dept-of-data/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzY0YjUzNWFlLWExZmEtNTMwZC1iZGUzLTAwZTliNjQwMDg0Mw==",
-    "headline": "Private Prisons Are Ramping Up Detention of Immigrants and Cashing In",
-    "url": "https://www.nytimes.com/2025/03/07/us/politics/private-prisons-immigrants-detention-trump.html",
-    "label": "https://www.nytimes.com/us/",
-    "date": "2025-03-07T10:52:50.000Z",
-    "credits": [
-      {
-        "name": "Alexandra Berzon",
-        "slug": "alexandra-berzon"
-      },
-      {
-        "name": "Allison McCann",
-        "slug": "allison-mccann"
-      },
-      {
-        "name": "Hamed Aleaziz",
-        "slug": "hamed-aleaziz"
-      }
-    ],
-    "description": "The Trump administration is expected to use thousands more beds in these facilities as part of its mass deportation effort.",
-    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/06DC-DETENTION-dilley-wtjl/06DC-DETENTION-dilley-wtjl-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/06DC-DETENTION-dilley-wtjl/06DC-DETENTION-dilley-wtjl-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

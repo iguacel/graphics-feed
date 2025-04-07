@@ -1,5 +1,22 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmQ3NjAyZmEtYTQ1NS01YWM5LTk2YzEtYzI2MjcyNjE1MTBk",
+    "headline": "10-Minute Challenge: ‘The Seasons’ by Lee Krasner",
+    "url": "https://www.nytimes.com/interactive/2025/04/06/upshot/ten-minute-challenge-seasons.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-07T02:12:06.000Z",
+    "credits": [
+      {
+        "name": "Larry Buchanan",
+        "slug": "larry-buchanan"
+      }
+    ],
+    "description": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
+    "square_img": "https://static01.nyt.com/images/2025/03/31/us/ten-minute-challenge-seasons-1743449086475/ten-minute-challenge-seasons-1743449086475-square320.png",
+    "img": "https://static01.nyt.com/images/2025/03/31/us/ten-minute-challenge-seasons-1743449086475/ten-minute-challenge-seasons-1743449086475-facebookJumbo.png",
+    "medium": "NYT"
+  },
+  {
     "id": "3HF4LYOPNNH6RLFJCYLU6MZMSM",
     "headline": "What makes Alex Ovechkin’s shot so unstoppable?",
     "description": "Ovechkin’s trademark one-timer has been an NHL wonder for two decades. Here’s why it can be a goalie’s worst nightmare.",
@@ -2201,61 +2218,6 @@
     "description": "The Trump administration is expected to use thousands more beds in these facilities as part of its mass deportation effort.",
     "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/06DC-DETENTION-dilley-wtjl/06DC-DETENTION-dilley-wtjl-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/03/06/multimedia/06DC-DETENTION-dilley-wtjl/06DC-DETENTION-dilley-wtjl-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "7qzADFhC-b",
-    "headline": "The China-US face-off: a visual guide to Donald Trump and Xi Jinping’s inner circles",
-    "url": "https://multimedia.scmp.com/infographics/news/china/article/3300868/china_us_powers/index.html?1",
-    "label": "https://www.scmp.com/china/",
-    "date": "2025-03-07T00:00:00.000Z",
-    "description": "Discover the power players in Xi Jinping and Donald Trump’s teams; the key people setting the agenda on diplomacy, the military, the economy, security and science.",
-    "credits": [
-      {
-        "name": "Rocio Marquez",
-        "slug": "rocio-marquez"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/china/article/3300868/china_us_powers/social/cover_cms-min.jpg",
-    "medium": "SCMP"
-  },
-  {
-    "id": "UUAKKRRLCVHFDN2OKFYAWZJBAA",
-    "headline": "Head of watchdog agency ends lawsuit to stop his firing by Trump",
-    "description": "Hampton Dellinger also sought to halt the firing of some probationary government employees amid the Trump administration’s workforce cuts.",
-    "url": "https://www.washingtonpost.com/national-security/2025/03/06/federal-workers-special-counsel-hampton-dellinger/",
-    "credits": [
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      }
-    ],
-    "date": "2025-03-06T18:24:21.010Z",
-    "img": "https://www.washingtonpost.com/resizer/8p7DnY80j1nRqXLsWaxsi7rONv0=/300x0/arc-anglerfish-washpost-prod-washpost/public/CFJWVYMUXLD3LGBLBWMJG3HVQE.JPG",
-    "label": {
-      "url": "https://www.washingtonpost.com/justice/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjA5YmM0ODktNDQzNy01ZTVjLWIzYzItMmQyNGM5NzJmZDcz",
-    "headline": "Fired, Then Rehired, by the Trump Administration",
-    "url": "https://www.nytimes.com/interactive/2025/03/06/us/politics/trump-federal-workers-fired-rehired.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-06T17:49:22.000Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      }
-    ],
-    "description": "Hundreds of federal workers — many of them in critical health and national security jobs — have been brought back, sometimes within days of their initial firings.",
-    "square_img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-square320-v13.png",
-    "img": "https://static01.nyt.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-facebookJumbo-v15.png",
     "medium": "NYT"
   }
 ]

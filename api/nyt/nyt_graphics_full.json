@@ -1,5 +1,57 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTgyNjhlMzUtZTJlMy01YzQ2LTkzZDAtZDM1YTdlMjYxYTYy",
+    "headline": "No Big Stick: Many Tariff Targets Avoid Hitting Back",
+    "url": "https://www.nytimes.com/interactive/2025/04/07/business/economy/trump-tariffs-reaction-china-eu-canada.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-07T20:41:20.000Z",
+    "credits": [
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Lauren Leatherby",
+        "slug": "lauren-leatherby"
+      }
+    ],
+    "description": "Just two of the 20 largest exporters to the United States have matched Mr. Trump’s moves with new tariffs of their own.",
+    "square_img": "https://static01.nyt.com/images/2025/04/07/multimedia/2025-04-07-tariff-country-negotiations-index/2025-04-07-tariff-country-negotiations-index-square320-v7.png",
+    "img": "https://static01.nyt.com/images/2025/04/07/multimedia/2025-04-07-tariff-country-negotiations-index/2025-04-07-tariff-country-negotiations-index-facebookJumbo-v9.png"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhjNTVmZmYwLTM2ZjgtNWVmNC1iNzgxLWNmODQ4MjY0MGJmZA==",
+    "headline": "Trump Administration Aims to Spend $45 Billion to Expand Immigrant Detention",
+    "url": "https://www.nytimes.com/2025/04/07/us/politics/trump-administration-immigrant-detention-facilities-services.html",
+    "label": "https://www.nytimes.com/us/",
+    "date": "2025-04-07T18:42:10.000Z",
+    "credits": [
+      {
+        "name": "Allison McCann",
+        "slug": "allison-mccann"
+      },
+      {
+        "name": "Alexandra Berzon",
+        "slug": "alexandra-berzon"
+      },
+      {
+        "name": "Hamed Aleaziz",
+        "slug": "hamed-aleaziz"
+      }
+    ],
+    "description": "A request for proposals for new detention facilities and other services would allow the government to expedite the contracting process and rapidly expand detention.",
+    "square_img": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-ice-detention-contract-01-lvhz/07dc-ice-detention-contract-01-lvhz-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-ice-detention-contract-01-lvhz/07dc-ice-detention-contract-01-lvhz-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDQ1N2JhYTQtN2Y0Yi01MmQyLWI5ZDUtOTQ1NzNlOTA1NDZj",
     "headline": "List: Who Trump Has Targeted for Retribution",
     "url": "https://www.nytimes.com/interactive/2025/04/07/us/trump-revenge-list.html",
@@ -20,8 +72,8 @@
       }
     ],
     "description": "See a breakdown of some of the people and entities — including law firms, universities and more — that President Trump has retaliated against in the first few months of his new term.",
-    "square_img": "https://static01.nyt.com/images/2025/04/04/multimedia/2025-03-27-trump-retribution-index/2025-03-27-trump-retribution-index-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/04/multimedia/2025-03-27-trump-retribution-index/2025-03-27-trump-retribution-index-facebookJumbo.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/04/04/multimedia/2025-03-27-trump-retribution-index/2025-03-27-trump-retribution-index-square320-v2.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/04/multimedia/2025-03-27-trump-retribution-index/2025-03-27-trump-retribution-index-facebookJumbo-v3.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmQ3NjAyZmEtYTQ1NS01YWM5LTk2YzEtYzI2MjcyNjE1MTBk",
@@ -283,8 +335,8 @@
       }
     ],
     "description": "Here are the layoffs, buyouts taken and planned reductions, by agency, that The New York Times has confirmed.",
-    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-square320-v10.png",
-    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-facebookJumbo-v11.png"
+    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-square320-v11.png",
+    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-facebookJumbo-v13.png"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzlmMGNhZWU1LWYyYzUtNTI0NS1iNGUzLTc1MmJmMzY1M2MzMg==",

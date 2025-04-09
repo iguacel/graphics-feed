@@ -1,5 +1,23 @@
 [
   {
+    "id": "5LLDGJ27EVCTZOPUPYHZVG4ADE",
+    "headline": "Clint Hill remembered as the devoted agent who ran to JFK’s car in Dallas",
+    "description": "Secret Service agent Clint Hill hurled himself atop President John F. Kennedy’s uncovered limousine when Lee Harvey Oswald opened fire in November 1963.",
+    "url": "https://www.washingtonpost.com/national-security/2025/04/08/secret-service-agent-clint-hill-jfk-kennedy/",
+    "credits": [
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      }
+    ],
+    "date": "2025-04-08T23:34:57.635Z",
+    "img": "https://www.washingtonpost.com/resizer/J3TQ08IZgaphKTZXd3LNrafKfFg=/300x0/arc-anglerfish-washpost-prod-washpost/public/GK26ITIMJDJCCWMHVVQJLS52FE.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/justice/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTgyNjhlMzUtZTJlMy01YzQ2LTkzZDAtZDM1YTdlMjYxYTYy",
     "headline": "No Big Stick: Many Tariff Targets Avoid Hitting Back",
     "url": "https://www.nytimes.com/interactive/2025/04/07/business/economy/trump-tariffs-reaction-china-eu-canada.html",
@@ -236,9 +254,9 @@
         "slug": "lazaro-gamio"
       }
     ],
-    "description": "It will cost an extra $714 billion in tariffs to bring shoes, TVs and all other imports into the United States, a new analysis of trade data shows.",
-    "square_img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-01-tariff-revenue-analysis-index/2025-04-01-tariff-revenue-analysis-index-square320-v7.png",
-    "img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-01-tariff-revenue-analysis-index/2025-04-01-tariff-revenue-analysis-index-facebookJumbo-v9.png",
+    "description": "It will cost an extra nearly $900 billion in tariffs to bring shoes, TVs and all other imports into the United States, a new analysis of trade data shows.",
+    "square_img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-01-tariff-revenue-analysis-index/2025-04-01-tariff-revenue-analysis-index-square320-v8.png",
+    "img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-04-01-tariff-revenue-analysis-index/2025-04-01-tariff-revenue-analysis-index-facebookJumbo-v10.png",
     "medium": "NYT"
   },
   {
@@ -2162,31 +2180,6 @@
     "description": "It can be easy to forget, or look away from, the pain and disruption of the pandemic. The numbers will be there to remind us.",
     "square_img": "https://static01.nyt.com/images/2025/03/09/multimedia/2025-01-23-shutdown-anniversary-index/2025-01-23-shutdown-anniversary-index-square320-v3.png",
     "img": "https://static01.nyt.com/images/2025/03/09/multimedia/2025-01-23-shutdown-anniversary-index/2025-01-23-shutdown-anniversary-index-facebookJumbo-v3.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzVlYjJiZjcxLTY5YmQtNTk0ZS05ZDM2LTVkZmYyMDdiYzgwMA==",
-    "headline": "El sistema de trasplantes de órganos en EE. UU. está ‘en caos’ porque se ignoran las listas de espera",
-    "url": "https://www.nytimes.com/es/2025/03/09/espanol/estados-unidos/trasplantes-organos-lista-de-espera.html",
-    "label": "https://www.nytimes.com/es/",
-    "date": "2025-03-09T07:00:56.000Z",
-    "credits": [
-      {
-        "name": "Brian M. Rosenthal",
-        "slug": "brian-m-rosenthal"
-      },
-      {
-        "name": "Mark Hansen",
-        "slug": "mark-hansen"
-      },
-      {
-        "name": "Jeremy White",
-        "slug": "jeremy-white"
-      }
-    ],
-    "description": "Se supone que los pacientes más enfermos tienen prioridad para recibir trasplantes que salvan vidas, pero cada vez mayor frecuencia se les está pasando por alto.",
-    "square_img": "https://static01.nyt.com/images/2025/02/27/multimedia/ESP-nl-transplants-2/27themorning-nl-transplants-2-square320-v2.jpg",
-    "img": "https://static01.nyt.com/images/2025/02/27/multimedia/ESP-nl-transplants-2/27themorning-nl-transplants-2-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

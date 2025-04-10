@@ -1,7 +1,75 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGNkZTQ3MWMtNzQwOS01MDZjLTk1ZGMtMjlkNjY4MjYyMGZl",
+    "headline": "Live Count: The House Votes on the Republican Budget",
+    "url": "https://www.nytimes.com/interactive/2025/04/09/us/politics/house-budget-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-09T22:13:39.000Z",
+    "credits": [
+      {
+        "name": "June Kim",
+        "slug": "june-kim"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "Sarah Cahalan",
+        "slug": "sarah-cahalan"
+      }
+    ],
+    "description": "The House is preparing to vote on the Senate’s budget blueprint, a first step towards passing President Trump’s plans for spending and tax cuts.",
+    "square_img": "https://static01.nyt.com/images/2025/04/07/us/politics/house-budget-vote-1744236782249/house-budget-vote-1744236782249-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/07/us/politics/house-budget-vote-1744236782249/house-budget-vote-1744236782249-facebookJumbo.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGJhMTYyYTQtNTE2MC01MjYzLWI2ZDgtMDZlNjViMTM5NDM1",
+    "headline": "House Republicans Are Considering a New Budget. Here’s What’s Changed.",
+    "url": "https://www.nytimes.com/interactive/2025/04/09/upshot/senate-vs-house-budget.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-09T20:35:57.000Z",
+    "credits": [
+      {
+        "name": "Margot Sanger-Katz",
+        "slug": "margot-sanger-katz"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      }
+    ],
+    "description": "The new resolution calls for more tax cuts and fewer reductions in spending. It would increase the federal debt by a lot more.",
+    "square_img": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-square320-v6.png",
+    "img": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-facebookJumbo-v5.png"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzk1YjIwN2YyLTM0MzItNWQyNi1iNDhmLTUwNjQyNzIwOWY3MQ==",
+    "headline": "U.S. Slashes Many of the Aid Programs It Had Promised to Keep",
+    "url": "https://www.nytimes.com/2025/04/09/us/politics/usaid-cuts.html",
+    "label": "https://www.nytimes.com/us/",
+    "date": "2025-04-09T20:22:54.000Z",
+    "credits": [
+      {
+        "name": "Karoun Demirjian",
+        "slug": "karoun-demirjian"
+      },
+      {
+        "name": "Edward Wong",
+        "slug": "edward-wong"
+      }
+    ],
+    "description": "The U.N. food program said the new cuts “could amount to a death sentence” for millions of desperate people.",
+    "square_img": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-usaid-topart-jpzm/09dc-usaid-topart-jpzm-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-usaid-topart-jpzm/09dc-usaid-topart-jpzm-facebookJumbo.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E4OTczOWY5LTA0MzYtNWE1OC1iNzA0LTdlYjJhNjgwNDBlNw==",
-    "headline": "What the Government Knows About You in Official Data Sets Trump Wants to Link Together",
+    "headline": "Trump Wants to Merge Government Data. Here Are 314 Things It Might Know About You.",
     "url": "https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html",
     "label": "https://www.nytimes.com/us/",
     "date": "2025-04-09T14:54:13.000Z",
@@ -15,7 +83,7 @@
         "slug": "sheera-frenkel"
       }
     ],
-    "description": "Databases that Elon Musk’s team is trying to access include more than 300 personal details about members of the U.S. public.",
+    "description": "Elon Musk’s team is leading an effort to link government databases, to the alarm of privacy and security experts.",
     "square_img": "https://static01.nyt.com/images/2025/04/08/multimedia/2025-03-31-doge-data-index/2025-03-31-doge-data-index-square320.png",
     "img": "https://static01.nyt.com/images/2025/04/08/multimedia/2025-03-31-doge-data-index/2025-03-31-doge-data-index-facebookJumbo.png"
   },

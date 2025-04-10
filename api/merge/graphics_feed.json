@@ -1,8 +1,58 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZlMTkwYTRjLWI0M2ItNTY4Mi1iMjU4LWQ0ZjIwY2UzNjNlYw==",
+    "headline": "Hundreds of Israeli Air Force Reservists Call for Halt to Gaza War",
+    "url": "https://www.nytimes.com/2025/04/10/world/middleeast/israel-gaza-hamas-hostages-air-force.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-04-10T11:32:29.000Z",
+    "credits": [
+      {
+        "name": "Natan Odenheimer",
+        "slug": "natan-odenheimer"
+      },
+      {
+        "name": "Adam Rasgon",
+        "slug": "adam-rasgon"
+      }
+    ],
+    "description": "A letter signed by reservists and retired officers accused the government of endangering hostages held by Hamas, highlighting a growing divide over the handling of the war.",
+    "square_img": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-israel-reservists-hctg/10int-israel-reservists-hctg-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-israel-reservists-hctg/10int-israel-reservists-hctg-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "WE4ASQL7AFG53GFW55NTONYQQI",
+    "headline": "Scientists are x-raying the Amazon, unlocking a lost human history",
+    "description": "Brazilian researchers are using laser technology to unearth a lost Portuguese colony and challenge long-held beliefs about human settlement in the Amazon. ",
+    "url": "https://www.washingtonpost.com/world/interactive/2025/brazil-amazon-discoveries-archaeology-lidar/",
+    "credits": [
+      {
+        "name": "Terrence McCoy",
+        "slug": "terrence-mccoy"
+      },
+      {
+        "name": "Rafael Vilela"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      },
+      {
+        "name": "Yutao Chen",
+        "slug": "yutao-chen"
+      }
+    ],
+    "date": "2025-04-10T09:00:29.102Z",
+    "img": "https://www.washingtonpost.com/resizer/GngYldOqnk0M56xFEjkm3A6m-ic=/300x0/arc-anglerfish-washpost-prod-washpost/public/4QDBU3NWM4IEA6UI6B7BH6M5NA.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/americas/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGNkZTQ3MWMtNzQwOS01MDZjLTk1ZGMtMjlkNjY4MjYyMGZl",
     "headline": "Live Count: The House Votes on the Republican Budget",
-    "url": "https://www.nytimes.com/interactive/2025/04/09/us/politics/house-budget-vote.html",
+    "url": "https://www.nytimes.com/interactive/2025/04/09/us/politics/house-budget-blueprint-vote.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-04-09T22:13:39.000Z",
     "credits": [

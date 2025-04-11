@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMmI3YjExOWEtMzk5Ni01M2E3LWI2ZGYtMGY1ZWVlZGY4NzAx",
+    "headline": "¿Qué derechos tienen las personas migrantes en EE. UU.?",
+    "url": "https://www.nytimes.com/es/interactive/2025/04/10/espanol/estados-unidos/migrantes-derechos-deportacion.html",
+    "label": "https://www.nytimes.com/es/",
+    "date": "2025-04-10T22:28:26.013Z",
+    "credits": [
+      {
+        "name": "Albert Sun",
+        "slug": "albert-sun"
+      },
+      {
+        "name": "Miriam Jordan",
+        "slug": "miriam-jordan"
+      }
+    ],
+    "description": "Esto es lo que no ha cambiado, lo que se ha ampliado o restringido, y lo que está en disputa desde que inició el gobierno de Trump.",
+    "square_img": "https://static01.nyt.com/images/2025/04/20/multimedia/2025-03-25-immigrants-legal-rights-index-es/2025-03-25-immigrants-legal-rights-index-es-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/04/20/multimedia/2025-03-25-immigrants-legal-rights-index-es/2025-03-25-immigrants-legal-rights-index-es-facebookJumbo-v3.png"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZlMTkwYTRjLWI0M2ItNTY4Mi1iMjU4LWQ0ZjIwY2UzNjNlYw==",
     "headline": "Hundreds of Israeli Air Force Reservists Call for Halt to Gaza War",
     "url": "https://www.nytimes.com/2025/04/10/world/middleeast/israel-gaza-hamas-hostages-air-force.html",
@@ -21,7 +41,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGNkZTQ3MWMtNzQwOS01MDZjLTk1ZGMtMjlkNjY4MjYyMGZl",
-    "headline": "Live Count: The House Votes on the Republican Budget",
+    "headline": "How Each House Member Voted on the Republican Budget",
     "url": "https://www.nytimes.com/interactive/2025/04/09/us/politics/house-budget-blueprint-vote.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-04-09T22:13:39.000Z",
@@ -43,13 +63,13 @@
         "slug": "sarah-cahalan"
       }
     ],
-    "description": "The House is preparing to vote on the Senate’s budget blueprint, a first step towards passing President Trump’s plans for spending and tax cuts.",
+    "description": "The House voted 216 to 214 to approve a budget blueprint, a first step towards passing President Trump’s plans for spending and tax cuts.",
     "square_img": "https://static01.nyt.com/images/2025/04/07/us/politics/house-budget-vote-1744236782249/house-budget-vote-1744236782249-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/07/us/politics/house-budget-vote-1744236782249/house-budget-vote-1744236782249-facebookJumbo.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGJhMTYyYTQtNTE2MC01MjYzLWI2ZDgtMDZlNjViMTM5NDM1",
-    "headline": "House Republicans Are Considering a New Budget. Here’s What’s Changed.",
+    "headline": "House Republicans Passed a New Budget. Here’s What’s in It.",
     "url": "https://www.nytimes.com/interactive/2025/04/09/upshot/senate-vs-house-budget.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-04-09T20:35:57.000Z",
@@ -63,7 +83,7 @@
         "slug": "alicia-parlapiano"
       }
     ],
-    "description": "The new resolution calls for more tax cuts and fewer reductions in spending. It would increase the federal debt by a lot more.",
+    "description": "It calls for more tax cuts and fewer reductions in spending. It would increase the federal debt by a lot more.",
     "square_img": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-square320-v6.png",
     "img": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-facebookJumbo-v5.png"
   },

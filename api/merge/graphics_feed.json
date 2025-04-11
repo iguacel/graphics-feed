@@ -1,5 +1,128 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMmI3YjExOWEtMzk5Ni01M2E3LWI2ZGYtMGY1ZWVlZGY4NzAx",
+    "headline": "¿Qué derechos tienen las personas migrantes en EE. UU.?",
+    "url": "https://www.nytimes.com/es/interactive/2025/04/10/espanol/estados-unidos/migrantes-derechos-deportacion.html",
+    "label": "https://www.nytimes.com/es/",
+    "date": "2025-04-10T22:28:26.013Z",
+    "credits": [
+      {
+        "name": "Albert Sun",
+        "slug": "albert-sun"
+      },
+      {
+        "name": "Miriam Jordan",
+        "slug": "miriam-jordan"
+      }
+    ],
+    "description": "Esto es lo que no ha cambiado, lo que se ha ampliado o restringido, y lo que está en disputa desde que inició el gobierno de Trump.",
+    "square_img": "https://static01.nyt.com/images/2025/04/20/multimedia/2025-03-25-immigrants-legal-rights-index-es/2025-03-25-immigrants-legal-rights-index-es-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/04/20/multimedia/2025-03-25-immigrants-legal-rights-index-es/2025-03-25-immigrants-legal-rights-index-es-facebookJumbo-v3.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "OR3ZWJ2DYFH5JB5JDXPBMOQCNA",
+    "headline": "See why Trump’s reversal actually increased tariff rates",
+    "description": "The average effective tariff rate has increased in spite of Trump’s reversal, with China’s rate rising to 145 percent.",
+    "url": "https://www.washingtonpost.com/business/2025/04/10/trump-tariff-rate-china-imports/",
+    "credits": [
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      }
+    ],
+    "date": "2025-04-10T20:12:14.982Z",
+    "img": "https://www.washingtonpost.com/resizer/FgW8BJOLDPjVmN9sCUvB13VcI7A=/300x0/arc-anglerfish-washpost-prod-washpost/public/NMQ45V4XNVAW5KLZVC3DVABRAU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/economy/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "IVPV2BTEIVC45EO6DLKLETRZAA",
+    "headline": "How Palestinian first responders ended up in a mass grave in Gaza",
+    "description": "Israel says they were fired on for moving “suspiciously.” Dispatcher records, witness testimony, and video and audio evidence offer a more disturbing narrative.",
+    "url": "https://www.washingtonpost.com/world/2025/04/10/how-palestinian-first-responders-ended-up-mass-grave-gaza/",
+    "credits": [
+      {
+        "name": "Miriam Berger",
+        "slug": "miriam-berger"
+      },
+      {
+        "name": "Louisa Loveluck",
+        "slug": "louisa-loveluck"
+      },
+      {
+        "name": "Imogen Piper",
+        "slug": "imogen-piper"
+      },
+      {
+        "name": "Hazem  Balousha",
+        "slug": "hazem-balousha-"
+      },
+      {
+        "name": "Hajar Harb",
+        "slug": "hajar-harb"
+      },
+      {
+        "name": "Abbie Cheeseman",
+        "slug": "abbie-cheeseman"
+      }
+    ],
+    "date": "2025-04-10T16:17:52.706Z",
+    "img": "https://www.washingtonpost.com/resizer/OzDUXeGthmiup0l9LwoSzKyxZy4=/300x0/arc-anglerfish-washpost-prod-washpost/public/4SNVKPRQZVEFXBJL4NUGAX6XPA.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/israel-hamas-war/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "2d1ea766-b6b9-48e2-a2d6-578c0bdcd2e0",
+    "headline": "Why BLTs under Trump have gone up | Opinion",
+    "description": "In partnership with Numerator, we’re tracking inflation over more than 30 essential ingredients you may consume daily.",
+    "url": "https://www.washingtonpost.com/video/opinions/why-blts-under-trump-have-gone-up-opinion/2025/04/10/2d1ea766-b6b9-48e2-a2d6-578c0bdcd2e0_video.html",
+    "credits": [
+      {
+        "name": "Youyou Zhou",
+        "slug": "youyou-zhou"
+      },
+      {
+        "name": "Catherine Rampell",
+        "slug": "catherine-rampell"
+      },
+      {
+        "name": "Philip Bump",
+        "slug": "philip-bump"
+      },
+      {
+        "name": "Joanna Shan",
+        "slug": ""
+      }
+    ],
+    "date": "2025-04-10T16:13:11.000Z",
+    "img": "https://d1i4t8bqe7zgj6.cloudfront.net/04-10-2025/t_d9aad6747a8646a5853bd692f42dafc7_name_FINAL_thumbnail.png",
+    "label": {},
+    "medium": "WP"
+  },
+  {
+    "id": "UVREAHJWTZHABAEL2V52OWKY7I",
+    "headline": "How every House member voted on the ‘big, beautiful’ budget bill",
+    "description": "The House passed a budget resolution laying out a framework for President Donald Trump’s  legislative priorities. See how your lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/04/10/house-vote-count-budget-reconciliation-tax-cut/",
+    "credits": [
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-04-10T15:54:55.202Z",
+    "img": "https://www.washingtonpost.com/resizer/5fFIK6RM7tGgEgGltcwafB6hsGU=/300x0/arc-anglerfish-washpost-prod-washpost/public/EXA73FAHPJCJFA6BMDOQGJYGPU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZlMTkwYTRjLWI0M2ItNTY4Mi1iMjU4LWQ0ZjIwY2UzNjNlYw==",
     "headline": "Hundreds of Israeli Air Force Reservists Call for Halt to Gaza War",
     "url": "https://www.nytimes.com/2025/04/10/world/middleeast/israel-gaza-hamas-hostages-air-force.html",
@@ -51,7 +174,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGNkZTQ3MWMtNzQwOS01MDZjLTk1ZGMtMjlkNjY4MjYyMGZl",
-    "headline": "Live Count: The House Votes on the Republican Budget",
+    "headline": "How Each House Member Voted on the Republican Budget",
     "url": "https://www.nytimes.com/interactive/2025/04/09/us/politics/house-budget-blueprint-vote.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-04-09T22:13:39.000Z",
@@ -73,14 +196,14 @@
         "slug": "sarah-cahalan"
       }
     ],
-    "description": "The House is preparing to vote on the Senate’s budget blueprint, a first step towards passing President Trump’s plans for spending and tax cuts.",
+    "description": "The House voted 216 to 214 to approve a budget blueprint, a first step towards passing President Trump’s plans for spending and tax cuts.",
     "square_img": "https://static01.nyt.com/images/2025/04/07/us/politics/house-budget-vote-1744236782249/house-budget-vote-1744236782249-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/07/us/politics/house-budget-vote-1744236782249/house-budget-vote-1744236782249-facebookJumbo.jpg",
     "medium": "NYT"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOGJhMTYyYTQtNTE2MC01MjYzLWI2ZDgtMDZlNjViMTM5NDM1",
-    "headline": "House Republicans Are Considering a New Budget. Here’s What’s Changed.",
+    "headline": "House Republicans Passed a New Budget. Here’s What’s in It.",
     "url": "https://www.nytimes.com/interactive/2025/04/09/upshot/senate-vs-house-budget.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-04-09T20:35:57.000Z",
@@ -94,7 +217,7 @@
         "slug": "alicia-parlapiano"
       }
     ],
-    "description": "The new resolution calls for more tax cuts and fewer reductions in spending. It would increase the federal debt by a lot more.",
+    "description": "It calls for more tax cuts and fewer reductions in spending. It would increase the federal debt by a lot more.",
     "square_img": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-square320-v6.png",
     "img": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-facebookJumbo-v5.png",
     "medium": "NYT"
@@ -2246,81 +2369,6 @@
     "img": "https://www.washingtonpost.com/resizer/oNa6n1yORQoX68EGS8JxOehaG8M=/300x0/arc-anglerfish-washpost-prod-washpost/public/E4IT3EB4GVFNVOIKQFAGKPBFP4.jpg",
     "label": {
       "url": "https://www.washingtonpost.com/world/europe/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "2DMNKEXBBBANFKGQBQYAOBWTEU",
-    "headline": "Maps: US interest puts Greenland in focus",
-    "url": "https://www.reuters.com/world/europe/maps-us-interest-puts-greenland-focus-2025-03-11/",
-    "date": "2025-03-11T07:29:25.927Z",
-    "description": "Trump’s persistent interest has focused international attention on the sparsely populated island",
-    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/OKF2I7VNTRDCPJEHVVS5UWCBWA.jpg",
-    "medium": "Reuters"
-  },
-  {
-    "id": "2025_03_language",
-    "headline": "Onomatopoeia Odyssey",
-    "description": "No description available",
-    "url": "https://pudding.cool/projects/2025_03_language/",
-    "date": "2025-03-11T00:00:00.000Z",
-    "keywords": [
-      "language",
-      "sound",
-      "animal",
-      "noise",
-      "onomatopoeia"
-    ],
-    "credits": [
-      {
-        "name": "Vivian Li",
-        "slug": "vivian-li"
-      }
-    ],
-    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_03_language.jpg",
-    "medium": "Pudding"
-  },
-  {
-    "id": "FCMJ7NYGMVC55DKJCT3ZQFTJCI",
-    "headline": "Man shot outside White House had BB gun and ‘cell phone handgun,’ police say",
-    "description": "D.C. police identified Andrew Dawson, of North Manchester, Indiana, as the man shot and critically wounded by Secret Service personnel early Sunday.",
-    "url": "https://www.washingtonpost.com/dc-md-va/2025/03/10/secret-service-shooting-white-house-cell-phone-gun/",
-    "credits": [
-      {
-        "name": "Olivia George",
-        "slug": "olivia-george"
-      },
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      }
-    ],
-    "date": "2025-03-10T23:07:55.669Z",
-    "img": "https://www.washingtonpost.com/resizer/J5saTZhLn3A2Z2zkels3c7r4pS0=/300x0/arc-anglerfish-washpost-prod-washpost/public/CNJU72M3IAH2G274AODK6GEBMQ.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/local/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "3F34U5PPQBDDDKPKWLIHJ3SM4Q",
-    "headline": "A trade war could hit these communities hardest",
-    "description": "Chinese and Canadian retaliatory tariffs are aimed at agricultural, manufacturing and energy sectors that employ millions of Americans. ",
-    "url": "https://www.washingtonpost.com/business/2025/03/10/canada-china-tariffs-american-jobs/",
-    "credits": [
-      {
-        "name": "Alyssa Fowers",
-        "slug": "alyssa-fowers"
-      },
-      {
-        "name": "Janice Kai Chen",
-        "slug": "janice-kai-chen"
-      }
-    ],
-    "date": "2025-03-10T19:00:21.313Z",
-    "img": "https://www.washingtonpost.com/resizer/CrqRID6kxH3QiO7pWsVHRbjXw5Q=/300x0/arc-anglerfish-washpost-prod-washpost/public/XGFZTC6KPBFNLLAWI3E6LLCFBM.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/economy/"
     },
     "medium": "WP"
   }

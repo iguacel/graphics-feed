@@ -1,5 +1,52 @@
 [
   {
+    "id": "ZGA5HYNAYFGIHDOAC7FIZKGPMU",
+    "headline": "Paris said au revoir to cars. Air pollution maps reveal a dramatic change.",
+    "description": "Air pollution fell substantially as the city restricted car traffic and made way for parks and bike lanes.",
+    "url": "https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/",
+    "credits": [
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Chico Harlan",
+        "slug": "chico-harlan"
+      }
+    ],
+    "date": "2025-04-12T10:00:07.237Z",
+    "img": "https://www.washingtonpost.com/resizer/S2Gq9RePJNP9UMVL8yuQsm7YAZc=/300x0/arc-anglerfish-washpost-prod-washpost/public/LS4ZP7FGUJEULFAEWR7FI7XINM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-solutions/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZWNhYWYzN2EtOWZkNy01OGZmLWFlMzEtYzg4NjcxN2E3MWRm",
+    "headline": "How Much Are Tariffs on Chinese Goods? It’s Trickier Than You Think.",
+    "url": "https://www.nytimes.com/interactive/2025/04/12/business/economy/china-tariff-product-costs.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-12T09:03:12.000Z",
+    "credits": [
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Pablo Robles",
+        "slug": "pablo-robles"
+      }
+    ],
+    "description": "The tariff rate on Chinese imports can be as high as 245% or zero, depending on the type of product that is being imported.",
+    "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-10-china-tariff-stacking-new-index/2025-04-10-china-tariff-stacking-new-index-square320-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-10-china-tariff-stacking-new-index/2025-04-10-china-tariff-stacking-new-index-facebookJumbo-v7.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDYwZmJmMzAtOTZmYy01MmI5LThlYjctMWU4YzllYzAxOGY5",
     "headline": "See the Moments Leading Up to the Nightclub Roof Collapse in Santo Domingo",
     "url": "https://www.nytimes.com/interactive/2025/04/11/world/americas/nightclub-dominican-republic-collapse.html",

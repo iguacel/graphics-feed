@@ -1,10 +1,46 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDYwZmJmMzAtOTZmYy01MmI5LThlYjctMWU4YzllYzAxOGY5",
+    "headline": "See the Moments Leading Up to the Nightclub Roof Collapse in Santo Domingo",
+    "url": "https://www.nytimes.com/interactive/2025/04/11/world/americas/nightclub-dominican-republic-collapse.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-11T21:16:46.000Z",
+    "credits": [
+      {
+        "name": "Helmuth Rosales",
+        "slug": "helmuth-rosales"
+      }
+    ],
+    "description": "Video taken at the scene shows debris was already falling from the ceiling of the Jet Set nightclub before it caved in.",
+    "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-facebookJumbo-v3.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNWUzZWRiMTQtYTgwYi01NzRmLTlhMjAtN2Q4OWM0NDRjOGEy",
+    "headline": "How Snow Becomes Deadly",
+    "url": "https://www.nytimes.com/interactive/2025/04/11/weather/avalanche-science.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-11T18:39:00.000Z",
+    "credits": [
+      {
+        "name": "Judson Jones",
+        "slug": "judson-jones"
+      },
+      {
+        "name": "Lily Boyce",
+        "slug": "lily-boyce"
+      }
+    ],
+    "description": "This season, more than 20 people died in avalanches in the U.S. Can mountains be safer?",
+    "square_img": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-facebookJumbo-v4.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMmI3YjExOWEtMzk5Ni01M2E3LWI2ZGYtMGY1ZWVlZGY4NzAx",
     "headline": "¿Qué derechos tienen las personas migrantes en EE. UU.?",
     "url": "https://www.nytimes.com/es/interactive/2025/04/10/espanol/estados-unidos/migrantes-derechos-deportacion.html",
     "label": "https://www.nytimes.com/es/",
-    "date": "2025-04-10T22:28:26.013Z",
+    "date": "2025-04-10T22:28:26.000Z",
     "credits": [
       {
         "name": "Albert Sun",
@@ -256,8 +292,8 @@
       }
     ],
     "description": "With falling vaccination rates and outbreaks that have caused more than 580 U.S. cases and at least two deaths, health experts expect hundreds or even thousands more to be infected in the coming months.",
-    "square_img": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-20-measles-emma-index/2025-03-20-measles-emma-index-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-20-measles-emma-index/2025-03-20-measles-emma-index-facebookJumbo-v3.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-20-measles-emma-index/2025-03-20-measles-emma-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-20-measles-emma-index/2025-03-20-measles-emma-index-facebookJumbo-v5.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1MGFiMmExLTAwNTEtNWQzNi05NmNmLTRmNDRiOGVhODExZQ==",

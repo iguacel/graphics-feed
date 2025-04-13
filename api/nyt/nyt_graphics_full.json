@@ -1,5 +1,29 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzVjNjA0MGMtOTAzOS01NmE2LWFhYmUtYzRhNDY3NTU0NzU4",
+    "headline": "Why Elon Musk Hasn’t Come Close to Finding $1 Trillion in Cuts",
+    "url": "https://www.nytimes.com/interactive/2025/04/13/upshot/musk-doge-1-trillion-goal.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-13T09:01:59.187Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Margot Sanger-Katz",
+        "slug": "margot-sanger-katz"
+      },
+      {
+        "name": "Josh Katz",
+        "slug": "josh-katz"
+      }
+    ],
+    "description": "He seems to be realizing something that budget nerds have long known.",
+    "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-musk-cuts-index/2025-04-11-musk-cuts-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-musk-cuts-index/2025-04-11-musk-cuts-index-facebookJumbo-v3.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZWNhYWYzN2EtOWZkNy01OGZmLWFlMzEtYzg4NjcxN2E3MWRm",
     "headline": "How Much Are Tariffs on Chinese Goods? It’s Trickier Than You Think.",
     "url": "https://www.nytimes.com/interactive/2025/04/12/business/economy/china-tariff-product-costs.html",

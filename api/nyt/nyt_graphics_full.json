@@ -1,5 +1,21 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDgxYzZkNGItZGE3Ny01NThlLTgwOTQtMTViZTc5N2ZlN2Yy",
+    "headline": "Los segundos previos al derrumbe del techo del Jet Set en Santo Domingo, en imágenes",
+    "url": "https://www.nytimes.com/es/interactive/2025/04/14/espanol/america-latina/jet-set-colapso-imagenes.html",
+    "label": "https://www.nytimes.com/es/",
+    "date": "2025-04-14T16:21:29.000Z",
+    "credits": [
+      {
+        "name": "Helmuth Rosales",
+        "slug": "helmuth-rosales"
+      }
+    ],
+    "description": "Un video grabado en el lugar de los hechos muestra que ya caían escombros del techo de la discoteca antes de que se derrumbara.",
+    "square_img": "https://static01.nyt.com/images/2025/04/14/multimedia/2025-04-11-jetset-dr-collapse-index-es/2025-04-11-jetset-dr-collapse-index-es-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/14/multimedia/2025-04-11-jetset-dr-collapse-index-es/2025-04-11-jetset-dr-collapse-index-es-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzVjNjA0MGMtOTAzOS01NmE2LWFhYmUtYzRhNDY3NTU0NzU4",
     "headline": "Why Elon Musk Hasn’t Come Close to Finding $1 Trillion in Cuts",
     "url": "https://www.nytimes.com/interactive/2025/04/13/upshot/musk-doge-1-trillion-goal.html",
@@ -60,8 +76,8 @@
       }
     ],
     "description": "Video taken at the scene shows debris was already falling from the ceiling of the Jet Set nightclub before it caved in.",
-    "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-facebookJumbo-v3.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-facebookJumbo-v4.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNWUzZWRiMTQtYTgwYi01NzRmLTlhMjAtN2Q4OWM0NDRjOGEy",

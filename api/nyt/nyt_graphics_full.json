@@ -1,5 +1,33 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvM2IyMDJiY2UtMmVkNC01MzA5LTgxMTktZTMwNGUwNTQyMWFi",
+    "headline": "Inside the Changing White House Briefing Room",
+    "url": "https://www.nytimes.com/interactive/2025/04/15/us/trump-white-house-briefing-room-new-media.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-15T22:09:30.000Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Rebecca Lieberman",
+        "slug": "rebecca-lieberman"
+      },
+      {
+        "name": "Michael M. Grynbaum",
+        "slug": "michael-m-grynbaum"
+      },
+      {
+        "name": "Doug Mills",
+        "slug": "doug-mills"
+      }
+    ],
+    "description": "The Trump administration has given more time to “new media” and outlets that are more supportive of the president’s policies.",
+    "square_img": "https://static01.nyt.com/images/2025/04/15/multimedia/2025-03-17-leavitt-press-briefings-index/2025-03-17-leavitt-press-briefings-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/15/multimedia/2025-03-17-leavitt-press-briefings-index/2025-03-17-leavitt-press-briefings-index-facebookJumbo-v5.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDgxYzZkNGItZGE3Ny01NThlLTgwOTQtMTViZTc5N2ZlN2Yy",
     "headline": "Los segundos previos al derrumbe del techo del Jet Set en Santo Domingo, en imágenes",
     "url": "https://www.nytimes.com/es/interactive/2025/04/14/espanol/america-latina/jet-set-colapso-imagenes.html",

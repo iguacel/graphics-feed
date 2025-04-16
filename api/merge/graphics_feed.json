@@ -1,5 +1,64 @@
 [
   {
+    "id": "YMBZZGATEFFZJDSY22LE5QO3UE",
+    "headline": "Here’s what the U.S. imports from China and what could get pricier with tariffs",
+    "description": "Clothes, shoes, toys and yes, smartphones: See the Chinese imports Americans depend on",
+    "url": "https://www.washingtonpost.com/business/interactive/2025/china-exports-us-products-tariffs/",
+    "credits": [
+      {
+        "name": "Luis Melgar",
+        "slug": "luis-melgar"
+      },
+      {
+        "name": "Rachel Lerman",
+        "slug": "rachel-lerman"
+      },
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      }
+    ],
+    "date": "2025-04-16T10:00:00.105Z",
+    "img": "https://www.washingtonpost.com/resizer/dX-Yc9JmTxUoySUjdiyyRqlgr7o=/300x0/arc-anglerfish-washpost-prod-washpost/public/BVDSDRKIANFQTB4YXA6ASY7EHI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "VmlkZW86bnl0Oi8vdmlkZW8vZDIwNGI0ZjItNWZhMy01ZDVmLTk1NmMtNWE3ZWQwMzQwYTI2",
+    "headline": "How the White House Press Briefing Is Changing",
+    "url": "https://www.nytimes.com/video/us/100000010101470/white-house-press-room-changes.html",
+    "label": "https://www.nytimes.com/video/",
+    "date": "2025-04-16T09:04:26.027Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Claire Hogan",
+        "slug": "claire-hogan"
+      },
+      {
+        "name": "Laura Salaberry",
+        "slug": "laura-salaberry"
+      },
+      {
+        "name": "Ruru Kuo",
+        "slug": "ruru-kuo"
+      },
+      {
+        "name": "Doug Mills",
+        "slug": "doug-mills"
+      }
+    ],
+    "description": "The Trump administration is considering taking control of the seating in the White House press briefing room from the independent White House Correspondents’ Association. Ashley Wu, a graphics reporter for The New York Times, explains why this matters and notes how questions at the briefings have already started to change.",
+    "square_img": "https://static01.nyt.com/images/2025/04/09/autossell/wu-thumb-1/wu-thumb-1-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/09/autossell/wu-thumb-1/wu-thumb-1-facebookJumbo.jpg?video-overlay",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvM2IyMDJiY2UtMmVkNC01MzA5LTgxMTktZTMwNGUwNTQyMWFi",
     "headline": "Inside the Changing White House Briefing Room",
     "url": "https://www.nytimes.com/interactive/2025/04/15/us/trump-white-house-briefing-room-new-media.html",
@@ -1983,23 +2042,5 @@
     "square_img": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-storm-photos-monday-top-zbhj/16nat-storm-photos-monday-top-zbhj-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-storm-photos-monday-top-zbhj/16nat-storm-photos-monday-top-zbhj-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "Z5U6PLHHO5CXRGSDSKGDHCIO5U",
-    "headline": "Trump’s new Secret Service boss faces calls for agency overhaul ",
-    "description": "Sean Curran, the Secret Service’s new director, has guarded Trump for several years. He took over leadership of the protective agency on Jan. 20. ",
-    "url": "https://www.washingtonpost.com/national-security/2025/03/16/secret-service-director-sean-curran-reform/",
-    "credits": [
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      }
-    ],
-    "date": "2025-03-16T11:00:44.706Z",
-    "img": "https://www.washingtonpost.com/resizer/dLxVyymIefttIsBYD98oI7C4aGs=/300x0/arc-anglerfish-washpost-prod-washpost/public/RVEU4QZGT3ZBOULKX2GWJPXBFM.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/justice/"
-    },
-    "medium": "WP"
   }
 ]

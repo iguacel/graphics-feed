@@ -1,5 +1,35 @@
 [
   {
+    "id": "2025_04_wine-animals",
+    "headline": "The Pour-igin of Species",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_04_wine-animals/",
+    "date": "2025-04-17",
+    "keywords": [
+      "wine",
+      "chat-gpt",
+      "ai",
+      "vision",
+      "label",
+      "animal",
+      "image",
+      "price",
+      "quality",
+      "value"
+    ],
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Fox Meyer",
+        "slug": "fox-meyer"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_04_wine-animals.jpg"
+  },
+  {
     "id": "2025_04_music-dna",
     "headline": "The Generational Legacy of Samples in Music",
     "description": "No description available",

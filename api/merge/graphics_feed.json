@@ -1,5 +1,36 @@
 [
   {
+    "id": "2025_04_wine-animals",
+    "headline": "The Pour-igin of Species",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_04_wine-animals/",
+    "date": "2025-04-17T00:00:00.000Z",
+    "keywords": [
+      "wine",
+      "chat-gpt",
+      "ai",
+      "vision",
+      "label",
+      "animal",
+      "image",
+      "price",
+      "quality",
+      "value"
+    ],
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Fox Meyer",
+        "slug": "fox-meyer"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_04_wine-animals.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "YMBZZGATEFFZJDSY22LE5QO3UE",
     "headline": "Here’s what the U.S. imports from China and what could get pricier with tariffs",
     "description": "Clothes, shoes, toys and yes, smartphones: See the Chinese imports Americans depend on",
@@ -1961,86 +1992,6 @@
     "description": "A maneuver so wonky that it might be best explained with sports cars and anime streaming.",
     "square_img": "https://static01.nyt.com/images/2025/03/13/multimedia/2025-03-12-budget-baseline-metaphors-index/2025-03-12-budget-baseline-metaphors-index-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/03/13/multimedia/2025-03-12-budget-baseline-metaphors-index/2025-03-12-budget-baseline-metaphors-index-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "TBST4AXFCRGMHE6CHA2AOABN7E",
-    "headline": "Deportation flights landed after judge said planes should turn around",
-    "description": "Flight records reviewed by The Washington Post show that three flights bound for El Salvador arrived after a judge barred deportations under the Alien Enemies Act.",
-    "url": "https://www.washingtonpost.com/immigration/2025/03/16/deportation-flights-trump-el-salvador/",
-    "credits": [
-      {
-        "name": "Joyce Lee",
-        "slug": "joyce-lee"
-      },
-      {
-        "name": "Kevin Schaul",
-        "slug": "kevin-schaul"
-      }
-    ],
-    "date": "2025-03-17T02:13:10.036Z",
-    "img": "https://www.washingtonpost.com/resizer/gPYl5iFV4Z6GqFs7nDy1-kigYM0=/300x0/arc-anglerfish-washpost-prod-washpost/public/3ZBYO54IIZDUZOTKRBVE4YPXXA.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/local/immigration/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDg1NWEyYzgtNWI2NS01N2RmLWFmMzYtMzY1MmEzNjM4YzFm",
-    "headline": "How A.I. Is Changing the Way the World Builds Computers",
-    "url": "https://www.nytimes.com/interactive/2025/03/16/technology/ai-data-centers.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-17T02:07:33.000Z",
-    "credits": [
-      {
-        "name": "Cade Metz",
-        "slug": "cade-metz"
-      },
-      {
-        "name": "Karen Weise",
-        "slug": "karen-weise"
-      },
-      {
-        "name": "Marco Hernandez",
-        "slug": "marco-hernandez"
-      },
-      {
-        "name": "Mike Isaac",
-        "slug": "mike-isaac"
-      },
-      {
-        "name": "Anjali Singhvi",
-        "slug": "anjali-singhvi"
-      }
-    ],
-    "description": "Tech companies are revamping computing — from how tiny chips are built to the way they are arranged, cooled and powered — in the race to build artificial intelligence that recreates the human brain.",
-    "square_img": "https://static01.nyt.com/images/2025/03/05/multimedia/2024-12-03-ai-datacenters-index/2024-12-03-ai-datacenters-index-square320-v5.jpg",
-    "img": "https://static01.nyt.com/images/2025/03/05/multimedia/2024-12-03-ai-datacenters-index/2024-12-03-ai-datacenters-index-facebookJumbo-v4.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzFjZjQ5Yjk3LTdkYzgtNWM3NS1iYWIzLTY3ODJhZTNiZWUyMA==",
-    "headline": "Scenes From Eight States Battered by Weekend Storms",
-    "url": "https://www.nytimes.com/2025/03/16/us/storms-south-midwest-tornado-photos-video.html",
-    "label": "https://www.nytimes.com/us/",
-    "date": "2025-03-16T22:26:04.000Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "June Kim",
-        "slug": "june-kim"
-      },
-      {
-        "name": "Jennifer Mosbrucker",
-        "slug": "jennifer-mosbrucker"
-      }
-    ],
-    "description": "A survey of the damage from a cross-country storm system that tore through the South and Midwest over the weekend.",
-    "square_img": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-storm-photos-monday-top-zbhj/16nat-storm-photos-monday-top-zbhj-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/16/multimedia/16nat-storm-photos-monday-top-zbhj/16nat-storm-photos-monday-top-zbhj-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

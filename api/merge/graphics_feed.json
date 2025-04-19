@@ -165,7 +165,7 @@
       }
     ],
     "description": "The Trump administration has given more time to “new media” and outlets that are more supportive of the president’s policies.",
-    "square_img": "https://static01.nyt.com/images/2025/04/15/multimedia/2025-03-17-leavitt-press-briefings-index/2025-03-17-leavitt-press-briefings-index-square320-v4.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/04/15/multimedia/2025-03-17-leavitt-press-briefings-index/2025-03-17-leavitt-press-briefings-index-square320-v5.jpg",
     "img": "https://static01.nyt.com/images/2025/04/15/multimedia/2025-03-17-leavitt-press-briefings-index/2025-03-17-leavitt-press-briefings-index-facebookJumbo-v5.jpg",
     "medium": "NYT"
   },
@@ -1825,28 +1825,6 @@
     "img": "https://www.washingtonpost.com/resizer/MH9itfubKhplXKlfvAneHIslS-Y=/300x0/arc-anglerfish-washpost-prod-washpost/public/OEFB5XNGHBGANGXBLO7HY5SZWA.jpg",
     "label": {
       "url": "https://www.washingtonpost.com/politics/courts-law/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "Y3L27ECG6VGDBA4Q5W4TDHYUKI",
-    "headline": "DOGE plays hardball in U.S. Institute of Peace takeover",
-    "description": "DOGE, which stands for Department of Government Efficiency, took over the  U.S. Institute of Peace after threatening its officials with criminal prosecution.",
-    "url": "https://www.washingtonpost.com/national-security/2025/03/18/doge-institute-of-peace-takeover-musk-trump/",
-    "credits": [
-      {
-        "name": "Karen DeYoung",
-        "slug": "karen-deyoung"
-      },
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      }
-    ],
-    "date": "2025-03-19T00:41:46.908Z",
-    "img": "https://www.washingtonpost.com/resizer/fvAuVJjiwv8yD3-63KqtuytnVCo=/300x0/arc-anglerfish-washpost-prod-washpost/public/TZQCI2YCNRRS4F247HZLLZDAGY.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/national-security/"
     },
     "medium": "WP"
   }

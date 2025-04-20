@@ -1,5 +1,21 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2JjNDlmMGYtMDE4NC01YjE1LTkzNGQtNDgxNTE0ZTRhY2M3",
+    "headline": "These Maps Show Federal Employees Work in Every Corner of America",
+    "url": "https://www.nytimes.com/interactive/2025/04/20/us/politics/federal-workers-america-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-20T09:00:45.812Z",
+    "credits": [
+      {
+        "name": "Zach Levitt",
+        "slug": "zach-levitt"
+      }
+    ],
+    "description": "Before the Trump administration’s cuts, members of the civilian federal work force were in every state and in thousands of the nation’s cities and small towns.",
+    "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-01-mapping-federal-workforce-index/2025-03-01-mapping-federal-workforce-index-square320-v8.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-01-mapping-federal-workforce-index/2025-03-01-mapping-federal-workforce-index-facebookJumbo-v8.jpg"
+  },
+  {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vZDIwNGI0ZjItNWZhMy01ZDVmLTk1NmMtNWE3ZWQwMzQwYTI2",
     "headline": "How the White House Press Briefing Is Changing",
     "url": "https://www.nytimes.com/video/us/100000010101470/white-house-press-room-changes.html",

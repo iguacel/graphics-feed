@@ -1,10 +1,38 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDg3YTVkZGMtNGFiNi01MjcwLWIxYTEtZDdlZDVkMDJlZWE0",
+    "headline": "Who Sits Where in Trump’s West Wing",
+    "url": "https://www.nytimes.com/interactive/2025/04/21/us/politics/white-house-west-wing-offices-trump.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-21T09:01:21.000Z",
+    "credits": [
+      {
+        "name": "Junho Lee",
+        "slug": "junho-lee"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Maggie Haberman",
+        "slug": "maggie-haberman"
+      },
+      {
+        "name": "Doug Mills",
+        "slug": "doug-mills"
+      }
+    ],
+    "description": "See how the Trump administration has divvied up the West Wing, the formal workspace of the president and senior staff members.",
+    "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-19-wh-west-wing-trump-index/2025-03-19-wh-west-wing-trump-index-square320-v10.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-19-wh-west-wing-trump-index/2025-03-19-wh-west-wing-trump-index-facebookJumbo-v9.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2JjNDlmMGYtMDE4NC01YjE1LTkzNGQtNDgxNTE0ZTRhY2M3",
     "headline": "These Maps Show Federal Employees Work in Every Corner of America",
     "url": "https://www.nytimes.com/interactive/2025/04/20/us/politics/federal-workers-america-map.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-20T09:00:45.812Z",
+    "date": "2025-04-20T09:00:46.000Z",
     "credits": [
       {
         "name": "Zach Levitt",

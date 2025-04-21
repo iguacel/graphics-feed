@@ -1753,27 +1753,5 @@
     "square_img": "https://static01.nyt.com/images/2025/03/21/multimedia/21heathrow-airports-kpfm/21heathrow-airports-kpfm-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/03/21/multimedia/21heathrow-airports-kpfm/21heathrow-airports-kpfm-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "QSXTJQSGR5BPRJDIEAMYFYH3PA",
-    "headline": "D.C.’s BLM street painting is nearly gone. What about all the others?",
-    "description": "Although D.C.’s iconic Black Lives Matter Plaza is being torn up, other street art from the summer of 2020 remains, and a few paintings look better than ever. ",
-    "url": "https://www.washingtonpost.com/nation/2025/03/20/black-lives-matter-street-art/",
-    "credits": [
-      {
-        "name": "Dylan Moriarty",
-        "slug": "dylan-moriarty"
-      },
-      {
-        "name": "Bonnie Berkowitz",
-        "slug": "bonnie-berkowitz"
-      }
-    ],
-    "date": "2025-03-20T21:00:56.775Z",
-    "img": "https://www.washingtonpost.com/resizer/NdLvl6Z4S5moLg0Y-HyanKTy4Ac=/300x0/arc-anglerfish-washpost-prod-washpost/public/CEE433HE6JAZVDMM3EARXI2F3E.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/national/"
-    },
-    "medium": "WP"
   }
 ]

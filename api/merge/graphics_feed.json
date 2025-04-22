@@ -1816,26 +1816,5 @@
     "square_img": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-moneylaundering-03-hpgl/00int-moneylaundering-03-hpgl-square320-v2.jpg",
     "img": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-moneylaundering-03-hpgl/00int-moneylaundering-03-hpgl-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTRjOWJjNWUtYzA4OS01YzViLWI5ZGEtYTk4YzEzNmNjODQ5",
-    "headline": "Deportations Haven’t Surged Under Trump. But Here’s How They’ve Changed.",
-    "url": "https://www.nytimes.com/interactive/2025/03/22/us/trump-deportation-flights-maps.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-22T09:02:40.000Z",
-    "credits": [
-      {
-        "name": "Albert Sun",
-        "slug": "albert-sun"
-      },
-      {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      }
-    ],
-    "description": "An analysis of flight data shows how the Trump administration is using extraordinary means to deport people.",
-    "square_img": "https://static01.nyt.com/images/2025/03/21/multimedia/2025-03-07-ice-air-flights-index/2025-03-07-ice-air-flights-index-square320-v8.png",
-    "img": "https://static01.nyt.com/images/2025/03/21/multimedia/2025-03-07-ice-air-flights-index/2025-03-07-ice-air-flights-index-facebookJumbo-v10.png",
-    "medium": "NYT"
   }
 ]

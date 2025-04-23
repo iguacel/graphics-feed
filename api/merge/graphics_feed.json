@@ -1787,34 +1787,5 @@
       "url": "https://www.washingtonpost.com/world/europe/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZmZjAwZjJhLTQwNWEtNWI3NC05OWU2LWY5OGY5YTQwOTg4NA==",
-    "headline": "The Scammer’s Manual: How to Launder Money and Get Away With It",
-    "url": "https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html",
-    "label": "https://www.nytimes.com/world/",
-    "date": "2025-03-23T04:01:10.000Z",
-    "credits": [
-      {
-        "name": "Selam Gebrekidan",
-        "slug": "selam-gebrekidan"
-      },
-      {
-        "name": "Joy Dong",
-        "slug": "joy-dong"
-      },
-      {
-        "name": "Chang W. Lee",
-        "slug": "chang-w-lee"
-      },
-      {
-        "name": "Weiyi Cai",
-        "slug": "weiyi-cai"
-      }
-    ],
-    "description": "Documents and insiders reveal how one of the world’s major money laundering networks operates.",
-    "square_img": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-moneylaundering-03-hpgl/00int-moneylaundering-03-hpgl-square320-v2.jpg",
-    "img": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-moneylaundering-03-hpgl/00int-moneylaundering-03-hpgl-facebookJumbo.jpg",
-    "medium": "NYT"
   }
 ]

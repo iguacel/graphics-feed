@@ -1738,35 +1738,5 @@
       "url": "https://www.washingtonpost.com/business/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "BQXNDL2WBZFXJEGCSNXB2IQPEU",
-    "headline": "1 in 8 Californians now face extreme fire danger, Post analysis shows",
-    "description": "One in 8 Californians now live in places at risk for the kinds of devastating wildfires that tore through Los Angeles this winter, according to a Washington Post analysis of new state fire maps.",
-    "url": "https://www.washingtonpost.com/weather/interactive/2025/california-wildfire-risk-maps/",
-    "credits": [
-      {
-        "name": "Anna Phillips",
-        "slug": "anna-phillips"
-      },
-      {
-        "name": "John Muyskens",
-        "slug": "john-muyskens"
-      },
-      {
-        "name": "Naema Ahmed",
-        "slug": "naema-ahmed"
-      },
-      {
-        "name": "Brady Dennis",
-        "slug": "brady-dennis"
-      }
-    ],
-    "date": "2025-03-25T11:00:15.084Z",
-    "img": "https://www.washingtonpost.com/resizer/AOlnjw_CbPgsnhR_LAtgzAKr5JQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/LM3WOUMH5JDDTE46ARNIP2FV3M.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
-    },
-    "medium": "WP"
   }
 ]

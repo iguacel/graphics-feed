@@ -1776,31 +1776,5 @@
     "square_img": "https://static01.nyt.com/images/2025/03/21/multimedia/2025-03-07-ice-air-flights-index-es/2025-03-07-ice-air-flights-index-es-square320-v8.png",
     "img": "https://static01.nyt.com/images/2025/03/21/multimedia/2025-03-07-ice-air-flights-index-es/2025-03-07-ice-air-flights-index-es-facebookJumbo-v9.png",
     "medium": "NYT"
-  },
-  {
-    "id": "V6CZU66OKVHMTPXELAQKH5D65E",
-    "headline": "See all the tariffs Trump has enacted, threatened and canceled",
-    "description": "Get a day-by-day look at how Trump’s trade war has unfolded and where it stands now.",
-    "url": "https://www.washingtonpost.com/business/interactive/2025/trump-tariffs-enacted-effect-threatened/",
-    "credits": [
-      {
-        "name": "Alyssa Fowers",
-        "slug": "alyssa-fowers"
-      },
-      {
-        "name": "Leslie Shapiro",
-        "slug": "leslie-shapiro"
-      },
-      {
-        "name": "Amaya Verde",
-        "slug": "amaya-verde"
-      }
-    ],
-    "date": "2025-03-26T10:15:00.085Z",
-    "img": "https://www.washingtonpost.com/resizer/MQQHjEWGjahdu44A-6ygYriQXto=/300x0/arc-anglerfish-washpost-prod-washpost/public/V2FXBMCS6JDMTNHA2UWPMZQGXU.png",
-    "label": {
-      "url": "https://www.washingtonpost.com/business/"
-    },
-    "medium": "WP"
   }
 ]

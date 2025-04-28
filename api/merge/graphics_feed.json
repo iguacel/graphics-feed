@@ -1886,48 +1886,5 @@
     "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/28trump-news-usaid-plgw/28trump-news-usaid-plgw-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/03/28/multimedia/28trump-news-usaid-plgw/28trump-news-usaid-plgw-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "XNQ2LTQE4JBAPIPSZH6SLV5UZU",
-    "headline": "Trump uses power and police to help DOGE access independent agencies ",
-    "description": "Trump officials have turned to law enforcement officers to help the U.S. DOGE Service led by Elon Musk gain control of independent agencies.",
-    "url": "https://www.washingtonpost.com/national-security/2025/03/28/trump-doge-federal-local-police-us-attorney-access/",
-    "credits": [
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      }
-    ],
-    "date": "2025-03-28T09:56:43.902Z",
-    "img": "https://www.washingtonpost.com/resizer/W7gz719tsbmYZsaPNLKi2p2HIww=/300x0/arc-anglerfish-washpost-prod-washpost/public/MFY65ZZEFHIUVWONBRSOLGXHZQ.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/justice/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDNmMTg4MTMtYjRiYS01NmE1LWEyMTMtYjZjZGY0NDE0YWUy",
-    "headline": "Russia’s Reach",
-    "url": "https://www.nytimes.com/interactive/2025/03/28/world/europe/russia-influence-europe-putin.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-28T09:03:28.000Z",
-    "credits": [
-      {
-        "name": "Josh Holder",
-        "slug": "josh-holder"
-      },
-      {
-        "name": "Lara Jakes",
-        "slug": "lara-jakes"
-      },
-      {
-        "name": "Bill Marsh",
-        "slug": "bill-marsh"
-      }
-    ],
-    "description": "President Trump’s disdain for protecting European allies gives Vladimir Putin a fresh opportunity to extend his influence.",
-    "square_img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-06-russian-european-influence-index/2025-03-06-russian-european-influence-index-square320-v6.png",
-    "img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-06-russian-european-influence-index/2025-03-06-russian-european-influence-index-facebookJumbo-v6.png",
-    "medium": "NYT"
   }
 ]

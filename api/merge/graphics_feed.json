@@ -4,7 +4,7 @@
     "headline": "Your Home Without China",
     "url": "https://www.nytimes.com/interactive/2025/04/27/world/asia/china-products-us-tariffs-trump.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-27T08:55:43.293Z",
+    "date": "2025-04-27T08:55:43.000Z",
     "credits": [
       {
         "name": "Pablo Robles",
@@ -137,6 +137,62 @@
       "url": "https://www.washingtonpost.com/politics/courts-law/"
     },
     "medium": "WP"
+  },
+  {
+    "id": "SVA4CWDWLU6800",
+    "headline": "Top Colleges Are Too Costly Even for Parents Making $300,000",
+    "url": "https://www.bloomberg.com/graphics/2025-college-cost-middle-class-squeeze/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-04-25T15:00:32.952Z",
+    "description": "Many families earn too much to get meaningful aid but too little to cover tuition out of pocket",
+    "credits": [
+      {
+        "name": "Ann Choi",
+        "slug": "ann-choi"
+      },
+      {
+        "name": "Francesca Maglione",
+        "slug": "francesca-maglione"
+      },
+      {
+        "name": "Paulina Cachero",
+        "slug": "paulina-cachero"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_iP0tmHFX1g/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "SVA3NWT0G1KW00",
+    "headline": "Canada Election Live Results 2025",
+    "url": "https://www.bloomberg.com/graphics/2025-canada-election-results/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-04-25T14:45:32.857Z",
+    "description": "Track Canada's electoral seats, districts, and key battlegrounds in real time",
+    "credits": [
+      {
+        "name": "Cedric Sam",
+        "slug": "cedric-sam"
+      },
+      {
+        "name": "Jeremy Diamond",
+        "slug": "jeremy-diamond"
+      },
+      {
+        "name": "Laura Dhillon Kane",
+        "slug": "laura-dhillon-kane"
+      },
+      {
+        "name": "Derek Decloet",
+        "slug": "derek-decloet"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqLWeNnZHS7U/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "UTBBONEMCFCBTED672ICMAJXYE",
@@ -781,6 +837,30 @@
     "medium": "NYT"
   },
   {
+    "id": "SUK8E3DWRGG000",
+    "headline": "Baseball's $10 Billion Man Won't Apologize for Soaring Salaries",
+    "url": "https://www.bloomberg.com/graphics/2025-scott-boras-mlb-contracts/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-04-11T15:30:03.294Z",
+    "description": "Agent Scott Boras had another record offseason, reigniting calls for a salary cap — and threats of a lockout.",
+    "credits": [
+      {
+        "name": "Dylan Sloan",
+        "slug": "dylan-sloan"
+      },
+      {
+        "name": "Ira Boudway",
+        "slug": "ira-boudway"
+      },
+      {
+        "name": "Kyle Kim (News)",
+        "slug": "kyle-kim-(news)"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijqrTHmbyInQ/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMmI3YjExOWEtMzk5Ni01M2E3LWI2ZGYtMGY1ZWVlZGY4NzAx",
     "headline": "¿Qué derechos tienen las personas migrantes en EE. UU.?",
     "url": "https://www.nytimes.com/es/interactive/2025/04/10/espanol/estados-unidos/migrantes-derechos-deportacion.html",
@@ -1044,6 +1124,34 @@
     "square_img": "https://static01.nyt.com/images/2025/04/08/multimedia/2025-03-31-doge-data-index/2025-03-31-doge-data-index-square320.png",
     "img": "https://static01.nyt.com/images/2025/04/08/multimedia/2025-03-31-doge-data-index/2025-03-31-doge-data-index-facebookJumbo.png",
     "medium": "NYT"
+  },
+  {
+    "id": "SUGFD8T0G1KX00",
+    "headline": "How Much Tariff Turmoil Until the Fed Intervenes? Five Market Crises Provide Clues",
+    "url": "https://www.bloomberg.com/graphics/2025-tariffs-markets-reaction/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-04-09T14:10:20.292Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Jill R Shah",
+        "slug": "jill-r-shah"
+      },
+      {
+        "name": "Alex Harris",
+        "slug": "alex-harris"
+      },
+      {
+        "name": "Denise Lu",
+        "slug": "denise-lu"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAa7NDadcWEc/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOWRiMmU2ZTEtMWU1OS01MWM3LWExNWEtYTk1ODM3ZmQ5YTYy",
@@ -1574,6 +1682,22 @@
     "square_img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-facebookJumbo.jpg",
     "medium": "NYT"
+  },
+  {
+    "id": "SU1MY5DWX2PS00",
+    "headline": "Bruno Mars Doesn’t Need an Album to Rule the Charts",
+    "url": "https://www.bloomberg.com/graphics/pop-star-ranking/2025-april/bruno-mars-doesn-t-need-an-album-to-rule-the-charts.html?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-04-01T14:30:05.038Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Ashley Carman",
+        "slug": "ashley-carman"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY_iWAnfRkWM/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "06f54ad7-ee9a-4c13-856a-bd1f12e740b9",

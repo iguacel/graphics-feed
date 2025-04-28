@@ -1805,30 +1805,5 @@
     "square_img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-06-russian-european-influence-index/2025-03-06-russian-european-influence-index-square320-v6.png",
     "img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-06-russian-european-influence-index/2025-03-06-russian-european-influence-index-facebookJumbo-v6.png",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOWFlNDg5NTItZGZjZS01NmRhLWFhM2YtYmM5MzhlMmU5MWI1",
-    "headline": "The DOGE Playbook Targeting Federal Agencies",
-    "url": "https://www.nytimes.com/interactive/2025/03/27/us/politics/doge-playbook-musk-cuts.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-28T03:18:43.000Z",
-    "credits": [
-      {
-        "name": "Eli Murray",
-        "slug": "eli-murray"
-      },
-      {
-        "name": "June Kim",
-        "slug": "june-kim"
-      },
-      {
-        "name": "Jeremy White",
-        "slug": "jeremy-white"
-      }
-    ],
-    "description": "The cost-cutting strategy of the group, led by billionaire Elon Musk, has played out at more than 30 agencies so far.",
-    "square_img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-12-doge-breakdown-index/2025-03-12-doge-breakdown-index-square320-v5.png",
-    "img": "https://static01.nyt.com/images/2025/03/27/multimedia/2025-03-12-doge-breakdown-index/2025-03-12-doge-breakdown-index-facebookJumbo-v5.png",
-    "medium": "NYT"
   }
 ]

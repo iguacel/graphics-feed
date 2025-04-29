@@ -1,5 +1,45 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGIzYjI0Y2YtODVkNy01MmYwLTg2NTMtZDcyYzVmMWFiNzg0",
+    "headline": "2025 Canada Federal Election Live Results: Liberals Win",
+    "url": "https://www.nytimes.com/interactive/2025/04/28/world/canada/results-canada-federal-election.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-28T19:30:15.000Z",
+    "credits": [
+      {
+        "name": "Joel Eastwood",
+        "slug": "joel-eastwood"
+      },
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "K.K. Rebecca Lai",
+        "slug": "kk-rebecca-lai"
+      },
+      {
+        "name": "Eric Rabinowitz",
+        "slug": "eric-rabinowitz"
+      },
+      {
+        "name": "Matina Stevis-Gridneff",
+        "slug": "matina-stevis-gridneff"
+      },
+      {
+        "name": "Urvashi Uberoy",
+        "slug": "urvashi-uberoy"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      }
+    ],
+    "description": "Canadians are heading to the polls today to elect their members of Parliament. First polls close at 7 p.m. Eastern.",
+    "square_img": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-square320-v4.png",
+    "img": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-facebookJumbo-v4.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNmRkYmEyMTktZTJmYS01MGJlLWE2OTMtMDBkMjYwYWQxZmNm",
     "headline": "Your Home Without China",
     "url": "https://www.nytimes.com/interactive/2025/04/27/world/asia/china-products-us-tariffs-trump.html",

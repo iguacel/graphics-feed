@@ -1,5 +1,46 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGIzYjI0Y2YtODVkNy01MmYwLTg2NTMtZDcyYzVmMWFiNzg0",
+    "headline": "2025 Canada Federal Election Live Results: Liberals Win",
+    "url": "https://www.nytimes.com/interactive/2025/04/28/world/canada/results-canada-federal-election.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-28T19:30:15.000Z",
+    "credits": [
+      {
+        "name": "Joel Eastwood",
+        "slug": "joel-eastwood"
+      },
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "K.K. Rebecca Lai",
+        "slug": "kk-rebecca-lai"
+      },
+      {
+        "name": "Eric Rabinowitz",
+        "slug": "eric-rabinowitz"
+      },
+      {
+        "name": "Matina Stevis-Gridneff",
+        "slug": "matina-stevis-gridneff"
+      },
+      {
+        "name": "Urvashi Uberoy",
+        "slug": "urvashi-uberoy"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      }
+    ],
+    "description": "Canadians are heading to the polls today to elect their members of Parliament. First polls close at 7 p.m. Eastern.",
+    "square_img": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-square320-v4.png",
+    "img": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-facebookJumbo-v4.png",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNmRkYmEyMTktZTJmYS01MGJlLWE2OTMtMDBkMjYwYWQxZmNm",
     "headline": "Your Home Without China",
     "url": "https://www.nytimes.com/interactive/2025/04/27/world/asia/china-products-us-tariffs-trump.html",
@@ -1835,56 +1876,6 @@
     "description": "Officials were crisscrossing the world as they sent and received sensitive messages on Signal about an imminent U.S. attack on Yemen.",
     "square_img": "https://static01.nyt.com/images/2025/03/29/multimedia/2025-03-25-atlantic-signal-leak-locations-index/2025-03-25-atlantic-signal-leak-locations-index-square320-v25.jpg",
     "img": "https://static01.nyt.com/images/2025/03/29/multimedia/2025-03-25-atlantic-signal-leak-locations-index/2025-03-25-atlantic-signal-leak-locations-index-facebookJumbo-v28.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjJhZjk4OWUtMmFhZS01OGRhLWI4NWEtYzVjN2U5MDg2MTQ1",
-    "headline": "The Federal Work Force Cuts So Far, Agency by Agency",
-    "url": "https://www.nytimes.com/interactive/2025/03/28/us/politics/trump-doge-federal-job-cuts.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-03-29T00:35:59.000Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      }
-    ],
-    "description": "Here are the layoffs, buyouts taken and planned reductions, by agency, that The New York Times has confirmed.",
-    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-square320-v11.png",
-    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-facebookJumbo-v13.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzlmMGNhZWU1LWYyYzUtNTI0NS1iNGUzLTc1MmJmMzY1M2MzMg==",
-    "headline": "Final Cuts Will Eliminate U.S. Aid Agency in All but Name",
-    "url": "https://www.nytimes.com/2025/03/28/us/politics/usaid-trump-doge-cuts.html",
-    "label": "https://www.nytimes.com/us/",
-    "date": "2025-03-28T20:47:02.000Z",
-    "credits": [
-      {
-        "name": "Karoun Demirjian",
-        "slug": "karoun-demirjian"
-      },
-      {
-        "name": "Stephanie Nolen",
-        "slug": "stephanie-nolen"
-      },
-      {
-        "name": "Michael Crowley",
-        "slug": "michael-crowley"
-      },
-      {
-        "name": "Elizabeth Dias",
-        "slug": "elizabeth-dias"
-      }
-    ],
-    "description": "The staff of U.S.A.I.D. will be reduced to some 15 legally required positions. The agency employed about 10,000 people before the Trump administration entered office.",
-    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/28trump-news-usaid-plgw/28trump-news-usaid-plgw-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/28trump-news-usaid-plgw/28trump-news-usaid-plgw-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

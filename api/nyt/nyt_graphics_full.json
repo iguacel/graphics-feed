@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzViOTM2NGQtM2EyYi01NjZjLWI4ZTQtMWRjMjNkMmQ2YWJh",
+    "headline": "Eight Charts That Sum Up Trump’s First 100 Days",
+    "url": "https://www.nytimes.com/interactive/2025/04/29/upshot/trump-100-days-charts.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-30T02:35:39.000Z",
+    "credits": [
+      {
+        "name": "Irineo Cabreros",
+        "slug": "irineo-cabreros"
+      },
+      {
+        "name": "Aatish Bhatia",
+        "slug": "aatish-bhatia"
+      }
+    ],
+    "description": "By many measures, the opening months of President Trump’s second term stand apart from those of essentially any modern president.",
+    "square_img": "https://static01.nyt.com/images/2025/04/29/multimedia/2025-04-14-trump-100-charts-index/2025-04-14-trump-100-charts-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/04/29/multimedia/2025-04-14-trump-100-charts-index/2025-04-14-trump-100-charts-index-facebookJumbo-v3.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGIzYjI0Y2YtODVkNy01MmYwLTg2NTMtZDcyYzVmMWFiNzg0",
     "headline": "2025 Canada Federal Election Live Results: Liberals Win",
     "url": "https://www.nytimes.com/interactive/2025/04/28/world/canada/results-canada-federal-election.html",

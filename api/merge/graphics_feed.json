@@ -1,5 +1,63 @@
 [
   {
+    "id": "SVKX8SDWX2PS00",
+    "headline": "The Rising Cost of ICE Flying Immigrants to Far-Flung Detention Centers",
+    "url": "https://www.bloomberg.com/graphics/2025-trump-ice-immigrant-move-costs-taxpayers/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-05-01T11:00:28.580Z",
+    "description": "The increase in long-distance transfers makes it harder to fight deportation and boosts taxpayer expense.",
+    "credits": [
+      {
+        "name": "Leon Yin",
+        "slug": "leon-yin"
+      },
+      {
+        "name": "Elena Mejía",
+        "slug": "elena-mejía"
+      },
+      {
+        "name": "Rachel Adams-Heard",
+        "slug": "rachel-adams-heard"
+      },
+      {
+        "name": "Polly Mosendz",
+        "slug": "polly-mosendz"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icDlaSPsherI/v1/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "OJ3FXU6GSVFQXO4EJF3MPZ6IGY",
+    "headline": "Sean ‘Diddy’ Combs’s tangled network of allegations, lawsuits",
+    "description": "Explore The Washington Post’s interactive database of the dozens of sexual assault lawsuits filed against Sean “Diddy” Combs.",
+    "url": "https://www.washingtonpost.com/entertainment/music/interactive/2025/sean-diddy-combs-lawsuits-named-allegations/",
+    "credits": [
+      {
+        "name": "Janay Kingsberry",
+        "slug": "janay-kingsberry"
+      },
+      {
+        "name": "Shelly Tan",
+        "slug": "shelly-tan"
+      },
+      {
+        "name": "Samantha Chery",
+        "slug": "samantha-chery"
+      },
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      }
+    ],
+    "date": "2025-05-01T10:00:13.504Z",
+    "img": "https://www.washingtonpost.com/resizer/5eiyh2ggT6QgRZzdPIOtqnphz64=/300x0/arc-anglerfish-washpost-prod-washpost/public/DBP26PURCJDTTGCLWKSFIMUTZE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/entertainment/music/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "XL7U4GCW3BAMTIETHKEJSJ4BXM",
     "headline": "Israel redraws Gaza map, limiting Palestinians to a third of the enclave",
     "description": "Since breaking the ceasefire, Israeli forces have declared about 70 percent of Gaza either as a military “red zone” or under evacuation.",
@@ -149,7 +207,7 @@
     "headline": "Has International Travel to the U.S. Really Collapsed?",
     "url": "https://www.nytimes.com/interactive/2025/04/30/world/us-travel-decline.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-30T09:00:29.611Z",
+    "date": "2025-04-30T09:00:30.000Z",
     "credits": [
       {
         "name": "Josh Holder",
@@ -1970,37 +2028,5 @@
     "square_img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SU1MY5DWX2PS00",
-    "headline": "Bruno Mars Doesn’t Need an Album to Rule the Charts",
-    "url": "https://www.bloomberg.com/graphics/pop-star-ranking/2025-april/bruno-mars-doesn-t-need-an-album-to-rule-the-charts.html?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-04-01T14:30:05.038Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Ashley Carman",
-        "slug": "ashley-carman"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY_iWAnfRkWM/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "06f54ad7-ee9a-4c13-856a-bd1f12e740b9",
-    "headline": "How to use your voice to ease stress and calm down",
-    "description": "Humming can have positive effects on the part of the brain that controls mood, anxiety, cognition and memory. Follow these exercises to use your voice to relax.",
-    "url": "https://www.washingtonpost.com/video/wellbeing/how-to-use-your-voice-to-ease-stress-and-calm-down/2025/04/01/06f54ad7-ee9a-4c13-856a-bd1f12e740b9_video.html",
-    "credits": [
-      {
-        "name": "Daron Taylor",
-        "slug": "daron-taylor"
-      }
-    ],
-    "date": "2025-04-01T14:04:33.000Z",
-    "img": "https://d1i4t8bqe7zgj6.cloudfront.net/04-01-2025/t_75e34bcfd5264dcc80df20ba7d77cb79_name_vert_thumb.jpg",
-    "label": {},
-    "medium": "WP"
   }
 ]

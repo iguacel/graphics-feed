@@ -1,10 +1,34 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDgxMTIxZjItODEzNi01MTM5LWIxNjAtNjNiMTEyZDRmMmEz",
+    "headline": "Are Trump’s Actions Truly Unprecedented? We Asked 35 Historians.",
+    "url": "https://www.nytimes.com/interactive/2025/04/30/upshot/presidential-history-survey.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-04-30T17:44:46.000Z",
+    "credits": [
+      {
+        "name": "Francesca Paris",
+        "slug": "francesca-paris"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Josh Katz",
+        "slug": "josh-katz"
+      }
+    ],
+    "description": "We categorized 22 of Mr. Trump’s actions, ranging from those that have no comparable historical example to those that do.",
+    "square_img": "https://static01.nyt.com/images/2025/04/29/multimedia/2025-03-28-presidential-history-survey-index/2025-03-28-presidential-history-survey-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/29/multimedia/2025-03-28-presidential-history-survey-index/2025-03-28-presidential-history-survey-index-facebookJumbo-v3.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOWViMjBlZDMtZTM5Ni01ODZmLTkzYWEtYzk5ZTViNTVhZDI3",
     "headline": "Where Federal Dollars Flow to Universities Around the Country",
     "url": "https://www.nytimes.com/interactive/2025/04/30/us/university-funding-research.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-30T14:30:53.061Z",
+    "date": "2025-04-30T14:30:53.000Z",
     "credits": [
       {
         "name": "Andrea Fuller",
@@ -65,7 +89,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzViOTM2NGQtM2EyYi01NjZjLWI4ZTQtMWRjMjNkMmQ2YWJh",
-    "headline": "Eight Charts That Sum Up Trump’s First 100 Days",
+    "headline": "Trump’s Astonishing 100 Days, in 8 Charts",
     "url": "https://www.nytimes.com/interactive/2025/04/29/upshot/trump-100-days-charts.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-04-30T02:35:39.000Z",

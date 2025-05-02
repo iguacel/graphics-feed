@@ -1975,48 +1975,5 @@
     "square_img": "https://static01.nyt.com/images/2025/04/02/world/02ukraine-ecocide-square-promo/02ukraine-ecocide-square-promo-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/02/world/02ukraine-ecocide-square-promo/02ukraine-ecocide-square-promo-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "UOAXZAYLGBBWVBAPUPFLCNTLVU",
-    "headline": "These old Roman buildings could unlock how to build in a warming world",
-    "description": "The recycled buildings of Rome, long dismissed by architects, are getting a reappraisal as a model for how to reduce waste while creating something fresh.",
-    "url": "https://www.washingtonpost.com/climate-solutions/interactive/2025/rome-architecture-building-climate/",
-    "credits": [
-      {
-        "name": "Philip Kennicott",
-        "slug": "philip-kennicott"
-      },
-      {
-        "name": "Naema Ahmed",
-        "slug": "naema-ahmed"
-      }
-    ],
-    "date": "2025-04-02T09:30:08.152Z",
-    "img": "https://www.washingtonpost.com/resizer/p91K6VTNdDq9erCem7kvxOkXUvI=/300x0/arc-anglerfish-washpost-prod-washpost/public/VHTD7RQMMJDWTI5IV4CROFJJMQ.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/climate-solutions/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzg5OWQzZGY5LTgyYTQtNTcxOC1iY2ZiLWNmM2YzZjlmMTQyZA==",
-    "headline": "Trump Unveils Expansive Global Tariffs",
-    "url": "https://www.nytimes.com/2025/04/02/business/economy/trump-tariffs.html",
-    "label": "https://www.nytimes.com/business/",
-    "date": "2025-04-02T09:04:25.000Z",
-    "credits": [
-      {
-        "name": "Ana Swanson",
-        "slug": "ana-swanson"
-      },
-      {
-        "name": "Tony Romm",
-        "slug": "tony-romm"
-      }
-    ],
-    "description": "The president said the charges, at least 10 percent on nearly all trading partners, would restore fairness, but experts warned they could destabilize the world’s economy.",
-    "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/04/02/multimedia/02dc-tariffs-vid-cjqt/02dc-tariffs-vid-cjqt-facebookJumbo.jpg",
-    "medium": "NYT"
   }
 ]

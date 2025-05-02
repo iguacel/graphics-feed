@@ -1,5 +1,33 @@
 [
   {
+    "id": "SVLP0NT1UM0W00",
+    "headline": "Thousands of Falling Satellites Put the Atmosphere at Risk",
+    "url": "https://www.bloomberg.com/graphics/2025-space-orbit-satellites-pollution/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-05-01T21:00:23.617Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      },
+      {
+        "name": "Jin Wu",
+        "slug": "jin-wu"
+      },
+      {
+        "name": "Sana Pashankar",
+        "slug": "sana-pashankar"
+      },
+      {
+        "name": "Eric Roston",
+        "slug": "eric-roston"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFCn3ECCQ5Fc/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "SVKX8SDWX2PS00",
     "headline": "The Rising Cost of ICE Flying Immigrants to Far-Flung Detention Centers",
     "url": "https://www.bloomberg.com/graphics/2025-trump-ice-immigrant-move-costs-taxpayers/?srnd=phx-graphics-v2",
@@ -1989,44 +2017,6 @@
     "description": "The president said the charges, at least 10 percent on nearly all trading partners, would restore fairness, but experts warned they could destabilize the world’s economy.",
     "square_img": null,
     "img": "https://static01.nyt.com/images/2025/04/02/multimedia/02dc-tariffs-vid-cjqt/02dc-tariffs-vid-cjqt-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "CZAJOKSWBJH6NDBODUKD26Q7KU",
-    "headline": "Nine GOP House members defy Speaker Mike Johnson on new parent proxy voting measure",
-    "description": "The group of Republicans teamed up with Democrats to overcome a procedural hurdle backed by GOP leadership that would have blocked a proposed resolution allowing new parents in Congress to vote remotely.",
-    "url": "https://www.washingtonpost.com/politics/2025/04/01/proxy-voting-congress-johnson-luna/",
-    "credits": [
-      {
-        "name": "Marianna Sotomayor",
-        "slug": "marianna-sotomayor"
-      },
-      {
-        "name": "Mariana Alfaro",
-        "slug": "mariana-alfaro"
-      },
-      {
-        "name": "Hannah Dormido",
-        "slug": "hannah-dormido"
-      }
-    ],
-    "date": "2025-04-01T22:04:51.246Z",
-    "img": "https://www.washingtonpost.com/resizer/JrIBg6BvyaDqZXqGVizOJH71E6U=/300x0/arc-anglerfish-washpost-prod-washpost/public/TTCXX7UV5P7B2ZTUHEYCIV623Y.JPG",
-    "label": {
-      "url": "https://www.washingtonpost.com/politics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjJjYjZiNTYtMTliNy01OWJlLTk2NmYtOGRhZTU1MWNiNGY4",
-    "headline": "See Which House Members Rejected Johnson’s Effort Against Proxy Voting",
-    "url": "https://www.nytimes.com/interactive/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-01T21:33:31.000Z",
-    "credits": [],
-    "description": "Nine Republicans joined Democrats to force a vote to allow members who had new children to vote by proxy.",
-    "square_img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

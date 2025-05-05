@@ -1827,31 +1827,5 @@
     "square_img": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-20-measles-emma-index/2025-03-20-measles-emma-index-square320-v4.jpg",
     "img": "https://static01.nyt.com/images/2025/04/02/multimedia/2025-03-20-measles-emma-index/2025-03-20-measles-emma-index-facebookJumbo-v5.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "JHFTDPEBKZF43OZ73ZJOMMUPKM",
-    "headline": "Here’s where prices could rise the most and least under Trump’s tariffs",
-    "description": "Shoppers will see uneven price increases on imported goods.",
-    "url": "https://www.washingtonpost.com/business/2025/04/04/tariff-prices-products-increases-trump/",
-    "credits": [
-      {
-        "name": "Luis Melgar",
-        "slug": "luis-melgar"
-      },
-      {
-        "name": "Rachel Lerman",
-        "slug": "rachel-lerman"
-      },
-      {
-        "name": "Szu Yu  Chen",
-        "slug": "szuyu-chen"
-      }
-    ],
-    "date": "2025-04-04T18:14:22.598Z",
-    "img": "https://www.washingtonpost.com/resizer/9fwqd0erTMt68vzSEK_zJ5tcYTY=/300x0/arc-anglerfish-washpost-prod-washpost/public/GS2WUBXX4RDDLPXFZITDWSAXOE.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/business/"
-    },
-    "medium": "WP"
   }
 ]

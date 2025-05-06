@@ -21,6 +21,23 @@
     "medium": "NYT"
   },
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzVmZDRjMDctMDU1NS01OTA5LWIxMGMtN2I0MDZiMjZhMDhi",
+    "headline": "10-Minute Challenge: ‘The Starry Night’ by van Gogh",
+    "url": "https://www.nytimes.com/interactive/2025/05/04/upshot/ten-minute-challenge-starry-night.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-05T01:33:49.000Z",
+    "credits": [
+      {
+        "name": "Larry Buchanan",
+        "slug": "larry-buchanan"
+      }
+    ],
+    "description": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
+    "square_img": "https://static01.nyt.com/images/2025/04/18/upshot/up-10-minute-challenge-starry-night/up-10-minute-challenge-starry-night-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/04/18/upshot/up-10-minute-challenge-starry-night/up-10-minute-challenge-starry-night-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "KUWH4IXEUVH4DKSNMRZLF6JWFA",
     "headline": "Dozens killed in U.S. strike on purported detention center in Yemen, visuals show",
     "description": "The compound includes a migrant detention center and has at times served military functions, according to U.N. and human rights researchers.",

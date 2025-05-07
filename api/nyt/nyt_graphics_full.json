@@ -1,10 +1,70 @@
 [
   {
+    "id": "VmlkZW86bnl0Oi8vdmlkZW8vYjhjN2RjM2ItNDFiYS01NGZkLTk2NWEtZmM3ZTQ3YjRiNWQz",
+    "headline": "What Makes This Conclave Unpredictable",
+    "url": "https://www.nytimes.com/video/world/100000010137843/what-makes-this-conclave-unpredictable.html",
+    "label": "https://www.nytimes.com/video/",
+    "date": "2025-05-07T04:00:00.840Z",
+    "credits": [
+      {
+        "name": "Jason Horowitz",
+        "slug": "jason-horowitz"
+      },
+      {
+        "name": "Karen Hanley",
+        "slug": "karen-hanley"
+      },
+      {
+        "name": "Christina Thornell",
+        "slug": "christina-thornell"
+      },
+      {
+        "name": "Laura Salaberry",
+        "slug": "laura-salaberry"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Enrico Parenti",
+        "slug": "enrico-parenti"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      }
+    ],
+    "description": "A diverse electorate of cardinals is meeting in a conclave to pick the next pope. Though Francis appointed most of them, they may not choose another pope like him, as Jason Horowitz, the Rome bureau chief of The New York Times, explains.",
+    "square_img": "https://static01.nyt.com/images/2025/05/05/arts/horowitz-thumb2/horowitz-thumb2-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/05/arts/horowitz-thumb2/horowitz-thumb2-facebookJumbo.jpg?video-overlay"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzUyMDNiOWE2LTUxZmMtNTQ3NS1hNDBmLTUzMWRlOGY0OWFlZg==",
+    "headline": "Chinese Imports Hit 2-Decade Low as Trump Tariffs Begin to Bite",
+    "url": "https://www.nytimes.com/2025/05/06/business/us-china-imports-tariffs.html",
+    "label": "https://www.nytimes.com/business/",
+    "date": "2025-05-06T21:34:58.000Z",
+    "credits": [
+      {
+        "name": "Karl Russell",
+        "slug": "karl-russell"
+      },
+      {
+        "name": "Ana Swanson",
+        "slug": "ana-swanson"
+      }
+    ],
+    "description": "While imports can swing with seasonal shifts, President Trump’s ratcheting up of U.S. tariffs on China has begun to cascade through supply chains, government data shows.",
+    "square_img": "https://static01.nyt.com/images/2025/05/06/multimedia/2025-05-06-trade-promo-index/2025-05-06-trade-promo-index-square320-v2.png",
+    "img": "https://static01.nyt.com/images/2025/05/06/multimedia/2025-05-06-trade-promo-index/2025-05-06-trade-promo-index-facebookJumbo-v3.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYWY4NzM3MjUtMWQ5ZC01NjEzLWI0N2UtNjI1YWRlNjEyMTQ1",
     "headline": "See Who Your Neighborhood Is Funding in New York City’s Mayoral Race",
     "url": "https://www.nytimes.com/interactive/2025/05/06/nyregion/nyc-mayor-funding-neighborhood-donations.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-05-06T09:03:25.539Z",
+    "date": "2025-05-06T09:03:26.000Z",
     "credits": [
       {
         "name": "Keith Collins",
@@ -12,8 +72,8 @@
       }
     ],
     "description": "Former Gov. Andrew Cuomo is the current front-runner but Zohran Mamdani has gotten more donations from individuals than any other candidate.",
-    "square_img": "https://static01.nyt.com/images/2025/05/05/multimedia/2025-03-18-nyc-mayor-donations-index/2025-03-18-nyc-mayor-donations-index-square320-v4.png",
-    "img": "https://static01.nyt.com/images/2025/05/05/multimedia/2025-03-18-nyc-mayor-donations-index/2025-03-18-nyc-mayor-donations-index-facebookJumbo-v5.png"
+    "square_img": "https://static01.nyt.com/images/2025/05/05/multimedia/2025-03-18-nyc-mayor-donations-index/2025-03-18-nyc-mayor-donations-index-square320-v6.png",
+    "img": "https://static01.nyt.com/images/2025/05/05/multimedia/2025-03-18-nyc-mayor-donations-index/2025-03-18-nyc-mayor-donations-index-facebookJumbo-v8.png"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2VmY2Q0ZTg3LTBlYTEtNTA3Yi05OTA0LWZlYWI5M2MyZGEwMA==",
@@ -40,7 +100,7 @@
     "headline": "The Church Is More Global Than Ever. What Does That Mean for the Next Pope?",
     "url": "https://www.nytimes.com/interactive/2025/05/06/world/europe/cardinals-conclave-2025.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-05-06T09:01:00.949Z",
+    "date": "2025-05-06T09:01:01.000Z",
     "credits": [
       {
         "name": "Samuel Granados",

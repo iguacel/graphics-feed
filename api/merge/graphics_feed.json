@@ -1,5 +1,55 @@
 [
   {
+    "id": "SVVVP1DWX2PS00",
+    "headline": "Top Trump Crypto Buyers Vying for Dinner Seats Are Likely Foreign, Data Shows",
+    "url": "https://www.bloomberg.com/graphics/2025-trump-memecoin-foreign-crypto-traders/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-05-07T09:00:37.324Z",
+    "description": "The majority of top holders of Donald Trump’s memecoin have used foreign exchanges that say they ban US users, suggesting many purchasers are based abroad",
+    "credits": [
+      {
+        "name": "Leonardo Nicoletti",
+        "slug": "leonardo-nicoletti"
+      },
+      {
+        "name": "Anthony Cormier",
+        "slug": "anthony-cormier"
+      },
+      {
+        "name": "David Kocieniewski",
+        "slug": "david-kocieniewski"
+      },
+      {
+        "name": "Chloe Whiteaker",
+        "slug": "chloe-whiteaker"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqxeysKQ1oLo/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "S4YLZV7SWFDC3BHFN22VDBQSNE",
+    "headline": "Is there a new pope?",
+    "description": "Cardinals of the Catholic Church are gathering in the Sistine Chapel to elect a new pope. Here’s what the smoke signals indicate so far.",
+    "url": "https://www.washingtonpost.com/religion/interactive/2025/conclave-live-voting-results-new-pope/",
+    "credits": [
+      {
+        "name": "Chris Alcantara",
+        "slug": "chris-alcantara"
+      },
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      }
+    ],
+    "date": "2025-05-07T09:00:07.223Z",
+    "img": "https://www.washingtonpost.com/resizer/VOQRRHFPvPZ5-iybJ5WtFDQyeos=/300x0/arc-anglerfish-washpost-prod-washpost/public/2WCPQD7ZKBF7HGAR4PJUN2PPE4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/religion/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vYjhjN2RjM2ItNDFiYS01NGZkLTk2NWEtZmM3ZTQ3YjRiNWQz",
     "headline": "What Makes This Conclave Unpredictable",
     "url": "https://www.nytimes.com/video/world/100000010137843/what-makes-this-conclave-unpredictable.html",
@@ -1878,31 +1928,6 @@
     "description": "A request for proposals for new detention facilities and other services would allow the government to expedite the contracting process and rapidly expand detention.",
     "square_img": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-ice-detention-contract-01-lvhz/07dc-ice-detention-contract-01-lvhz-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-ice-detention-contract-01-lvhz/07dc-ice-detention-contract-01-lvhz-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDQ1N2JhYTQtN2Y0Yi01MmQyLWI5ZDUtOTQ1NzNlOTA1NDZj",
-    "headline": "List: Who Trump Has Targeted for Retribution",
-    "url": "https://www.nytimes.com/interactive/2025/04/07/us/trump-revenge-list.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-07T09:03:15.000Z",
-    "credits": [
-      {
-        "name": "Michael S. Schmidt",
-        "slug": "michael-s-schmidt"
-      },
-      {
-        "name": "Matthew Cullen",
-        "slug": "matthew-cullen"
-      },
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      }
-    ],
-    "description": "See a breakdown of some of the people and entities — including law firms, universities and more — that President Trump has retaliated against in the first few months of his new term.",
-    "square_img": "https://static01.nyt.com/images/2025/04/04/multimedia/2025-03-27-trump-retribution-index/2025-03-27-trump-retribution-index-square320-v2.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/04/multimedia/2025-03-27-trump-retribution-index/2025-03-27-trump-retribution-index-facebookJumbo-v3.jpg",
     "medium": "NYT"
   }
 ]

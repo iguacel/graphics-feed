@@ -1,5 +1,97 @@
 [
   {
+    "id": "UWZIXUX3TZHRZP46W5EI5TUTR4",
+    "headline": "What’s in a name? The meaning and history behind choosing a papal name.",
+    "description": "When the conclave is over and cardinals choose a pope, the new pontiff will be introduced by his papal name. Popular names include John, Gregory and Benedict.",
+    "url": "https://www.washingtonpost.com/religion/2025/05/08/pope-name-conclave-meaning/",
+    "credits": [
+      {
+        "name": "Kelsey Ables",
+        "slug": "kelsey-ables"
+      },
+      {
+        "name": "Vivian Ho",
+        "slug": "vivian-ho"
+      },
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      }
+    ],
+    "date": "2025-05-08T13:26:10.793Z",
+    "img": "https://www.washingtonpost.com/resizer/sxP_k3c65HjNl6T69Zduq0Ofwjo=/300x0/arc-anglerfish-washpost-prod-washpost/public/5TPGQPKDQUBV244MTZTW2BBYR4.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/religion/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SVXRQST1UM0X00",
+    "headline": "Trump Has Been Stopped By Courts More Than 200 Times",
+    "url": "https://www.bloomberg.com/graphics/2025-lawsuits-against-trump-administration/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-05-08T09:30:28.563Z",
+    "description": "Hundreds of court battles challenging Donald Trump's executive actions are a stress test on the balance of power at the heart of American democracy.",
+    "credits": [
+      {
+        "name": "Zoe Tillman",
+        "slug": "zoe-tillman"
+      },
+      {
+        "name": "Christopher Cannon",
+        "slug": "christopher-cannon"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOX7zxkkAsr0/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "SVXQCSDWLU6800",
+    "headline": "AI Is Draining Water From the Areas That Need It Most",
+    "url": "https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-05-08T09:00:28.100Z",
+    "description": "More than 160 new AI data centers have been built across the US in the past three years in regions already grappling with scarce water resources, a Bloomberg News analysis finds.",
+    "credits": [
+      {
+        "name": "Leonardo Nicoletti",
+        "slug": "leonardo-nicoletti"
+      },
+      {
+        "name": "Michelle Ma",
+        "slug": "michelle-ma"
+      },
+      {
+        "name": "Dina Bass",
+        "slug": "dina-bass"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuOPsLhTsqgA/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "QKFQ32HW45CLDMCPN7IA5EVWVQ",
+    "headline": "Land under the country’s largest cities is sinking. Here’s where — and why.",
+    "description": "The movement is slow — sinking on the scale of millimeters per year in the United States — but the effects accumulate over years.",
+    "url": "https://www.washingtonpost.com/climate-environment/2025/05/08/sinking-land-cities-inland-infrastructure-damage/",
+    "credits": [
+      {
+        "name": "Kasha Patel",
+        "slug": "kasha-patel"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      }
+    ],
+    "date": "2025-05-08T09:00:00.106Z",
+    "img": "https://www.washingtonpost.com/resizer/2AyfTT_Nl-IlhkTa7wKy0GFkhI8=/300x0/arc-anglerfish-washpost-prod-washpost/public/HBJDW2GU3JF3BKRMF2W2GLB2YY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/environment/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQyMjVlYTI3LTdkODAtNWU5Yi04MjI1LTIwMGIwZmYyZTY0MQ==",
     "headline": "How Long Will the Conclave Take?",
     "url": "https://www.nytimes.com/2025/05/08/world/europe/pope-conclave-how-long.html",
@@ -9,6 +101,10 @@
       {
         "name": "Emma Bubola",
         "slug": "emma-bubola"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
       }
     ],
     "description": "There is no formal time limit for cardinals to elect a pope. Past papal selections have lasted from a few hours to three years.",

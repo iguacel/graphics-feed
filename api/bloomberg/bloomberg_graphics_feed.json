@@ -1,5 +1,47 @@
 [
   {
+    "id": "SVXRQST1UM0X00",
+    "headline": "Trump Has Been Stopped By Courts More Than 200 Times",
+    "url": "https://www.bloomberg.com/graphics/2025-lawsuits-against-trump-administration/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-05-08T09:30:28.563Z",
+    "description": "Hundreds of court battles challenging Donald Trump's executive actions are a stress test on the balance of power at the heart of American democracy.",
+    "credits": [
+      {
+        "name": "Zoe Tillman",
+        "slug": "zoe-tillman"
+      },
+      {
+        "name": "Christopher Cannon",
+        "slug": "christopher-cannon"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOX7zxkkAsr0/v0/-1x-1.webp"
+  },
+  {
+    "id": "SVXQCSDWLU6800",
+    "headline": "AI Is Draining Water From the Areas That Need It Most",
+    "url": "https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-05-08T09:00:28.100Z",
+    "description": "More than 160 new AI data centers have been built across the US in the past three years in regions already grappling with scarce water resources, a Bloomberg News analysis finds.",
+    "credits": [
+      {
+        "name": "Leonardo Nicoletti",
+        "slug": "leonardo-nicoletti"
+      },
+      {
+        "name": "Michelle Ma",
+        "slug": "michelle-ma"
+      },
+      {
+        "name": "Dina Bass",
+        "slug": "dina-bass"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuOPsLhTsqgA/v0/-1x-1.webp"
+  },
+  {
     "id": "SVVVP1DWX2PS00",
     "headline": "Top Trump Crypto Buyers Vying for Dinner Seats Are Likely Foreign, Data Shows",
     "url": "https://www.bloomberg.com/graphics/2025-trump-memecoin-foreign-crypto-traders/?srnd=phx-graphics-v2",

@@ -1,5 +1,28 @@
 [
   {
+    "id": "2025_04_birthday-effect",
+    "headline": "Are you more likely to die on your birthday?",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_04_birthday-effect/",
+    "date": "2025-05-09",
+    "keywords": [
+      "birthday",
+      "death",
+      "statistics",
+      "math",
+      "explainer",
+      "z-score",
+      "p-value"
+    ],
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_04_birthday-effect.jpg"
+  },
+  {
     "id": "2025_04_wine-animals",
     "headline": "The Pour-igin of Species",
     "description": "No description available",

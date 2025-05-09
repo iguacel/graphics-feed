@@ -1,5 +1,29 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTg5NDNlNzQtYzhlNi01NTIyLTkxZWEtY2NmNWEzNDI3NzUy",
+    "headline": "See How a Communications Outage Affected Flights at Newark Airport",
+    "url": "https://www.nytimes.com/interactive/2025/05/08/nyregion/newark-airport-delays.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-09T02:30:48.000Z",
+    "credits": [
+      {
+        "name": "Daniel Wood",
+        "slug": "daniel-wood"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Zach Levitt",
+        "slug": "zach-levitt"
+      }
+    ],
+    "description": "The effects of an interruption in radio and radar service could be seen almost immediately, as planes circled in holding patterns. They are still being felt in cancellations and major delays days later.",
+    "square_img": "https://static01.nyt.com/images/2025/05/08/multimedia/2025-05-07-newark-outage-delays-index/2025-05-07-newark-outage-delays-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/08/multimedia/2025-05-07-newark-outage-delays-index/2025-05-07-newark-outage-delays-index-facebookJumbo-v4.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQyMjVlYTI3LTdkODAtNWU5Yi04MjI1LTIwMGIwZmYyZTY0MQ==",
     "headline": "How Long Will the Conclave Take?",
     "url": "https://www.nytimes.com/2025/05/08/world/europe/pope-conclave-how-long.html",

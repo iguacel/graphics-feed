@@ -1,5 +1,82 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTg5NDNlNzQtYzhlNi01NTIyLTkxZWEtY2NmNWEzNDI3NzUy",
+    "headline": "See How a Communications Outage Affected Flights at Newark Airport",
+    "url": "https://www.nytimes.com/interactive/2025/05/08/nyregion/newark-airport-delays.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-09T02:30:48.000Z",
+    "credits": [
+      {
+        "name": "Daniel Wood",
+        "slug": "daniel-wood"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Zach Levitt",
+        "slug": "zach-levitt"
+      }
+    ],
+    "description": "The effects of an interruption in radio and radar service could be seen almost immediately, as planes circled in holding patterns. They are still being felt in cancellations and major delays days later.",
+    "square_img": "https://static01.nyt.com/images/2025/05/08/multimedia/2025-05-07-newark-outage-delays-index/2025-05-07-newark-outage-delays-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/08/multimedia/2025-05-07-newark-outage-delays-index/2025-05-07-newark-outage-delays-index-facebookJumbo-v4.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "2025_04_birthday-effect",
+    "headline": "Are you more likely to die on your birthday?",
+    "description": "No description available",
+    "url": "https://pudding.cool/projects/2025_04_birthday-effect/",
+    "date": "2025-05-09T00:00:00.000Z",
+    "keywords": [
+      "birthday",
+      "death",
+      "statistics",
+      "math",
+      "explainer",
+      "z-score",
+      "p-value"
+    ],
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_04_birthday-effect.jpg",
+    "medium": "Pudding"
+  },
+  {
+    "id": "SVYNOTT0G1KW00",
+    "headline": "Silicon Valley Is Coming for the Pentagon’s $1 Trillion Budget",
+    "url": "https://www.bloomberg.com/graphics/2025-silicon-valley-targets-pentagon-budget/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-05-08T21:00:29.089Z",
+    "description": "The Trump administration wants startups to remake the US military, setting the stage for a battle over the world’s biggest defense budget.",
+    "credits": [
+      {
+        "name": "Lizette Chapman",
+        "slug": "lizette-chapman"
+      },
+      {
+        "name": "Julia Janicki",
+        "slug": "julia-janicki"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      },
+      {
+        "name": "Allyson Versprille",
+        "slug": "allyson-versprille"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilMUKYVQMqmc/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "UWZIXUX3TZHRZP46W5EI5TUTR4",
     "headline": "What’s in a name? The meaning and history behind choosing a papal name.",
     "description": "When the conclave is over and cardinals choose a pope, the new pontiff will be introduced by his papal name. Popular names include John, Gregory and Benedict.",
@@ -1995,23 +2072,5 @@
     "square_img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-03-25-immigrants-legal-rights-index/2025-03-25-immigrants-legal-rights-index-square320-v12.png",
     "img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-03-25-immigrants-legal-rights-index/2025-03-25-immigrants-legal-rights-index-facebookJumbo-v13.png",
     "medium": "NYT"
-  },
-  {
-    "id": "5LLDGJ27EVCTZOPUPYHZVG4ADE",
-    "headline": "Clint Hill remembered as the devoted agent who ran to JFK’s car in Dallas",
-    "description": "Secret Service agent Clint Hill hurled himself atop President John F. Kennedy’s uncovered limousine when Lee Harvey Oswald opened fire in November 1963.",
-    "url": "https://www.washingtonpost.com/national-security/2025/04/08/secret-service-agent-clint-hill-jfk-kennedy/",
-    "credits": [
-      {
-        "name": "Derek Hawkins",
-        "slug": "derek-hawkins"
-      }
-    ],
-    "date": "2025-04-08T23:34:57.635Z",
-    "img": "https://www.washingtonpost.com/resizer/J3TQ08IZgaphKTZXd3LNrafKfFg=/300x0/arc-anglerfish-washpost-prod-washpost/public/GK26ITIMJDJCCWMHVVQJLS52FE.JPG",
-    "label": {
-      "url": "https://www.washingtonpost.com/justice/"
-    },
-    "medium": "WP"
   }
 ]

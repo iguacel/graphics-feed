@@ -1,5 +1,30 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzc5MDlmZjkwLTUxOGEtNWIyOS1hMDBjLTk1YzlkOTcyOGZmZg==",
+    "headline": "The Biggest Medicaid Cut Left for House Republicans Would Hit Red States Hardest",
+    "url": "https://www.nytimes.com/2025/05/09/upshot/republicans-medicaid-states-plans.html",
+    "label": "https://www.nytimes.com/upshot/",
+    "date": "2025-05-09T09:02:17.127Z",
+    "credits": [
+      {
+        "name": "Sarah Kliff",
+        "slug": "sarah-kliff"
+      },
+      {
+        "name": "Margot Sanger-Katz",
+        "slug": "margot-sanger-katz"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      }
+    ],
+    "description": "Now, Trump’s big budget bill might require particularly painful cuts in the South.",
+    "square_img": "https://static01.nyt.com/images/2025/05/08/multimedia/00up-mjohnson1-zcfl/00up-mjohnson1-zcfl-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/08/multimedia/00up-mjohnson1-zcfl/00up-mjohnson1-zcfl-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTg5NDNlNzQtYzhlNi01NTIyLTkxZWEtY2NmNWEzNDI3NzUy",
     "headline": "See How a Communications Outage Affected Flights at Newark Airport",
     "url": "https://www.nytimes.com/interactive/2025/05/08/nyregion/newark-airport-delays.html",
@@ -2001,76 +2026,6 @@
     "description": "The U.N. food program said the new cuts “could amount to a death sentence” for millions of desperate people.",
     "square_img": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-usaid-topart-jpzm/09dc-usaid-topart-jpzm-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/09/multimedia/09dc-usaid-topart-jpzm/09dc-usaid-topart-jpzm-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E4OTczOWY5LTA0MzYtNWE1OC1iNzA0LTdlYjJhNjgwNDBlNw==",
-    "headline": "Trump Wants to Merge Government Data. Here Are 314 Things It Might Know About You.",
-    "url": "https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html",
-    "label": "https://www.nytimes.com/us/",
-    "date": "2025-04-09T14:54:13.000Z",
-    "credits": [
-      {
-        "name": "Emily Badger",
-        "slug": "emily-badger"
-      },
-      {
-        "name": "Sheera Frenkel",
-        "slug": "sheera-frenkel"
-      }
-    ],
-    "description": "Elon Musk’s team is leading an effort to link government databases, to the alarm of privacy and security experts.",
-    "square_img": "https://static01.nyt.com/images/2025/04/08/multimedia/2025-03-31-doge-data-index/2025-03-31-doge-data-index-square320.png",
-    "img": "https://static01.nyt.com/images/2025/04/08/multimedia/2025-03-31-doge-data-index/2025-03-31-doge-data-index-facebookJumbo.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "SUGFD8T0G1KX00",
-    "headline": "How Much Tariff Turmoil Until the Fed Intervenes? Five Market Crises Provide Clues",
-    "url": "https://www.bloomberg.com/graphics/2025-tariffs-markets-reaction/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-04-09T14:10:20.292Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Jill R Shah",
-        "slug": "jill-r-shah"
-      },
-      {
-        "name": "Alex Harris",
-        "slug": "alex-harris"
-      },
-      {
-        "name": "Denise Lu",
-        "slug": "denise-lu"
-      },
-      {
-        "name": "Raeedah Wahid",
-        "slug": "raeedah-wahid"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAa7NDadcWEc/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOWRiMmU2ZTEtMWU1OS01MWM3LWExNWEtYTk1ODM3ZmQ5YTYy",
-    "headline": "What Rights Do Immigrants Have?",
-    "url": "https://www.nytimes.com/interactive/2025/04/09/us/immigrant-rights-deportation.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-09T09:01:46.000Z",
-    "credits": [
-      {
-        "name": "Albert Sun",
-        "slug": "albert-sun"
-      },
-      {
-        "name": "Miriam Jordan",
-        "slug": "miriam-jordan"
-      }
-    ],
-    "description": "The expansion of immigration enforcement actions by the Trump administration has thrown the status of some rights into question. See what is unchanged, what is expanded and what is in dispute.",
-    "square_img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-03-25-immigrants-legal-rights-index/2025-03-25-immigrants-legal-rights-index-square320-v12.png",
-    "img": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-03-25-immigrants-legal-rights-index/2025-03-25-immigrants-legal-rights-index-facebookJumbo-v13.png",
     "medium": "NYT"
   }
 ]

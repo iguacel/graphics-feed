@@ -1819,29 +1819,5 @@
     "square_img": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-square320-v4.jpg",
     "img": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-facebookJumbo-v4.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SUK8E3DWRGG000",
-    "headline": "Baseball's $10 Billion Man Won't Apologize for Soaring Salaries",
-    "url": "https://www.bloomberg.com/graphics/2025-scott-boras-mlb-contracts/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-04-11T15:30:03.294Z",
-    "description": "Agent Scott Boras had another record offseason, reigniting calls for a salary cap — and threats of a lockout.",
-    "credits": [
-      {
-        "name": "Dylan Sloan",
-        "slug": "dylan-sloan"
-      },
-      {
-        "name": "Ira Boudway",
-        "slug": "ira-boudway"
-      },
-      {
-        "name": "Kyle Kim (News)",
-        "slug": "kyle-kim-(news)"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijqrTHmbyInQ/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

@@ -1781,43 +1781,5 @@
     "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-10-china-tariff-stacking-new-index/2025-04-10-china-tariff-stacking-new-index-square320-v8.jpg",
     "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-10-china-tariff-stacking-new-index/2025-04-10-china-tariff-stacking-new-index-facebookJumbo-v8.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDYwZmJmMzAtOTZmYy01MmI5LThlYjctMWU4YzllYzAxOGY5",
-    "headline": "See the Moments Leading Up to the Nightclub Roof Collapse in Santo Domingo",
-    "url": "https://www.nytimes.com/interactive/2025/04/11/world/americas/nightclub-dominican-republic-collapse.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-11T21:16:46.000Z",
-    "credits": [
-      {
-        "name": "Helmuth Rosales",
-        "slug": "helmuth-rosales"
-      }
-    ],
-    "description": "Video taken at the scene shows debris was already falling from the ceiling of the Jet Set nightclub before it caved in.",
-    "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-square320-v4.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-facebookJumbo-v4.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNWUzZWRiMTQtYTgwYi01NzRmLTlhMjAtN2Q4OWM0NDRjOGEy",
-    "headline": "How Snow Becomes Deadly",
-    "url": "https://www.nytimes.com/interactive/2025/04/11/weather/avalanche-science.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-11T18:39:00.000Z",
-    "credits": [
-      {
-        "name": "Judson Jones",
-        "slug": "judson-jones"
-      },
-      {
-        "name": "Lily Boyce",
-        "slug": "lily-boyce"
-      }
-    ],
-    "description": "This season, more than 20 people died in avalanches in the U.S. Can mountains be safer?",
-    "square_img": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-square320-v4.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-facebookJumbo-v4.jpg",
-    "medium": "NYT"
   }
 ]

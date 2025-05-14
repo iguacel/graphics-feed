@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTM1Y2UwNDItZmJhNy01OTlkLWE5YTktOTRkZTdlMWJiNDQy",
+    "headline": "185% Tariffs: How the Trade War Hit One Shipment of T-Shirts",
+    "url": "https://www.nytimes.com/interactive/2025/05/14/business/economy/trump-china-tariffs-import-goods.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-14T09:02:20.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Ana Swanson",
+        "slug": "ana-swanson"
+      }
+    ],
+    "description": "Even with a temporary reprieve, tariffs have begun to squeeze importers. See how.",
+    "square_img": "https://static01.nyt.com/images/2025/05/13/multimedia/2025-05-09-entry-form-tariff-index/2025-05-09-entry-form-tariff-index-square320-v2.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/13/multimedia/2025-05-09-entry-form-tariff-index/2025-05-09-entry-form-tariff-index-facebookJumbo-v3.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzc5MDlmZjkwLTUxOGEtNWIyOS1hMDBjLTk1YzlkOTcyOGZmZg==",
     "headline": "The Biggest Medicaid Cut Left for House Republicans Would Hit Red States Hardest",
     "url": "https://www.nytimes.com/2025/05/09/upshot/republicans-medicaid-states-plans.html",

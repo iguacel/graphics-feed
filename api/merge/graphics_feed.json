@@ -1672,27 +1672,5 @@
     "square_img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-01-mapping-federal-workforce-index/2025-03-01-mapping-federal-workforce-index-square320-v8.jpg",
     "img": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-01-mapping-federal-workforce-index/2025-03-01-mapping-federal-workforce-index-facebookJumbo-v8.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SAFPDVQEIZE77LLPRA2YGIYCLM",
-    "headline": "Travel to the U.S. from almost everywhere is falling under Trump",
-    "description": "Charts show the scale of a steep drop in visitors from key countries and regions after President Donald Trump returned to office.",
-    "url": "https://www.washingtonpost.com/world/2025/04/18/us-tourism-travel-trump/",
-    "credits": [
-      {
-        "name": "Anumita Kaur",
-        "slug": "anumita-kaur"
-      },
-      {
-        "name": "Adrián Blanco Ramos",
-        "slug": "adrian-blanco"
-      }
-    ],
-    "date": "2025-04-18T13:36:23.405Z",
-    "img": "https://www.washingtonpost.com/resizer/VWvHWEmf0NTh9YEV80HCh9nTxHU=/300x0/arc-anglerfish-washpost-prod-washpost/public/42U6AOUKMVWJ2WU6SLRYSA4DEU.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/world/"
-    },
-    "medium": "WP"
   }
 ]

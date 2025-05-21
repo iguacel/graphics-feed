@@ -1,5 +1,48 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q2ZGRhNTMxLTlkZTEtNTgzMi1iNTMxLWQ5ZTUwMjkyMWVlMg==",
+    "headline": "U.S. Debt Is on Pace to Set a Record High, Going All the Way Back to 1790",
+    "url": "https://www.nytimes.com/2025/05/20/upshot/record-debt-republicans-bill.html",
+    "label": "https://www.nytimes.com/upshot/",
+    "date": "2025-05-20T21:37:15.000Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Margot Sanger-Katz",
+        "slug": "margot-sanger-katz"
+      }
+    ],
+    "description": "If Republicans pass their tax and spending megabill, the record will arrive even sooner — putting America’s debt at more than 113 percent of the size of its entire economy.",
+    "square_img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-19-debt-gdp-projections-index/2025-05-19-debt-gdp-projections-index-square320-v5.png",
+    "img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-19-debt-gdp-projections-index/2025-05-19-debt-gdp-projections-index-facebookJumbo-v6.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "QZ47LYYWOFAEJAEWWYO3TBWQHY",
+    "headline": "You asked: Are vaccines approved without safety studies?",
+    "description": "No, this is not true. Vaccines undergo rigorous safety testing and are continuously monitored for adverse events. ",
+    "url": "https://www.washingtonpost.com/health/2025/05/20/vaccine-safety-studies/",
+    "credits": [
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Lauren Weber",
+        "slug": "lauren-weber"
+      }
+    ],
+    "date": "2025-05-20T20:10:27.961Z",
+    "img": "https://www.washingtonpost.com/resizer/MdUr_zEd4LsQH03wKWpwiL3kSjE=/300x0/arc-anglerfish-washpost-prod-washpost/public/SPCVV34XTXPAYAAV6LFIIPXAHY.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/health/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SDFFEGSKIVBP5OW4UQNWRC5UNE",
     "headline": "The fate of Trump’s agenda rests with the House GOP’s ‘five families’",
     "description": "They call themselves the ‘five families.’ This week will test whether the House GOP’s factions can come together to advance Trump’s big bill. ",

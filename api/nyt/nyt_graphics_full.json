@@ -1,5 +1,33 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzRhYjI3YjUtOTJiNi01NmFjLTllZGEtMTNjZjhlZGJjMWY2",
+    "headline": "How Every House Member Voted on the G.O.P. Megabill",
+    "url": "https://www.nytimes.com/interactive/2025/05/22/us/politics/house-gop-megabill-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-22T11:30:31.000Z",
+    "credits": [
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "Jon Huang",
+        "slug": "jon-huang"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Lily Boyce",
+        "slug": "lily-boyce"
+      }
+    ],
+    "description": "The House voted 215 to 214 to pass the domestic policy bill that will deliver President Trump’s domestic agenda.",
+    "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-21-house-gop-megabill/2025-05-21-house-gop-megabill-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-21-house-gop-megabill/2025-05-21-house-gop-megabill-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTAzZDY4MmYtOGUwYy01N2EzLTg2NGMtYjRjNWY3NzlkZTdj",
     "headline": "Was Your Home Damaged by the L.A. Fires? We Want to Hear About Your Home Insurance Claim.",
     "url": "https://www.nytimes.com/interactive/2025/05/21/us/la-fire-insurance-survey.html",

@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTAzZDY4MmYtOGUwYy01N2EzLTg2NGMtYjRjNWY3NzlkZTdj",
+    "headline": "Was Your Home Damaged by the L.A. Fires? We Want to Hear About Your Home Insurance Claim.",
+    "url": "https://www.nytimes.com/interactive/2025/05/21/us/la-fire-insurance-survey.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-21T19:16:22.000Z",
+    "credits": [
+      {
+        "name": "Blacki Migliozzi",
+        "slug": "blacki-migliozzi"
+      },
+      {
+        "name": "Rukmini Callimachi",
+        "slug": "rukmini-callimachi"
+      }
+    ],
+    "description": "Share your story with us.",
+    "square_img": "https://static01.nyt.com/images/2025/05/21/multimedia/2025-05-20-la-fires-insurance-survey-index/2025-05-20-la-fires-insurance-survey-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/21/multimedia/2025-05-20-la-fires-insurance-survey-index/2025-05-20-la-fires-insurance-survey-index-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTJiOTYzZmEtZWYwOC01N2MyLWIxMTAtZmRhODk1OTJmZjE4",
     "headline": "How Trump Has Targeted New Groups for Deportation",
     "url": "https://www.nytimes.com/interactive/2025/05/21/us/trump-immigration-policy.html",

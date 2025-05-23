@@ -1,5 +1,84 @@
 [
   {
+    "id": "SWP4GKDWLU6800",
+    "headline": "Ukraine Rebuilds Its Energy Grid With Lessons From the Frontline",
+    "url": "https://www.bloomberg.com/graphics/2025-ukraine-rebuilds-energy-grid-as-russia-war-continues/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-05-23T04:00:20.879Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Olesia Safronova",
+        "slug": "olesia-safronova"
+      },
+      {
+        "name": "Volodymyr Verbianyi",
+        "slug": "volodymyr-verbianyi"
+      },
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Demetrios Pogkas",
+        "slug": "demetrios-pogkas"
+      },
+      {
+        "name": "Julia Janicki",
+        "slug": "julia-janicki"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ierVmTMUTIFo/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGUyZTlhNmItZDFiNC01NWY1LTllMzYtNmZmMWNjMTljMjg5",
+    "headline": "In Firing Watchdogs, Trump Sidesteps Laws and Moves to Expand Power",
+    "url": "https://www.nytimes.com/interactive/2025/05/22/us/politics/trump-firings-supreme-court.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-22T21:40:49.000Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "The abrupt, premature dismissals of agency officials has teed up a Supreme Court decision that, if delivered in the president's favor, could give him substantially more authority.",
+    "square_img": "https://static01.nyt.com/images/2025/04/22/multimedia/2025-03-19-independent-agencies-executive-power-index/2025-03-19-independent-agencies-executive-power-index-square320-v33.png",
+    "img": "https://static01.nyt.com/images/2025/04/22/multimedia/2025-03-19-independent-agencies-executive-power-index/2025-03-19-independent-agencies-executive-power-index-facebookJumbo-v36.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "BR2LSFH5VVBIBLDCWLAQ6S63MA",
+    "headline": "The findings — and scientific problems — in White House ‘MAHA Report’",
+    "description": "Parts of the “MAHA Report” contradict scientific consensus.",
+    "url": "https://www.washingtonpost.com/health/2025/05/22/maha-health-nutrition-toxins-trump/",
+    "credits": [
+      {
+        "name": "Lauren Weber",
+        "slug": "lauren-weber"
+      },
+      {
+        "name": "Fenit Nirappil",
+        "slug": "fenit-nirappil"
+      },
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Amudalat Ajasa",
+        "slug": "amudalat-ajasa"
+      }
+    ],
+    "date": "2025-05-22T16:09:23.835Z",
+    "img": "https://www.washingtonpost.com/resizer/T6t-mGiYohzLU8Pp6_ga9gKmvQ8=/300x0/arc-anglerfish-washpost-prod-washpost/public/TCU7GH6H2VGJJXSQVTL6U2WNHQ.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/health/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzRhYjI3YjUtOTJiNi01NmFjLTllZGEtMTNjZjhlZGJjMWY2",
     "headline": "How Every House Member Voted on the G.O.P. Megabill",
     "url": "https://www.nytimes.com/interactive/2025/05/22/us/politics/house-gop-megabill-vote.html",

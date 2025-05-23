@@ -1,5 +1,34 @@
 [
   {
+    "id": "UOZAC7KLBRARLPF4HHRY66NZZ4",
+    "headline": "What Republicans’ new tax bill would mean for state and local tax deductions",
+    "description": "The fate of the state and local tax deduction, or SALT, is dividing lawmakers by geography as well as politics.",
+    "url": "https://www.washingtonpost.com/business/2025/05/23/salt-deduction-tax-bill/",
+    "credits": [
+      {
+        "name": "Hannah Ziegler",
+        "slug": "hannah-ziegler"
+      },
+      {
+        "name": "Julie Weil",
+        "slug": "julie-z-weil"
+      },
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-05-23T12:10:00.107Z",
+    "img": "https://www.washingtonpost.com/resizer/Q1sHHcwNt7lm4C3GJyBNYWRGCIE=/300x0/arc-anglerfish-washpost-prod-washpost/public/MU2ISSPODYB7C44N75GBU4AM3A.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    }
+  },
+  {
     "id": "BR2LSFH5VVBIBLDCWLAQ6S63MA",
     "headline": "The findings — and scientific problems — in White House ‘MAHA Report’",
     "description": "Parts of the “MAHA Report” contradict scientific consensus.",

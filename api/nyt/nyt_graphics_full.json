@@ -1,5 +1,33 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2VjYmJmNTMtY2JiOS01MjNlLWFjNjktZTExNmJjMWFmYzg3",
+    "headline": "A Complete List of Everything in the Republican Bill, and How Much It Would Cost or Save",
+    "url": "https://www.nytimes.com/interactive/2025/05/23/upshot/budget-table.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-23T09:03:50.000Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Josh Katz",
+        "slug": "josh-katz"
+      },
+      {
+        "name": "Margot Sanger-Katz",
+        "slug": "margot-sanger-katz"
+      },
+      {
+        "name": "Emily Badger",
+        "slug": "emily-badger"
+      }
+    ],
+    "description": "We highlighted the substantive changes made by House Republicans to secure the support of several holdout members.",
+    "square_img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-21-bbb-tables-index/2025-05-21-bbb-tables-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-21-bbb-tables-index/2025-05-21-bbb-tables-index-facebookJumbo.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGUyZTlhNmItZDFiNC01NWY1LTllMzYtNmZmMWNjMTljMjg5",
     "headline": "In Firing Watchdogs, Trump Sidesteps Laws and Moves to Expand Power",
     "url": "https://www.nytimes.com/interactive/2025/05/22/us/politics/trump-firings-supreme-court.html",

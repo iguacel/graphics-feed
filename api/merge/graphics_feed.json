@@ -1,5 +1,64 @@
 [
   {
+    "id": "UOZAC7KLBRARLPF4HHRY66NZZ4",
+    "headline": "What Republicans’ new tax bill would mean for state and local tax deductions",
+    "description": "The fate of the state and local tax deduction, or SALT, is dividing lawmakers by geography as well as politics.",
+    "url": "https://www.washingtonpost.com/business/2025/05/23/salt-deduction-tax-bill/",
+    "credits": [
+      {
+        "name": "Hannah Ziegler",
+        "slug": "hannah-ziegler"
+      },
+      {
+        "name": "Julie Weil",
+        "slug": "julie-z-weil"
+      },
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-05-23T12:10:00.107Z",
+    "img": "https://www.washingtonpost.com/resizer/Q1sHHcwNt7lm4C3GJyBNYWRGCIE=/300x0/arc-anglerfish-washpost-prod-washpost/public/MU2ISSPODYB7C44N75GBU4AM3A.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2VjYmJmNTMtY2JiOS01MjNlLWFjNjktZTExNmJjMWFmYzg3",
+    "headline": "A Complete List of Everything in the Republican Bill, and How Much It Would Cost or Save",
+    "url": "https://www.nytimes.com/interactive/2025/05/23/upshot/budget-table.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-23T09:03:50.000Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Josh Katz",
+        "slug": "josh-katz"
+      },
+      {
+        "name": "Margot Sanger-Katz",
+        "slug": "margot-sanger-katz"
+      },
+      {
+        "name": "Emily Badger",
+        "slug": "emily-badger"
+      }
+    ],
+    "description": "We highlighted the substantive changes made by House Republicans to secure the support of several holdout members.",
+    "square_img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-21-bbb-tables-index/2025-05-21-bbb-tables-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-21-bbb-tables-index/2025-05-21-bbb-tables-index-facebookJumbo.png",
+    "medium": "NYT"
+  },
+  {
     "id": "SWP4GKDWLU6800",
     "headline": "Ukraine Rebuilds Its Energy Grid With Lessons From the Frontline",
     "url": "https://www.bloomberg.com/graphics/2025-ukraine-rebuilds-energy-grid-as-russia-war-continues/?srnd=phx-graphics-v2",
@@ -1755,23 +1814,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3307617/ckh-port/img/cover.png",
     "medium": "SCMP"
-  },
-  {
-    "id": "2DXBOOXM6RBMTGNW6XAHBV3BRU",
-    "headline": "Which cities have the most trees? See how yours stacks up.",
-    "description": "Why some U.S. cities are so much greener than others",
-    "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/tree-friendly-cities-urban-forests/",
-    "credits": [
-      {
-        "name": "Niko Kommenda",
-        "slug": "niko-kommenda"
-      }
-    ],
-    "date": "2025-04-23T10:00:00.091Z",
-    "img": "https://www.washingtonpost.com/resizer/xqrrXSvlkxoW2jovY4Iz4fQIKmY=/300x0/arc-anglerfish-washpost-prod-washpost/public/JEZNBWXFOVHSDONQKIUS4DGDZY.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/climate-environment/climate-lab/"
-    },
-    "medium": "WP"
   }
 ]

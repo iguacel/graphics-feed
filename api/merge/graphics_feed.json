@@ -1,5 +1,38 @@
 [
   {
+    "id": "N566UI4VUBBO7HCCTGSCR5PRVM",
+    "headline": "The U.S. has more than 1 million foreign students. Here’s who they are.",
+    "description": "International students are at the center of Trump’s latest escalation against Harvard. Experts say they make key contributions to the nation’s economy and research.",
+    "url": "https://www.washingtonpost.com/education/2025/05/25/international-students-harvard-trump/",
+    "credits": [
+      {
+        "name": "Anumita Kaur",
+        "slug": "anumita-kaur"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      }
+    ],
+    "date": "2025-05-25T10:00:13.588Z",
+    "label": {
+      "url": "https://www.washingtonpost.com/education/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjgyM2JjZjktNjZhMS01NGU4LTg1YTgtMzAxYjM1ZmJkNmZj",
+    "headline": "How Donald Trump Has Remade America’s Political Landscape",
+    "url": "https://www.nytimes.com/interactive/2025/05/25/us/politics/trump-politics-democrats.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-05-25T09:01:19.000Z",
+    "credits": [],
+    "description": "The steady march to the right across a vast number of counties reveals the extent of the nation's transformation in the Trump era, and the seriousness of the Democrats' problems.",
+    "square_img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-02-20-triple-shifts-index/2025-02-20-triple-shifts-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-02-20-triple-shifts-index/2025-02-20-triple-shifts-index-facebookJumbo-v3.png",
+    "medium": "NYT"
+  },
+  {
     "id": "UOZAC7KLBRARLPF4HHRY66NZZ4",
     "headline": "What Republicans’ new tax bill would mean for state and local tax deductions",
     "description": "The fate of the state and local tax deduction, or SALT, is dividing lawmakers by geography as well as politics.",
@@ -1679,61 +1712,5 @@
       "url": "https://www.washingtonpost.com/politics/courts-law/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SVA4CWDWLU6800",
-    "headline": "Top Colleges Are Too Costly Even for Parents Making $300,000",
-    "url": "https://www.bloomberg.com/graphics/2025-college-cost-middle-class-squeeze/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-04-25T15:00:32.952Z",
-    "description": "Many families earn too much to get meaningful aid but too little to cover tuition out of pocket",
-    "credits": [
-      {
-        "name": "Ann Choi",
-        "slug": "ann-choi"
-      },
-      {
-        "name": "Francesca Maglione",
-        "slug": "francesca-maglione"
-      },
-      {
-        "name": "Paulina Cachero",
-        "slug": "paulina-cachero"
-      },
-      {
-        "name": "Raeedah Wahid",
-        "slug": "raeedah-wahid"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_iP0tmHFX1g/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "SVA3NWT0G1KW00",
-    "headline": "Canada Election Live Results 2025",
-    "url": "https://www.bloomberg.com/graphics/2025-canada-election-results/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-04-25T14:45:32.857Z",
-    "description": "Track Canada's electoral seats, districts, and key battlegrounds in real time",
-    "credits": [
-      {
-        "name": "Cedric Sam",
-        "slug": "cedric-sam"
-      },
-      {
-        "name": "Jeremy Diamond",
-        "slug": "jeremy-diamond"
-      },
-      {
-        "name": "Laura Dhillon Kane",
-        "slug": "laura-dhillon-kane"
-      },
-      {
-        "name": "Derek Decloet",
-        "slug": "derek-decloet"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqLWeNnZHS7U/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

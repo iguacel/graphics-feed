@@ -1,5 +1,72 @@
 [
   {
+    "id": "2OC6T74VF5HG3FS7VG2L7PG2YM",
+    "headline": "What we lose when weather balloons don’t fly",
+    "description": "Meteorologists are launching fewer weather balloons across the United States as the National Weather Service loses staff. Some worry forecasts will suffer.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/weather-balloon-launches-staff-cuts/",
+    "credits": [
+      {
+        "name": "Scott Dance",
+        "slug": "scott-dance"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      },
+      {
+        "name": "Frank Hulley-Jones",
+        "slug": "frank-hulley-jones"
+      },
+      {
+        "name": "Marvin Joseph",
+        "slug": "marvin-joseph"
+      }
+    ],
+    "date": "2025-05-26T10:00:53.661Z",
+    "img": "https://www.washingtonpost.com/resizer/XgZJzuroeDvDH6MRqd8vtAj6yJ4=/300x0/arc-anglerfish-washpost-prod-washpost/public/IZ4TODVGHWH6L3NVR6XLLMTGUU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/climate-environment/environment/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QzNTIyZDQ5LTRlNjEtNTNhNS1hYzBlLTUxZDZiZDMwYWM3NQ==",
+    "headline": "What Sonic Detectives Listen for When Rockets Launch",
+    "url": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+    "label": "https://www.nytimes.com/science/",
+    "date": "2025-05-26T09:00:45.000Z",
+    "credits": [
+      {
+        "name": "Kenneth Chang",
+        "slug": "kenneth-chang"
+      },
+      {
+        "name": "Jonathan Corum",
+        "slug": "jonathan-corum"
+      }
+    ],
+    "description": "Physicists who record rocket launches and landings, most often by SpaceX, are learning important facts about the acoustics of spaceflight.",
+    "square_img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "PmTeSGhHPC",
+    "headline": "Pets on Hong Kong public transport: a visual guide on how the city is relaxing rules",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3310994/pet_on_mtr/index.html",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2025-05-26T00:00:00.000Z",
+    "description": "Explore how Hong Kong is relaxing public transport rules for pet owners.",
+    "credits": [
+      {
+        "name": "Brian Wang",
+        "slug": "brian-wang"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3310994/pet_on_mtr/social/socialimg.jpg",
+    "medium": "SCMP"
+  },
+  {
     "id": "N566UI4VUBBO7HCCTGSCR5PRVM",
     "headline": "The U.S. has more than 1 million foreign students. Here’s who they are.",
     "description": "International students are at the center of Trump’s latest escalation against Harvard. Experts say they make key contributions to the nation’s economy and research.",
@@ -1614,39 +1681,6 @@
     "description": "The four-day operation came as the Trump administration has sought to enlist local authorities in an immigration crackdown.",
     "square_img": "https://static01.nyt.com/images/2025/04/26/multimedia/26trump-news-ice-florida-arrests-hlkm/26trump-news-ice-florida-arrests-hlkm-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/26/multimedia/26trump-news-ice-florida-arrests-hlkm/26trump-news-ice-florida-arrests-hlkm-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTc5M2U5NmMtYWE0OC01OTUxLWI4NTMtOTQzMzI4YjM0YThj",
-    "headline": "See Who Attended Pope Francis’ Funeral",
-    "url": "https://www.nytimes.com/interactive/2025/04/26/world/europe/pope-francis-funeral-attendees-photo.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-26T15:28:05.000Z",
-    "credits": [
-      {
-        "name": "Eric Lee",
-        "slug": "eric-lee"
-      },
-      {
-        "name": "Jon Huang",
-        "slug": "jon-huang"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Karen Yourish",
-        "slug": "karen-yourish"
-      },
-      {
-        "name": "Helmuth Rosales",
-        "slug": "helmuth-rosales"
-      }
-    ],
-    "description": "Explore a photo of world leaders who were at the funeral.",
-    "square_img": "https://static01.nyt.com/images/2025/04/26/multimedia/2025-04-25-pope-funeral-zoomer-index/2025-04-25-pope-funeral-zoomer-index-square320-v8.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/26/multimedia/2025-04-25-pope-funeral-zoomer-index/2025-04-25-pope-funeral-zoomer-index-facebookJumbo-v7.jpg",
     "medium": "NYT"
   }
 ]

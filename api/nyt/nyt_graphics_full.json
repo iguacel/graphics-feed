@@ -1,5 +1,25 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QzNTIyZDQ5LTRlNjEtNTNhNS1hYzBlLTUxZDZiZDMwYWM3NQ==",
+    "headline": "What Sonic Detectives Listen for When Rockets Launch",
+    "url": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
+    "label": "https://www.nytimes.com/science/",
+    "date": "2025-05-26T09:00:45.000Z",
+    "credits": [
+      {
+        "name": "Kenneth Chang",
+        "slug": "kenneth-chang"
+      },
+      {
+        "name": "Jonathan Corum",
+        "slug": "jonathan-corum"
+      }
+    ],
+    "description": "Physicists who record rocket launches and landings, most often by SpaceX, are learning important facts about the acoustics of spaceflight.",
+    "square_img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjgyM2JjZjktNjZhMS01NGU4LTg1YTgtMzAxYjM1ZmJkNmZj",
     "headline": "How Donald Trump Has Remade America’s Political Landscape",
     "url": "https://www.nytimes.com/interactive/2025/05/25/us/politics/trump-politics-democrats.html",

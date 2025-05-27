@@ -31,7 +31,7 @@
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QzNTIyZDQ5LTRlNjEtNTNhNS1hYzBlLTUxZDZiZDMwYWM3NQ==",
-    "headline": "What Sonic Detectives Listen for When Rockets Launch",
+    "headline": "Sonic Detectives Want to Help SpaceX Listen Up",
     "url": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
     "label": "https://www.nytimes.com/science/",
     "date": "2025-05-26T09:00:45.000Z",
@@ -45,7 +45,7 @@
         "slug": "jonathan-corum"
       }
     ],
-    "description": "Physicists who record rocket launches and landings, most often by SpaceX, are learning important facts about the acoustics of spaceflight.",
+    "description": "Physicists who record rocket launches and landings are learning important facts about the acoustics of spaceflight.",
     "square_img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-27-rocket-noise-embed-index/2025-05-27-rocket-noise-embed-index-facebookJumbo.jpg",
     "medium": "NYT"
@@ -1664,23 +1664,6 @@
     "description": "We analyzed import data to show where Americans may see product shortages, fewer choices and price increases.",
     "square_img": "https://static01.nyt.com/images/2025/04/23/multimedia/2025-04-14-china-us-tariffs-household-goods-index/2025-04-14-china-us-tariffs-household-goods-index-square320-v17.jpg",
     "img": "https://static01.nyt.com/images/2025/04/23/multimedia/2025-04-14-china-us-tariffs-household-goods-index/2025-04-14-china-us-tariffs-household-goods-index-facebookJumbo-v15.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzk3OTQ4MzcwLWM0ZDgtNWI0MC1hN2JiLTBkMTRlZTk1ZmY0ZA==",
-    "headline": "ICE Arrests Nearly 800 in Florida in Operation With Local Officers",
-    "url": "https://www.nytimes.com/2025/04/26/us/politics/ice-arrests-florida-immigrants.html",
-    "label": "https://www.nytimes.com/us/",
-    "date": "2025-04-26T23:56:59.000Z",
-    "credits": [
-      {
-        "name": "Hamed Aleaziz",
-        "slug": "hamed-aleaziz"
-      }
-    ],
-    "description": "The four-day operation came as the Trump administration has sought to enlist local authorities in an immigration crackdown.",
-    "square_img": "https://static01.nyt.com/images/2025/04/26/multimedia/26trump-news-ice-florida-arrests-hlkm/26trump-news-ice-florida-arrests-hlkm-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/26/multimedia/26trump-news-ice-florida-arrests-hlkm/26trump-news-ice-florida-arrests-hlkm-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

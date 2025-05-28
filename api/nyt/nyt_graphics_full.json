@@ -1,5 +1,25 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzFjYWM4OWYwLWY3NDMtNWUwMi1iYjliLTdkYzJlZjRkNjBkOQ==",
+    "headline": "Trade Crime Is Soaring, U.S. Firms Say, as Trump’s Tariffs Incentivize Fraud",
+    "url": "https://www.nytimes.com/2025/05/27/business/economy/trump-tariffs-trade-crime.html",
+    "label": "https://www.nytimes.com/business/",
+    "date": "2025-05-27T18:00:13.000Z",
+    "credits": [
+      {
+        "name": "Ana Swanson",
+        "slug": "ana-swanson"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "President Trump’s steep global tariffs have supercharged efforts to evade them. Some U.S. companies say the government is ill equipped to keep up.",
+    "square_img": "https://static01.nyt.com/images/2025/05/23/multimedia/00dc-trade-crimes-fmpj/00dc-trade-crimes-fmpj-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/23/multimedia/00dc-trade-crimes-fmpj/00dc-trade-crimes-fmpj-facebookJumbo.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QzNTIyZDQ5LTRlNjEtNTNhNS1hYzBlLTUxZDZiZDMwYWM3NQ==",
     "headline": "Sonic Detectives Want to Help SpaceX Listen Up",
     "url": "https://www.nytimes.com/2025/05/26/science/rocket-launch-noise.html",
@@ -25,7 +45,20 @@
     "url": "https://www.nytimes.com/interactive/2025/05/25/us/politics/trump-politics-democrats.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-05-25T09:01:19.000Z",
-    "credits": [],
+    "credits": [
+      {
+        "name": "Shane Goldmacher",
+        "slug": "shane-goldmacher"
+      },
+      {
+        "name": "June Kim",
+        "slug": "june-kim"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      }
+    ],
     "description": "The steady march to the right across a vast number of counties reveals the extent of the nation's transformation in the Trump era, and the seriousness of the Democrats' problems.",
     "square_img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-02-20-triple-shifts-index/2025-02-20-triple-shifts-index-square320-v3.png",
     "img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-02-20-triple-shifts-index/2025-02-20-triple-shifts-index-facebookJumbo-v3.png"

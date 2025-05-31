@@ -1,5 +1,35 @@
 [
   {
+    "id": "H37RDUGJA5DX3OHEO3HX2DRVYQ",
+    "headline": "The MAHA Report’s AI fingerprints, annotated",
+    "description": "The Post reviewed the more than 500 citations in the MAHA Report. Here are the patterns of AI use we found.",
+    "url": "https://www.washingtonpost.com/health/2025/05/30/maha-report-ai-white-house/",
+    "credits": [
+      {
+        "name": "Caitlin Gilbert",
+        "slug": "caitlin-gilbert"
+      },
+      {
+        "name": "Emily Wright",
+        "slug": "emily-wright"
+      },
+      {
+        "name": "Fenit Nirappil",
+        "slug": "fenit-nirappil"
+      },
+      {
+        "name": "Lauren Weber",
+        "slug": "lauren-weber"
+      }
+    ],
+    "date": "2025-05-31T00:30:33.523Z",
+    "img": "https://www.washingtonpost.com/resizer/qw6mblAP3KgxEUxlPJZXsRDsVjw=/300x0/arc-anglerfish-washpost-prod-washpost/public/LOINR5J5GRB2NO7DEMLYC6RF3I.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/health/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "ILWOLSD2JNCPFCXEUC5OEEYNSE",
     "headline": "White House MAHA Report may have garbled science by using AI, experts say",
     "description": "The report, led by Health and Human Services Secretary Robert F. Kennedy Jr., was intended to address the reasons for the decline in Americans’ life expectancy.",
@@ -1508,78 +1538,5 @@
       "url": "https://www.washingtonpost.com/entertainment/music/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "XL7U4GCW3BAMTIETHKEJSJ4BXM",
-    "headline": "Israel redraws Gaza map, limiting Palestinians to a third of the enclave",
-    "description": "Since breaking the ceasefire, Israeli forces have declared about 70 percent of Gaza either as a military “red zone” or under evacuation.",
-    "url": "https://www.washingtonpost.com/world/2025/05/01/israel-gaza-buffers-evacuation-orders/",
-    "credits": [
-      {
-        "name": "Miriam Berger",
-        "slug": "miriam-berger"
-      },
-      {
-        "name": "Júlia Ledur",
-        "slug": "julia-ledur"
-      }
-    ],
-    "date": "2025-05-01T06:00:49.488Z",
-    "img": "https://www.washingtonpost.com/resizer/0QTrJnWZ6FMFb8MI171Zfw8-Kjs=/300x0/arc-anglerfish-washpost-prod-washpost/public/3MFDFWLAFVHQFDZPKNQW4LB2ZM.gif",
-    "label": {
-      "url": "https://www.washingtonpost.com/world/middle-east/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "4Q27AD55INEGXADHNJBMDIEMG4",
-    "headline": "Here’s how GDP shows tariffs are starting to take a toll",
-    "description": "Few pieces of the first-quarter GDP report remained untouched by the Trump administration’s tariff policy.",
-    "url": "https://www.washingtonpost.com/business/2025/04/30/gdp-tariff-economy-consumer-spending/",
-    "credits": [
-      {
-        "name": "Rachel Lerman",
-        "slug": "rachel-lerman"
-      },
-      {
-        "name": "Alyssa Fowers",
-        "slug": "alyssa-fowers"
-      },
-      {
-        "name": "Abha Bhattarai",
-        "slug": "abha-bhattarai"
-      }
-    ],
-    "date": "2025-04-30T21:30:15.223Z",
-    "img": "https://www.washingtonpost.com/resizer/4BbarDVb5Dtn38jpyCU8EK4VdSI=/300x0/arc-anglerfish-washpost-prod-washpost/public/5OQQIYEZGFB3RDCVAS4SOBL4ZI.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/economy/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDgxMTIxZjItODEzNi01MTM5LWIxNjAtNjNiMTEyZDRmMmEz",
-    "headline": "Are Trump’s Actions Truly Unprecedented? We Asked 35 Historians.",
-    "url": "https://www.nytimes.com/interactive/2025/04/30/upshot/presidential-history-survey.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-04-30T17:44:46.000Z",
-    "credits": [
-      {
-        "name": "Francesca Paris",
-        "slug": "francesca-paris"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      },
-      {
-        "name": "Josh Katz",
-        "slug": "josh-katz"
-      }
-    ],
-    "description": "We categorized 22 of Mr. Trump’s actions, ranging from those that have no comparable historical example to those that do.",
-    "square_img": "https://static01.nyt.com/images/2025/04/29/multimedia/2025-03-28-presidential-history-survey-index/2025-03-28-presidential-history-survey-index-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/04/29/multimedia/2025-03-28-presidential-history-survey-index/2025-03-28-presidential-history-survey-index-facebookJumbo-v3.jpg",
-    "medium": "NYT"
   }
 ]

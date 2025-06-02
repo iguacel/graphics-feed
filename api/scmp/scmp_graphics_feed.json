@@ -1,5 +1,20 @@
 [
   {
+    "id": "CYDnHZ3f5q",
+    "headline": "Washed ashore",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3312243/marine-life-stranding/",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2025-06-02T00:00:00.000Z",
+    "description": "Discover what is taking a toll on dolphins, porpoises and whales in this special visual explainer.",
+    "credits": [
+      {
+        "name": "Davies Christian Surya",
+        "slug": "davies-christian-surya"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3312243/marine-life-stranding/img/cover.jpg"
+  },
+  {
     "id": "PmTeSGhHPC",
     "headline": "Pets on Hong Kong public transport: a visual guide on how the city is relaxing rules",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3310994/pet_on_mtr/index.html",

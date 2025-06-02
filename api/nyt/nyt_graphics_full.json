@@ -1,5 +1,21 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDljNzEyMDktNzIyNi01ZWI4LTg3YjEtNmM1YTExNTFjZGM4",
+    "headline": "10-Minute Challenge: A Surrealist Scene by Gertrude Abercrombie",
+    "url": "https://www.nytimes.com/interactive/2025/06/01/upshot/2025-05-22-ten-minute-challenge-abercrombie.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-01T23:52:16.000Z",
+    "credits": [
+      {
+        "name": "Larry Buchanan",
+        "slug": "larry-buchanan"
+      }
+    ],
+    "description": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
+    "square_img": "https://static01.nyt.com/images/2025/06/02/upshot/up-gertrude-full/up-gertrude-full-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/02/upshot/up-gertrude-full/up-gertrude-full-facebookJumbo.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzFjYWM4OWYwLWY3NDMtNWUwMi1iYjliLTdkYzJlZjRkNjBkOQ==",
     "headline": "Trade Crime Is Soaring, U.S. Firms Say, as Trump’s Tariffs Incentivize Fraud",
     "url": "https://www.nytimes.com/2025/05/27/business/economy/trump-tariffs-trade-crime.html",

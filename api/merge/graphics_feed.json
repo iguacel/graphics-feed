@@ -1,5 +1,34 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjFjZjcxNmUtOGFkNC01Yjk4LWI2NTEtNTIwZGE2NGIwYjQ5",
+    "headline": "Ukraine Hid Attack Drones in Russia. These Videos Show What Happened Next.",
+    "url": "https://www.nytimes.com/interactive/2025/06/02/world/europe/ukraine-russia-drone-attacks.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-03T01:05:47.846Z",
+    "credits": [
+      {
+        "name": "Devon Lum",
+        "slug": "devon-lum"
+      },
+      {
+        "name": "Zach Levitt",
+        "slug": "zach-levitt"
+      },
+      {
+        "name": "Christoph Koettl",
+        "slug": "christoph-koettl"
+      },
+      {
+        "name": "Dmitriy Khavin",
+        "slug": "dmitriy-khavin"
+      }
+    ],
+    "description": "Videos and satellite imagery show how the attack unfolded and its aftermath.",
+    "square_img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "CYDnHZ3f5q",
     "headline": "Washed ashore",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3312243/marine-life-stranding/",
@@ -18,7 +47,7 @@
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDljNzEyMDktNzIyNi01ZWI4LTg3YjEtNmM1YTExNTFjZGM4",
     "headline": "10-Minute Challenge: A Surrealist Scene by Gertrude Abercrombie",
-    "url": "https://www.nytimes.com/interactive/2025/06/01/upshot/2025-05-22-ten-minute-challenge-abercrombie.html",
+    "url": "https://www.nytimes.com/interactive/2025/06/01/upshot/ten-minute-challenge-abercrombie.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-01T23:52:16.000Z",
     "credits": [

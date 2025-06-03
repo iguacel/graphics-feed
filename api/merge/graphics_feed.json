@@ -1,5 +1,43 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDlkODAyZmEtYWJjZi01NzVjLTllZjQtOGI1MTc5ZjU5OGU4",
+    "headline": "Deportation Flights Reach Highest Level Under Trump So Far",
+    "url": "https://www.nytimes.com/interactive/2025/06/03/us/trump-deportation-flights-ice-may.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-03T14:47:52.000Z",
+    "credits": [
+      {
+        "name": "Albert Sun",
+        "slug": "albert-sun"
+      },
+      {
+        "name": "Brent McDonald",
+        "slug": "brent-mcdonald"
+      }
+    ],
+    "description": "The increasing pace of ICE removal flights suggests deportation numbers could continue to rise.",
+    "square_img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-06-02-deportations-accelerating-index/2025-06-02-deportations-accelerating-index-square320-v5.png",
+    "img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-06-02-deportations-accelerating-index/2025-06-02-deportations-accelerating-index-facebookJumbo-v5.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjI3YWEzMzQtODJiYy01OTM4LTg2MTgtZDMwNDMxZmU5MmM0",
+    "headline": "What Are N.Y.C.’s Mayoral Candidates Saying in TV Ads?",
+    "url": "https://www.nytimes.com/interactive/2025/06/03/nyregion/nyc-mayor-ads-candidates.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-03T09:02:16.000Z",
+    "credits": [
+      {
+        "name": "Keith Collins",
+        "slug": "keith-collins"
+      }
+    ],
+    "description": "The Times analyzed the messaging in broadcast spots, on which campaigns and outside groups have spent millions, to identify the major themes in the race.",
+    "square_img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-05-16-nyc-mayor-messaging-index/2025-05-16-nyc-mayor-messaging-index-square320-v4.png",
+    "img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-05-16-nyc-mayor-messaging-index/2025-05-16-nyc-mayor-messaging-index-facebookJumbo-v5.png",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjFjZjcxNmUtOGFkNC01Yjk4LWI2NTEtNTIwZGE2NGIwYjQ5",
     "headline": "Ukraine Hid Attack Drones in Russia. These Videos Show What Happened Next.",
     "url": "https://www.nytimes.com/interactive/2025/06/02/world/europe/ukraine-russia-drone-attacks.html",
@@ -24,8 +62,8 @@
       }
     ],
     "description": "Videos and satellite imagery show how the attack unfolded and its aftermath.",
-    "square_img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-facebookJumbo.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-facebookJumbo-v3.jpg",
     "medium": "NYT"
   },
   {
@@ -1391,56 +1429,6 @@
     "img": "https://www.washingtonpost.com/resizer/C1iB-gvzr4KNO91Fy3vzah4GubU=/300x0/arc-anglerfish-washpost-prod-washpost/public/IHLNWYWT6NXA7UGTXESIXVC3GY.jpg",
     "label": {
       "url": "https://www.washingtonpost.com/visual-forensics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SVOPCQDWLU6800",
-    "headline": "The Deep Budget Cuts Trump Seeks as His Second Term Takes Shape",
-    "url": "https://www.bloomberg.com/graphics/2025-trump-budget-proposal/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-05-03T12:00:26.062Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Jennah Haque",
-        "slug": "jennah-haque"
-      },
-      {
-        "name": "Mathieu Benhamou",
-        "slug": "mathieu-benhamou"
-      },
-      {
-        "name": "Dave Merrill",
-        "slug": "dave-merrill"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZpAoRytq.40/v0/-999x-999.gif",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "O6VPWK23EJDKFHLCWI2CMYHSZY",
-    "headline": "How Trump has reshaped U.S. foreign policy in his first 100 days",
-    "description": "Trump’s first 100 days have been marked by a reevaluation of traditional alliances and a reshaping of the global economic order.",
-    "url": "https://www.washingtonpost.com/world/interactive/2025/trump-first-100-days-foreign-policy/",
-    "credits": [
-      {
-        "name": "Maham Javaid",
-        "slug": "maham-javaid"
-      },
-      {
-        "name": "Artur Galocha",
-        "slug": "artur-galocha"
-      },
-      {
-        "name": "Álvaro Valiño",
-        "slug": "álvaro-valiño"
-      }
-    ],
-    "date": "2025-05-03T10:00:38.183Z",
-    "img": "https://www.washingtonpost.com/resizer/lPKVOTFRuZFrira3Nbaut4as7_I=/300x0/arc-anglerfish-washpost-prod-washpost/public/D4WIPJUPPVBIZAM7GDPG47SZKU.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/world/"
     },
     "medium": "WP"
   }

@@ -74,3 +74,10 @@ body.dark {
 	--icon-border-color: white;
 	--filter-medium: invert(1);
 }
+
+s {
+  text-decoration: line-through;
+  text-decoration-thickness: .5px;
+  text-decoration-color: currentColor;
+  text-decoration-skip-ink: auto; 
+}

@@ -22,10 +22,7 @@ function formatCredits(authors) {
  */
 function extractDateFromSlug(slug, existingDates = {}) {
     const match = slug.match(/^(\d{4})_(\d{2})/);
-    if (!match) {
-        // fallback a fecha muy antigua para evitar errores y dejarlo al final del merge
-        return "2000-01-01";
-    }
+    if (!match) return "2000-01-01"; // seguridad total
 
     const year = match[1];
     const month = match[2];
@@ -34,6 +31,16 @@ function extractDateFromSlug(slug, existingDates = {}) {
         return existingDates[slug];
     }
 
+    const now = new Date();
+    const currentYear = now.getFullYear().toString();
+    const currentMonth = String(now.getMonth() + 1).padStart(2, "0");
+
+    if (year === currentYear && month === currentMonth) {
+        // Artículo nuevo del mes actual → usa fecha de hoy
+        return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
+    }
+
+    // Artículo nuevo pero antiguo → ponle primer día del mes
     return `${year}-${month}-01`;
 }
 
@@ -86,7 +93,8 @@ async function fetchPuddingGraphics(existingDates) {
                 date: extractDateFromSlug(row.slug, existingDates),
                 keywords: row.keyword ? row.keyword.split(",").map(k => k.trim()) : [],
                 credits: row.author ? formatCredits(row.author) : [],
-                img: `https://pudding.cool/common/assets/thumbnails/screenshots/${row.slug}.jpg`
+                img: `https://pudding.cool/common/assets/thumbnails/screenshots/${row.slug}.jpg`,
+                medium: "Pudding",
             };
         });
     } catch (error) {

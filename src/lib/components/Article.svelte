@@ -3,6 +3,7 @@
 	import ArticleData from '$lib/components/ArticleData.svelte';
 
 	const { data, media } = $props();
+
 </script>
 
 <div class="content">

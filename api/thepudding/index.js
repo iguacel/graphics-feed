@@ -18,7 +18,7 @@ function formatCredits(authors) {
 
 /**
  * Extracts a date from the slug format (YYYY_MM_title).
- * Uses today's date for new articles, defaults to first day of the month.
+ * Defaults to first day of the month if new.
  */
 function extractDateFromSlug(slug, existingDates = {}) {
     const match = slug.match(/^(\d{4})_(\d{2})/);
@@ -32,9 +32,8 @@ function extractDateFromSlug(slug, existingDates = {}) {
         return existingDates[slug];
     }
 
-    // Otherwise, use today's date
-    const today = new Date();
-    return `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, "0")}-${String(today.getDate()).padStart(2, "0")}`;
+    // Otherwise, use first of the month
+    return `${year}-${month}-01`;
 }
 
 /**
@@ -59,10 +58,8 @@ async function fetchPuddingGraphics(existingDates) {
     console.log(chalk.blue("📡 Fetching The Pudding CSV data..."));
 
     try {
-        // Fetch CSV content
         const response = await axios.get(sourceUrl, { responseType: "text" });
 
-        // Parse CSV into JSON
         const records = parse(response.data, {
             columns: true,
             skip_empty_lines: true,
@@ -71,16 +68,26 @@ async function fetchPuddingGraphics(existingDates) {
 
         console.log(chalk.green(`✅ Fetched and parsed ${records.length} records.`));
 
-        return records.map(row => ({
-            id: row.slug || "No ID",
-            headline: row.hed || "Untitled",
-            description: row.dek || "No description available",
-            url: `https://pudding.cool/projects/${row.slug}/`,
-            date: extractDateFromSlug(row.slug, existingDates),
-            keywords: row.keyword ? row.keyword.split(",").map(k => k.trim()) : [],
-            credits: row.author ? formatCredits(row.author) : [],
-            img: `https://pudding.cool/common/assets/thumbnails/screenshots/${row.slug}.jpg`
-        }));
+        return records.map(row => {
+            // ✅ Build new URL structure from slug
+            let url = "https://pudding.cool/";
+            const match = row.slug.match(/^(\d{4})_(\d{2})_(.+)$/);
+            if (match) {
+                const [, year, month, articleSlug] = match;
+                url = `https://pudding.cool/${year}/${month}/${articleSlug}/`;
+            }
+
+            return {
+                id: row.slug || "No ID",
+                headline: row.hed || "Untitled",
+                description: row.dek || "No description available",
+                url,
+                date: extractDateFromSlug(row.slug, existingDates),
+                keywords: row.keyword ? row.keyword.split(",").map(k => k.trim()) : [],
+                credits: row.author ? formatCredits(row.author) : [],
+                img: `https://pudding.cool/common/assets/thumbnails/screenshots/${row.slug}.jpg`
+            };
+        });
     } catch (error) {
         console.error(chalk.red("❌ Error fetching CSV data:"), error);
         return [];
@@ -110,19 +117,27 @@ async function main() {
     const uniqueArticles = Array.from(new Set(allArticles.map(article => article.id)))
         .map(id => allArticles.find(article => article.id === id));
 
-    // Sort articles by publication date in descending order
-    uniqueArticles.sort((a, b) => new Date(b.date) - new Date(a.date));
+    // Sort articles by date (descending)
+    uniqueArticles.sort((a, b) => {
+        const dateA = new Date(a.date);
+        const dateB = new Date(b.date);
+        return isNaN(dateB - dateA) ? 0 : dateB - dateA;
+    });
 
     const finalJson = JSON.stringify(uniqueArticles, null, 2);
 
-    // Write to file only if new articles are added
-    if (uniqueArticles.length > existingArticles.length) {
-        fs.writeFileSync(outputFile, finalJson, "utf8");
-        console.log(chalk.green(`✅ File ${outputFile} updated successfully!`));
-    } else {
-        console.log(chalk.gray("📄 No new articles to update."));
+    // Write to file
+    try {
+        if (uniqueArticles.length > existingArticles.length) {
+            fs.writeFileSync(outputFile, finalJson, "utf8");
+            console.log(chalk.green(`✅ File ${outputFile} updated successfully!`));
+        } else {
+            console.log(chalk.gray("📄 No new articles to update."));
+        }
+    } catch (err) {
+        console.error(chalk.red(`❌ Failed to write output file: ${err.message}`));
     }
 }
 
-// Execute the main function
+// Run
 main();

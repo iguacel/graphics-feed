@@ -22,17 +22,18 @@ function formatCredits(authors) {
  */
 function extractDateFromSlug(slug, existingDates = {}) {
     const match = slug.match(/^(\d{4})_(\d{2})/);
-    if (!match) return "Unknown date";
+    if (!match) {
+        // fallback a fecha muy antigua para evitar errores y dejarlo al final del merge
+        return "2000-01-01";
+    }
 
     const year = match[1];
     const month = match[2];
 
-    // If article exists, keep its original date
     if (existingDates[slug]) {
         return existingDates[slug];
     }
 
-    // Otherwise, use first of the month
     return `${year}-${month}-01`;
 }
 

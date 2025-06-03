@@ -36,11 +36,14 @@ function filterLastMonth(data, medium) {
     oneMonthAgo.setMonth(oneMonthAgo.getMonth() - 1);
 
     return data
-        .map(entry => ({
-            ...entry,
-            medium, // Add source identifier
-            date: new Date(entry.date) // Convert to Date object for sorting
-        }))
+        .map(entry => {
+            const parsedDate = new Date(entry.date);
+            return {
+                ...entry,
+                medium,
+                date: isNaN(parsedDate) ? new Date('2000-01-01') : parsedDate
+            };
+        })
         .filter(entry => entry.date >= oneMonthAgo);
 }
 

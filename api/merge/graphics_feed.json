@@ -1,5 +1,54 @@
 [
   {
+    "id": "SXC493DWLU6800",
+    "headline": "Here's Where NYC Mayoral Candidates Stand on Key Issues",
+    "url": "https://www.bloomberg.com/graphics/2025-nyc-mayor-election-democratic-candidates-issues/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-06-04T14:00:39.290Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Jennah Haque",
+        "slug": "jennah-haque"
+      },
+      {
+        "name": "Laura Nahmias",
+        "slug": "laura-nahmias"
+      },
+      {
+        "name": "Elena Mejía",
+        "slug": "elena-mejía"
+      },
+      {
+        "name": "Rafael Garcia",
+        "slug": "rafael-garcia"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF_f3mUm3.hU/v1/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBiZjQyMjQtNDc1OC01MmY3LTgxNGItYzU1YjkyNjQ2ZmRk",
+    "headline": "An Illustrated Guide to Who Really Benefits From ‘No Tax on Tips’",
+    "url": "https://www.nytimes.com/interactive/2025/06/04/upshot/no-tax-on-tips.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-04T09:04:02.951Z",
+    "credits": [
+      {
+        "name": "Andrew Duehren",
+        "slug": "andrew-duehren"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      }
+    ],
+    "description": "The effect of the tax break is actually quite narrow.",
+    "square_img": "https://static01.nyt.com/images/2025/05/29/multimedia/2025-05-16-no-tax-on-tips-index/2025-05-16-no-tax-on-tips-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/29/multimedia/2025-05-16-no-tax-on-tips-index/2025-05-16-no-tax-on-tips-index-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2FjZGVlMjAtNDBmYi01M2NhLTg0MTUtMmRkNmExOWQyNGM2",
     "headline": "The Gutting of America’s Medical Research: Here Is Every Canceled or Delayed N.I.H. Grant",
     "url": "https://www.nytimes.com/interactive/2025/06/04/health/trump-cuts-nih-grants-research.html",
@@ -31,6 +80,28 @@
     "square_img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-03-21-canceled-science-grants-index/2025-03-21-canceled-science-grants-index-square320.png",
     "img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-03-21-canceled-science-grants-index/2025-03-21-canceled-science-grants-index-facebookJumbo.png",
     "medium": "NYT"
+  },
+  {
+    "id": "2U36TI45KVFIVGMLQOHA6B6PWY",
+    "headline": "These regions have poor air quality from Canadian wildfire smoke",
+    "description": "See where the flow of Canadian wildfire smoke has worsened the air quality in the U.S.",
+    "url": "https://www.washingtonpost.com/weather/2025/06/03/air-quality-canadian-wildfire-smoke-maps/",
+    "credits": [
+      {
+        "name": "Matthew Cappucci",
+        "slug": "matthew-cappucci"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      }
+    ],
+    "date": "2025-06-03T20:33:20.932Z",
+    "img": "https://www.washingtonpost.com/resizer/yT8CANLlmHRDVVyWZy_pFP_-ftw=/300x0/arc-anglerfish-washpost-prod-washpost/public/TRH3GEGCXABHALCK7R7V6OL5GE.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/"
+    },
+    "medium": "WP"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2UxYjA2ZDQwLWZhZjEtNWQ1OC1hZmIxLTY2YjVlMDEyNzZkMQ==",
@@ -1446,35 +1517,5 @@
     "square_img": "https://static01.nyt.com/images/2025/04/18/upshot/up-10-minute-challenge-starry-night/up-10-minute-challenge-starry-night-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/04/18/upshot/up-10-minute-challenge-starry-night/up-10-minute-challenge-starry-night-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "KUWH4IXEUVH4DKSNMRZLF6JWFA",
-    "headline": "Dozens killed in U.S. strike on purported detention center in Yemen, visuals show",
-    "description": "The compound includes a migrant detention center and has at times served military functions, according to U.N. and human rights researchers.",
-    "url": "https://www.washingtonpost.com/investigations/2025/05/04/us-yemen-strike-migrant-detention/",
-    "credits": [
-      {
-        "name": "Alex Horton",
-        "slug": "alex-horton"
-      },
-      {
-        "name": "Imogen Piper",
-        "slug": "imogen-piper"
-      },
-      {
-        "name": "Cate Brown",
-        "slug": "cate-brown"
-      },
-      {
-        "name": "Evan Hill",
-        "slug": "evan-hill"
-      }
-    ],
-    "date": "2025-05-04T09:00:38.441Z",
-    "img": "https://www.washingtonpost.com/resizer/C1iB-gvzr4KNO91Fy3vzah4GubU=/300x0/arc-anglerfish-washpost-prod-washpost/public/IHLNWYWT6NXA7UGTXESIXVC3GY.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/visual-forensics/"
-    },
-    "medium": "WP"
   }
 ]

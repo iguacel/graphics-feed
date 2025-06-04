@@ -1,5 +1,50 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2FjZGVlMjAtNDBmYi01M2NhLTg0MTUtMmRkNmExOWQyNGM2",
+    "headline": "The Gutting of America’s Medical Research: Here Is Every Canceled or Delayed N.I.H. Grant",
+    "url": "https://www.nytimes.com/interactive/2025/06/04/health/trump-cuts-nih-grants-research.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-04T04:33:48.000Z",
+    "credits": [
+      {
+        "name": "Irena Hwang",
+        "slug": "irena-hwang"
+      },
+      {
+        "name": "Jon Huang",
+        "slug": "jon-huang"
+      },
+      {
+        "name": "Emily Anthes",
+        "slug": "emily-anthes"
+      },
+      {
+        "name": "Blacki Migliozzi",
+        "slug": "blacki-migliozzi"
+      },
+      {
+        "name": "Benjamin Mueller",
+        "slug": "benjamin-mueller"
+      }
+    ],
+    "description": "Some cuts have been starkly visible, but the country’s medical grant-making machinery has also radically transformed outside the public eye.",
+    "square_img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-03-21-canceled-science-grants-index/2025-03-21-canceled-science-grants-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-03-21-canceled-science-grants-index/2025-03-21-canceled-science-grants-index-facebookJumbo.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2UxYjA2ZDQwLWZhZjEtNWQ1OC1hZmIxLTY2YjVlMDEyNzZkMQ==",
+    "headline": "Deportation flights accelerate, reaching a high under Trump.",
+    "url": "https://www.nytimes.com/2025/06/03/us/politics/deportation-flights-accelerate-reaching-a-high-under-trump.html",
+    "label": "https://www.nytimes.com/us/",
+    "date": "2025-06-03T15:27:41.000Z",
+    "credits": [],
+    "description": "No description available",
+    "square_img": null,
+    "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDlkODAyZmEtYWJjZi01NzVjLTllZjQtOGI1MTc5ZjU5OGU4",
     "headline": "Deportation Flights Reach Highest Level Under Trump So Far",
     "url": "https://www.nytimes.com/interactive/2025/06/03/us/trump-deportation-flights-ice-may.html",
@@ -16,8 +61,8 @@
       }
     ],
     "description": "The increasing pace of ICE removal flights suggests deportation numbers could continue to rise.",
-    "square_img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-06-02-deportations-accelerating-index/2025-06-02-deportations-accelerating-index-square320-v5.png",
-    "img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-06-02-deportations-accelerating-index/2025-06-02-deportations-accelerating-index-facebookJumbo-v5.png",
+    "square_img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-06-02-deportations-accelerating-index/2025-06-02-deportations-accelerating-index-square320-v8.png",
+    "img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-06-02-deportations-accelerating-index/2025-06-02-deportations-accelerating-index-facebookJumbo-v9.png",
     "medium": "NYT"
   },
   {

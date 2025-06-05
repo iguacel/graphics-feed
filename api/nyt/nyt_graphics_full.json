@@ -1,10 +1,30 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjllNzNiYmYtNGNlYi01MjQxLTk5ZWMtMmE3NTQ1MGY1ZmEx",
+    "headline": "See the Countries Under Trump’s New Travel Ban",
+    "url": "https://www.nytimes.com/interactive/2025/06/04/us/politics/trump-travel-ban-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-05T01:40:38.000Z",
+    "credits": [
+      {
+        "name": "Allison McCann",
+        "slug": "allison-mccann"
+      },
+      {
+        "name": "Pablo Robles",
+        "slug": "pablo-robles"
+      }
+    ],
+    "description": "Restrictions on travel will affect people from more than a dozen countries worldwide.",
+    "square_img": "https://static01.nyt.com/images/2025/06/04/multimedia/2025-03-17-travel-ban-visas-index/2025-03-17-travel-ban-visas-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/06/04/multimedia/2025-03-17-travel-ban-visas-index/2025-03-17-travel-ban-visas-index-facebookJumbo-v3.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBiZjQyMjQtNDc1OC01MmY3LTgxNGItYzU1YjkyNjQ2ZmRk",
     "headline": "An Illustrated Guide to Who Really Benefits From ‘No Tax on Tips’",
     "url": "https://www.nytimes.com/interactive/2025/06/04/upshot/no-tax-on-tips.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-04T09:04:02.951Z",
+    "date": "2025-06-04T09:04:03.000Z",
     "credits": [
       {
         "name": "Andrew Duehren",
@@ -230,9 +250,9 @@
         "slug": "emily-badger"
       }
     ],
-    "description": "We highlighted the substantive changes made by House Republicans to secure the support of several holdout members.",
-    "square_img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-21-bbb-tables-index/2025-05-21-bbb-tables-index-square320-v5.png",
-    "img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-21-bbb-tables-index/2025-05-21-bbb-tables-index-facebookJumbo-v5.png"
+    "description": "In hundreds of provisions across taxes, spending and more, the G.O.P. megabill would preserve lower tax rates for most Americans, increase federal debt by nearly $3 trillion and make large cuts to Medicaid and other federal programs.",
+    "square_img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-21-bbb-tables-index/2025-05-21-bbb-tables-index-square320-v6.png",
+    "img": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-21-bbb-tables-index/2025-05-21-bbb-tables-index-facebookJumbo-v6.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGUyZTlhNmItZDFiNC01NWY1LTllMzYtNmZmMWNjMTljMjg5",

@@ -1,5 +1,44 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzMzZWI5NDgtZDY1Yy01YzZlLWFjOWUtMjkyZTI4NjI0ZmE0",
+    "headline": "The Age Issue: More of Congress Is 70-Plus Than Ever Before",
+    "url": "https://www.nytimes.com/interactive/2025/06/05/us/politics/congress-age.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-05T09:05:26.727Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "At the highest level, the U.S. government looks like a gerontocracy, with average ages around 60 in both the House and the Senate.",
+    "square_img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-05-28-age-of-congress-index/2025-05-28-age-of-congress-index-square320-v6.png",
+    "img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-05-28-age-of-congress-index/2025-05-28-age-of-congress-index-facebookJumbo-v6.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "SBTJTRDBSFEXVP3PSCFC7STMBU",
+    "headline": "See the 19 countries Trump’s travel ban affects",
+    "description": "Mapping all the countries from which President Donald Trump’s executive order would restrict travel to the United States.",
+    "url": "https://www.washingtonpost.com/immigration/2025/06/05/trump-travel-ban-countries-map/",
+    "credits": [
+      {
+        "name": "N. Kirkpatrick",
+        "slug": "nick-kirkpatrick"
+      },
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      }
+    ],
+    "date": "2025-06-05T09:00:41.723Z",
+    "img": "https://www.washingtonpost.com/resizer/D2C2_8z1vzF-ZZRjAQjGrdm9fKc=/300x0/arc-anglerfish-washpost-prod-washpost/public/2Q6UDOEDH5HK7CGN2PNTFO5VBE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/local/immigration/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjllNzNiYmYtNGNlYi01MjQxLTk5ZWMtMmE3NTQ1MGY1ZmEx",
     "headline": "See the Countries Under Trump’s New Travel Ban",
     "url": "https://www.nytimes.com/interactive/2025/06/04/us/politics/trump-travel-ban-map.html",
@@ -19,6 +58,34 @@
     "square_img": "https://static01.nyt.com/images/2025/06/04/multimedia/2025-03-17-travel-ban-visas-index/2025-03-17-travel-ban-visas-index-square320-v3.png",
     "img": "https://static01.nyt.com/images/2025/06/04/multimedia/2025-03-17-travel-ban-visas-index/2025-03-17-travel-ban-visas-index-facebookJumbo-v3.png",
     "medium": "NYT"
+  },
+  {
+    "id": "2025_06_loneliness",
+    "headline": "The Loneliness Epidemic, in Data",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/06/loneliness/",
+    "date": "2025-06-05T00:00:00.000Z",
+    "keywords": [
+      "survey",
+      "time",
+      "spent",
+      "american",
+      "day",
+      "spend",
+      "people"
+    ],
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_06_loneliness.jpg",
+    "medium": "Pudding"
   },
   {
     "id": "SXC493DWLU6800",
@@ -1499,27 +1566,6 @@
     "description": "Francis appointed most of the cardinals. But they may not choose another pope like him.",
     "square_img": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-02-26-cardinals-index/2025-02-26-cardinals-index-square320.png",
     "img": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-02-26-cardinals-index/2025-02-26-cardinals-index-facebookJumbo.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGQ3MjI4MzAtNjllNS01Yzc2LWJhMzItNjJkN2NlY2Y2YzYw",
-    "headline": "Inside Starbase, Elon Musk’s New City",
-    "url": "https://www.nytimes.com/interactive/2025/05/05/us/elon-musk-starbase-texas.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-05-05T09:02:18.000Z",
-    "credits": [
-      {
-        "name": "Junho Lee",
-        "slug": "junho-lee"
-      },
-      {
-        "name": "J. David Goodman",
-        "slug": "j-david-goodman"
-      }
-    ],
-    "description": "On Saturday, local residents who mostly work for Elon Musk’s rocket company voted to create an official city for themselves: Starbase, Texas.",
-    "square_img": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-04-25-starbase-city-explainer-index/2025-04-25-starbase-city-explainer-index-square320-v4.jpg",
-    "img": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-04-25-starbase-city-explainer-index/2025-04-25-starbase-city-explainer-index-facebookJumbo-v4.jpg",
     "medium": "NYT"
   }
 ]

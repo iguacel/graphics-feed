@@ -1,5 +1,33 @@
 [
   {
+    "id": "2025_06_loneliness",
+    "headline": "The Loneliness Epidemic, in Data",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/06/loneliness/",
+    "date": "2025-06-05",
+    "keywords": [
+      "survey",
+      "time",
+      "spent",
+      "american",
+      "day",
+      "spend",
+      "people"
+    ],
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_06_loneliness.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2025_05_aapi-casting",
     "headline": "Asian Misrepresentation",
     "description": "No description available",

@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzM1MzM1NzAtOGY1Mi01NTVkLWI4ODgtYWU1Y2NmNzM4YTJh",
+    "headline": "Read the Insults Hurled Between Trump and Musk",
+    "url": "https://www.nytimes.com/interactive/2025/06/05/us/politics/elon-musk-trump-feud-timeline-posts.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-06T02:56:12.000Z",
+    "credits": [
+      {
+        "name": "Sarah Frostenson",
+        "slug": "sarah-frostenson"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "A bitter online feud kicked off between the once-close allies on Thursday. Here are some of their pointed exchanges that played out throughout the day.",
+    "square_img": "https://static01.nyt.com/images/2025/06/05/multimedia/2025-06-05-trump-musk-feud-index/2025-06-05-trump-musk-feud-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/05/multimedia/2025-06-05-trump-musk-feud-index/2025-06-05-trump-musk-feud-index-facebookJumbo-v4.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzMzZWI5NDgtZDY1Yy01YzZlLWFjOWUtMjkyZTI4NjI0ZmE0",
     "headline": "The Age Issue: More of Congress Is 70-Plus Than Ever Before",
     "url": "https://www.nytimes.com/interactive/2025/06/05/us/politics/congress-age.html",

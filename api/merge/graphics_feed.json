@@ -1472,55 +1472,5 @@
     "square_img": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-westbank-israel-vbgz/08int-westbank-israel-vbgz-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-westbank-israel-vbgz/08int-westbank-israel-vbgz-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SVVVP1DWX2PS00",
-    "headline": "Top Trump Crypto Buyers Vying for Dinner Seats Are Likely Foreign, Data Shows",
-    "url": "https://www.bloomberg.com/graphics/2025-trump-memecoin-foreign-crypto-traders/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-05-07T09:00:37.324Z",
-    "description": "The majority of top holders of Donald Trump’s memecoin have used foreign exchanges that say they ban US users, suggesting many purchasers are based abroad",
-    "credits": [
-      {
-        "name": "Leonardo Nicoletti",
-        "slug": "leonardo-nicoletti"
-      },
-      {
-        "name": "Anthony Cormier",
-        "slug": "anthony-cormier"
-      },
-      {
-        "name": "David Kocieniewski",
-        "slug": "david-kocieniewski"
-      },
-      {
-        "name": "Chloe Whiteaker",
-        "slug": "chloe-whiteaker"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqxeysKQ1oLo/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "S4YLZV7SWFDC3BHFN22VDBQSNE",
-    "headline": "Is there a new pope?",
-    "description": "Cardinals of the Catholic Church are gathering in the Sistine Chapel to elect a new pope. Here’s what the smoke signals indicate so far.",
-    "url": "https://www.washingtonpost.com/religion/interactive/2025/conclave-live-voting-results-new-pope/",
-    "credits": [
-      {
-        "name": "Chris Alcantara",
-        "slug": "chris-alcantara"
-      },
-      {
-        "name": "Amaya Verde",
-        "slug": "amaya-verde"
-      }
-    ],
-    "date": "2025-05-07T09:00:07.223Z",
-    "img": "https://www.washingtonpost.com/resizer/VOQRRHFPvPZ5-iybJ5WtFDQyeos=/300x0/arc-anglerfish-washpost-prod-washpost/public/2WCPQD7ZKBF7HGAR4PJUN2PPE4.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/religion/"
-    },
-    "medium": "WP"
   }
 ]

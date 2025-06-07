@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjc1Y2QyOGMtZjJhZC01MTc5LThiMTgtNzRlYTFjNTNjOTZk",
+    "headline": "First, Snubs. Then Flattery. Now Trump and Musk Are at War.",
+    "url": "https://www.nytimes.com/interactive/2025/06/06/us/politics/trump-elon-musk-relationship.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-06T17:02:11.000Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Eli Murray",
+        "slug": "eli-murray"
+      }
+    ],
+    "description": "A timeline of the praises and insults that President Trump and Elon Musk have lobbed at each other shows how their volatile clash was years in the making.",
+    "square_img": "https://static01.nyt.com/images/2025/06/06/multimedia/2025-06-05-posts-musk-trump-index/2025-06-05-posts-musk-trump-index-square320-v8.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/06/multimedia/2025-06-05-posts-musk-trump-index/2025-06-05-posts-musk-trump-index-facebookJumbo-v8.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzM1MzM1NzAtOGY1Mi01NTVkLWI4ODgtYWU1Y2NmNzM4YTJh",
     "headline": "Read the Insults Hurled Between Trump and Musk",
     "url": "https://www.nytimes.com/interactive/2025/06/05/us/politics/elon-musk-trump-feud-timeline-posts.html",

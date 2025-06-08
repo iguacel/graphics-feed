@@ -1,5 +1,27 @@
 [
   {
+    "id": "POG4DH726VAJFGF4TD34226PDA",
+    "headline": "A powerful, opaque al-Qaeda affiliate is rampaging across West Africa ",
+    "description": "With up to 6,000 fighters, JNIM is now the most well-armed militant force in the Sahel — and among the most powerful in the world, officials and experts say.",
+    "url": "https://www.washingtonpost.com/world/2025/06/08/jnim-militants-west-africa-sahel-terrorism/",
+    "credits": [
+      {
+        "name": "Rachel Chason",
+        "slug": "rachel-chason"
+      },
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      }
+    ],
+    "date": "2025-06-08T10:00:14.905Z",
+    "img": "https://d1i4t8bqe7zgj6.cloudfront.net/06-04-2025/t_6365ac02c3724031b11c8a06cb369c49_name_2___1920x1080___24p_00_00_10_18_Still008.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/africa/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjc1Y2QyOGMtZjJhZC01MTc5LThiMTgtNzRlYTFjNTNjOTZk",
     "headline": "First, Snubs. Then Flattery. Now Trump and Musk Are at War.",
     "url": "https://www.nytimes.com/interactive/2025/06/06/us/politics/trump-elon-musk-relationship.html",
@@ -1334,97 +1356,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilMUKYVQMqmc/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "UWZIXUX3TZHRZP46W5EI5TUTR4",
-    "headline": "What’s in a name? The meaning and history behind choosing a papal name.",
-    "description": "When the conclave is over and cardinals choose a pope, the new pontiff will be introduced by his papal name. Popular names include John, Gregory and Benedict.",
-    "url": "https://www.washingtonpost.com/religion/2025/05/08/pope-name-conclave-meaning/",
-    "credits": [
-      {
-        "name": "Kelsey Ables",
-        "slug": "kelsey-ables"
-      },
-      {
-        "name": "Vivian Ho",
-        "slug": "vivian-ho"
-      },
-      {
-        "name": "Amaya Verde",
-        "slug": "amaya-verde"
-      }
-    ],
-    "date": "2025-05-08T13:26:10.793Z",
-    "img": "https://www.washingtonpost.com/resizer/sxP_k3c65HjNl6T69Zduq0Ofwjo=/300x0/arc-anglerfish-washpost-prod-washpost/public/5TPGQPKDQUBV244MTZTW2BBYR4.JPG",
-    "label": {
-      "url": "https://www.washingtonpost.com/religion/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SVXRQST1UM0X00",
-    "headline": "Trump Has Been Stopped By Courts More Than 200 Times",
-    "url": "https://www.bloomberg.com/graphics/2025-lawsuits-against-trump-administration/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-05-08T09:30:28.563Z",
-    "description": "Hundreds of court battles challenging Donald Trump's executive actions are a stress test on the balance of power at the heart of American democracy.",
-    "credits": [
-      {
-        "name": "Zoe Tillman",
-        "slug": "zoe-tillman"
-      },
-      {
-        "name": "Christopher Cannon",
-        "slug": "christopher-cannon"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOX7zxkkAsr0/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "SVXQCSDWLU6800",
-    "headline": "AI Is Draining Water From the Areas That Need It Most",
-    "url": "https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-05-08T09:00:28.100Z",
-    "description": "More than 160 new AI data centers have been built across the US in the past three years in regions already grappling with scarce water resources, a Bloomberg News analysis finds.",
-    "credits": [
-      {
-        "name": "Leonardo Nicoletti",
-        "slug": "leonardo-nicoletti"
-      },
-      {
-        "name": "Michelle Ma",
-        "slug": "michelle-ma"
-      },
-      {
-        "name": "Dina Bass",
-        "slug": "dina-bass"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuOPsLhTsqgA/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "QKFQ32HW45CLDMCPN7IA5EVWVQ",
-    "headline": "Land under the country’s largest cities is sinking. Here’s where — and why.",
-    "description": "The movement is slow — sinking on the scale of millimeters per year in the United States — but the effects accumulate over years.",
-    "url": "https://www.washingtonpost.com/climate-environment/2025/05/08/sinking-land-cities-inland-infrastructure-damage/",
-    "credits": [
-      {
-        "name": "Kasha Patel",
-        "slug": "kasha-patel"
-      },
-      {
-        "name": "Naema Ahmed",
-        "slug": "naema-ahmed"
-      }
-    ],
-    "date": "2025-05-08T09:00:00.106Z",
-    "img": "https://www.washingtonpost.com/resizer/2AyfTT_Nl-IlhkTa7wKy0GFkhI8=/300x0/arc-anglerfish-washpost-prod-washpost/public/HBJDW2GU3JF3BKRMF2W2GLB2YY.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/climate-environment/environment/"
-    },
-    "medium": "WP"
   }
 ]

@@ -1426,51 +1426,5 @@
       "url": "https://www.washingtonpost.com/climate-environment/environment/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzQyMjVlYTI3LTdkODAtNWU5Yi04MjI1LTIwMGIwZmYyZTY0MQ==",
-    "headline": "How Long Will the Conclave Take?",
-    "url": "https://www.nytimes.com/2025/05/08/world/europe/pope-conclave-how-long.html",
-    "label": "https://www.nytimes.com/world/",
-    "date": "2025-05-08T05:29:01.000Z",
-    "credits": [
-      {
-        "name": "Emma Bubola",
-        "slug": "emma-bubola"
-      },
-      {
-        "name": "Josh Holder",
-        "slug": "josh-holder"
-      }
-    ],
-    "description": "There is no formal time limit for cardinals to elect a pope. Past papal selections have lasted from a few hours to three years.",
-    "square_img": "https://static01.nyt.com/images/2025/05/07/world/conclave-length-promo/conclave-length-promo-square320.png",
-    "img": "https://static01.nyt.com/images/2025/05/07/world/conclave-length-promo/conclave-length-promo-facebookJumbo.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IwNWNkNzczLTZhN2ItNWI3ZC1iMzA4LTdmMWQ3YThlMmVkOA==",
-    "headline": "The Huge, Under-the-Radar Shift Happening in the West Bank",
-    "url": "https://www.nytimes.com/2025/05/08/world/middleeast/israel-west-bank-palestinians-fear-annexation.html",
-    "label": "https://www.nytimes.com/world/",
-    "date": "2025-05-08T04:01:12.000Z",
-    "credits": [
-      {
-        "name": "Adam Rasgon",
-        "slug": "adam-rasgon"
-      },
-      {
-        "name": "Fatima AbdulKarim",
-        "slug": "fatima-abdulkarim"
-      },
-      {
-        "name": "Afif Amireh",
-        "slug": "afif-amireh"
-      }
-    ],
-    "description": "Over the past few months, an Israeli military operation has displaced tens of thousands of Palestinians in West Bank cities. Some Palestinians fear it may be laying the ground to annex the territory.",
-    "square_img": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-westbank-israel-vbgz/08int-westbank-israel-vbgz-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-westbank-israel-vbgz/08int-westbank-israel-vbgz-facebookJumbo.jpg",
-    "medium": "NYT"
   }
 ]

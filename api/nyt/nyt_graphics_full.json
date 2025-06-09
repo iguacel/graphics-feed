@@ -1,5 +1,29 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDc5ZWQ5MjUtOTFhOC01OWYxLWJjZTctNjI3ZjM1ZDU1MWM2",
+    "headline": "Timeline and Maps of the L.A. Immigration Protests and the Federal Response",
+    "url": "https://www.nytimes.com/interactive/2025/06/08/us/la-immigration-protests-photos-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-08T17:49:28.000Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "President Trump called in the National Guard on Saturday after isolated clashes between federal law enforcement and people protesting immigration raids.",
+    "square_img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjc1Y2QyOGMtZjJhZC01MTc5LThiMTgtNzRlYTFjNTNjOTZk",
     "headline": "First, Snubs. Then Flattery. Now Trump and Musk Are at War.",
     "url": "https://www.nytimes.com/interactive/2025/06/06/us/politics/trump-elon-musk-relationship.html",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDc5ZWQ5MjUtOTFhOC01OWYxLWJjZTctNjI3ZjM1ZDU1MWM2",
+    "headline": "Timeline and Maps of the L.A. Immigration Protests and the Federal Response",
+    "url": "https://www.nytimes.com/interactive/2025/06/08/us/la-immigration-protests-photos-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-08T17:49:28.000Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "President Trump called in the National Guard on Saturday after isolated clashes between federal law enforcement and people protesting immigration raids.",
+    "square_img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "POG4DH726VAJFGF4TD34226PDA",
     "headline": "A powerful, opaque al-Qaeda affiliate is rampaging across West Africa ",
     "description": "With up to 6,000 fighters, JNIM is now the most well-armed militant force in the Sahel — and among the most powerful in the world, officials and experts say.",
@@ -1303,58 +1328,5 @@
     "square_img": "https://static01.nyt.com/images/2025/05/08/multimedia/00up-mjohnson1-zcfl/00up-mjohnson1-zcfl-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/05/08/multimedia/00up-mjohnson1-zcfl/00up-mjohnson1-zcfl-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTg5NDNlNzQtYzhlNi01NTIyLTkxZWEtY2NmNWEzNDI3NzUy",
-    "headline": "See How a Communications Outage Affected Flights at Newark Airport",
-    "url": "https://www.nytimes.com/interactive/2025/05/08/nyregion/newark-airport-delays.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-05-09T02:30:48.000Z",
-    "credits": [
-      {
-        "name": "Daniel Wood",
-        "slug": "daniel-wood"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Zach Levitt",
-        "slug": "zach-levitt"
-      }
-    ],
-    "description": "The effects of an interruption in radio and radar service could be seen almost immediately, as planes circled in holding patterns. They are still being felt in cancellations and major delays days later.",
-    "square_img": "https://static01.nyt.com/images/2025/05/08/multimedia/2025-05-07-newark-outage-delays-index/2025-05-07-newark-outage-delays-index-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/05/08/multimedia/2025-05-07-newark-outage-delays-index/2025-05-07-newark-outage-delays-index-facebookJumbo-v4.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SVYNOTT0G1KW00",
-    "headline": "Silicon Valley Is Coming for the Pentagon’s $1 Trillion Budget",
-    "url": "https://www.bloomberg.com/graphics/2025-silicon-valley-targets-pentagon-budget/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-05-08T21:00:29.089Z",
-    "description": "The Trump administration wants startups to remake the US military, setting the stage for a battle over the world’s biggest defense budget.",
-    "credits": [
-      {
-        "name": "Lizette Chapman",
-        "slug": "lizette-chapman"
-      },
-      {
-        "name": "Julia Janicki",
-        "slug": "julia-janicki"
-      },
-      {
-        "name": "Tom Fevrier",
-        "slug": "tom-fevrier"
-      },
-      {
-        "name": "Allyson Versprille",
-        "slug": "allyson-versprille"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilMUKYVQMqmc/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

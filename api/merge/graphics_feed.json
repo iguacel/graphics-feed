@@ -1,5 +1,43 @@
 [
   {
+    "id": "ZDIIVETXCJDTNKJZMUG7IQURDA",
+    "headline": "How clashes at the L.A. protests escalated to tear gas, impact rounds",
+    "description": "Videos and photos show how L.A.’s protests unfolded Sunday when the National Guard arrived. ",
+    "url": "https://www.washingtonpost.com/investigations/interactive/2025/video-photos-la-protests-national-guard/",
+    "credits": [
+      {
+        "name": "Annabelle Timsit",
+        "slug": "annabelle-timsit"
+      },
+      {
+        "name": "Jarrett Ley",
+        "slug": "jarrett-ley"
+      },
+      {
+        "name": "Joyce Lee",
+        "slug": "joyce-lee"
+      },
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      },
+      {
+        "name": "Peter Stevenson",
+        "slug": "peter-w-stevenson"
+      },
+      {
+        "name": "Christine Nguyen",
+        "slug": "christine-t-nguyen"
+      }
+    ],
+    "date": "2025-06-09T15:54:26.412Z",
+    "img": "https://www.washingtonpost.com/resizer/WOvQcjjMLiUo3XiGUfSnJhvm3Lw=/300x0/arc-anglerfish-washpost-prod-washpost/public/LHYXFYDZDDA3SD2JHF262Q5EMU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/visual-forensics/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "P42NBJWYIVF4TCCE5AZQNSXCXQ",
     "headline": "Four races to watch as Democrats fight to retake the Senate",
     "description": "Senate Minority Leader Charles E. Schumer says his party can retake the Senate in next year’s midterm elections — but Democrats face daunting odds.",
@@ -61,7 +99,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDc5ZWQ5MjUtOTFhOC01OWYxLWJjZTctNjI3ZjM1ZDU1MWM2",
-    "headline": "Timeline and Maps of the L.A. Immigration Protests and the Federal Response",
+    "headline": "Maps and Timeline of the L.A. Immigration Protests and the Federal Response",
     "url": "https://www.nytimes.com/interactive/2025/06/08/us/la-immigration-protests-photos-map.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-08T17:49:28.000Z",
@@ -80,8 +118,8 @@
       }
     ],
     "description": "President Trump called in the National Guard on Saturday after isolated clashes between federal law enforcement and people protesting immigration raids.",
-    "square_img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-facebookJumbo.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-facebookJumbo-v4.jpg",
     "medium": "NYT"
   },
   {
@@ -1329,36 +1367,6 @@
     ],
     "date": "2025-05-10T09:00:18.687Z",
     "img": "https://www.washingtonpost.com/resizer/h58nmHnl36_QEkJnijzRBb0fReg=/300x0/arc-anglerfish-washpost-prod-washpost/public/INTOOTWJQNE4BH66DPQ7ZMHPSU.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/world/asia-pacific/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "CLR7CYKEGZED7O444ISYAM5BNU",
-    "headline": "At least two Indian jets appear to have crashed during Pakistan strikes, visuals show",
-    "description": "In a review of visuals posted online, The Post verified debris consistent with at least two French-made fighter jets flown by the Indian air force.",
-    "url": "https://www.washingtonpost.com/world/2025/05/09/fighter-jets-india-pakistan-attack/",
-    "credits": [
-      {
-        "name": "Imogen Piper",
-        "slug": "imogen-piper"
-      },
-      {
-        "name": "Jarrett Ley",
-        "slug": "jarrett-ley"
-      },
-      {
-        "name": "Evan Hill",
-        "slug": "evan-hill"
-      },
-      {
-        "name": "Maham Javaid",
-        "slug": "maham-javaid"
-      }
-    ],
-    "date": "2025-05-09T19:42:49.030Z",
-    "img": "https://www.washingtonpost.com/resizer/4fy2PDlFh1I0ozttsMZyAm3TgMc=/300x0/arc-anglerfish-washpost-prod-washpost/public/ZU62DWWB25CN7CV43DVUQ6FXOM.png",
     "label": {
       "url": "https://www.washingtonpost.com/world/asia-pacific/"
     },

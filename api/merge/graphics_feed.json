@@ -1,5 +1,54 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBiNTU0NTEtYzg3MC01NjFkLWJhMDAtZDY1YWI5OThiYjg2",
+    "headline": "Detention and Deportation As Seen Through a Family Group Chat",
+    "url": "https://www.nytimes.com/interactive/2025/06/10/us/politics/trump-immigrant-family-deportation-journey.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-11T00:31:00.000Z",
+    "credits": [
+      {
+        "name": "Allison McCann",
+        "slug": "allison-mccann"
+      }
+    ],
+    "description": "A Venezuelan man’s criminal past made him a target of immigration agents. His family was determined to stay in touch.",
+    "square_img": "https://static01.nyt.com/images/2025/05/22/multimedia/00-carlos-deportation-cmgj/00-carlos-deportation-cmgj-square320-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/22/multimedia/00-carlos-deportation-cmgj/00-carlos-deportation-cmgj-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "YNyslAJlQv",
+    "headline": "How China’s rare earth leadership can impact US defense procurement",
+    "url": "https://multimedia.scmp.com/infographics/news/china/article/3313870/critical-minerals-leadership/index.html",
+    "label": "https://www.scmp.com/china/",
+    "date": "2025-06-11T00:00:00.000Z",
+    "description": "From F-35 fighters to Virginia-class submarines, how the US military power depends on China’s rare earths.",
+    "credits": [
+      {
+        "name": "Marcelo Duhalde",
+        "slug": "marcelo-duhalde"
+      },
+      {
+        "name": "Joe Lo",
+        "slug": "joe-lo"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/china/article/3313870/critical-minerals-leadership/img/cover.jpg",
+    "medium": "SCMP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTIzMDEwYTYtYjhjNS01YTM0LTk3MTQtZTdjMzg0MjIyNGUw",
+    "headline": "New York City Mayoral Primary 2025: Latest Polls",
+    "url": "https://www.nytimes.com/interactive/polls/nyc-mayoral-primary-election-polls-2025.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-10T21:19:08.000Z",
+    "credits": [],
+    "description": "Track the latest Democratic primary polls, including ranked-choice outcomes, in the New York City mayoral election.",
+    "square_img": "https://static01.nyt.com/images/2025/06/09/multimedia/2025-polling-averages-nyc-mayoral-primary-election-polls-2025/2025-polling-averages-nyc-mayoral-primary-election-polls-2025-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/09/multimedia/2025-polling-averages-nyc-mayoral-primary-election-polls-2025/2025-polling-averages-nyc-mayoral-primary-election-polls-2025-facebookJumbo-v3.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "ZDIIVETXCJDTNKJZMUG7IQURDA",
     "headline": "How clashes at the L.A. protests escalated to tear gas, impact rounds",
     "description": "Videos and photos show how L.A.’s protests unfolded Sunday when the National Guard arrived. ",
@@ -105,16 +154,32 @@
     "date": "2025-06-08T17:49:28.000Z",
     "credits": [
       {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      },
-      {
         "name": "Bora Erden",
         "slug": "bora-erden"
       },
       {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "K.K. Rebecca Lai",
+        "slug": "kk-rebecca-lai"
+      },
+      {
+        "name": "Blacki Migliozzi",
+        "slug": "blacki-migliozzi"
+      },
+      {
+        "name": "Bedel Saget",
+        "slug": "bedel-saget"
+      },
+      {
         "name": "Elena Shao",
         "slug": "elena-shao"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
       }
     ],
     "description": "President Trump called in the National Guard on Saturday after isolated clashes between federal law enforcement and people protesting immigration raids.",

@@ -1,5 +1,32 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBiNTU0NTEtYzg3MC01NjFkLWJhMDAtZDY1YWI5OThiYjg2",
+    "headline": "Detention and Deportation As Seen Through a Family Group Chat",
+    "url": "https://www.nytimes.com/interactive/2025/06/10/us/politics/trump-immigrant-family-deportation-journey.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-11T00:31:00.000Z",
+    "credits": [
+      {
+        "name": "Allison McCann",
+        "slug": "allison-mccann"
+      }
+    ],
+    "description": "A Venezuelan man’s criminal past made him a target of immigration agents. His family was determined to stay in touch.",
+    "square_img": "https://static01.nyt.com/images/2025/05/22/multimedia/00-carlos-deportation-cmgj/00-carlos-deportation-cmgj-square320-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/22/multimedia/00-carlos-deportation-cmgj/00-carlos-deportation-cmgj-facebookJumbo-v6.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTIzMDEwYTYtYjhjNS01YTM0LTk3MTQtZTdjMzg0MjIyNGUw",
+    "headline": "New York City Mayoral Primary 2025: Latest Polls",
+    "url": "https://www.nytimes.com/interactive/polls/nyc-mayoral-primary-election-polls-2025.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-10T21:19:08.000Z",
+    "credits": [],
+    "description": "Track the latest Democratic primary polls, including ranked-choice outcomes, in the New York City mayoral election.",
+    "square_img": "https://static01.nyt.com/images/2025/06/09/multimedia/2025-polling-averages-nyc-mayoral-primary-election-polls-2025/2025-polling-averages-nyc-mayoral-primary-election-polls-2025-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/09/multimedia/2025-polling-averages-nyc-mayoral-primary-election-polls-2025/2025-polling-averages-nyc-mayoral-primary-election-polls-2025-facebookJumbo-v3.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDc5ZWQ5MjUtOTFhOC01OWYxLWJjZTctNjI3ZjM1ZDU1MWM2",
     "headline": "Maps and Timeline of the L.A. Immigration Protests and the Federal Response",
     "url": "https://www.nytimes.com/interactive/2025/06/08/us/la-immigration-protests-photos-map.html",
@@ -7,16 +34,32 @@
     "date": "2025-06-08T17:49:28.000Z",
     "credits": [
       {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      },
-      {
         "name": "Bora Erden",
         "slug": "bora-erden"
       },
       {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "K.K. Rebecca Lai",
+        "slug": "kk-rebecca-lai"
+      },
+      {
+        "name": "Blacki Migliozzi",
+        "slug": "blacki-migliozzi"
+      },
+      {
+        "name": "Bedel Saget",
+        "slug": "bedel-saget"
+      },
+      {
         "name": "Elena Shao",
         "slug": "elena-shao"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
       }
     ],
     "description": "President Trump called in the National Guard on Saturday after isolated clashes between federal law enforcement and people protesting immigration raids.",

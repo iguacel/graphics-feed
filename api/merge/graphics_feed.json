@@ -1,5 +1,27 @@
 [
   {
+    "id": "ZGPB7CYJTVCBLNEPCJ5NQJF664",
+    "headline": "See how the national debt grew to more than $36 trillion",
+    "description": "Washington spent and cut taxes while the debt was rising.",
+    "url": "https://www.washingtonpost.com/business/interactive/2025/national-debt-36-trillion/",
+    "credits": [
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Jeff Stein",
+        "slug": "jeff-stein"
+      }
+    ],
+    "date": "2025-06-11T09:00:44.938Z",
+    "img": "https://www.washingtonpost.com/resizer/bVxtBpZ6jSCXDAuTr-P3bz7JFC4=/300x0/arc-anglerfish-washpost-prod-washpost/public/PA24IYCR3NFLPLDATX6HPSQARI.gif",
+    "label": {
+      "url": "https://www.washingtonpost.com/economic-policy/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBiNTU0NTEtYzg3MC01NjFkLWJhMDAtZDY1YWI5OThiYjg2",
     "headline": "Detention and Deportation As Seen Through a Family Group Chat",
     "url": "https://www.nytimes.com/interactive/2025/06/10/us/politics/trump-immigrant-family-deportation-journey.html",
@@ -102,7 +124,7 @@
       }
     ],
     "date": "2025-06-09T09:58:25.317Z",
-    "img": "https://www.washingtonpost.com/resizer/MUoVW30z7LrQ_JT33X8w_7rYBv0=/300x0/arc-anglerfish-washpost-prod-washpost/public/RTRCUSYIKNBY5DGVHPQCDQMD4Y.jpg",
+    "img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XIR7FFOD55FB3M2546M225PT34.jpg&w=1440",
     "label": {
       "url": "https://www.washingtonpost.com/politics/"
     },
@@ -183,8 +205,8 @@
       }
     ],
     "description": "President Trump called in the National Guard on Saturday after isolated clashes between federal law enforcement and people protesting immigration raids.",
-    "square_img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-facebookJumbo-v4.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-square320-v7.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-facebookJumbo-v8.jpg",
     "medium": "NYT"
   },
   {

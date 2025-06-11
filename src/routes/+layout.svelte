@@ -4,6 +4,8 @@
 	import Theme from '$lib/components/Theme.svelte';
 </script>
 
+<div class="scanlines"></div>
+
 <Meta />
 <Theme />
 <slot />

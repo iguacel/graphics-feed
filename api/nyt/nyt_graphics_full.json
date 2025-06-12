@@ -1,5 +1,41 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2Q3YTI4ZmItMzVmMy01NDViLTg1YjAtMDczMzgxNDNhMTZl",
+    "headline": "How the Air India Plane Crashed: Maps and Photos",
+    "url": "https://www.nytimes.com/interactive/2025/06/12/world/asia/india-plane-crash-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-12T14:27:12.000Z",
+    "credits": [
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Pablo Robles",
+        "slug": "pablo-robles"
+      }
+    ],
+    "description": "​​Maps show how an Air India flight carrying 242 passengers and crew members crashed in the city of Ahmedabad shortly after taking off.",
+    "square_img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-12-india-crash-index/2025-06-12-india-crash-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-12-india-crash-index/2025-06-12-india-crash-index-facebookJumbo.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTk0MzhmZTctNjMyMy01MzM5LWJhOTctOWE5OWQzYTY2MjY1",
+    "headline": "How to Read a Military Parade",
+    "url": "https://www.nytimes.com/interactive/2025/06/12/world/military-parades.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-12T09:01:25.000Z",
+    "credits": [
+      {
+        "name": "Marco Hernandez",
+        "slug": "marco-hernandez"
+      }
+    ],
+    "description": "The U.S. will hold a rare military display in Washington D.C. soon. The motives of countries that stage military parades vary, but the spectacles all tend to share a common visual vocabulary.",
+    "square_img": "https://static01.nyt.com/images/2025/05/28/multimedia/2025-05-12-military-parades-index/2025-05-12-military-parades-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/05/28/multimedia/2025-05-12-military-parades-index/2025-05-12-military-parades-index-facebookJumbo-v3.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBiNTU0NTEtYzg3MC01NjFkLWJhMDAtZDY1YWI5OThiYjg2",
     "headline": "Detention and Deportation as Seen Through a Family Group Chat",
     "url": "https://www.nytimes.com/interactive/2025/06/10/us/politics/trump-immigrant-family-deportation-journey.html",

@@ -1,5 +1,26 @@
 [
   {
+    "id": "2025_06_hello-stranger",
+    "headline": "30 minutes with a stranger",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/06/hello-stranger/",
+    "date": "2025-06-13",
+    "keywords": [
+      "stranger",
+      "conversation",
+      "experiment",
+      "study"
+    ],
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_06_hello-stranger.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2025_06_loneliness",
     "headline": "The Loneliness Epidemic, in Data",
     "description": "No description available",

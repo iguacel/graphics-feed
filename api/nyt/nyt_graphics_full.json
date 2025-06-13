@@ -1,5 +1,64 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2EzY2RjMzQtZmFkZi01ODg0LWEyYWYtYjNkY2NjYmEwZDBh",
+    "headline": "Israel’s Strikes on Iran’s Nuclear Program: Maps and Photos",
+    "url": "https://www.nytimes.com/interactive/2025/06/12/world/middleeast/iran-israel-maps.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-13T05:23:13.000Z",
+    "credits": [
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "Julie Walton Shaver",
+        "slug": "julie-walton-shaver"
+      },
+      {
+        "name": "Pablo Robles",
+        "slug": "pablo-robles"
+      }
+    ],
+    "description": "The Israeli military said it struck Iran early on Friday morning, attacking dozens of targets, including nuclear sites, and killing top Iranian military officials and scientists.",
+    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-square320-v10.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-facebookJumbo-v9.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTgzYmZjMDEtZDgzZi01YTE0LWE2ODEtNDFmYmU1MmYxN2Jh",
+    "headline": "Trump’s Big Bill Would Be More Regressive Than Any Major Law in Decades",
+    "url": "https://www.nytimes.com/interactive/2025/06/12/upshot/gop-megabill-distribution-poor-rich.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-13T00:08:21.000Z",
+    "credits": [
+      {
+        "name": "Emily Badger",
+        "slug": "emily-badger"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Margot Sanger-Katz",
+        "slug": "margot-sanger-katz"
+      }
+    ],
+    "description": "Estimates from the Congressional Budget Office, released Thursday, offer a detailed view into the effects on income groups.",
+    "square_img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-09-bill-distributions-index/2025-06-09-bill-distributions-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-09-bill-distributions-index/2025-06-09-bill-distributions-index-facebookJumbo.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDQwOGQ3NmItNjA1ZC01Y2Y4LWI0MDYtMjFjNGFjYWVjZGY3",
+    "headline": "How Every House Member Voted on $9 Billion in Proposed Spending Cuts",
+    "url": "https://www.nytimes.com/interactive/2025/06/12/us/house-rescissions-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-12T21:02:27.000Z",
+    "credits": [],
+    "description": "House members approved the cuts by a vote of 214 to 212.",
+    "square_img": "https://static01.nyt.com/images/2025/06/10/us/house-rescissions-vote-1749762081844/house-rescissions-vote-1749762081844-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/10/us/house-rescissions-vote-1749762081844/house-rescissions-vote-1749762081844-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2Q3YTI4ZmItMzVmMy01NDViLTg1YjAtMDczMzgxNDNhMTZl",
     "headline": "How the Air India Plane Crashed: Maps and Photos",
     "url": "https://www.nytimes.com/interactive/2025/06/12/world/asia/india-plane-crash-map.html",
@@ -13,11 +72,15 @@
       {
         "name": "Pablo Robles",
         "slug": "pablo-robles"
+      },
+      {
+        "name": "Daniel Wood",
+        "slug": "daniel-wood"
       }
     ],
     "description": "​​Maps show how an Air India flight carrying 242 passengers and crew members crashed in the city of Ahmedabad shortly after taking off.",
-    "square_img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-12-india-crash-index/2025-06-12-india-crash-index-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-12-india-crash-index/2025-06-12-india-crash-index-facebookJumbo.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-12-india-crash-index/2025-06-12-india-crash-index-square320-v2.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-12-india-crash-index/2025-06-12-india-crash-index-facebookJumbo-v3.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTk0MzhmZTctNjMyMy01MzM5LWJhOTctOWE5OWQzYTY2MjY1",

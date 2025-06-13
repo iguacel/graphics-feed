@@ -1,5 +1,38 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzRjOTU4MDYtMmZlZC01NjljLWFmMzEtOWRjYzU5NTBiOTk5",
+    "headline": "Which Law Enforcement Agencies Are at the Los Angeles Protests?",
+    "url": "https://www.nytimes.com/interactive/2025/06/13/us/la-protests-immigration-law-enforcement.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-13T09:02:14.000Z",
+    "credits": [
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Bedel Saget",
+        "slug": "bedel-saget"
+      },
+      {
+        "name": "Raj Saha",
+        "slug": "raj-saha"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "A Times analysis identified more than a dozen agencies that were on the ground in the past week. See which are represented, the gear they carry and how they interact.",
+    "square_img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-09-immigration-protests-agencies-index/2025-06-09-immigration-protests-agencies-index-square320-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-09-immigration-protests-agencies-index/2025-06-09-immigration-protests-agencies-index-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2EzY2RjMzQtZmFkZi01ODg0LWEyYWYtYjNkY2NjYmEwZDBh",
     "headline": "Israel’s Strikes on Iran’s Nuclear Program: Maps and Photos",
     "url": "https://www.nytimes.com/interactive/2025/06/12/world/middleeast/iran-israel-maps.html",
@@ -20,8 +53,8 @@
       }
     ],
     "description": "The Israeli military said it struck Iran early on Friday morning, attacking dozens of targets, including nuclear sites, and killing top Iranian military officials and scientists.",
-    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-square320-v10.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-facebookJumbo-v9.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-square320-v13.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-facebookJumbo-v13.jpg",
     "medium": "NYT"
   },
   {

@@ -100,6 +100,10 @@
       {
         "name": "Daniel Wood",
         "slug": "daniel-wood"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
       }
     ],
     "description": "The Israeli military said it struck Iran early Friday morning, attacking dozens of targets, including nuclear sites, and killing top Iranian military officials and scientists.",
@@ -1607,48 +1611,5 @@
       "url": "https://www.washingtonpost.com/world/asia-pacific/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "TI4XXEXTAFHWFB4HKXVVDKVJOA",
-    "headline": "You’re probably eating more sugar than you think. Try our quiz to find out. ",
-    "description": "Take our quiz to test your knowledge. The answers might surprise you.",
-    "url": "https://www.washingtonpost.com/wellness/interactive/2025/breakfast-added-sugar/",
-    "credits": [
-      {
-        "name": "Anahad O’Connor",
-        "slug": "anahad-oconnor"
-      },
-      {
-        "name": "Aaron Steckelberg",
-        "slug": "aaron-steckelberg"
-      }
-    ],
-    "date": "2025-05-14T10:00:45.827Z",
-    "img": "https://www.washingtonpost.com/resizer/B1kwW5F3986aY8yQ0lKE42t_yPo=/300x0/arc-anglerfish-washpost-prod-washpost/public/QFUS3KFB6FGQFCI4HZJP42CPNE.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/wellbeing/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTM1Y2UwNDItZmJhNy01OTlkLWE5YTktOTRkZTdlMWJiNDQy",
-    "headline": "185% Tariffs: How the Trade War Hit One Shipment of T-Shirts",
-    "url": "https://www.nytimes.com/interactive/2025/05/14/business/economy/trump-china-tariffs-import-goods.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-05-14T09:02:20.000Z",
-    "credits": [
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Ana Swanson",
-        "slug": "ana-swanson"
-      }
-    ],
-    "description": "Even with a temporary reprieve, tariffs have begun to squeeze importers. See how.",
-    "square_img": "https://static01.nyt.com/images/2025/05/13/multimedia/2025-05-09-entry-form-tariff-index/2025-05-09-entry-form-tariff-index-square320-v2.jpg",
-    "img": "https://static01.nyt.com/images/2025/05/13/multimedia/2025-05-09-entry-form-tariff-index/2025-05-09-entry-form-tariff-index-facebookJumbo-v3.jpg",
-    "medium": "NYT"
   }
 ]

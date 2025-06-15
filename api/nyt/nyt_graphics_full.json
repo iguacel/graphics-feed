@@ -77,7 +77,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2EzY2RjMzQtZmFkZi01ODg0LWEyYWYtYjNkY2NjYmEwZDBh",
-    "headline": "Israel’s Strikes on Iran’s Nuclear Program: Maps and Photos",
+    "headline": "Maps and Photos: Israel’s Strikes and Iran’s Missile Retaliation",
     "url": "https://www.nytimes.com/interactive/2025/06/12/world/middleeast/iran-israel-maps.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-13T05:23:13.000Z",
@@ -101,11 +101,19 @@
       {
         "name": "Samuel Granados",
         "slug": "samuel-granados"
+      },
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Malachy Browne",
+        "slug": "malachy-browne"
       }
     ],
-    "description": "The Israeli military said it struck Iran early Friday morning, attacking dozens of targets, including nuclear sites, and killing top Iranian military officials and scientists.",
-    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-square320-v18.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-facebookJumbo-v17.jpg"
+    "description": "Israel has launched a series of strikes against Iran, targeting the country’s nuclear program and other military infrastructure. Iran has launched its own strikes in retaliation.",
+    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-square320-v20.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-facebookJumbo-v19.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTgzYmZjMDEtZDgzZi01YTE0LWE2ODEtNDFmYmU1MmYxN2Jh",

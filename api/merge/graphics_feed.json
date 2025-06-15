@@ -80,7 +80,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2EzY2RjMzQtZmFkZi01ODg0LWEyYWYtYjNkY2NjYmEwZDBh",
-    "headline": "Israel’s Strikes on Iran’s Nuclear Program: Maps and Photos",
+    "headline": "Maps and Photos: Israel’s Strikes and Iran’s Missile Retaliation",
     "url": "https://www.nytimes.com/interactive/2025/06/12/world/middleeast/iran-israel-maps.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-13T05:23:13.000Z",
@@ -104,11 +104,19 @@
       {
         "name": "Samuel Granados",
         "slug": "samuel-granados"
+      },
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Malachy Browne",
+        "slug": "malachy-browne"
       }
     ],
-    "description": "The Israeli military said it struck Iran early Friday morning, attacking dozens of targets, including nuclear sites, and killing top Iranian military officials and scientists.",
-    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-square320-v18.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-facebookJumbo-v17.jpg",
+    "description": "Israel has launched a series of strikes against Iran, targeting the country’s nuclear program and other military infrastructure. Iran has launched its own strikes in retaliation.",
+    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-square320-v20.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-facebookJumbo-v19.jpg",
     "medium": "NYT"
   },
   {
@@ -1539,77 +1547,5 @@
     "square_img": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-05-07-scotus-key-cases-2025-index/2025-05-07-scotus-key-cases-2025-index-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-05-07-scotus-key-cases-2025-index/2025-05-07-scotus-key-cases-2025-index-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "ZMXHXIAI4BBULKUK46YBEZGNJU",
-    "headline": "Let’s chat about RFK Jr. and vaccines. Send us your questions.",
-    "description": "Post health reporters will answer your questions on Robert F. Kennedy Jr.’s plans for public health during a live chat at 10 a.m. ET on Friday.",
-    "url": "https://www.washingtonpost.com/health/2025/05/16/rfk-health-vaccines-questions-answers/",
-    "credits": [
-      {
-        "name": "Fenit Nirappil",
-        "slug": "fenit-nirappil"
-      },
-      {
-        "name": "Lauren Weber",
-        "slug": "lauren-weber"
-      },
-      {
-        "name": "Caitlin Gilbert",
-        "slug": "caitlin-gilbert"
-      },
-      {
-        "name": "Rachel Roubein",
-        "slug": "rachel-roubein"
-      },
-      {
-        "name": "Lena H. Sun",
-        "slug": "lena-h-sun"
-      },
-      {
-        "name": "Carolyn Y. Johnson",
-        "slug": "carolyn-johnson"
-      },
-      {
-        "name": "Alexandra Pannoni",
-        "slug": "alexandra-pannoni"
-      }
-    ],
-    "date": "2025-05-14T19:54:13.580Z",
-    "img": "https://www.washingtonpost.com/resizer/G5DOQRbYmmQZOahUksVlxXyfM2Q=/300x0/arc-anglerfish-washpost-prod-washpost/public/RVI4FJCWNOFROYRMOX7XL3BTDM.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/community/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "T7RX4LG6TRC6LN7KN3YAXOG3BY",
-    "headline": "Indian strikes on Pakistan damaged six airfields, Post analysis finds",
-    "description": "A review of satellite images and aftermath videos found that the strikes damaged three hangars, two runways and a pair of mobile buildings used by the air force.",
-    "url": "https://www.washingtonpost.com/world/2025/05/14/india-pakistan-strikes-conflict-damage/",
-    "credits": [
-      {
-        "name": "Imogen Piper",
-        "slug": "imogen-piper"
-      },
-      {
-        "name": "Evan Hill",
-        "slug": "evan-hill"
-      },
-      {
-        "name": "Maham Javaid",
-        "slug": "maham-javaid"
-      },
-      {
-        "name": "Rick Noack",
-        "slug": "rick-noack"
-      }
-    ],
-    "date": "2025-05-14T17:13:36.652Z",
-    "img": "https://www.washingtonpost.com/resizer/lbBHhGgDYrCkgLEHixq9vQtjvnU=/300x0/arc-anglerfish-washpost-prod-washpost/public/PK7QC4X6BFEMPBGT5J445GENCI.png",
-    "label": {
-      "url": "https://www.washingtonpost.com/world/asia-pacific/"
-    },
-    "medium": "WP"
   }
 ]

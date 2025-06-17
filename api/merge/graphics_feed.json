@@ -872,7 +872,7 @@
   },
   {
     "id": "CYDnHZ3f5q",
-    "headline": "Washed ashore",
+    "headline": "Death stranding: why marine mammals wash ashore in Hong Kong",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3312243/marine-life-stranding/",
     "label": "https://www.scmp.com/hong_kong/",
     "date": "2025-06-02T00:00:00.000Z",
@@ -1466,26 +1466,5 @@
       "url": "https://www.washingtonpost.com/politics/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzJmZjU1YTYtYmY4Mi01YjgzLTliMTQtZDRjZDY4ZWQ2MTE2",
-    "headline": "Audio Data Shows Newark Outage Problems Persisted Longer Than Officials Said",
-    "url": "https://www.nytimes.com/interactive/2025/05/16/nyregion/newark-airport-outages-audio.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-05-16T23:50:43.000Z",
-    "credits": [
-      {
-        "name": "Helmuth Rosales",
-        "slug": "helmuth-rosales"
-      },
-      {
-        "name": "Zach Levitt",
-        "slug": "zach-levitt"
-      }
-    ],
-    "description": "Times analysis of air traffic recordings and flight data shows that outage-related problems persisted far longer than what the officials have acknowledged.",
-    "square_img": "https://static01.nyt.com/images/2025/05/16/multimedia/2025-05-12-newark-outage-index/2025-05-12-newark-outage-index-square320-v8.png",
-    "img": "https://static01.nyt.com/images/2025/05/16/multimedia/2025-05-12-newark-outage-index/2025-05-12-newark-outage-index-facebookJumbo-v8.png",
-    "medium": "NYT"
   }
 ]

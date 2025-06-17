@@ -1,5 +1,33 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhhZTA5ZWQ4LTVjZmUtNTg0OS05YjdmLWMwZDIyNjVkZTMyYg==",
+    "headline": "Here’s the latest.",
+    "url": "https://www.nytimes.com/live/2025/06/17/world/israel-iran-trump/heres-the-latest",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-17T09:24:25.000Z",
+    "credits": [
+      {
+        "name": "Michael D. Shear",
+        "slug": "michael-d-shear"
+      },
+      {
+        "name": "Zolan Kanno-Youngs",
+        "slug": "zolan-kanno-youngs"
+      },
+      {
+        "name": "Adam Rasgon",
+        "slug": "adam-rasgon"
+      },
+      {
+        "name": "Francesca Regalado",
+        "slug": "francesca-regalado"
+      }
+    ],
+    "description": "No description available",
+    "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/17israel-iran-pinned-cmkb/17israel-iran-pinned-cmkb-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/17israel-iran-pinned-cmkb/17israel-iran-pinned-cmkb-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMWMzMGIzMjQtMGM4Zi01M2E4LTk1ZGUtOWI0MWIwZWJlNTc4",
     "headline": "India Plane Crash: What Investigators Might Examine",
     "url": "https://www.nytimes.com/interactive/2025/06/13/business/india-plane-crash-investigation.html",
@@ -335,7 +363,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjllNzNiYmYtNGNlYi01MjQxLTk5ZWMtMmE3NTQ1MGY1ZmEx",
-    "headline": "See the Countries Under Trump’s New Travel Ban",
+    "headline": "See the Countries Under Trump’s Travel Ban, Including Those That May be Added",
     "url": "https://www.nytimes.com/interactive/2025/06/04/us/politics/trump-travel-ban-map.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-05T01:40:38.000Z",
@@ -349,7 +377,7 @@
         "slug": "pablo-robles"
       }
     ],
-    "description": "Restrictions on travel will affect people from more than a dozen countries worldwide.",
+    "description": "Restrictions on travel will affect people from more than a dozen countries worldwide. The administration is also considering adding more countries to the ban.",
     "square_img": "https://static01.nyt.com/images/2025/06/04/multimedia/2025-03-17-travel-ban-visas-index/2025-03-17-travel-ban-visas-index-square320-v3.png",
     "img": "https://static01.nyt.com/images/2025/06/04/multimedia/2025-03-17-travel-ban-visas-index/2025-03-17-travel-ban-visas-index-facebookJumbo-v3.png"
   },

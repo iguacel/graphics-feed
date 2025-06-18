@@ -1,31 +1,70 @@
 [
   {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhhZTA5ZWQ4LTVjZmUtNTg0OS05YjdmLWMwZDIyNjVkZTMyYg==",
-    "headline": "Here’s the latest.",
-    "url": "https://www.nytimes.com/live/2025/06/17/world/israel-iran-trump/heres-the-latest",
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2EyMzgzMjE3LWYwZDItNWM1Ny1iMDJjLWNhNjIwNjkxMTUyNw==",
+    "headline": "Here’s a look at the first four days of attacks between Israel and Iran.",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/heres-a-look-at-the-first-four-days-of-attacks-between-israel-and-iran",
     "label": "https://www.nytimes.com/live/",
-    "date": "2025-06-17T09:24:25.000Z",
+    "date": "2025-06-17T16:45:12.000Z",
     "credits": [
       {
-        "name": "Michael D. Shear",
-        "slug": "michael-d-shear"
-      },
-      {
-        "name": "Zolan Kanno-Youngs",
-        "slug": "zolan-kanno-youngs"
-      },
-      {
-        "name": "Adam Rasgon",
-        "slug": "adam-rasgon"
-      },
-      {
-        "name": "Francesca Regalado",
-        "slug": "francesca-regalado"
+        "name": "Elena Shao",
+        "slug": "elena-shao"
       }
     ],
     "description": "No description available",
-    "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/17israel-iran-pinned-cmkb/17israel-iran-pinned-cmkb-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/17israel-iran-pinned-cmkb/17israel-iran-pinned-cmkb-facebookJumbo.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/06/16/multimedia/saadat-abad-graphics-gflv/saadat-abad-graphics-gflv-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/16/multimedia/saadat-abad-graphics-gflv/saadat-abad-graphics-gflv-facebookJumbo.jpg"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzMwYjZmYjdhLTI3ZTAtNTNhOS1hZmQ1LWQ0M2Q4MjMzMTFlZQ==",
+    "headline": "There are more than 40 nuclear and missile facilities throughout Iran.",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/iran-nuclear-missile-facilities",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-17T16:45:08.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Karen Yourish",
+        "slug": "karen-yourish"
+      }
+    ],
+    "description": "No description available",
+    "square_img": null,
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v3.jpg"
+  },
+  {
+    "id": "TGVnYWN5Q29sbGVjdGlvbjpueXQ6Ly9sZWdhY3ljb2xsZWN0aW9uL2RhMTBjZGMyLTcwMzctNWY0Yy1hNzUyLTBmNzA2ZTVmOGZiMw==",
+    "headline": "Mapping the Israel-Iran Conflict",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-17T16:45:00.000Z",
+    "credits": [],
+    "description": "No description available",
+    "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v3.jpg"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzcxNWE2OGZiLTNkYzgtNTgyYy1iYWEwLThmNzUxOTk0MDkxNA==",
+    "headline": "Tell Us: How Are You Using A.I. at Work?",
+    "url": "https://www.nytimes.com/2025/06/17/upshot/tell-us-how-are-you-using-ai-at-work.html",
+    "label": "https://www.nytimes.com/upshot/",
+    "date": "2025-06-17T16:09:38.000Z",
+    "credits": [
+      {
+        "name": "Francesca Paris",
+        "slug": "francesca-paris"
+      },
+      {
+        "name": "Larry Buchanan",
+        "slug": "larry-buchanan"
+      }
+    ],
+    "description": "Has A.I. become a part of your daily work routines? We want to know.",
+    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/up-ai-callout-wgkp/up-ai-callout-wgkp-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/up-ai-callout-wgkp/up-ai-callout-wgkp-facebookJumbo.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMWMzMGIzMjQtMGM4Zi01M2E4LTk1ZGUtOWI0MWIwZWJlNTc4",
@@ -105,7 +144,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2EzY2RjMzQtZmFkZi01ODg0LWEyYWYtYjNkY2NjYmEwZDBh",
-    "headline": "Maps and Photos: The Israel-Iran Conflict",
+    "headline": "Mapping the First Four Days of Attacks in the Israel-Iran Conflict",
     "url": "https://www.nytimes.com/interactive/2025/06/12/world/middleeast/iran-israel-maps.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-13T05:23:13.000Z",
@@ -159,7 +198,7 @@
         "slug": "ashley-wu"
       }
     ],
-    "description": "Israel has launched a series of strikes against Iran, targeting the country’s nuclear program and other military infrastructure. Iran has launched its own strikes in retaliation.",
+    "description": "Israel launched a series of strikes against Iran, targeting the country’s nuclear program and other military infrastructure. Iran launched its own strikes in retaliation.",
     "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-square320-v22.jpg",
     "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-facebookJumbo-v21.jpg"
   },
@@ -400,6 +439,34 @@
     "description": "The effect of the tax break is actually quite narrow.",
     "square_img": "https://static01.nyt.com/images/2025/05/29/multimedia/2025-05-16-no-tax-on-tips-index/2025-05-16-no-tax-on-tips-index-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/05/29/multimedia/2025-05-16-no-tax-on-tips-index/2025-05-16-no-tax-on-tips-index-facebookJumbo.jpg"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhhZTA5ZWQ4LTVjZmUtNTg0OS05YjdmLWMwZDIyNjVkZTMyYg==",
+    "headline": "Here’s the latest.",
+    "url": "https://www.nytimes.com/live/2025/06/17/world/israel-iran-trump/heres-the-latest",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-17T09:24:25.000Z",
+    "credits": [
+      {
+        "name": "Michael D. Shear",
+        "slug": "michael-d-shear"
+      },
+      {
+        "name": "Zolan Kanno-Youngs",
+        "slug": "zolan-kanno-youngs"
+      },
+      {
+        "name": "Adam Rasgon",
+        "slug": "adam-rasgon"
+      },
+      {
+        "name": "Francesca Regalado",
+        "slug": "francesca-regalado"
+      }
+    ],
+    "description": "No description available",
+    "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/17israel-iran-pinned-cmkb/17israel-iran-pinned-cmkb-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/17israel-iran-pinned-cmkb/17israel-iran-pinned-cmkb-facebookJumbo.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2FjZGVlMjAtNDBmYi01M2NhLTg0MTUtMmRkNmExOWQyNGM2",

@@ -1,5 +1,95 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJmNzQ3OWU2LThhOWYtNTQ4Ni05OTc1LWYxMTFlNzAwMjNmZQ==",
+    "headline": "See where Israeli strikes have damaged Iranian nuclear and military facilities so far.",
+    "url": "https://www.nytimes.com/2025/06/18/world/middleeast/see-where-israeli-strikes-have-damaged-iranian-nuclear-and-military-facilities-so-far.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-06-18T14:26:27.000Z",
+    "credits": [
+      {
+        "name": "Karen Yourish",
+        "slug": "karen-yourish"
+      }
+    ],
+    "description": "The nuclear watchdog of the United Nations has confirmed Israeli strikes on multiple facilities in Iran.",
+    "square_img": null,
+    "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "W6UXTIJNEBAEJNAOBP5TFN7Y7M",
+    "headline": "Mapping strikes in the Israel-Iran conflict",
+    "description": "See what sites Iran and Israel have hit in their escalating direct conflict",
+    "url": "https://www.washingtonpost.com/world/2025/06/18/israel-iran-maps-strikes/",
+    "credits": [
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      },
+      {
+        "name": "Álvaro Valiño",
+        "slug": "álvaro-valiño"
+      },
+      {
+        "name": "N. Kirkpatrick",
+        "slug": "nick-kirkpatrick"
+      }
+    ],
+    "date": "2025-06-18T13:55:42.247Z",
+    "img": "https://www.washingtonpost.com/resizer/TI_AQegBe_K_2RtYOiplbl8z6Fo=/300x0/arc-anglerfish-washpost-prod-washpost/public/P3GG6K67NBBWVFGP5IZL4T7CJY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/middle-east/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "GPOU76RG2VCKZPLZT6QIZKSSJA",
+    "headline": "The entire D.C. bus network is changing June 29. Here’s what to know.",
+    "description": "Hundreds of stops are disappearing, routes are being added and eliminated, and every route name will change.",
+    "url": "https://www.washingtonpost.com/dc-md-va/2025/06/18/dc-metro-bus-service-changes/",
+    "credits": [
+      {
+        "name": "Rachel Weiner",
+        "slug": "rachel-weiner"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2025-06-18T11:00:27.995Z",
+    "img": "https://www.washingtonpost.com/resizer/Edi-DTeZgmf8Iq-iPPVjqmV2Z-c=/300x0/arc-anglerfish-washpost-prod-washpost/public/G5D3Q6PCIVACJPDCWIFL54WZQY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/local/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODY4MDEzMjQtNmM3Mi01MmIxLThjMzgtODZhZWJlNDc2N2Qz",
+    "headline": "See What Strategic Infrastructure Israel Has Damaged in Iran",
+    "url": "https://www.nytimes.com/interactive/2025/06/18/world/middleeast/israel-iran-strikes-facilities-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-18T09:03:02.000Z",
+    "credits": [
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Marco Hernandez",
+        "slug": "marco-hernandez"
+      },
+      {
+        "name": "Karen Yourish",
+        "slug": "karen-yourish"
+      }
+    ],
+    "description": "Israel has attacked nuclear, military and energy facilities in Iran. Here is a look at the destruction so far.",
+    "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-israel-iran-strikes-nuclear-index/2025-06-16-israel-iran-strikes-nuclear-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-israel-iran-strikes-nuclear-index/2025-06-16-israel-iran-strikes-nuclear-index-facebookJumbo-v3.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2EyMzgzMjE3LWYwZDItNWM1Ny1iMDJjLWNhNjIwNjkxMTUyNw==",
     "headline": "Here’s a look at the first four days of attacks between Israel and Iran.",
     "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/heres-a-look-at-the-first-four-days-of-attacks-between-israel-and-iran",

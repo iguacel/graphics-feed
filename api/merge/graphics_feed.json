@@ -1,10 +1,57 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmM3MjllNDItZjVjZC01YjAyLTgxNTYtMTM0MmI1NWE2MjUy",
+    "headline": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky",
+    "url": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-19T14:54:50.628Z",
+    "credits": [
+      {
+        "name": "Jonathan Corum",
+        "slug": "jonathan-corum"
+      },
+      {
+        "name": "Kenneth Chang",
+        "slug": "kenneth-chang"
+      },
+      {
+        "name": "Marcos Zegers",
+        "slug": "marcos-zegers"
+      }
+    ],
+    "description": "At the heart of the new Vera C. Rubin Observatory is a digital camera that will create an unparalleled map of the cosmos.",
+    "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-19-rubin-observatory-index/2025-06-19-rubin-observatory-index-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-19-rubin-observatory-index/2025-06-19-rubin-observatory-index-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "YRIEV5TASVFIBLNPQQEYRKCHRA",
+    "headline": "Shai Gilgeous-Alexander is one win from joining elite group of NBA legends",
+    "description": "If his Oklahoma City Thunder wins the title, Gilgeous-Alexander will cap a season that has only been matched by a select few superstars in recent league history.",
+    "url": "https://www.washingtonpost.com/sports/2025/06/19/shai-gilgeous-alexander-nba-history/",
+    "credits": [
+      {
+        "name": "Ben Golliver",
+        "slug": "ben-golliver"
+      },
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      }
+    ],
+    "date": "2025-06-19T10:02:39.392Z",
+    "img": "https://www.washingtonpost.com/resizer/f3nP2EtzUbVLPSeVTvBhFhxVV98=/300x0/arc-anglerfish-washpost-prod-washpost/public/7VQSUEA5BVAUXCY3JEQEWXXVWY.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/sports/nba/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzUzYWVkZmViLTVhMmEtNTljNy1iNWE1LWIxNGUyYjdhNTA3Yw==",
     "headline": "Iranians mostly lost internet access on the sixth day of Israeli strikes.",
-    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/iranians-mostly-lost-internet-access-on-the-sixth-day-of-israeli-strikes",
+    "url": "https://www.nytimes.com/live/2025/06/19/world/iran-israel-trump-news/iranians-mostly-lost-internet-access-on-the-sixth-day-of-israeli-strikes",
     "label": "https://www.nytimes.com/live/",
-    "date": "2025-06-19T03:15:05.845Z",
+    "date": "2025-06-19T03:15:06.000Z",
     "credits": [
       {
         "name": "Ani Matevosian",
@@ -17,7 +64,7 @@
     ],
     "description": "The shutdown appears to be the result of an internal decision rather than a consequence of an Israeli strike.",
     "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/19/multimedia/19israel-iran-promo2/19israel-iran-promo2-facebookJumbo.jpg",
     "medium": "NYT"
   },
   {

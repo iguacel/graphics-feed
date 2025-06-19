@@ -1,5 +1,64 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzUzYWVkZmViLTVhMmEtNTljNy1iNWE1LWIxNGUyYjdhNTA3Yw==",
+    "headline": "Iranians mostly lost internet access on the sixth day of Israeli strikes.",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/iranians-mostly-lost-internet-access-on-the-sixth-day-of-israeli-strikes",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-19T03:15:05.845Z",
+    "credits": [
+      {
+        "name": "Ani Matevosian",
+        "slug": "ani-matevosian"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "The shutdown appears to be the result of an internal decision rather than a consequence of an Israeli strike.",
+    "square_img": null,
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v3.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiMDM3OWFmLWE0ZmMtNTk5Yi05MWJlLTUxZTY0ZTYzZjc5Yg==",
+    "headline": "Tehran is about as densely populated as New York City.",
+    "url": "https://www.nytimes.com/2025/06/18/world/middleeast/tehran-iran-density-map.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-06-18T22:12:07.000Z",
+    "credits": [
+      {
+        "name": "Daniel Wood",
+        "slug": "daniel-wood"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "Recent evacuation warnings from Israel affect hundreds of thousands of the capital’s residents.",
+    "square_img": "https://static01.nyt.com/images/2025/06/18/multimedia/2025-06-16-tehran-density-index/2025-06-16-tehran-density-index-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/18/multimedia/2025-06-16-tehran-density-index/2025-06-16-tehran-density-index-facebookJumbo-v5.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzE5NmZhMjkzLTVkYzYtNWVmZi04YzJlLWQzZThmZTdiYzczZg==",
+    "headline": "There are about 40,000 U.S. troops in the Middle East.",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/there-are-about-40000-us-troops-in-the-middle-east",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-18T18:42:29.145Z",
+    "credits": [
+      {
+        "name": "Lara Jakes",
+        "slug": "lara-jakes"
+      }
+    ],
+    "description": "No description available",
+    "square_img": null,
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v3.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJmNzQ3OWU2LThhOWYtNTQ4Ni05OTc1LWYxMTFlNzAwMjNmZQ==",
     "headline": "See where Israeli strikes have damaged Iranian nuclear and military facilities so far.",
     "url": "https://www.nytimes.com/2025/06/18/world/middleeast/see-where-israeli-strikes-have-damaged-iranian-nuclear-and-military-facilities-so-far.html",

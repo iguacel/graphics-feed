@@ -1,10 +1,26 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IzMTcyYmVhLWM1MDgtNWViMy1hZjRkLWFjZGI2MWRiY2QxYQ==",
+    "headline": "Israel struck an inactive Iranian nuclear site.",
+    "url": "https://www.nytimes.com/2025/06/19/world/middleeast/israel-struck-an-inactive-iranian-nuclear-site.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-06-19T19:23:47.000Z",
+    "credits": [
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      }
+    ],
+    "description": "No description available",
+    "square_img": null,
+    "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmM3MjllNDItZjVjZC01YjAyLTgxNTYtMTM0MmI1NWE2MjUy",
-    "headline": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky",
+    "headline": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky",
     "url": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-19T14:54:50.628Z",
+    "date": "2025-06-19T14:54:51.000Z",
     "credits": [
       {
         "name": "Jonathan Corum",
@@ -41,7 +57,7 @@
     ],
     "description": "The shutdown appears to be the result of an internal decision rather than a consequence of an Israeli strike.",
     "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/19/multimedia/19israel-iran-promo2/19israel-iran-promo2-facebookJumbo.jpg"
+    "img": "https://static01.nyt.com/images/2025/07/19/multimedia/19israel-iran-promo-0030a-gzwf/19israel-iran-promo-0030a-gzwf-facebookJumbo.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiMDM3OWFmLWE0ZmMtNTk5Yi05MWJlLTUxZTY0ZTYzZjc5Yg==",

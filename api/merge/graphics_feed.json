@@ -1,10 +1,73 @@
 [
   {
+    "id": "AN6KC4EFHVCJVOTFFDZKSAKQTI",
+    "headline": "Israel’s air defense against Iran, explained",
+    "description": "Israeli officials this week reported an interception success rate of more than 90 percent.",
+    "url": "https://www.washingtonpost.com/world/2025/06/20/israel-air-defense-iran-iron-dome-missile-arrow/",
+    "credits": [
+      {
+        "name": "Adam Taylor",
+        "slug": "adam-taylor"
+      },
+      {
+        "name": "Sammy Westfall",
+        "slug": "sammy-westfall"
+      },
+      {
+        "name": "Tim Meko",
+        "slug": "tim-meko"
+      }
+    ],
+    "date": "2025-06-20T06:00:37.558Z",
+    "img": "https://www.washingtonpost.com/resizer/wkluQsf6mNR3sdJEthbP1Ff1XhQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/XGG2KWMJUI45A2IM2FB5VTSWHU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/israel-hamas-war/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IzMTcyYmVhLWM1MDgtNWViMy1hZjRkLWFjZGI2MWRiY2QxYQ==",
+    "headline": "Israel struck an inactive Iranian nuclear site.",
+    "url": "https://www.nytimes.com/2025/06/19/world/middleeast/israel-struck-an-inactive-iranian-nuclear-site.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-06-19T19:23:47.000Z",
+    "credits": [
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      }
+    ],
+    "description": "No description available",
+    "square_img": null,
+    "img": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "SY42I1DWLU6800",
+    "headline": "Iran Satellite Images Show Race to Get Its Oil Out Into the World",
+    "url": "https://www.bloomberg.com/news/features/2025-06-19/iran-races-to-export-oil-as-us-mulls-joining-israel-strikes?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/news/",
+    "date": "2025-06-19T16:15:37.505Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Julian Lee",
+        "slug": "julian-lee"
+      },
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imJM31y2NsvI/v1/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmM3MjllNDItZjVjZC01YjAyLTgxNTYtMTM0MmI1NWE2MjUy",
-    "headline": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky",
+    "headline": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky",
     "url": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-19T14:54:50.628Z",
+    "date": "2025-06-19T14:54:51.000Z",
     "credits": [
       {
         "name": "Jonathan Corum",
@@ -64,7 +127,7 @@
     ],
     "description": "The shutdown appears to be the result of an internal decision rather than a consequence of an Israeli strike.",
     "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/19/multimedia/19israel-iran-promo2/19israel-iran-promo2-facebookJumbo.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/19/multimedia/19israel-iran-promo-0030a-gzwf/19israel-iran-promo-0030a-gzwf-facebookJumbo.jpg",
     "medium": "NYT"
   },
   {

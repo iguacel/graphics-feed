@@ -1,5 +1,33 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2IwNWQwN2MtNDRlZS01YjkwLThjZTktOWQyNTY2N2RiNDYw",
+    "headline": "A Long Way Down: What It Takes to Hit Iran’s Deepest Nuclear Site",
+    "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-20T09:08:01.000Z",
+    "credits": [
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Junho Lee",
+        "slug": "junho-lee"
+      },
+      {
+        "name": "Jeremy White",
+        "slug": "jeremy-white"
+      },
+      {
+        "name": "Leanne Abraham",
+        "slug": "leanne-abraham"
+      }
+    ],
+    "description": "President Trump says he’s considering attacking Iran’s underground nuclear site. Here’s what that might look like.",
+    "square_img": "https://static01.nyt.com/images/2025/06/19/multimedia/2025-06-17-fordo-index/2025-06-17-fordo-index-square320-v18.png",
+    "img": "https://static01.nyt.com/images/2025/06/19/multimedia/2025-06-17-fordo-index/2025-06-17-fordo-index-facebookJumbo-v17.png"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IzMTcyYmVhLWM1MDgtNWViMy1hZjRkLWFjZGI2MWRiY2QxYQ==",
     "headline": "Israel struck an inactive Iranian nuclear site.",
     "url": "https://www.nytimes.com/2025/06/19/world/middleeast/israel-struck-an-inactive-iranian-nuclear-site.html",
@@ -93,7 +121,7 @@
     ],
     "description": "No description available",
     "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v3.jpg"
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v6.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzJmNzQ3OWU2LThhOWYtNTQ4Ni05OTc1LWYxMTFlNzAwMjNmZQ==",
@@ -169,7 +197,7 @@
     ],
     "description": "No description available",
     "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v3.jpg"
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v6.jpg"
   },
   {
     "id": "TGVnYWN5Q29sbGVjdGlvbjpueXQ6Ly9sZWdhY3ljb2xsZWN0aW9uL2RhMTBjZGMyLTcwMzctNWY0Yy1hNzUyLTBmNzA2ZTVmOGZiMw==",
@@ -179,8 +207,8 @@
     "date": "2025-06-17T16:45:00.000Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v3.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v6.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzcxNWE2OGZiLTNkYzgtNTgyYy1iYWEwLThmNzUxOTk0MDkxNA==",

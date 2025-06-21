@@ -46,6 +46,42 @@
     "medium": "NYT"
   },
   {
+    "id": "SY5LTIDWRGG000",
+    "headline": "Satellite Images Reveal Trump’s Dilemma Over Iran Nuclear Complex",
+    "url": "https://www.bloomberg.com/graphics/2025-israel-targets-iranian-nuclear-sites/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-06-20T12:10:30.640Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Jonathan Tirone",
+        "slug": "jonathan-tirone"
+      },
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      },
+      {
+        "name": "Sam Dodge",
+        "slug": "sam-dodge"
+      },
+      {
+        "name": "Dave Merrill",
+        "slug": "dave-merrill"
+      },
+      {
+        "name": "Demetrios Pogkas",
+        "slug": "demetrios-pogkas"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8sZBrNVLC24/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2IwNWQwN2MtNDRlZS01YjkwLThjZTktOWQyNTY2N2RiNDYw",
     "headline": "A Long Way Down: What It Takes to Hit Iran’s Deepest Nuclear Site",
     "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
@@ -1813,27 +1849,6 @@
     "description": "Share your story with us.",
     "square_img": "https://static01.nyt.com/images/2025/05/21/multimedia/2025-05-20-la-fires-insurance-survey-index/2025-05-20-la-fires-insurance-survey-index-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/05/21/multimedia/2025-05-20-la-fires-insurance-survey-index/2025-05-20-la-fires-insurance-survey-index-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTJiOTYzZmEtZWYwOC01N2MyLWIxMTAtZmRhODk1OTJmZjE4",
-    "headline": "How Trump Has Targeted New Groups for Deportation",
-    "url": "https://www.nytimes.com/interactive/2025/05/21/us/trump-immigration-policy.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-05-21T09:01:58.000Z",
-    "credits": [
-      {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      },
-      {
-        "name": "Albert Sun",
-        "slug": "albert-sun"
-      }
-    ],
-    "description": "The Trump administration has made drastic changes to immigration policy to drive up deportation numbers. Here is an overview of recent actions and the people they affect.",
-    "square_img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-01-expanding-deportable-index/2025-05-01-expanding-deportable-index-square320-v6.png",
-    "img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-01-expanding-deportable-index/2025-05-01-expanding-deportable-index-facebookJumbo-v8.png",
     "medium": "NYT"
   }
 ]

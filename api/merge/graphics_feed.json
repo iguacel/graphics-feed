@@ -1,5 +1,51 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzI4MjlkZGI3LWRlODMtNTIzNC05Y2JlLTRhMzkwNjEwZTBiNA==",
+    "headline": "An Iranian strike in downtown Haifa damaged at least two places of worship.",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/an-iranian-strike-in-downtown-haifa-damaged-at-least-two-places-of-worship",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-20T23:45:54.954Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Junho Lee",
+        "slug": "junho-lee"
+      }
+    ],
+    "description": "Shockwaves from the attack in Israel’s third-largest city damaged a mosque and a church.",
+    "square_img": null,
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2ZlZjY2Y2VhLTMzYzctNTkxNi04ZjU3LTc0ZGM4ZmY4MjlmMw==",
+    "headline": "How far could Iranian missiles go?",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/how-far-could-iranian-missiles-go",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-20T21:23:10.331Z",
+    "credits": [
+      {
+        "name": "Ashley Cai",
+        "slug": "ashley-cai"
+      },
+      {
+        "name": "Albert Sun",
+        "slug": "albert-sun"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "Thousands of U.S. troops stationed in the Middle East are within striking distance of ballistic missiles Iran has stockpiled.",
+    "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2IwNWQwN2MtNDRlZS01YjkwLThjZTktOWQyNTY2N2RiNDYw",
     "headline": "A Long Way Down: What It Takes to Hit Iran’s Deepest Nuclear Site",
     "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
@@ -93,7 +139,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmM3MjllNDItZjVjZC01YjAyLTgxNTYtMTM0MmI1NWE2MjUy",
-    "headline": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky",
+    "headline": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky",
     "url": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-19T14:54:51.000Z",
@@ -194,7 +240,7 @@
     ],
     "description": "No description available",
     "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
     "medium": "NYT"
   },
   {
@@ -322,7 +368,7 @@
     ],
     "description": "No description available",
     "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
     "medium": "NYT"
   },
   {
@@ -333,8 +379,8 @@
     "date": "2025-06-17T16:45:00.000Z",
     "credits": [],
     "description": "No description available",
-    "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-square320-v5.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-iran-israel-live-maps-index/2025-06-16-iran-israel-live-maps-index-facebookJumbo-v6.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
     "medium": "NYT"
   },
   {
@@ -716,7 +762,7 @@
   },
   {
     "id": "YNyslAJlQv",
-    "headline": "How China’s rare earth leadership can impact US defense procurement",
+    "headline": "How China’s rare earth leadership can impact US defence procurement",
     "url": "https://multimedia.scmp.com/infographics/news/china/article/3313870/critical-minerals-leadership/index.html",
     "label": "https://www.scmp.com/china/",
     "date": "2025-06-11T00:00:00.000Z",
@@ -1789,48 +1835,5 @@
     "square_img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-01-expanding-deportable-index/2025-05-01-expanding-deportable-index-square320-v6.png",
     "img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-01-expanding-deportable-index/2025-05-01-expanding-deportable-index-facebookJumbo-v8.png",
     "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q2ZGRhNTMxLTlkZTEtNTgzMi1iNTMxLWQ5ZTUwMjkyMWVlMg==",
-    "headline": "U.S. Debt Is on Pace to Set a Record High, Going All the Way Back to 1790",
-    "url": "https://www.nytimes.com/2025/05/20/upshot/record-debt-republicans-bill.html",
-    "label": "https://www.nytimes.com/upshot/",
-    "date": "2025-05-20T21:37:15.000Z",
-    "credits": [
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      },
-      {
-        "name": "Margot Sanger-Katz",
-        "slug": "margot-sanger-katz"
-      }
-    ],
-    "description": "If Republicans pass their tax and spending megabill, the record will arrive even sooner — putting America’s debt at more than 113 percent of the size of its entire economy.",
-    "square_img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-19-debt-gdp-projections-index/2025-05-19-debt-gdp-projections-index-square320-v5.png",
-    "img": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-19-debt-gdp-projections-index/2025-05-19-debt-gdp-projections-index-facebookJumbo-v6.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "QZ47LYYWOFAEJAEWWYO3TBWQHY",
-    "headline": "You asked: Are vaccines approved without safety studies?",
-    "description": "No, this is not true. Vaccines undergo rigorous safety testing and are continuously monitored for adverse events. ",
-    "url": "https://www.washingtonpost.com/health/2025/05/20/vaccine-safety-studies/",
-    "credits": [
-      {
-        "name": "Caitlin Gilbert",
-        "slug": "caitlin-gilbert"
-      },
-      {
-        "name": "Lauren Weber",
-        "slug": "lauren-weber"
-      }
-    ],
-    "date": "2025-05-20T20:10:27.961Z",
-    "img": "https://www.washingtonpost.com/resizer/MdUr_zEd4LsQH03wKWpwiL3kSjE=/300x0/arc-anglerfish-washpost-prod-washpost/public/SPCVV34XTXPAYAAV6LFIIPXAHY.JPG",
-    "label": {
-      "url": "https://www.washingtonpost.com/health/"
-    },
-    "medium": "WP"
   }
 ]

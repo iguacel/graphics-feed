@@ -1,5 +1,72 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGU3NzNmZTQtN2RiNC01YzE2LTkwNzMtMGEyNWU1ZWQ4OTM4",
+    "headline": "Here Are the Three Iranian Nuclear Sites the U.S. Attacked",
+    "url": "https://www.nytimes.com/interactive/2025/06/22/world/middleeast/us-iran-nuclear-sites.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-22T05:36:34.000Z",
+    "credits": [
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "Maps and satellite images of the sites the U.S. struck on Saturday night.",
+    "square_img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1YjczZjMyLWYyM2QtNTBiNS1hNTgzLTg1NmY2YjY3NDQ0ZQ==",
+    "headline": "U.S. strikes key nuclear sites in Iran.",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/us-strikes-key-nuclear-sites-in-iran",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-22T04:07:16.761Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "No description available",
+    "square_img": null,
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MyN2NiNDIwLTFiNDUtNTc5OS04NDJkLWE1MWIxODhkN2YzMg==",
+    "headline": "Several U.S. B-2 bombers were deployed west across the Pacific.",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/several-us-b-2-bombers-were-deployed-west-across-the-pacific",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-21T21:06:44.000Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Devon Lum",
+        "slug": "devon-lum"
+      }
+    ],
+    "description": "The aircraft can carry the bunker-buster bombs that would be necessary to penetrate the Fordo underground nuclear site in Iran.",
+    "square_img": null,
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzI4MjlkZGI3LWRlODMtNTIzNC05Y2JlLTRhMzkwNjEwZTBiNA==",
     "headline": "An Iranian strike in downtown Haifa damaged at least two places of worship.",
     "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/an-iranian-strike-in-downtown-haifa-damaged-at-least-two-places-of-worship",
@@ -1829,26 +1896,5 @@
       "url": "https://www.washingtonpost.com/politics/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTAzZDY4MmYtOGUwYy01N2EzLTg2NGMtYjRjNWY3NzlkZTdj",
-    "headline": "Was Your Home Damaged by the L.A. Fires? We Want to Hear About Your Home Insurance Claim.",
-    "url": "https://www.nytimes.com/interactive/2025/05/21/us/la-fire-insurance-survey.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-05-21T19:16:22.000Z",
-    "credits": [
-      {
-        "name": "Blacki Migliozzi",
-        "slug": "blacki-migliozzi"
-      },
-      {
-        "name": "Rukmini Callimachi",
-        "slug": "rukmini-callimachi"
-      }
-    ],
-    "description": "Share your story with us.",
-    "square_img": "https://static01.nyt.com/images/2025/05/21/multimedia/2025-05-20-la-fires-insurance-survey-index/2025-05-20-la-fires-insurance-survey-index-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/05/21/multimedia/2025-05-20-la-fires-insurance-survey-index/2025-05-20-la-fires-insurance-survey-index-facebookJumbo.jpg",
-    "medium": "NYT"
   }
 ]

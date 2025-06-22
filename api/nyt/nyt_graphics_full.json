@@ -1,7 +1,31 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzczMDU0M2UtOTIxMy01NzFmLThhMTUtNzJhY2E0M2ZmM2Vm",
+    "headline": "What Remains of U.S.A.I.D.?",
+    "url": "https://www.nytimes.com/interactive/2025/06/22/us/politics/usaid-foreign-aid-trump.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-22T09:00:22.000Z",
+    "credits": [
+      {
+        "name": "Amy Schoenfeld Walker",
+        "slug": "amy-schoenfeld-walker"
+      },
+      {
+        "name": "Malika Khurana",
+        "slug": "malika-khurana"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      }
+    ],
+    "description": "The few hundred programs that survived DOGE’s purge reveal the future of foreign aid.",
+    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-square320-v11.png",
+    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-facebookJumbo-v12.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGU3NzNmZTQtN2RiNC01YzE2LTkwNzMtMGEyNWU1ZWQ4OTM4",
-    "headline": "Here Are the Three Iranian Nuclear Sites the U.S. Attacked",
+    "headline": "Assessing the Damage at the Nuclear Sites the U.S. Attacked",
     "url": "https://www.nytimes.com/interactive/2025/06/22/world/middleeast/us-iran-nuclear-sites.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-22T05:36:34.000Z",
@@ -17,6 +41,14 @@
       {
         "name": "Lazaro Gamio",
         "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      },
+      {
+        "name": "Amy Schoenfeld Walker",
+        "slug": "amy-schoenfeld-walker"
       }
     ],
     "description": "Maps and satellite images of the sites the U.S. struck on Saturday night.",

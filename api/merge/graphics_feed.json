@@ -1,7 +1,32 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzczMDU0M2UtOTIxMy01NzFmLThhMTUtNzJhY2E0M2ZmM2Vm",
+    "headline": "What Remains of U.S.A.I.D.?",
+    "url": "https://www.nytimes.com/interactive/2025/06/22/us/politics/usaid-foreign-aid-trump.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-22T09:00:22.000Z",
+    "credits": [
+      {
+        "name": "Amy Schoenfeld Walker",
+        "slug": "amy-schoenfeld-walker"
+      },
+      {
+        "name": "Malika Khurana",
+        "slug": "malika-khurana"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      }
+    ],
+    "description": "The few hundred programs that survived DOGE’s purge reveal the future of foreign aid.",
+    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-square320-v11.png",
+    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-facebookJumbo-v12.png",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGU3NzNmZTQtN2RiNC01YzE2LTkwNzMtMGEyNWU1ZWQ4OTM4",
-    "headline": "Here Are the Three Iranian Nuclear Sites the U.S. Attacked",
+    "headline": "Assessing the Damage at the Nuclear Sites the U.S. Attacked",
     "url": "https://www.nytimes.com/interactive/2025/06/22/world/middleeast/us-iran-nuclear-sites.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-22T05:36:34.000Z",
@@ -17,6 +42,14 @@
       {
         "name": "Lazaro Gamio",
         "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      },
+      {
+        "name": "Amy Schoenfeld Walker",
+        "slug": "amy-schoenfeld-walker"
       }
     ],
     "description": "Maps and satellite images of the sites the U.S. struck on Saturday night.",
@@ -1831,69 +1864,6 @@
     "img": "https://www.washingtonpost.com/resizer/T6t-mGiYohzLU8Pp6_ga9gKmvQ8=/300x0/arc-anglerfish-washpost-prod-washpost/public/TCU7GH6H2VGJJXSQVTL6U2WNHQ.jpg",
     "label": {
       "url": "https://www.washingtonpost.com/health/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzRhYjI3YjUtOTJiNi01NmFjLTllZGEtMTNjZjhlZGJjMWY2",
-    "headline": "How Every House Member Voted on the G.O.P. Megabill",
-    "url": "https://www.nytimes.com/interactive/2025/05/22/us/politics/house-gop-megabill-vote.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-05-22T11:30:31.000Z",
-    "credits": [
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      },
-      {
-        "name": "Jon Huang",
-        "slug": "jon-huang"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      },
-      {
-        "name": "Lily Boyce",
-        "slug": "lily-boyce"
-      }
-    ],
-    "description": "The House voted 215 to 214 to pass the domestic policy bill that will deliver President Trump’s domestic agenda.",
-    "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-21-house-gop-megabill/2025-05-21-house-gop-megabill-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-21-house-gop-megabill/2025-05-21-house-gop-megabill-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SRIW57CNLFBIBE3HBKWISDA5OY",
-    "headline": "How every House member voted on Trump’s big budget bill",
-    "description": "The One Big Beautiful Bill contains many parts of President Donald Trump’s tax and immigration agenda. See how your lawmaker voted.",
-    "url": "https://www.washingtonpost.com/politics/interactive/2025/05/22/tax-bill-house-vote-count-big-beautiful-bill/",
-    "credits": [
-      {
-        "name": "Nick Mourtoupalas",
-        "slug": "nick-mourtoupalas"
-      },
-      {
-        "name": "Kati Perry",
-        "slug": "kati-perry"
-      },
-      {
-        "name": "Hannah Dormido",
-        "slug": "hannah-dormido"
-      },
-      {
-        "name": "Szu Yu  Chen",
-        "slug": "szuyu-chen"
-      },
-      {
-        "name": "Adrián Blanco Ramos",
-        "slug": "adrian-blanco"
-      }
-    ],
-    "date": "2025-05-22T11:22:18.734Z",
-    "img": "https://www.washingtonpost.com/resizer/ITQGElFYrHmG9QDwWl22mtvvG1g=/300x0/arc-anglerfish-washpost-prod-washpost/public/TEGFCVVMKRGATONWHD53Q7G7ZY.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/politics/"
     },
     "medium": "WP"
   }

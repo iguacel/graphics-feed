@@ -1,5 +1,41 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzk5OTYxMzM1LWFlMzgtNTI3My05NTYxLWYyMDVmMDBlNThjMw==",
+    "headline": "Pentagon details how attack was carried out",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/pentagon-details-how-attack-was-carried-out",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-22T20:49:50.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "No description available",
+    "square_img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-operation-index/2025-06-22-us-operation-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-operation-index/2025-06-22-us-operation-index-facebookJumbo.png"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FlODdjYzY3LTM0YTAtNTY5Mi1iZWVjLWQwOWIwYmNjMDlmMQ==",
+    "headline": "Satellite Images Show U.S. May Have Targeted Ventilation Shafts at Fordo",
+    "url": "https://www.nytimes.com/2025/06/22/world/middleeast/fordo-iran-nuclear-bomb-satellite.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-06-22T19:04:18.000Z",
+    "credits": [
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      }
+    ],
+    "description": "Ventilation shafts “are probably the most vulnerable points of the facility,” one expert said.",
+    "square_img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-fordo-before-after-ventilation-shafts-index/2025-06-22-fordo-before-after-ventilation-shafts-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-fordo-before-after-ventilation-shafts-index/2025-06-22-fordo-before-after-ventilation-shafts-index-facebookJumbo-v3.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzczMDU0M2UtOTIxMy01NzFmLThhMTUtNzJhY2E0M2ZmM2Vm",
     "headline": "What Remains of U.S.A.I.D.?",
     "url": "https://www.nytimes.com/interactive/2025/06/22/us/politics/usaid-foreign-aid-trump.html",
@@ -25,18 +61,22 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGU3NzNmZTQtN2RiNC01YzE2LTkwNzMtMGEyNWU1ZWQ4OTM4",
-    "headline": "Assessing the Damage at the Nuclear Sites the U.S. Attacked",
+    "headline": "Satellite Images Show Damage at Iranian Nuclear Sites",
     "url": "https://www.nytimes.com/interactive/2025/06/22/world/middleeast/us-iran-nuclear-sites.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-22T05:36:34.000Z",
     "credits": [
       {
-        "name": "Agnes Chang",
-        "slug": "agnes-chang"
+        "name": "Leanne Abraham",
+        "slug": "leanne-abraham"
       },
       {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
+        "name": "Ashley Cai",
+        "slug": "ashley-cai"
+      },
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
       },
       {
         "name": "Lazaro Gamio",
@@ -47,13 +87,17 @@
         "slug": "josh-holder"
       },
       {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
         "name": "Amy Schoenfeld Walker",
         "slug": "amy-schoenfeld-walker"
       }
     ],
-    "description": "Maps and satellite images of the sites the U.S. struck on Saturday night.",
-    "square_img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-square320-v5.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-facebookJumbo-v6.jpg"
+    "description": "A Times analysis shows the extent of the U.S. strikes’ impact on the three nuclear sites.",
+    "square_img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-square320-v11.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-facebookJumbo-v9.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1YjczZjMyLWYyM2QtNTBiNS1hNTgzLTg1NmY2YjY3NDQ0ZQ==",

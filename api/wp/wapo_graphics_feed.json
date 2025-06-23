@@ -1,5 +1,38 @@
 [
   {
+    "id": "RE34Z6UBA5FVRB3EHISNDJZ7CQ",
+    "headline": "What satellite images reveal about damage to Iran’s nuclear sites",
+    "description": "Visuals, expert analysis and official statements shed light on Iran’s nuclear sites after U.S. strikes.",
+    "url": "https://www.washingtonpost.com/investigations/2025/06/22/iran-strikes-nuclear-site-damage-visuals/",
+    "credits": [
+      {
+        "name": "Meg Kelly",
+        "slug": "meg-kelly"
+      },
+      {
+        "name": "Joyce Lee",
+        "slug": "joyce-lee"
+      },
+      {
+        "name": "Nilo Tabrizy",
+        "slug": "nilo-tabrizy"
+      },
+      {
+        "name": "Evan Hill",
+        "slug": "evan-hill"
+      },
+      {
+        "name": "Dylan Moriarty",
+        "slug": "dylan-moriarty"
+      }
+    ],
+    "date": "2025-06-22T19:03:08.290Z",
+    "img": "https://www.washingtonpost.com/resizer/80Fx2woUlzSgUDW19N8wpXpDL2U=/300x0/arc-anglerfish-washpost-prod-washpost/public/V2WEBPR22BGQ3O2BVIYPGFMDXI.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/visual-forensics/"
+    }
+  },
+  {
     "id": "AN6KC4EFHVCJVOTFFDZKSAKQTI",
     "headline": "Israel’s air defense against Iran, explained",
     "description": "Israeli officials this week reported an interception success rate of more than 90 percent.",
@@ -89,6 +122,47 @@
     "img": "https://www.washingtonpost.com/resizer/Edi-DTeZgmf8Iq-iPPVjqmV2Z-c=/300x0/arc-anglerfish-washpost-prod-washpost/public/G5D3Q6PCIVACJPDCWIFL54WZQY.jpg",
     "label": {
       "url": "https://www.washingtonpost.com/local/"
+    }
+  },
+  {
+    "id": "FPWANGER4BCBFL4Y5O5MS6XHYY",
+    "headline": "What is the Massive Ordnance Penetrator, the U.S. bunker-busting bomb?",
+    "description": "Iran’s nuclear sites were targeted with more than a dozen of the 30,000-pound bunker-busters deployed from B-2 stealth bombers. ",
+    "url": "https://www.washingtonpost.com/national-security/2025/06/17/massive-ordnance-penetrator-iran-bunker-buster/",
+    "credits": [
+      {
+        "name": "Alex Horton",
+        "slug": "alex-horton"
+      },
+      {
+        "name": "Maham Javaid",
+        "slug": "maham-javaid"
+      },
+      {
+        "name": "Warren Strobel",
+        "slug": "warren-p-strobel"
+      },
+      {
+        "name": "Laris Karklis",
+        "slug": "laris-karklis"
+      },
+      {
+        "name": "Aaron Steckelberg",
+        "slug": "aaron-steckelberg"
+      },
+      {
+        "name": "William Neff",
+        "slug": "william-neff"
+      },
+      {
+        "name": "Tim Meko",
+        "slug": "tim-meko"
+      }
+    ],
+    "date": "2025-06-17T23:22:35.714Z",
+    "img": "https://www.washingtonpost.com/resizer/jwhPaz_jiy1e2zX0zYrBefIoJR4=/300x0/arc-anglerfish-washpost-prod-washpost/public/YHYNIBRXCC3VUR23VOMKXUSJCE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national-security/"
     }
   },
   {

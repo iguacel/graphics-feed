@@ -6,6 +6,7 @@
 	let { url, media } = $props();
 
 	let articles = $state();
+	let lastUpdate = $state();
 	let loading = $state(true);
 
 	onMount(async () => {
@@ -15,6 +16,8 @@
 			console.error('Failed to fetch articles:', error);
 		} finally {
 			loading = false;
+			articles = articles.articles;
+			lastUpdate = articles.lastUpdate;
 		}
 	});
 </script>
@@ -24,7 +27,10 @@
 		<Skeleton />
 	{:else if articles && articles.length > 0}
 		{#each articles as article}
-			<Article data={article} media={media}/>
+			<Article data={{
+				id: 0,
+				
+			}} media={media}/>
 		{/each}
 	{:else}
 		<p>No articles available</p>

@@ -1,22 +1,26 @@
 <script>
-	import Article from '$lib/components/Article.svelte';
+	import Article from './Article.svelte';
 	import Skeleton from '$lib/components/Skeleton.svelte';
 	import { onMount } from 'svelte';
 
 	let { url, media } = $props();
 
 	let articles = $state();
+	let lastUpdated = $state();
 	let loading = $state(true);
 
 	onMount(async () => {
-		try {
-			articles = await fetch(url).then((res) => res.json());
-		} catch (error) {
-			console.error('Failed to fetch articles:', error);
-		} finally {
-			loading = false;
-		}
-	});
+	try {
+		const response = await fetch(url);
+		const { articles: fetchedArticles, lastUpdated: fetchedUpdated } = await response.json();
+		articles = fetchedArticles;
+		lastUpdated = fetchedUpdated;
+	} catch (error) {
+		console.error('Failed to fetch articles:', error);
+	} finally {
+		loading = false;
+	}
+});
 </script>
 
 <section>
@@ -24,7 +28,20 @@
 		<Skeleton />
 	{:else if articles && articles.length > 0}
 		{#each articles as article}
-			<Article data={article} media={media}/>
+			<Article
+				data={{
+					id: 0,
+					headline: article.headline,
+					url: article.url,
+					date: article.timestamp,
+					credits: [],
+					description: '',
+					square_img: '',
+					img: article.image,
+					media: article.publication
+				}}
+				media={media}
+			/>
 		{/each}
 	{:else}
 		<p>No articles available</p>

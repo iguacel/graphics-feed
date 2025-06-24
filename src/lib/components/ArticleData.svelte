@@ -26,7 +26,7 @@
 				<!-- else content here -->
 			{/if}
 
-			{data.headline}
+			{@html data.headline}
 		</h3>
 		<!-- <p class="description">{data.description}</p> -->
 	</a>

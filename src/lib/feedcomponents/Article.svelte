@@ -7,7 +7,7 @@
 
 <div class="content">
 	<a href={data.url} aria-label="Link to article" target="_blank" rel="noopener noreferrer">
-		<p class="media">{data?.media}</p>
+		<p class="media {data.isToday && 'today'}">{data?.media}</p>
 
 		<Img src={data?.img} alt={data?.description} />
 	</a>
@@ -30,5 +30,10 @@
 		color: var(--c-fg);
 		z-index: 2;
 		font-size: 12px;
+	}
+
+	.today {
+		background: var(--c-fg);
+		color: var(--c-bg);
 	}
 </style>

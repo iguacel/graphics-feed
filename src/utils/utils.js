@@ -47,3 +47,19 @@ export function formatAuthors(authors, media) {
 
     return `${allButLastAuthors} and ${lastAuthor}`;
 }
+
+export function formatDateIso(isoString) {
+	const date = new Date(isoString);
+	const day = date.toLocaleDateString('en-US', {
+		month: 'long',
+		day: 'numeric',
+		timeZone: 'Europe/Madrid'
+	});
+	const time = date.toLocaleTimeString('en-US', {
+		hour: '2-digit',
+		minute: '2-digit',
+		hour12: false,
+		timeZone: 'Europe/Madrid'
+	});
+	return `${day} at ${time}`;
+}

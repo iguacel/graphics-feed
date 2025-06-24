@@ -1,5 +1,93 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGZmYmQyMzctNzY2OC01Nzg0LTkxOGItMTYyM2U4Zjc5N2Yw",
+    "headline": "‘Unsafe to Inhabit’: The Toxic Homes of L.A.",
+    "url": "https://www.nytimes.com/interactive/2025/06/24/realestate/los-angeles-fires-toxic-homes.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-24T05:26:36.000Z",
+    "credits": [
+      {
+        "name": "Blacki Migliozzi",
+        "slug": "blacki-migliozzi"
+      },
+      {
+        "name": "Rukmini Callimachi",
+        "slug": "rukmini-callimachi"
+      },
+      {
+        "name": "K.K. Rebecca Lai",
+        "slug": "kk-rebecca-lai"
+      }
+    ],
+    "description": "After the fires clouded neighborhoods in smoke, residents whose homes were spared learned that danger was still lurking in the walls, the furniture and the air. But their insurers have doubts.",
+    "square_img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-square320-v12.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-facebookJumbo-v9.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzU2NTM3MjY5LTA5ZmQtNThmZi1hNmI0LWE4Y2RkMDUxOGVjMw==",
+    "headline": "The Israeli military escalated attacks on Tehran.",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/the-israeli-military-escalated-attacks-on-tehran",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-23T21:49:47.716Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "The latest barrage hit a notorious prison in Iran and a building near a humanitarian aid facility.",
+    "square_img": null,
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBlNTI4MGUtMWRiYS01YmYyLWFlMWMtZmY2YzE3YmFkMjlj",
+    "headline": "How Missile Defense Works (and Why It’s Hard)",
+    "url": "https://www.nytimes.com/interactive/2025/06/23/world/middleeast/us-qatar-iran-israel-missile-defense.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-23T20:34:46.000Z",
+    "credits": [
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      }
+    ],
+    "description": "Once a ballistic missile is fired into the air, a defender has only minutes to identify its precise trajectory and try to shoot it down. Even the world’s best defenses can’t always stop them.",
+    "square_img": "https://static01.nyt.com/images/2025/06/23/multimedia/2025-06-23-missile-defense-index/2025-06-23-missile-defense-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/06/23/multimedia/2025-06-23-missile-defense-index/2025-06-23-missile-defense-index-facebookJumbo.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2UwMWUwMGZlLTdjNzMtNThlZS05OGU5LTNjYTViNzIzOWRhMg==",
+    "headline": "Iran attacked a U.S. base in Qatar that typically houses 10,000 troops.",
+    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/iran-attacked-a-us-base-in-qatar-that-typically-houses-10000-troops",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-06-23T18:12:17.000Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Daniel Wood",
+        "slug": "daniel-wood"
+      }
+    ],
+    "description": "Qatari officials said its air defenses had intercepted the missiles that were fired at Al Udeid Air Base.",
+    "square_img": null,
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzExMzQ3MzMtNjE0Zi01N2EzLTg3MzEtMDA2MGQxZTY1ZWU5",
     "headline": "The A.I. Race Is Splitting the World Into Haves and Have-Nots",
     "url": "https://www.nytimes.com/interactive/2025/06/23/technology/ai-computing-global-divide.html",
@@ -67,7 +155,7 @@
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzk5OTYxMzM1LWFlMzgtNTI3My05NTYxLWYyMDVmMDBlNThjMw==",
-    "headline": "Pentagon details how attack was carried out",
+    "headline": "The Pentagon detailed how the attack was carried out.",
     "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/pentagon-details-how-attack-was-carried-out",
     "label": "https://www.nytimes.com/live/",
     "date": "2025-06-22T20:49:50.000Z",
@@ -205,7 +293,7 @@
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1YjczZjMyLWYyM2QtNTBiNS1hNTgzLTg1NmY2YjY3NDQ0ZQ==",
-    "headline": "U.S. strikes key nuclear sites in Iran.",
+    "headline": "The U.S. struck key nuclear sites in Iran.",
     "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/us-strikes-key-nuclear-sites-in-iran",
     "label": "https://www.nytimes.com/live/",
     "date": "2025-06-22T04:07:17.000Z",

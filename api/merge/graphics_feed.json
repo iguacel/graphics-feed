@@ -1,5 +1,27 @@
 [
   {
+    "id": "VIV5ZW5YYNHJPM2UXD6PQVKX3M",
+    "headline": "Where extreme heat will pose the biggest threat: Look up your city",
+    "description": "See in maps how heat waves and dangerous temperatures will affect your city this summer. Track the temperatures and extreme heat wave risk in your area.",
+    "url": "https://www.washingtonpost.com/climate-environment/interactive/heat-waves-map-us-tracker/",
+    "credits": [
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      }
+    ],
+    "date": "2025-06-24T14:31:22.725Z",
+    "img": "https://www.washingtonpost.com/resizer/yvqZCvb9TfjQ3wDYaYXvLlhnx8U=/300x0/arc-anglerfish-washpost-prod-washpost/public/XV57XEJ64RD5FM6LQWSMQAI62Q.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/weather/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGZmYmQyMzctNzY2OC01Nzg0LTkxOGItMTYyM2U4Zjc5N2Yw",
     "headline": "‘Unsafe to Inhabit’: The Toxic Homes of L.A.",
     "url": "https://www.nytimes.com/interactive/2025/06/24/realestate/los-angeles-fires-toxic-homes.html",
@@ -20,8 +42,8 @@
       }
     ],
     "description": "After the fires clouded neighborhoods in smoke, residents whose homes were spared learned that danger was still lurking in the walls, the furniture and the air. But their insurers have doubts.",
-    "square_img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-square320-v12.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-facebookJumbo-v9.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-square320-v13.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-facebookJumbo-v11.jpg",
     "medium": "NYT"
   },
   {

@@ -1,4 +1,4 @@
-import{t as p,a as d}from"../chunks/D0VAbhYM.js";import"../chunks/hK0pJGIT.js";import{l as c,m as v,s as l}from"../chunks/FnN41Udg.js";import{s as a}from"../chunks/BaJBkkD1.js";import{b as r}from"../chunks/BfBLECvT.js";var $=p(`<code class="svelte-1li1x0m"><pre>
+import{t as v,a as d}from"../chunks/D0VAbhYM.js";import"../chunks/hK0pJGIT.js";import{l as t,s,m as h}from"../chunks/FnN41Udg.js";import{s as a}from"../chunks/BaJBkkD1.js";import{b as e}from"../chunks/D3J2LH0N.js";var b=v(`<code class="svelte-1li1x0m"><pre>
     0000000                         000        0000000
   111111111      11111111100          000      111111111
   00000        111111111111111111      00000      000000
@@ -21,7 +21,7 @@ import{t as p,a as d}from"../chunks/D0VAbhYM.js";import"../chunks/hK0pJGIT.js";i
   111111111        111111111111100000          111111111
     0000000              00000000              0000000
 
-</pre></code>`);function b(s){var e=$();d(s,e)}var g=p(`<code class="svelte-jp61u2"><pre>    ▄█▀                                     
+</pre></code>`);function P(l){var r=b();d(l,r)}var j=v(`<code class="svelte-jp61u2"><pre>    ▄█▀                                     
     ▄██                                      
    ████▄                                     
     █████   ▄█▄     ▄█▄      ▄█▄  ▐   ▄█▄    
@@ -41,4 +41,4 @@ import{t as p,a as d}from"../chunks/D0VAbhYM.js";import"../chunks/hK0pJGIT.js";i
                              ████▀▐          
                              ██▀             
              ▀
-    </pre></code>`);function P(s){var e=g();d(s,e)}var x=p('<main class="svelte-v5lfer"><div class="grid svelte-v5lfer"><a class="placeholder"><!></a> <a class="placeholder"><!></a> <a class="placeholder"><h1 class="svelte-v5lfer">Reuters</h1></a> <a class="placeholder"><h1 class="svelte-v5lfer">Bloomberg</h1></a> <a class="placeholder"><h1 class="svelte-v5lfer">SCMP</h1></a> <a class="placeholder"><h1 class="svelte-v5lfer">The Pudding</h1></a></div></main>');function C(s){var e=x(),h=c(e),o=c(h);a(o,"href",`${r??""}/wp`);var n=c(o);P(n),v(o);var t=l(o,2);a(t,"href",`${r??""}/nyt`);var u=c(t);b(u),v(t);var i=l(t,2);a(i,"href",`${r??""}/reuters`);var f=l(i,2);a(f,"href",`${r??""}/bloomberg`);var m=l(f,2);a(m,"href",`${r??""}/scmp`);var _=l(m,2);a(_,"href",`${r??""}/thepudding`),v(h),v(e),d(s,e)}export{C as component};
+    </pre></code>`);function y(l){var r=j();d(l,r)}var I=v('<main class="svelte-1mxgcas"><div class="grid svelte-1mxgcas"><a class="placeholder"><h1 class="svelte-1mxgcas">Main</h1></a> <a class="placeholder"><!></a> <a class="placeholder"><!></a> <a class="placeholder"><h1 class="svelte-1mxgcas">Reuters</h1></a> <a class="placeholder"><h1 class="svelte-1mxgcas">Bloomberg</h1></a> <a class="placeholder"><h1 class="svelte-1mxgcas">SCMP</h1></a> <a class="placeholder"><h1 class="svelte-1mxgcas">The Pudding</h1></a> <a class="placeholder"><h1 class="svelte-1mxgcas">IJ All.json</h1></a> <a class="placeholder"><h1 class="svelte-1mxgcas">IJ 30 days</h1></a></div></main>');function B(l){var r=I(),m=t(r),p=t(m);a(p,"href",`${e??""}/`);var c=s(p,2);a(c,"href",`${e??""}/wp`);var _=t(c);y(_),h(c);var o=s(c,2);a(o,"href",`${e??""}/nyt`);var $=t(o);P($),h(o);var i=s(o,2);a(i,"href",`${e??""}/reuters`);var n=s(i,2);a(n,"href",`${e??""}/bloomberg`);var f=s(n,2);a(f,"href",`${e??""}/scmp`);var g=s(f,2);a(g,"href",`${e??""}/thepudding`);var x=s(g,2);a(x,"href",`${e??""}/feed`);var u=s(x,2);a(u,"href",`${e??""}/month`),h(m),h(r),d(l,r)}export{B as component};

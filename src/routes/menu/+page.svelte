@@ -7,6 +7,7 @@
 
 <main>
 	<div class="grid">
+		<a href="{base}/" class="placeholder"><h1>Main</h1></a>
 		<a href="{base}/wp" class="placeholder">
 			<WP/>
 		</a>
@@ -21,6 +22,8 @@
 		</a>
 		<a href="{base}/scmp" class="placeholder"><h1>SCMP</h1></a>
 		<a href="{base}/thepudding" class="placeholder"><h1>The Pudding</h1></a>
+		<a href="{base}/feed" class="placeholder"><h1>IJ All.json</h1></a>
+		<a href="{base}/month" class="placeholder"><h1>IJ 30 days</h1></a>
 	</div>
 </main>
 
@@ -45,7 +48,7 @@
 
 	h1 {
 		font-family: 'Tiny5', serif;
-		font-size: 2.5rem;
+		font-size: 1.5rem;
 		opacity: 0.8;
 		text-align: center;
 	}

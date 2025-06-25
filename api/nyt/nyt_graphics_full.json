@@ -1,5 +1,37 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODc0ZmJkMTktY2E0My01ZjRmLTg5YTYtYWRiZDE4NWRiZWFl",
+    "headline": "Mideast Conflict Imperils a Tiny Waterway Vital to the World Economy",
+    "url": "https://www.nytimes.com/interactive/2025/06/25/business/energy-environment/strait-hormuz-oil.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-25T09:01:14.000Z",
+    "credits": [
+      {
+        "name": "Albert Sun",
+        "slug": "albert-sun"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      },
+      {
+        "name": "Rebecca F. Elliott",
+        "slug": "rebecca-f-elliott"
+      },
+      {
+        "name": "Peter Eavis",
+        "slug": "peter-eavis"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      }
+    ],
+    "description": "Every day, roughly one-fifth of the world’s oil supply squeezes through a narrow waterway on Iran’s southern border. It is one of the energy industry’s most important trading routes — and one of its most vulnerable.",
+    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-square320-v4.png",
+    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-facebookJumbo-v4.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjliMGVmZWMtMzZiOC01MzA2LWExZDQtMGRiYzc5Yzg2YTE5",
     "headline": "The Most Detailed Map of the N.Y.C. Mayoral Primary",
     "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/nyc-mayor-primary-results-precinct-map.html",

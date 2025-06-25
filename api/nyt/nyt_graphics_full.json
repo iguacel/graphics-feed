@@ -1,5 +1,77 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjliMGVmZWMtMzZiOC01MzA2LWExZDQtMGRiYzc5Yzg2YTE5",
+    "headline": "The Most Detailed Map of the N.Y.C. Mayoral Primary",
+    "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/nyc-mayor-primary-results-precinct-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-25T01:24:33.000Z",
+    "credits": [
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "Saurabh Datar",
+        "slug": "saurabh-datar"
+      },
+      {
+        "name": "Matthew Bloch",
+        "slug": "matthew-bloch"
+      },
+      {
+        "name": "Andrew Fischer",
+        "slug": "andrew-fischer"
+      },
+      {
+        "name": "Jon Huang",
+        "slug": "jon-huang"
+      }
+    ],
+    "description": "See neighborhood-level election results from the first round of the mayoral race.",
+    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-05-09-nyc-mayoral-primary-index/2025-05-09-nyc-mayoral-primary-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-05-09-nyc-mayoral-primary-index/2025-05-09-nyc-mayoral-primary-index-facebookJumbo-v3.png"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzRmMzczZDkwLTUzMGQtNWFjOS1iMmJlLTlmMzE2NmYzZjBjNA==",
+    "headline": "Did Iran or Israel Violate the Cease-Fire Overnight?",
+    "url": "https://www.nytimes.com/2025/06/24/world/middleeast/israel-iran-ceasefire-timeline.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-06-24T19:59:46.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Daniel Wood",
+        "slug": "daniel-wood"
+      }
+    ],
+    "description": "The period after President Trump announced the cease-fire was muddied by time zone differences, unclear wording in statements and continuing strikes.",
+    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-facebookJumbo-v3.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTRjZWQzY2MtYmFlNy01MGVjLTkzZGYtYTlmNDY1ZTIyYTVh",
+    "headline": "A Running List of Policies Rejected From the Republican Megabill",
+    "url": "https://www.nytimes.com/interactive/2025/06/24/upshot/reconciliation-byrd-bath.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-24T19:29:12.000Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      }
+    ],
+    "description": "So far, the parliamentarian has determined that dozens of provisions do not pass muster to be included.",
+    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/24up-capitol-building-ktql/24up-capitol-building-ktql-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/24up-capitol-building-ktql/24up-capitol-building-ktql-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGZmYmQyMzctNzY2OC01Nzg0LTkxOGItMTYyM2U4Zjc5N2Yw",
     "headline": "‘Unsafe to Inhabit’: The Toxic Homes of L.A.",
     "url": "https://www.nytimes.com/interactive/2025/06/24/realestate/los-angeles-fires-toxic-homes.html",

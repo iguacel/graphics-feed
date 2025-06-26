@@ -1,5 +1,47 @@
 [
   {
+    "id": "JRCTR6JBU5BJJLZTXAFZYIRLJ4",
+    "headline": "Immigrants drive population growth in a graying America, census shows",
+    "description": "Immigration is driving U.S. population growth, partially offsetting a broader demographic shift as baby boomers age, according to Census Bureau data.\n",
+    "url": "https://www.washingtonpost.com/nation/2025/06/26/baby-boom-aging-population-immigration/",
+    "credits": [
+      {
+        "name": "Marie Rose Sheinerman",
+        "slug": "marie-rose-sheinerman"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-06-26T04:01:00.115Z",
+    "img": "https://www.washingtonpost.com/resizer/CtYpOHKTX_I5Gplx82clPOKn7pU=/300x0/arc-anglerfish-washpost-prod-washpost/public/7TIVE6G444I6XIT7RMUUSMHJLM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/national/"
+    }
+  },
+  {
+    "id": "NKM4JUNK5FBB3CMMAJKGU5Q6S4",
+    "headline": "See how much NATO countries spend on defense and how that has changed ",
+    "description": "Many member countries would have to double defense spending by 2035 to meet new targets, charts show.",
+    "url": "https://www.washingtonpost.com/world/2025/06/25/nato-defense-spending-gpp-charts/",
+    "credits": [
+      {
+        "name": "Cate Brown",
+        "slug": "cate-brown"
+      },
+      {
+        "name": "Adrián Blanco Ramos",
+        "slug": "adrian-blanco"
+      }
+    ],
+    "date": "2025-06-25T21:31:33.980Z",
+    "img": "https://www.washingtonpost.com/resizer/aEzfj4y8y81ij-cYYsgqsNdUF1I=/300x0/arc-anglerfish-washpost-prod-washpost/public/6RVVYIH4GRVJ3YX67JC7LQMOFU.JPG",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/europe/"
+    }
+  },
+  {
     "id": "HYGVKJYTPNEJZAKBZTGQU3H7AQ",
     "headline": "How much will you save or lose with Trump’s ‘big’ tax bill?",
     "description": "How will Trump’s tax bill affect your finances? Check out its affects using this calculator.",

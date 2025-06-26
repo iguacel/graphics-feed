@@ -1,67 +1,23 @@
 [
   {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODc0ZmJkMTktY2E0My01ZjRmLTg5YTYtYWRiZDE4NWRiZWFl",
-    "headline": "Mideast Conflict Imperils a Tiny Waterway Vital to the World Economy",
-    "url": "https://www.nytimes.com/interactive/2025/06/25/business/energy-environment/strait-hormuz-oil.html",
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDQ1MDMyODgtYjFjMS01MWQ5LWE3MjgtODdjZDM3ZGRjYjFm",
+    "headline": "See Which Neighborhoods and Groups Drove Mamdani’s Success in the N.Y.C. Primary",
+    "url": "https://www.nytimes.com/interactive/2025/06/25/nyregion/nyc-mayor-election-results-map-mamdani-cuomo.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-25T09:01:14.000Z",
+    "date": "2025-06-25T20:19:10.000Z",
     "credits": [
       {
-        "name": "Albert Sun",
-        "slug": "albert-sun"
+        "name": "Keith Collins",
+        "slug": "keith-collins"
       },
       {
-        "name": "Josh Holder",
-        "slug": "josh-holder"
-      },
-      {
-        "name": "Rebecca F. Elliott",
-        "slug": "rebecca-f-elliott"
-      },
-      {
-        "name": "Peter Eavis",
-        "slug": "peter-eavis"
-      },
-      {
-        "name": "Samuel Granados",
-        "slug": "samuel-granados"
+        "name": "Nicholas Fandos",
+        "slug": "nicholas-fandos"
       }
     ],
-    "description": "Every day, roughly one-fifth of the world’s oil supply squeezes through a narrow waterway on Iran’s southern border. It is one of the energy industry’s most important trading routes — and one of its most vulnerable.",
-    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-square320-v4.png",
-    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-facebookJumbo-v4.png"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjliMGVmZWMtMzZiOC01MzA2LWExZDQtMGRiYzc5Yzg2YTE5",
-    "headline": "The Most Detailed Map of the N.Y.C. Mayoral Primary",
-    "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/nyc-mayor-primary-results-precinct-map.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-25T01:24:33.000Z",
-    "credits": [
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      },
-      {
-        "name": "Saurabh Datar",
-        "slug": "saurabh-datar"
-      },
-      {
-        "name": "Matthew Bloch",
-        "slug": "matthew-bloch"
-      },
-      {
-        "name": "Andrew Fischer",
-        "slug": "andrew-fischer"
-      },
-      {
-        "name": "Jon Huang",
-        "slug": "jon-huang"
-      }
-    ],
-    "description": "See neighborhood-level election results from the first round of the mayoral race.",
-    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-05-09-nyc-mayoral-primary-index/2025-05-09-nyc-mayoral-primary-index-square320-v3.png",
-    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-05-09-nyc-mayoral-primary-index/2025-05-09-nyc-mayoral-primary-index-facebookJumbo-v3.png"
+    "description": "A Times analysis shows where Zohran Mamdani has built a strong lead in the votes counted so far.",
+    "square_img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-06-04-mayor-primary-analysis-index/2025-06-04-mayor-primary-analysis-index-square320-v2.png",
+    "img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-06-04-mayor-primary-analysis-index/2025-06-04-mayor-primary-analysis-index-facebookJumbo-v3.png"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzRmMzczZDkwLTUzMGQtNWFjOS1iMmJlLTlmMzE2NmYzZjBjNA==",
@@ -104,30 +60,6 @@
     "img": "https://static01.nyt.com/images/2025/06/24/multimedia/24up-capitol-building-ktql/24up-capitol-building-ktql-facebookJumbo.jpg"
   },
   {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGZmYmQyMzctNzY2OC01Nzg0LTkxOGItMTYyM2U4Zjc5N2Yw",
-    "headline": "‘Unsafe to Inhabit’: The Toxic Homes of L.A.",
-    "url": "https://www.nytimes.com/interactive/2025/06/24/realestate/los-angeles-fires-toxic-homes.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-24T05:26:36.000Z",
-    "credits": [
-      {
-        "name": "Blacki Migliozzi",
-        "slug": "blacki-migliozzi"
-      },
-      {
-        "name": "Rukmini Callimachi",
-        "slug": "rukmini-callimachi"
-      },
-      {
-        "name": "K.K. Rebecca Lai",
-        "slug": "kk-rebecca-lai"
-      }
-    ],
-    "description": "After the fires clouded neighborhoods in smoke, residents whose homes were spared learned that danger was still lurking in the walls, the furniture and the air. But their insurers have doubts.",
-    "square_img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-square320-v13.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-facebookJumbo-v11.jpg"
-  },
-  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzU2NTM3MjY5LTA5ZmQtNThmZi1hNmI0LWE4Y2RkMDUxOGVjMw==",
     "headline": "The Israeli military escalated attacks on Tehran.",
     "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/the-israeli-military-escalated-attacks-on-tehran",
@@ -142,26 +74,6 @@
     "description": "The latest barrage hit a notorious prison in Iran and a building near a humanitarian aid facility.",
     "square_img": null,
     "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBlNTI4MGUtMWRiYS01YmYyLWFlMWMtZmY2YzE3YmFkMjlj",
-    "headline": "How Missile Defense Works (and Why It’s Hard)",
-    "url": "https://www.nytimes.com/interactive/2025/06/23/world/middleeast/us-qatar-iran-israel-missile-defense.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-23T20:34:46.000Z",
-    "credits": [
-      {
-        "name": "Agnes Chang",
-        "slug": "agnes-chang"
-      },
-      {
-        "name": "Samuel Granados",
-        "slug": "samuel-granados"
-      }
-    ],
-    "description": "Once a ballistic missile is fired into the air, a defender has only minutes to identify its precise trajectory and try to shoot it down. Even the world’s best defenses can’t always stop them.",
-    "square_img": "https://static01.nyt.com/images/2025/06/23/multimedia/2025-06-23-missile-defense-index/2025-06-23-missile-defense-index-square320.png",
-    "img": "https://static01.nyt.com/images/2025/06/23/multimedia/2025-06-23-missile-defense-index/2025-06-23-missile-defense-index-facebookJumbo.png"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2UwMWUwMGZlLTdjNzMtNThlZS05OGU5LTNjYTViNzIzOWRhMg==",
@@ -186,34 +98,6 @@
     "description": "Qatari officials said its air defenses had intercepted the missiles that were fired at Al Udeid Air Base.",
     "square_img": null,
     "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzExMzQ3MzMtNjE0Zi01N2EzLTg3MzEtMDA2MGQxZTY1ZWU5",
-    "headline": "The A.I. Race Is Splitting the World Into Haves and Have-Nots",
-    "url": "https://www.nytimes.com/interactive/2025/06/23/technology/ai-computing-global-divide.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-23T09:01:39.000Z",
-    "credits": [
-      {
-        "name": "Adam Satariano",
-        "slug": "adam-satariano"
-      },
-      {
-        "name": "Paul Mozur",
-        "slug": "paul-mozur"
-      },
-      {
-        "name": "Karl Russell",
-        "slug": "karl-russell"
-      },
-      {
-        "name": "June Kim",
-        "slug": "june-kim"
-      }
-    ],
-    "description": "As countries race to power artificial intelligence, a yawning gap is opening around the world.",
-    "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-06-ai-compute-regions-index/2025-05-06-ai-compute-regions-index-square320-v11.png",
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-06-ai-compute-regions-index/2025-05-06-ai-compute-regions-index-facebookJumbo-v12.png"
   },
   {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vY2IzYzI2YTItNTE0OC01NWQ2LWJjMGEtYjNmNzE3ZmY2NWY2",
@@ -286,70 +170,6 @@
     "description": "Ventilation shafts “are probably the most vulnerable points of the facility,” one expert said.",
     "square_img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-fordo-before-after-ventilation-shafts-index/2025-06-22-fordo-before-after-ventilation-shafts-index-square320-v3.jpg",
     "img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-fordo-before-after-ventilation-shafts-index/2025-06-22-fordo-before-after-ventilation-shafts-index-facebookJumbo-v3.jpg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzczMDU0M2UtOTIxMy01NzFmLThhMTUtNzJhY2E0M2ZmM2Vm",
-    "headline": "What Remains of U.S.A.I.D.?",
-    "url": "https://www.nytimes.com/interactive/2025/06/22/us/politics/usaid-foreign-aid-trump.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-22T09:00:22.000Z",
-    "credits": [
-      {
-        "name": "Amy Schoenfeld Walker",
-        "slug": "amy-schoenfeld-walker"
-      },
-      {
-        "name": "Malika Khurana",
-        "slug": "malika-khurana"
-      },
-      {
-        "name": "Christine Zhang",
-        "slug": "christine-zhang"
-      }
-    ],
-    "description": "The few hundred programs that survived DOGE’s purge reveal the future of foreign aid.",
-    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-square320-v11.png",
-    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-facebookJumbo-v12.png"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGU3NzNmZTQtN2RiNC01YzE2LTkwNzMtMGEyNWU1ZWQ4OTM4",
-    "headline": "Satellite Images Show Damage at Iranian Nuclear Sites",
-    "url": "https://www.nytimes.com/interactive/2025/06/22/world/middleeast/us-iran-nuclear-sites.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-22T05:36:34.000Z",
-    "credits": [
-      {
-        "name": "Leanne Abraham",
-        "slug": "leanne-abraham"
-      },
-      {
-        "name": "Ashley Cai",
-        "slug": "ashley-cai"
-      },
-      {
-        "name": "Agnes Chang",
-        "slug": "agnes-chang"
-      },
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Josh Holder",
-        "slug": "josh-holder"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Amy Schoenfeld Walker",
-        "slug": "amy-schoenfeld-walker"
-      }
-    ],
-    "description": "A Times analysis shows the extent of the U.S. strikes’ impact on the three nuclear sites.",
-    "square_img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-square320-v11.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-facebookJumbo-v9.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1YjczZjMyLWYyM2QtNTBiNS1hNTgzLTg1NmY2YjY3NDQ0ZQ==",
@@ -434,34 +254,6 @@
     "description": "Thousands of U.S. troops stationed in the Middle East are within striking distance of ballistic missiles Iran has stockpiled.",
     "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-square320-v5.jpg",
     "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2IwNWQwN2MtNDRlZS01YjkwLThjZTktOWQyNTY2N2RiNDYw",
-    "headline": "A Long Way Down: What It Takes to Hit Iran’s Deepest Nuclear Site",
-    "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-20T09:08:01.000Z",
-    "credits": [
-      {
-        "name": "Samuel Granados",
-        "slug": "samuel-granados"
-      },
-      {
-        "name": "Junho Lee",
-        "slug": "junho-lee"
-      },
-      {
-        "name": "Jeremy White",
-        "slug": "jeremy-white"
-      },
-      {
-        "name": "Leanne Abraham",
-        "slug": "leanne-abraham"
-      }
-    ],
-    "description": "President Trump says he’s considering attacking Iran’s underground nuclear site. Here’s what that might look like.",
-    "square_img": "https://static01.nyt.com/images/2025/06/19/multimedia/2025-06-17-fordo-index/2025-06-17-fordo-index-square320-v18.png",
-    "img": "https://static01.nyt.com/images/2025/06/19/multimedia/2025-06-17-fordo-index/2025-06-17-fordo-index-facebookJumbo-v17.png"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2IzMTcyYmVhLWM1MDgtNWViMy1hZjRkLWFjZGI2MWRiY2QxYQ==",
@@ -614,6 +406,234 @@
     "description": "No description available",
     "square_img": "https://static01.nyt.com/images/2025/06/16/multimedia/saadat-abad-graphics-gflv/saadat-abad-graphics-gflv-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/06/16/multimedia/saadat-abad-graphics-gflv/saadat-abad-graphics-gflv-facebookJumbo.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODc0ZmJkMTktY2E0My01ZjRmLTg5YTYtYWRiZDE4NWRiZWFl",
+    "headline": "Mideast Conflict Imperils a Tiny Waterway Vital to the World Economy",
+    "url": "https://www.nytimes.com/interactive/2025/06/25/business/energy-environment/strait-hormuz-oil.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-25T09:01:14.000Z",
+    "credits": [
+      {
+        "name": "Albert Sun",
+        "slug": "albert-sun"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      },
+      {
+        "name": "Rebecca F. Elliott",
+        "slug": "rebecca-f-elliott"
+      },
+      {
+        "name": "Peter Eavis",
+        "slug": "peter-eavis"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      }
+    ],
+    "description": "Every day, roughly one-fifth of the world’s oil supply squeezes through a narrow waterway on Iran’s southern border. It is one of the energy industry’s most important trading routes — and one of its most vulnerable.",
+    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-square320-v4.png",
+    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-facebookJumbo-v4.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjliMGVmZWMtMzZiOC01MzA2LWExZDQtMGRiYzc5Yzg2YTE5",
+    "headline": "The Most Detailed Map of the N.Y.C. Mayoral Primary",
+    "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/nyc-mayor-primary-results-precinct-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-25T01:24:33.000Z",
+    "credits": [
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "Saurabh Datar",
+        "slug": "saurabh-datar"
+      },
+      {
+        "name": "Matthew Bloch",
+        "slug": "matthew-bloch"
+      },
+      {
+        "name": "Andrew Fischer",
+        "slug": "andrew-fischer"
+      },
+      {
+        "name": "Jon Huang",
+        "slug": "jon-huang"
+      }
+    ],
+    "description": "See neighborhood-level election results from the first round of the mayoral race.",
+    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-05-09-nyc-mayoral-primary-index/2025-05-09-nyc-mayoral-primary-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-05-09-nyc-mayoral-primary-index/2025-05-09-nyc-mayoral-primary-index-facebookJumbo-v3.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGZmYmQyMzctNzY2OC01Nzg0LTkxOGItMTYyM2U4Zjc5N2Yw",
+    "headline": "‘Unsafe to Inhabit’: The Toxic Homes of L.A.",
+    "url": "https://www.nytimes.com/interactive/2025/06/24/realestate/los-angeles-fires-toxic-homes.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-24T05:26:36.000Z",
+    "credits": [
+      {
+        "name": "Blacki Migliozzi",
+        "slug": "blacki-migliozzi"
+      },
+      {
+        "name": "Rukmini Callimachi",
+        "slug": "rukmini-callimachi"
+      },
+      {
+        "name": "K.K. Rebecca Lai",
+        "slug": "kk-rebecca-lai"
+      }
+    ],
+    "description": "After the fires clouded neighborhoods in smoke, residents whose homes were spared learned that danger was still lurking in the walls, the furniture and the air. But their insurers have doubts.",
+    "square_img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-square320-v13.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-facebookJumbo-v11.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBlNTI4MGUtMWRiYS01YmYyLWFlMWMtZmY2YzE3YmFkMjlj",
+    "headline": "How Missile Defense Works (and Why It’s Hard)",
+    "url": "https://www.nytimes.com/interactive/2025/06/23/world/middleeast/us-qatar-iran-israel-missile-defense.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-23T20:34:46.000Z",
+    "credits": [
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      }
+    ],
+    "description": "Once a ballistic missile is fired into the air, a defender has only minutes to identify its precise trajectory and try to shoot it down. Even the world’s best defenses can’t always stop them.",
+    "square_img": "https://static01.nyt.com/images/2025/06/23/multimedia/2025-06-23-missile-defense-index/2025-06-23-missile-defense-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/06/23/multimedia/2025-06-23-missile-defense-index/2025-06-23-missile-defense-index-facebookJumbo.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzExMzQ3MzMtNjE0Zi01N2EzLTg3MzEtMDA2MGQxZTY1ZWU5",
+    "headline": "The A.I. Race Is Splitting the World Into Haves and Have-Nots",
+    "url": "https://www.nytimes.com/interactive/2025/06/23/technology/ai-computing-global-divide.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-23T09:01:39.000Z",
+    "credits": [
+      {
+        "name": "Adam Satariano",
+        "slug": "adam-satariano"
+      },
+      {
+        "name": "Paul Mozur",
+        "slug": "paul-mozur"
+      },
+      {
+        "name": "Karl Russell",
+        "slug": "karl-russell"
+      },
+      {
+        "name": "June Kim",
+        "slug": "june-kim"
+      }
+    ],
+    "description": "As countries race to power artificial intelligence, a yawning gap is opening around the world.",
+    "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-06-ai-compute-regions-index/2025-05-06-ai-compute-regions-index-square320-v11.png",
+    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-06-ai-compute-regions-index/2025-05-06-ai-compute-regions-index-facebookJumbo-v12.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzczMDU0M2UtOTIxMy01NzFmLThhMTUtNzJhY2E0M2ZmM2Vm",
+    "headline": "What Remains of U.S.A.I.D.?",
+    "url": "https://www.nytimes.com/interactive/2025/06/22/us/politics/usaid-foreign-aid-trump.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-22T09:00:22.000Z",
+    "credits": [
+      {
+        "name": "Amy Schoenfeld Walker",
+        "slug": "amy-schoenfeld-walker"
+      },
+      {
+        "name": "Malika Khurana",
+        "slug": "malika-khurana"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      }
+    ],
+    "description": "The few hundred programs that survived DOGE’s purge reveal the future of foreign aid.",
+    "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-square320-v11.png",
+    "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-facebookJumbo-v12.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGU3NzNmZTQtN2RiNC01YzE2LTkwNzMtMGEyNWU1ZWQ4OTM4",
+    "headline": "Satellite Images Show Damage at Iranian Nuclear Sites",
+    "url": "https://www.nytimes.com/interactive/2025/06/22/world/middleeast/us-iran-nuclear-sites.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-22T05:36:34.000Z",
+    "credits": [
+      {
+        "name": "Leanne Abraham",
+        "slug": "leanne-abraham"
+      },
+      {
+        "name": "Ashley Cai",
+        "slug": "ashley-cai"
+      },
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Amy Schoenfeld Walker",
+        "slug": "amy-schoenfeld-walker"
+      }
+    ],
+    "description": "A Times analysis shows the extent of the U.S. strikes’ impact on the three nuclear sites.",
+    "square_img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-square320-v11.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-facebookJumbo-v9.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2IwNWQwN2MtNDRlZS01YjkwLThjZTktOWQyNTY2N2RiNDYw",
+    "headline": "A Long Way Down: What It Takes to Hit Iran’s Deepest Nuclear Site",
+    "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-20T09:08:01.000Z",
+    "credits": [
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Junho Lee",
+        "slug": "junho-lee"
+      },
+      {
+        "name": "Jeremy White",
+        "slug": "jeremy-white"
+      },
+      {
+        "name": "Leanne Abraham",
+        "slug": "leanne-abraham"
+      }
+    ],
+    "description": "President Trump says he’s considering attacking Iran’s underground nuclear site. Here’s what that might look like.",
+    "square_img": "https://static01.nyt.com/images/2025/06/19/multimedia/2025-06-17-fordo-index/2025-06-17-fordo-index-square320-v18.png",
+    "img": "https://static01.nyt.com/images/2025/06/19/multimedia/2025-06-17-fordo-index/2025-06-17-fordo-index-facebookJumbo-v17.png"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzMwYjZmYjdhLTI3ZTAtNTNhOS1hZmQ1LWQ0M2Q4MjMzMTFlZQ==",

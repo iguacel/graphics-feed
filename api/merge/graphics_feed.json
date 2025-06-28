@@ -1,5 +1,52 @@
 [
   {
+    "id": "FXLKE2TUPZCI3OM6IGR7JO2LEY",
+    "headline": "Senate excludes trillions in debt to make Trump’s tax bill seem cheaper",
+    "description": "Traditional estimates say that Trump’s tax package will add about $4 trillion to the national debt. Senate Republicans have slashed that number by changing the way Congress does its accounting.",
+    "url": "https://www.washingtonpost.com/business/2025/06/28/senate-big-beautiful-bill-cost-trump/",
+    "credits": [
+      {
+        "name": "Alyssa Fowers",
+        "slug": "alyssa-fowers"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      }
+    ],
+    "date": "2025-06-28T10:00:54.467Z",
+    "img": "https://www.washingtonpost.com/resizer/csqO-eBcAscYSh7EI21tzMIfRzM=/300x0/arc-anglerfish-washpost-prod-washpost/public/K6JTLOUENVHQHLYHOJTKY7S5UU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/economy/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzExNzlkOTA3LWYxNDctNTdiZC1iMTI5LTEwNTFhZDk5NzEyMA==",
+    "headline": "A Triumphant Supreme Court Term for Trump, Fueled by Emergency Rulings",
+    "url": "https://www.nytimes.com/2025/06/28/us/supreme-court-trump-victories.html",
+    "label": "https://www.nytimes.com/us/",
+    "date": "2025-06-28T09:01:55.000Z",
+    "credits": [
+      {
+        "name": "Adam Liptak",
+        "slug": "adam-liptak"
+      },
+      {
+        "name": "Abbie VanSickle",
+        "slug": "abbie-vansickle"
+      },
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      }
+    ],
+    "description": "Using truncated procedures, the six-justice conservative majority gave a green light to many of the president’s most assertive initiatives.",
+    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2I4NTJmZWYtYzhjOS01NTU5LWJjOWItMzM0ODY1ZGExMmE2",
     "headline": "What Visual and Audio Evidence Reveals About the Air India Crash",
     "url": "https://www.nytimes.com/interactive/2025/06/27/world/asia/air-india-crash-cause.html",
@@ -74,8 +121,8 @@
       }
     ],
     "description": "A look at some of the key provisions in Republicans' domestic policy bill and where the two chambers are divided.",
-    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-square320.png",
-    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-facebookJumbo.png",
+    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-square320-v2.png",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-facebookJumbo-v3.png",
     "medium": "NYT"
   },
   {
@@ -2431,26 +2478,6 @@
       }
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw2U6xvQLIPo/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "SWYROGT1UM0W00",
-    "headline": "Mexico’s Judicial Reform Is Now In the Hands of Confused Voters",
-    "url": "https://www.bloomberg.com/news/features/2025-05-28/mexico-to-vote-for-federal-supreme-court-judges-in-sheinbaum-backed-election?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/news/",
-    "date": "2025-05-28T09:00:16.286Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Maya Averbuch",
-        "slug": "maya-averbuch"
-      },
-      {
-        "name": "Alex Vasquez",
-        "slug": "alex-vasquez"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwlfojSWZnjE/v1/-1x-1.webp",
     "medium": "Bloomberg"
   }
 ]

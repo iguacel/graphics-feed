@@ -1,5 +1,149 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2I4NTJmZWYtYzhjOS01NTU5LWJjOWItMzM0ODY1ZGExMmE2",
+    "headline": "What Visual and Audio Evidence Reveals About the Air India Crash",
+    "url": "https://www.nytimes.com/interactive/2025/06/27/world/asia/air-india-crash-cause.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-28T03:52:49.000Z",
+    "credits": [
+      {
+        "name": "Mika Gröndahl",
+        "slug": "mika-grondahl"
+      },
+      {
+        "name": "Zach Levitt",
+        "slug": "zach-levitt"
+      },
+      {
+        "name": "Karthik Patanjali",
+        "slug": "karthik-patanjali"
+      }
+    ],
+    "description": "Photos, videos and flight tracking data reveal what happened before the flight crashed less than a minute after taking off.",
+    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-20-india-crash-clues-index/2025-06-20-india-crash-clues-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-20-india-crash-clues-index/2025-06-20-india-crash-clues-index-facebookJumbo-v3.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTkyNmE4YTgtMzI2NS01MTRmLTgwYjMtM2I4ZDUwYTA2ZDMy",
+    "headline": "How Every Senator Voted on the Iran War Powers Resolution",
+    "url": "https://www.nytimes.com/interactive/2025/06/27/us/senate-war-powers-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-28T00:04:32.000Z",
+    "credits": [
+      {
+        "name": "Robert Jimison",
+        "slug": "robert-jimison"
+      }
+    ],
+    "description": "The Senate voted 53 to 47 to reject a resolution to block the president’s use of force against Iran without congressional approval.",
+    "square_img": "https://static01.nyt.com/images/2025/06/23/us/senate-war-powers-vote-1751054242699/senate-war-powers-vote-1751054242699-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/23/us/senate-war-powers-vote-1751054242699/senate-war-powers-vote-1751054242699-facebookJumbo.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYTM1ZTk0NmQtOWRiMi01MWVlLTkwMGEtZDhjYzRmNmEyNjU4",
+    "headline": "Comparing How the House and Senate Bills Deliver on Trump’s Agenda",
+    "url": "https://www.nytimes.com/interactive/2025/06/27/us/politics/house-senate-bill-trump-agenda-comparison.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-27T22:13:56.000Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Andrew Duehren",
+        "slug": "andrew-duehren"
+      },
+      {
+        "name": "Brad Plumer",
+        "slug": "brad-plumer"
+      },
+      {
+        "name": "Tony Romm",
+        "slug": "tony-romm"
+      },
+      {
+        "name": "Margot Sanger-Katz",
+        "slug": "margot-sanger-katz"
+      },
+      {
+        "name": "Michael Gold",
+        "slug": "michael-gold"
+      }
+    ],
+    "description": "A look at some of the key provisions in Republicans' domestic policy bill and where the two chambers are divided.",
+    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-facebookJumbo.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTE1YjE3YTItZGVhOC01ZTM2LWJhNjctZDNhZmVmMTExMjYy",
+    "headline": "Room for One More on Mount Rushmore? (The President Wants to Know.)",
+    "url": "https://www.nytimes.com/interactive/2025/06/27/us/mount-rushmore-trump.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-27T21:09:15.000Z",
+    "credits": [
+      {
+        "name": "John Branch",
+        "slug": "john-branch"
+      },
+      {
+        "name": "Jeremy White",
+        "slug": "jeremy-white"
+      }
+    ],
+    "description": "Let’s review how we got here, and closely examine what the rock would allow.",
+    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-04-08-mt-rushmore-index/2025-04-08-mt-rushmore-index-square320-v9.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-04-08-mt-rushmore-index/2025-04-08-mt-rushmore-index-facebookJumbo-v9.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZWE1MDkwYTMtMGMyNy01NDA1LTllYTAtMDhhZWMxYjNmYzU4",
+    "headline": "12 Days of Attacks Later, Could Iran Make an Atomic Bomb?",
+    "url": "https://www.nytimes.com/interactive/2025/06/27/world/middleeast/iran-us-nuclear-weapons.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-27T20:40:53.000Z",
+    "credits": [
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
+      },
+      {
+        "name": "Pablo Robles",
+        "slug": "pablo-robles"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      },
+      {
+        "name": "William J. Broad",
+        "slug": "william-j-broad"
+      },
+      {
+        "name": "David E. Sanger",
+        "slug": "david-e-sanger"
+      }
+    ],
+    "description": "How an atomic weapon is built, and what the recent Israeli and U.S. attacks on Iran may mean for the country’s nuclear ambitions.",
+    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-24-iran-nuclear-bomb-index/2025-06-24-iran-nuclear-bomb-index-square320-v7.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-24-iran-nuclear-bomb-index/2025-06-24-iran-nuclear-bomb-index-facebookJumbo-v7.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmVjODBhMGItZjZkYi01NTc3LWFiOGItZGE3OTQ5NTk2NDM2",
+    "headline": "Immigration Arrests Are Up Sharply in Every State. Here Are the Numbers.",
+    "url": "https://www.nytimes.com/interactive/2025/06/27/us/ice-arrests-trump.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-06-27T18:39:08.000Z",
+    "credits": [
+      {
+        "name": "Albert Sun",
+        "slug": "albert-sun"
+      }
+    ],
+    "description": "Some states have seen immigration enforcement more than triple since President Trump took office, new data shows.",
+    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-ice-arrests-index/2025-06-23-ice-arrests-index-square320-v6.png",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-ice-arrests-index/2025-06-23-ice-arrests-index-facebookJumbo-v6.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDQ1MDMyODgtYjFjMS01MWQ5LWE3MjgtODdjZDM3ZGRjYjFm",
     "headline": "See Which Neighborhoods and Groups Drove Mamdani’s Success in the N.Y.C. Primary",
     "url": "https://www.nytimes.com/interactive/2025/06/25/nyregion/nyc-mayor-election-results-map-mamdani-cuomo.html",

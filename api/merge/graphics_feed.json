@@ -1,5 +1,31 @@
 [
   {
+    "id": "NMBGFE6TMFHDFEHX222OAPNH6A",
+    "headline": "Eight charts that explain the Supreme Court’s term",
+    "description": "Numbers illustrate the term’s key themes and decisions. ",
+    "url": "https://www.washingtonpost.com/politics/2025/06/28/supreme-court-2024-term-takeaways/",
+    "credits": [
+      {
+        "name": "Justin Jouvenal",
+        "slug": "justin-jouvenal"
+      },
+      {
+        "name": "Derek Hawkins",
+        "slug": "derek-hawkins"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      }
+    ],
+    "date": "2025-06-28T16:49:35.331Z",
+    "img": "https://www.washingtonpost.com/resizer/dr8maSr-uz8ejXdHDH4GH9eulr8=/300x0/arc-anglerfish-washpost-prod-washpost/public/WQOZYZT63VEE7LL2EAP3JDG254.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/courts-law/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "FXLKE2TUPZCI3OM6IGR7JO2LEY",
     "headline": "Senate excludes trillions in debt to make Trump’s tax bill seem cheaper",
     "description": "Traditional estimates say that Trump’s tax package will add about $4 trillion to the national debt. Senate Republicans have slashed that number by changing the way Congress does its accounting.",
@@ -2455,29 +2481,5 @@
       "url": "https://www.washingtonpost.com/health/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SWZP0FT0G1KW00",
-    "headline": "Cancer Drugs Cost More Than Ever. They Often Don't Extend Lives",
-    "url": "https://www.bloomberg.com/graphics/2025-cancer-treatment-costs/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-05-28T21:00:15.472Z",
-    "description": "Pharmaceutical companies are making billions on treatments that can sometimes overpromise and underdeliver for terminal cases.",
-    "credits": [
-      {
-        "name": "Robert Langreth",
-        "slug": "robert-langreth"
-      },
-      {
-        "name": "Tanaz Meghjani",
-        "slug": "tanaz-meghjani"
-      },
-      {
-        "name": "Rachael Dottle",
-        "slug": "rachael-dottle"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw2U6xvQLIPo/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

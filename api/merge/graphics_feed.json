@@ -182,7 +182,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTE1YjE3YTItZGVhOC01ZTM2LWJhNjctZDNhZmVmMTExMjYy",
-    "headline": "Should (or Could) Trump Be Added to Mount Rushmore?",
+    "headline": "Room for One More on Mount Rushmore? (The President Wants to Know.)",
     "url": "https://www.nytimes.com/interactive/2025/06/27/us/mount-rushmore-trump.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-27T21:09:15.000Z",
@@ -1040,7 +1040,7 @@
     ],
     "description": "The aircraft can carry the bunker-buster bombs that would be necessary to penetrate the Fordo underground nuclear site in Iran.",
     "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
+    "img": null,
     "medium": "NYT"
   },
   {
@@ -2458,35 +2458,5 @@
     "square_img": "https://static01.nyt.com/images/2025/06/02/upshot/up-gertrude-full/up-gertrude-full-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/06/02/upshot/up-gertrude-full/up-gertrude-full-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "H37RDUGJA5DX3OHEO3HX2DRVYQ",
-    "headline": "The MAHA Report’s AI fingerprints, annotated",
-    "description": "The Post reviewed the more than 500 citations in the MAHA Report. Here are the patterns of AI use we found.",
-    "url": "https://www.washingtonpost.com/health/2025/05/30/maha-report-ai-white-house/",
-    "credits": [
-      {
-        "name": "Caitlin Gilbert",
-        "slug": "caitlin-gilbert"
-      },
-      {
-        "name": "Emily Wright",
-        "slug": "emily-wright"
-      },
-      {
-        "name": "Fenit Nirappil",
-        "slug": "fenit-nirappil"
-      },
-      {
-        "name": "Lauren Weber",
-        "slug": "lauren-weber"
-      }
-    ],
-    "date": "2025-05-31T00:30:33.523Z",
-    "img": "https://www.washingtonpost.com/resizer/qw6mblAP3KgxEUxlPJZXsRDsVjw=/300x0/arc-anglerfish-washpost-prod-washpost/public/LOINR5J5GRB2NO7DEMLYC6RF3I.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/health/"
-    },
-    "medium": "WP"
   }
 ]

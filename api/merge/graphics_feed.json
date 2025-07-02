@@ -1,5 +1,72 @@
 [
   {
+    "id": "6MZ5ME2BPFGBFPDGC7WAXTYXGQ",
+    "headline": "How every senator voted on the reconciliation bill",
+    "description": "See how each senator voted. ",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/07/01/senate-big-beautiful-bill-vote-count/",
+    "credits": [
+      {
+        "name": "Kati Perry",
+        "slug": "kati-perry"
+      },
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-07-01T16:59:47.271Z",
+    "img": "https://www.washingtonpost.com/resizer/wQPreoQvdojlDLjAF3kbjNq7OzE=/300x0/arc-anglerfish-washpost-prod-washpost/public/M6AAJEBSWJCAPC26DEK6KRYAEU.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmE4YzJkODgtZDNjYS01ZmQxLThhYjQtOGNjNDYwOWJhNjc1",
+    "headline": "How Every Senator Voted on the G.O.P. Megabill",
+    "url": "https://www.nytimes.com/interactive/2025/07/01/us/senate-megabill-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-01T15:40:49.000Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      },
+      {
+        "name": "Karen Yourish",
+        "slug": "karen-yourish"
+      },
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "Jon Huang",
+        "slug": "jon-huang"
+      }
+    ],
+    "description": "The Senate voted 51 to 50 to pass President Trump’s sweeping domestic policy package.",
+    "square_img": "https://static01.nyt.com/images/2025/06/23/us/senate-megabill-vote-1751226857670/senate-megabill-vote-1751226857670-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/23/us/senate-megabill-vote-1751226857670/senate-megabill-vote-1751226857670-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTkwMDEzOGUtYTIwZi01YjE0LTgwYjQtMmVmY2I0YTM4NzVh",
     "headline": "A List of Nearly Everything in the Senate G.O.P. Bill, and How Much It Would Cost or Save",
     "url": "https://www.nytimes.com/interactive/2025/06/30/upshot/senate-republican-megabill.html",
@@ -176,8 +243,8 @@
       }
     ],
     "description": "A look at some of the key provisions in Republicans' domestic policy bill and where the two chambers are divided.",
-    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-square320-v2.png",
-    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-facebookJumbo-v3.png",
+    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-facebookJumbo-v4.png",
     "medium": "NYT"
   },
   {
@@ -2424,39 +2491,6 @@
     "description": "Videos and satellite imagery show how the attack unfolded and its aftermath.",
     "square_img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-square320-v3.jpg",
     "img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-facebookJumbo-v3.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "CYDnHZ3f5q",
-    "headline": "Death stranding: why marine mammals wash ashore in Hong Kong",
-    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3312243/marine-life-stranding/",
-    "label": "https://www.scmp.com/hong_kong/",
-    "date": "2025-06-02T00:00:00.000Z",
-    "description": "Discover what is taking a toll on dolphins, porpoises and whales in this special visual explainer.",
-    "credits": [
-      {
-        "name": "Davies Christian Surya",
-        "slug": "davies-christian-surya"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3312243/marine-life-stranding/img/cover.jpg",
-    "medium": "SCMP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDljNzEyMDktNzIyNi01ZWI4LTg3YjEtNmM1YTExNTFjZGM4",
-    "headline": "10-Minute Challenge: A Surrealist Scene by Gertrude Abercrombie",
-    "url": "https://www.nytimes.com/interactive/2025/06/01/upshot/ten-minute-challenge-abercrombie.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-01T23:52:16.000Z",
-    "credits": [
-      {
-        "name": "Larry Buchanan",
-        "slug": "larry-buchanan"
-      }
-    ],
-    "description": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
-    "square_img": "https://static01.nyt.com/images/2025/06/02/upshot/up-gertrude-full/up-gertrude-full-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/02/upshot/up-gertrude-full/up-gertrude-full-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

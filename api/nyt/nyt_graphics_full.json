@@ -1,5 +1,45 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmE4YzJkODgtZDNjYS01ZmQxLThhYjQtOGNjNDYwOWJhNjc1",
+    "headline": "How Every Senator Voted on the G.O.P. Megabill",
+    "url": "https://www.nytimes.com/interactive/2025/07/01/us/senate-megabill-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-01T15:40:49.000Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      },
+      {
+        "name": "Karen Yourish",
+        "slug": "karen-yourish"
+      },
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "Jon Huang",
+        "slug": "jon-huang"
+      }
+    ],
+    "description": "The Senate voted 51 to 50 to pass President Trump’s sweeping domestic policy package.",
+    "square_img": "https://static01.nyt.com/images/2025/06/23/us/senate-megabill-vote-1751226857670/senate-megabill-vote-1751226857670-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/23/us/senate-megabill-vote-1751226857670/senate-megabill-vote-1751226857670-facebookJumbo.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTkwMDEzOGUtYTIwZi01YjE0LTgwYjQtMmVmY2I0YTM4NzVh",
     "headline": "A List of Nearly Everything in the Senate G.O.P. Bill, and How Much It Would Cost or Save",
     "url": "https://www.nytimes.com/interactive/2025/06/30/upshot/senate-republican-megabill.html",
@@ -124,8 +164,8 @@
       }
     ],
     "description": "A look at some of the key provisions in Republicans' domestic policy bill and where the two chambers are divided.",
-    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-square320-v2.png",
-    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-facebookJumbo-v3.png"
+    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-bbb-comparisons-index/2025-06-23-bbb-comparisons-index-facebookJumbo-v4.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTE1YjE3YTItZGVhOC01ZTM2LWJhNjctZDNhZmVmMTExMjYy",

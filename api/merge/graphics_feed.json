@@ -2488,34 +2488,5 @@
     "square_img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-05-16-nyc-mayor-messaging-index/2025-05-16-nyc-mayor-messaging-index-square320-v4.png",
     "img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-05-16-nyc-mayor-messaging-index/2025-05-16-nyc-mayor-messaging-index-facebookJumbo-v5.png",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjFjZjcxNmUtOGFkNC01Yjk4LWI2NTEtNTIwZGE2NGIwYjQ5",
-    "headline": "Ukraine Hid Attack Drones in Russia. These Videos Show What Happened Next.",
-    "url": "https://www.nytimes.com/interactive/2025/06/02/world/europe/ukraine-russia-drone-attacks.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-03T01:05:48.000Z",
-    "credits": [
-      {
-        "name": "Devon Lum",
-        "slug": "devon-lum"
-      },
-      {
-        "name": "Zach Levitt",
-        "slug": "zach-levitt"
-      },
-      {
-        "name": "Christoph Koettl",
-        "slug": "christoph-koettl"
-      },
-      {
-        "name": "Dmitriy Khavin",
-        "slug": "dmitriy-khavin"
-      }
-    ],
-    "description": "Videos and satellite imagery show how the attack unfolded and its aftermath.",
-    "square_img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-facebookJumbo-v3.jpg",
-    "medium": "NYT"
   }
 ]

@@ -1,5 +1,218 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvM2M0MzMwNTAtODA1Mi01YjIwLTkxNWMtMDkwZjlhMjBhOGE3",
+    "headline": "How Will Trump’s Big Bill Affect Your Wallet?",
+    "url": "https://www.nytimes.com/interactive/2025/business/trump-tax-bill-personal-finances.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-03T19:02:19.000Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Christine Zhang",
+        "slug": "christine-zhang"
+      },
+      {
+        "name": "Ron Lieber",
+        "slug": "ron-lieber"
+      },
+      {
+        "name": "Tara Siegel Bernard",
+        "slug": "tara-siegel-bernard"
+      }
+    ],
+    "description": "The wide-ranging domestic policy legislation could impact your taxes, clean energy choices, health care access and more.",
+    "square_img": "https://static01.nyt.com/images/2025/07/02/multimedia/2025-06-06-bbb-questions-index/2025-06-06-bbb-questions-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/02/multimedia/2025-06-06-bbb-questions-index/2025-06-06-bbb-questions-index-facebookJumbo-v3.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q4Yzc4NGRkLWQxMTUtNTQ3OS1iYzdkLTc2N2JhY2U4MGI5OQ==",
+    "headline": "9 Questions About the Republican Megabill, Answered",
+    "url": "https://www.nytimes.com/2025/07/03/upshot/republican-bill-faq.html",
+    "label": "https://www.nytimes.com/upshot/",
+    "date": "2025-07-03T19:00:58.000Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Margot Sanger-Katz",
+        "slug": "margot-sanger-katz"
+      }
+    ],
+    "description": "Who benefits, and who gets hurt? How much does it really add to the debt? And what’s the deal with Alaska?",
+    "square_img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "6TGXF6FTKRELRMK3HSKJOGJOJU",
+    "headline": "How every House member voted on Trump’s big tax bill",
+    "description": "See how every lawmaker voted.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/07/03/house-vote-trump-tax-bill/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Szu Yu  Chen",
+        "slug": "szuyu-chen"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-07-03T18:55:03.074Z",
+    "img": "https://www.washingtonpost.com/resizer/f-_Zbjne92pHO2jmc2td2MZYeg4=/300x0/arc-anglerfish-washpost-prod-washpost/public/C7OXDNJM4ZCSVH7A4Y4RPFDKII.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjMxYWYyODUtZGViOS01NjFlLWI4ZTQtNWY5MzhhYWY2YTYy",
+    "headline": "See How Each House Member Voted on the President’s Policy Bill",
+    "url": "https://www.nytimes.com/interactive/2025/07/03/us/house-megabill-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-03T17:38:54.000Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      },
+      {
+        "name": "Martín González Gómez",
+        "slug": "martin-gonzalez-gomez"
+      },
+      {
+        "name": "Ashley Cai",
+        "slug": "ashley-cai"
+      },
+      {
+        "name": "Karen Yourish",
+        "slug": "karen-yourish"
+      },
+      {
+        "name": "Ani Matevosian",
+        "slug": "ani-matevosian"
+      }
+    ],
+    "description": "The House voted 218 to 214 to pass President Trump’s sweeping domestic policy package.",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/us/house-megabill-vote-1751471536517/house-megabill-vote-1751471536517-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/us/house-megabill-vote-1751471536517/house-megabill-vote-1751471536517-facebookJumbo-v5.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "CB7MQ2EMCBFWTJ3NDHHCS7JIDY",
+    "headline": "ICE increasingly targets undocumented migrants with no criminal record ",
+    "description": "ICE officers are ramping up arrests. But the share of detained migrants with a criminal conviction has been declining. ",
+    "url": "https://www.washingtonpost.com/immigration/2025/07/03/ice-arrests-migrants-criminal-record-numbers/",
+    "credits": [
+      {
+        "name": "Emmanuel  Martinez",
+        "slug": "emmanuel-martinez"
+      },
+      {
+        "name": "Marianne LeVine",
+        "slug": "marianne-levine"
+      },
+      {
+        "name": "Álvaro Valiño",
+        "slug": "álvaro-valiño"
+      }
+    ],
+    "date": "2025-07-03T16:17:42.797Z",
+    "img": "https://www.washingtonpost.com/resizer/cn5rwqqKZnabdIG8rvleaUb7Mcw=/300x0/arc-anglerfish-washpost-prod-washpost/public/FJXNCNGNIBGAJD6GTQC2ZP4L6U.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/local/immigration/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "0a822507-1c9e-48d6-afc5-aecd6029258f",
+    "headline": "Lionel Messi’s free kick: Magic in motion",
+    "description": "Lionel Messi and Cristiano Ronaldo, two of soccer’s biggest stars, have different approaches to one of the game’s most tense moments. Here’s a closer look.",
+    "url": "https://www.washingtonpost.com/video/sports/lionel-messis-free-kick-magic-in-motion/2025/07/03/0a822507-1c9e-48d6-afc5-aecd6029258f_video.html",
+    "credits": [
+      {
+        "name": "Luis  Velarde",
+        "slug": "luis-velarde"
+      },
+      {
+        "name": "William Neff",
+        "slug": "william-neff"
+      }
+    ],
+    "date": "2025-07-03T16:07:09.000Z",
+    "img": "https://d1i4t8bqe7zgj6.cloudfront.net/07-03-2025/t_8494d200fb14480eb8fc8d6546117b15_name_Reel_00_03_39_11_Still014__1_.jpg",
+    "label": {},
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTdkZDM4ZjctMDNjYS01MDY2LWE1YTUtMjZiNDBkZjczODg1",
+    "headline": "How Syria’s Dictator Buried His Victims",
+    "url": "https://www.nytimes.com/interactive/2025/07/03/world/middleeast/syria-mass-grave-assad-regime.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-03T15:39:36.000Z",
+    "credits": [
+      {
+        "name": "Charlie Smart",
+        "slug": "charlie-smart"
+      },
+      {
+        "name": "Anjali Singhvi",
+        "slug": "anjali-singhvi"
+      },
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Mika Gröndahl",
+        "slug": "mika-grondahl"
+      },
+      {
+        "name": "K.K. Rebecca Lai",
+        "slug": "kk-rebecca-lai"
+      }
+    ],
+    "description": "A cemetery near Damascus was transformed into an industrial-scale mass grave for Syrians who opposed President Bashar al-Assad.",
+    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-facebookJumbo-v6.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmQ5ZmRhYjUtODI5Ny01MzRhLTg5NDctMzgxOWQ1NzhjZjkz",
+    "headline": "Tracking Heat Across Europe",
+    "url": "https://www.nytimes.com/interactive/2025/07/03/world/europe/europe-heat-map-tracker.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-03T13:41:30.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Zach Levitt",
+        "slug": "zach-levitt"
+      },
+      {
+        "name": "Erin McCann",
+        "slug": "erin-mccann"
+      }
+    ],
+    "description": "See detailed maps of the latest temperature forecasts across Europe.",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v18.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v18.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "2ZXPBKTZRBHGHEHU66EZB25AQM",
     "headline": "How Lionel Messi and Cristiano Ronaldo execute a perfect free kick",
     "description": "Two of soccer’s biggest stars have different approaches to one of the game’s most tense moments. Here’s a closer look.",
@@ -122,7 +335,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTkwMDEzOGUtYTIwZi01YjE0LTgwYjQtMmVmY2I0YTM4NzVh",
-    "headline": "A List of Nearly Everything in the Senate G.O.P. Bill, and How Much It Would Cost or Save",
+    "headline": "A List of Nearly Everything in the G.O.P. Bill, and How Much It Would Cost or Save",
     "url": "https://www.nytimes.com/interactive/2025/06/30/upshot/senate-republican-megabill.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-06-30T04:13:30.000Z",
@@ -2412,60 +2625,5 @@
     "square_img": "https://static01.nyt.com/images/2025/05/29/multimedia/2025-05-16-no-tax-on-tips-index/2025-05-16-no-tax-on-tips-index-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/05/29/multimedia/2025-05-16-no-tax-on-tips-index/2025-05-16-no-tax-on-tips-index-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2FjZGVlMjAtNDBmYi01M2NhLTg0MTUtMmRkNmExOWQyNGM2",
-    "headline": "The Gutting of America’s Medical Research: Here Is Every Canceled or Delayed N.I.H. Grant",
-    "url": "https://www.nytimes.com/interactive/2025/06/04/health/trump-cuts-nih-grants-research.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-04T04:33:48.000Z",
-    "credits": [
-      {
-        "name": "Irena Hwang",
-        "slug": "irena-hwang"
-      },
-      {
-        "name": "Jon Huang",
-        "slug": "jon-huang"
-      },
-      {
-        "name": "Emily Anthes",
-        "slug": "emily-anthes"
-      },
-      {
-        "name": "Blacki Migliozzi",
-        "slug": "blacki-migliozzi"
-      },
-      {
-        "name": "Benjamin Mueller",
-        "slug": "benjamin-mueller"
-      }
-    ],
-    "description": "Some cuts have been starkly visible, but the country’s medical grant-making machinery has also radically transformed outside the public eye.",
-    "square_img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-03-21-canceled-science-grants-index/2025-03-21-canceled-science-grants-index-square320.png",
-    "img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-03-21-canceled-science-grants-index/2025-03-21-canceled-science-grants-index-facebookJumbo.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "2U36TI45KVFIVGMLQOHA6B6PWY",
-    "headline": "These regions have poor air quality from Canadian wildfire smoke",
-    "description": "See where the flow of Canadian wildfire smoke has worsened the air quality in the U.S.",
-    "url": "https://www.washingtonpost.com/weather/2025/06/03/air-quality-canadian-wildfire-smoke-maps/",
-    "credits": [
-      {
-        "name": "Matthew Cappucci",
-        "slug": "matthew-cappucci"
-      },
-      {
-        "name": "Naema Ahmed",
-        "slug": "naema-ahmed"
-      }
-    ],
-    "date": "2025-06-03T20:33:20.932Z",
-    "img": "https://www.washingtonpost.com/resizer/yT8CANLlmHRDVVyWZy_pFP_-ftw=/300x0/arc-anglerfish-washpost-prod-washpost/public/TRH3GEGCXABHALCK7R7V6OL5GE.JPG",
-    "label": {
-      "url": "https://www.washingtonpost.com/weather/"
-    },
-    "medium": "WP"
   }
 ]

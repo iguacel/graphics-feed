@@ -183,7 +183,7 @@
       }
     ],
     "description": "A cemetery near Damascus was transformed into an industrial-scale mass grave for Syrians who opposed President Bashar al-Assad.",
-    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-square320-v4.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-square320-v5.jpg",
     "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-facebookJumbo-v6.jpg",
     "medium": "NYT"
   },
@@ -208,8 +208,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v18.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v18.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v20.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v20.jpg",
     "medium": "NYT"
   },
   {
@@ -2576,54 +2576,5 @@
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_06_loneliness.jpg",
     "medium": "Pudding"
-  },
-  {
-    "id": "SXC493DWLU6800",
-    "headline": "Here's Where NYC Mayoral Candidates Stand on Key Issues",
-    "url": "https://www.bloomberg.com/graphics/2025-nyc-mayor-election-democratic-candidates-issues/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-06-04T14:00:39.290Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Jennah Haque",
-        "slug": "jennah-haque"
-      },
-      {
-        "name": "Laura Nahmias",
-        "slug": "laura-nahmias"
-      },
-      {
-        "name": "Elena Mejía",
-        "slug": "elena-mejía"
-      },
-      {
-        "name": "Rafael Garcia",
-        "slug": "rafael-garcia"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF_f3mUm3.hU/v1/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDBiZjQyMjQtNDc1OC01MmY3LTgxNGItYzU1YjkyNjQ2ZmRk",
-    "headline": "An Illustrated Guide to Who Really Benefits From ‘No Tax on Tips’",
-    "url": "https://www.nytimes.com/interactive/2025/06/04/upshot/no-tax-on-tips.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-04T09:04:03.000Z",
-    "credits": [
-      {
-        "name": "Andrew Duehren",
-        "slug": "andrew-duehren"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      }
-    ],
-    "description": "The effect of the tax break is actually quite narrow.",
-    "square_img": "https://static01.nyt.com/images/2025/05/29/multimedia/2025-05-16-no-tax-on-tips-index/2025-05-16-no-tax-on-tips-index-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/05/29/multimedia/2025-05-16-no-tax-on-tips-index/2025-05-16-no-tax-on-tips-index-facebookJumbo.jpg",
-    "medium": "NYT"
   }
 ]

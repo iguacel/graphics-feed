@@ -208,8 +208,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v20.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v20.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v21.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v22.jpg",
     "medium": "NYT"
   },
   {
@@ -2488,44 +2488,5 @@
     "square_img": "https://static01.nyt.com/images/2025/06/05/multimedia/2025-06-05-trump-musk-feud-index/2025-06-05-trump-musk-feud-index-square320-v4.jpg",
     "img": "https://static01.nyt.com/images/2025/06/05/multimedia/2025-06-05-trump-musk-feud-index/2025-06-05-trump-musk-feud-index-facebookJumbo-v4.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzMzZWI5NDgtZDY1Yy01YzZlLWFjOWUtMjkyZTI4NjI0ZmE0",
-    "headline": "The Age Issue: More of Congress Is 70-Plus Than Ever Before",
-    "url": "https://www.nytimes.com/interactive/2025/06/05/us/politics/congress-age.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-05T09:05:26.727Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      }
-    ],
-    "description": "At the highest level, the U.S. government looks like a gerontocracy, with average ages around 60 in both the House and the Senate.",
-    "square_img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-05-28-age-of-congress-index/2025-05-28-age-of-congress-index-square320-v6.png",
-    "img": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-05-28-age-of-congress-index/2025-05-28-age-of-congress-index-facebookJumbo-v6.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "SBTJTRDBSFEXVP3PSCFC7STMBU",
-    "headline": "See the 19 countries Trump’s travel ban affects",
-    "description": "Mapping all the countries from which President Donald Trump’s executive order would restrict travel to the United States.",
-    "url": "https://www.washingtonpost.com/immigration/2025/06/05/trump-travel-ban-countries-map/",
-    "credits": [
-      {
-        "name": "N. Kirkpatrick",
-        "slug": "nick-kirkpatrick"
-      },
-      {
-        "name": "Adrián Blanco Ramos",
-        "slug": "adrian-blanco"
-      }
-    ],
-    "date": "2025-06-05T09:00:41.723Z",
-    "img": "https://www.washingtonpost.com/resizer/D2C2_8z1vzF-ZZRjAQjGrdm9fKc=/300x0/arc-anglerfish-washpost-prod-washpost/public/2Q6UDOEDH5HK7CGN2PNTFO5VBE.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/local/immigration/"
-    },
-    "medium": "WP"
   }
 ]

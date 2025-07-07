@@ -1,5 +1,41 @@
 [
   {
+    "id": "VmlkZW86bnl0Oi8vdmlkZW8vZGQ3ZDVkOTUtN2FjNy01MzJkLWEyN2ItZDliN2UxOWM4Yzlk",
+    "headline": "How the Assad Regime Built a Mass Grave in Syria",
+    "url": "https://www.nytimes.com/video/world/middleeast/100000010209709/how-the-assad-regime-built-a-mass-grave-in-syria.html",
+    "label": "https://www.nytimes.com/video/",
+    "date": "2025-07-07T09:01:23.715Z",
+    "credits": [
+      {
+        "name": "Charlie Smart",
+        "slug": "charlie-smart"
+      },
+      {
+        "name": "Melanie Bencosme",
+        "slug": "melanie-bencosme"
+      },
+      {
+        "name": "Gabriel Blanco",
+        "slug": "gabriel-blanco"
+      },
+      {
+        "name": "David Jouppi",
+        "slug": "david-jouppi"
+      },
+      {
+        "name": "James Surdam",
+        "slug": "james-surdam"
+      },
+      {
+        "name": "Valentina Caval",
+        "slug": "valentina-caval"
+      }
+    ],
+    "description": "Months after President Bashar al-Assad’s regime was toppled, Charlie Smart, a reporter at The New York Times, traveled to a mass burial site in Syria to understand how the Assad regime hid the bodies of the people it had made disappear.",
+    "square_img": "https://static01.nyt.com/images/2025/06/05/world/middleeast/Charlie-reporter-THUMBNAIL/Charlie-reporter-THUMBNAIL-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/05/world/middleeast/Charlie-reporter-THUMBNAIL/Charlie-reporter-THUMBNAIL-facebookJumbo.jpg?video-overlay"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDk0ZmY3OWItMmI1Mi01NGRlLWFjMWItOWUyM2ZjODYyYWVk",
     "headline": "10-Minute Challenge: An Archery Contest in Ancient India",
     "url": "https://www.nytimes.com/interactive/2025/07/06/upshot/ten-minute-challenge-archer.html",
@@ -85,7 +121,7 @@
     ],
     "description": "Who benefits, and who gets hurt? How much does it really add to the debt? And what’s the deal with Alaska?",
     "square_img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-square320.jpg"
+    "img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-facebookJumbo.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjMxYWYyODUtZGViOS01NjFlLWI4ZTQtNWY5MzhhYWY2YTYy",
@@ -172,8 +208,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v22.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v24.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v24.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v25.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTQ2NDA5NGYtZTdhNy01NWU4LThjMDAtMWNjYTU5ZDc2MGE4",
@@ -289,7 +325,7 @@
     ],
     "description": "Using truncated procedures, the six-justice conservative majority gave a green light to many of the president’s most assertive initiatives.",
     "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-square320.jpg"
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-facebookJumbo.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvY2I4NTJmZWYtYzhjOS01NTU5LWJjOWItMzM0ODY1ZGExMmE2",
@@ -477,7 +513,7 @@
     ],
     "description": "The period after President Trump announced the cease-fire was muddied by time zone differences, unclear wording in statements and continuing strikes.",
     "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-square320-v3.png",
-    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-square320-v3.png"
+    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-facebookJumbo-v3.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTRjZWQzY2MtYmFlNy01MGVjLTkzZGYtYTlmNDY1ZTIyYTVh",

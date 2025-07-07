@@ -1,5 +1,60 @@
 [
   {
+    "id": "Y7LQCO5GRFH55FRUW7KXESV22Q",
+    "headline": "Foreseeable flaws in Gaza aid project led to shooting of Palestinians",
+    "description": "The Gaza Humanitarian Foundation program has produced huge crowds near Israeli troops, who opened fire multiple times, according to humanitarian experts, witnesses and visual evidence.",
+    "url": "https://www.washingtonpost.com/world/2025/07/07/gaza-aid-ghf-israel-shooting-violence/",
+    "credits": [
+      {
+        "name": "Louisa Loveluck",
+        "slug": "louisa-loveluck"
+      },
+      {
+        "name": "Miriam Berger",
+        "slug": "miriam-berger"
+      },
+      {
+        "name": "Imogen Piper",
+        "slug": "imogen-piper"
+      },
+      {
+        "name": "Gerry Shih",
+        "slug": "gerry-shih"
+      },
+      {
+        "name": "Jarrett Ley",
+        "slug": "jarrett-ley"
+      },
+      {
+        "name": "Hazem  Balousha",
+        "slug": "hazem-balousha-"
+      }
+    ],
+    "date": "2025-07-07T06:00:01.727Z",
+    "img": "https://www.washingtonpost.com/resizer/YDf6JFPh76q5Fzwuj025RSqQ0BU=/300x0/arc-anglerfish-washpost-prod-washpost/public/JB5L2J6DNU6D4BZYETN7BPUMZI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/israel-hamas-war/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMDk0ZmY3OWItMmI1Mi01NGRlLWFjMWItOWUyM2ZjODYyYWVk",
+    "headline": "10-Minute Challenge: An Archery Contest in Ancient India",
+    "url": "https://www.nytimes.com/interactive/2025/07/06/upshot/ten-minute-challenge-archer.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-06T21:17:07.000Z",
+    "credits": [
+      {
+        "name": "Larry Buchanan",
+        "slug": "larry-buchanan"
+      }
+    ],
+    "description": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
+    "square_img": "https://static01.nyt.com/images/2025/07/07/upshot/up-arjuna-full/up-arjuna-full-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/07/upshot/up-arjuna-full/up-arjuna-full-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "2PAV56ATJRAMZOBWOGRI7RLJ54",
     "headline": "Israeli strike hit four areas in notorious Tehran prison. Civilians among the dead.",
     "description": "A Post review of satellite imagery and videos revealed damage that pointed to multiple strikes, with structures nearly 2,000 feet apart in ruins. ",
@@ -35,7 +90,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjJjNzg3ZGItMzk1Ny01M2FmLTllYWYtZjI2Yjk4NTU1NmUy",
-    "headline": "A Close Look at Camp Mystic",
+    "headline": "See How Close the Cabins Were to the River at Camp Mystic",
     "url": "https://www.nytimes.com/interactive/2025/07/05/us/camp-mystic-texas-flooding.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-07-05T21:23:03.000Z",
@@ -105,7 +160,7 @@
     ],
     "description": "Who benefits, and who gets hurt? How much does it really add to the debt? And what’s the deal with Alaska?",
     "square_img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-facebookJumbo.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-square320.jpg",
     "medium": "NYT"
   },
   {
@@ -491,7 +546,7 @@
     ],
     "description": "Using truncated procedures, the six-justice conservative majority gave a green light to many of the president’s most assertive initiatives.",
     "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-facebookJumbo.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-square320.jpg",
     "medium": "NYT"
   },
   {
@@ -998,7 +1053,7 @@
     ],
     "description": "The period after President Trump announced the cease-fire was muddied by time zone differences, unclear wording in statements and continuing strikes.",
     "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-square320-v3.png",
-    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-facebookJumbo-v3.png",
+    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-square320-v3.png",
     "medium": "NYT"
   },
   {
@@ -2467,26 +2522,5 @@
       "url": "https://www.washingtonpost.com/world/africa/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZjc1Y2QyOGMtZjJhZC01MTc5LThiMTgtNzRlYTFjNTNjOTZk",
-    "headline": "First, Snubs. Then Flattery. Now Trump and Musk Are at War.",
-    "url": "https://www.nytimes.com/interactive/2025/06/06/us/politics/trump-elon-musk-relationship.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-06T17:02:11.000Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Eli Murray",
-        "slug": "eli-murray"
-      }
-    ],
-    "description": "A timeline of the praises and insults that President Trump and Elon Musk have lobbed at each other shows how their volatile clash was years in the making.",
-    "square_img": "https://static01.nyt.com/images/2025/06/06/multimedia/2025-06-05-posts-musk-trump-index/2025-06-05-posts-musk-trump-index-square320-v8.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/06/multimedia/2025-06-05-posts-musk-trump-index/2025-06-05-posts-musk-trump-index-facebookJumbo-v8.jpg",
-    "medium": "NYT"
   }
 ]

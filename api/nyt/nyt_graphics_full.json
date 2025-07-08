@@ -1,5 +1,21 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOWQwMzExMTEtNGE5Yy01ZGRlLWJmM2MtYmM0NzY1NDAwMzhk",
+    "headline": "See How Fast the Floodwaters Rose Along the Guadalupe River",
+    "url": "https://www.nytimes.com/interactive/2025/07/07/us/texas-flooding-map-guadalupe-river.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-07T18:04:51.000Z",
+    "credits": [
+      {
+        "name": "Leanne Abraham",
+        "slug": "leanne-abraham"
+      }
+    ],
+    "description": "The speed and intensity of the flooding appeared to take officials by surprise.",
+    "square_img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-square320-v3.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-facebookJumbo-v3.jpg"
+  },
+  {
     "id": "VmlkZW86bnl0Oi8vdmlkZW8vZGQ3ZDVkOTUtN2FjNy01MzJkLWEyN2ItZDliN2UxOWM4Yzlk",
     "headline": "How the Assad Regime Built a Mass Grave in Syria",
     "url": "https://www.nytimes.com/video/world/middleeast/100000010209709/how-the-assad-regime-built-a-mass-grave-in-syria.html",

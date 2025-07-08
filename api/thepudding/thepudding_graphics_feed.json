@@ -1,5 +1,42 @@
 [
   {
+    "id": "2025_07_kids-books",
+    "headline": "Bears Will Be Boys",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/07/kids-books/",
+    "date": "2025-07-08",
+    "keywords": [
+      "gender",
+      "animals",
+      "kids",
+      "books",
+      "children",
+      "pronouns",
+      "stereotypes",
+      "bias"
+    ],
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Melanie Walsh",
+        "slug": "melanie-walsh"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_07_kids-books.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2025_06_hello-stranger",
     "headline": "30 minutes with a stranger",
     "description": "No description available",

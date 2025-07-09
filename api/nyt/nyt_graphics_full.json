@@ -1,5 +1,25 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2VlYzUxNGQ4LTVkZTMtNTQ3OC1hZDM5LWI1MzljYzQ4ZGQ2NQ==",
+    "headline": "Measles Cases Hit Record High, 25 Years After U.S. Eliminated the Disease",
+    "url": "https://www.nytimes.com/2025/07/09/well/us-measles-record-outbreaks.html",
+    "label": "https://www.nytimes.com/well/",
+    "date": "2025-07-09T14:48:19.000Z",
+    "credits": [
+      {
+        "name": "Teddy Rosenbluth",
+        "slug": "teddy-rosenbluth"
+      },
+      {
+        "name": "Jonathan Corum",
+        "slug": "jonathan-corum"
+      }
+    ],
+    "description": "Experts worry that if vaccination rates do not improve, deadly outbreaks will become the new normal.",
+    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-facebookJumbo-v3.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjY5YmMwMWUtM2YzZS01YmU1LWIzNjUtZjMwODFlMWVjMDU5",
     "headline": "See When Federal and Local Officials Issued Warnings About the Texas Floods",
     "url": "https://www.nytimes.com/interactive/2025/07/08/weather/texas-floods-timeline-weather-alerts.html",
@@ -248,8 +268,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v25.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v27.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v26.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v28.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTQ2NDA5NGYtZTdhNy01NWU4LThjMDAtMWNjYTU5ZDc2MGE4",

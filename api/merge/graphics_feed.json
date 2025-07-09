@@ -1,5 +1,26 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2VlYzUxNGQ4LTVkZTMtNTQ3OC1hZDM5LWI1MzljYzQ4ZGQ2NQ==",
+    "headline": "Measles Cases Hit Record High, 25 Years After U.S. Eliminated the Disease",
+    "url": "https://www.nytimes.com/2025/07/09/well/us-measles-record-outbreaks.html",
+    "label": "https://www.nytimes.com/well/",
+    "date": "2025-07-09T14:48:19.000Z",
+    "credits": [
+      {
+        "name": "Teddy Rosenbluth",
+        "slug": "teddy-rosenbluth"
+      },
+      {
+        "name": "Jonathan Corum",
+        "slug": "jonathan-corum"
+      }
+    ],
+    "description": "Experts worry that if vaccination rates do not improve, deadly outbreaks will become the new normal.",
+    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-facebookJumbo-v3.png",
+    "medium": "NYT"
+  },
+  {
     "id": "d1715307-7c06-4121-90d6-49a8c6b9eec8",
     "headline": "Water vapor July 3 to 4",
     "description": "Source: Mid-level water vapor imagery from NOAA's GOES-19 satellite",
@@ -478,8 +499,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v25.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v27.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v26.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v28.jpg",
     "medium": "NYT"
   },
   {
@@ -2553,66 +2574,6 @@
     "img": "https://www.washingtonpost.com/resizer/WOvQcjjMLiUo3XiGUfSnJhvm3Lw=/300x0/arc-anglerfish-washpost-prod-washpost/public/LHYXFYDZDDA3SD2JHF262Q5EMU.jpg",
     "label": {
       "url": "https://www.washingtonpost.com/visual-forensics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "P42NBJWYIVF4TCCE5AZQNSXCXQ",
-    "headline": "Four races to watch as Democrats fight to retake the Senate",
-    "description": "Senate Minority Leader Charles E. Schumer says his party can retake the Senate in next year’s midterm elections — but Democrats face daunting odds.",
-    "url": "https://www.washingtonpost.com/politics/2025/06/09/senate-map-midterms-democrats/",
-    "credits": [
-      {
-        "name": "Theodoric Meyer",
-        "slug": "theodoric-meyer"
-      },
-      {
-        "name": "Hannah Dormido",
-        "slug": "hannah-dormido"
-      }
-    ],
-    "date": "2025-06-09T09:58:25.317Z",
-    "img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XIR7FFOD55FB3M2546M225PT34.jpg&w=1440",
-    "label": {
-      "url": "https://www.washingtonpost.com/politics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "C2J3KGREXZFUZJIOBEIQFDODN4",
-    "headline": "Do kids feel safe in D.C.? We asked them.",
-    "description": "Youth crime in the District surged in 2023. The Post spoke to nearly two dozen middle school students about violence and safety.",
-    "url": "https://www.washingtonpost.com/investigations/interactive/2025/dc-youth-violence-safety-concerns-video/",
-    "credits": [
-      {
-        "name": "Joy Sung",
-        "slug": "joy-sung"
-      },
-      {
-        "name": "Lauren Lumpkin",
-        "slug": "lauren-lumpkin"
-      },
-      {
-        "name": "Jenny Gathright",
-        "slug": "jenny-gathright"
-      },
-      {
-        "name": "John Harden",
-        "slug": "john-harden"
-      },
-      {
-        "name": "Carson TerBush",
-        "slug": "carson-terbush"
-      },
-      {
-        "name": "Stephanie Hays",
-        "slug": "stephanie-hays"
-      }
-    ],
-    "date": "2025-06-09T09:00:00.112Z",
-    "img": "https://www.washingtonpost.com/resizer/sJycrHsSpsbycbu3mt_KwSMaX1g=/300x0/arc-anglerfish-washpost-prod-washpost/public/6ZPGJ7SEMBDGJMBXQGJE7UVDCY.png",
-    "label": {
-      "url": "https://www.washingtonpost.com/national/investigations/"
     },
     "medium": "WP"
   }

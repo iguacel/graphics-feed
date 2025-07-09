@@ -1,10 +1,26 @@
 [
   {
+    "id": "d1715307-7c06-4121-90d6-49a8c6b9eec8",
+    "headline": "Water vapor July 3 to 4",
+    "description": "Source: Mid-level water vapor imagery from NOAA's GOES-19 satellite",
+    "url": "https://www.washingtonpost.com/video/climate-environment/water-vapor-july-3-to-4/2025/07/08/d1715307-7c06-4121-90d6-49a8c6b9eec8_video.html",
+    "credits": [
+      {
+        "name": "John Muyskens",
+        "slug": "john-muyskens"
+      }
+    ],
+    "date": "2025-07-08T17:33:54.000Z",
+    "img": "https://d1i4t8bqe7zgj6.cloudfront.net/07-08-2025/t_f6cc4fded28b4540b09e9031d579b847_name_geometry_goes16_2025_07_03__0_00_04_28_.jpg",
+    "label": {},
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjY5YmMwMWUtM2YzZS01YmU1LWIzNjUtZjMwODFlMWVjMDU5",
     "headline": "See When Federal and Local Officials Issued Warnings About the Texas Floods",
     "url": "https://www.nytimes.com/interactive/2025/07/08/weather/texas-floods-timeline-weather-alerts.html",
     "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-08T09:02:05.044Z",
+    "date": "2025-07-08T09:02:05.000Z",
     "credits": [
       {
         "name": "K.K. Rebecca Lai",
@@ -20,8 +36,8 @@
       }
     ],
     "description": "The National Weather Service began sending flash flood warnings that should have triggered cellphone alerts a little after 1 a.m., while local officials began posting on Facebook about four hours later.",
-    "square_img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flooding-timeline-index/2025-07-07-texas-flooding-timeline-index-square320-v4.png",
-    "img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flooding-timeline-index/2025-07-07-texas-flooding-timeline-index-facebookJumbo-v5.png",
+    "square_img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flooding-timeline-index/2025-07-07-texas-flooding-timeline-index-square320-v5.png",
+    "img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flooding-timeline-index/2025-07-07-texas-flooding-timeline-index-facebookJumbo-v6.png",
     "medium": "NYT"
   },
   {
@@ -98,8 +114,8 @@
       }
     ],
     "description": "The speed and intensity of the flooding appeared to take officials by surprise.",
-    "square_img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-facebookJumbo-v3.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-square320-v7.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-facebookJumbo-v7.jpg",
     "medium": "NYT"
   },
   {
@@ -2599,46 +2615,5 @@
       "url": "https://www.washingtonpost.com/national/investigations/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNDc5ZWQ5MjUtOTFhOC01OWYxLWJjZTctNjI3ZjM1ZDU1MWM2",
-    "headline": "Maps and Timeline of the L.A. Immigration Protests and the Federal Response",
-    "url": "https://www.nytimes.com/interactive/2025/06/08/us/la-immigration-protests-photos-map.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-08T17:49:28.000Z",
-    "credits": [
-      {
-        "name": "Bora Erden",
-        "slug": "bora-erden"
-      },
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "K.K. Rebecca Lai",
-        "slug": "kk-rebecca-lai"
-      },
-      {
-        "name": "Blacki Migliozzi",
-        "slug": "blacki-migliozzi"
-      },
-      {
-        "name": "Bedel Saget",
-        "slug": "bedel-saget"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      }
-    ],
-    "description": "President Trump called in the National Guard on Saturday after isolated clashes between federal law enforcement and people protesting immigration raids.",
-    "square_img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-square320-v7.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-facebookJumbo-v8.jpg",
-    "medium": "NYT"
   }
 ]

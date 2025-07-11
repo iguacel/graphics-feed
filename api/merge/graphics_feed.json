@@ -4,7 +4,7 @@
     "headline": "The Wartime Mining Boom Exporting Rare Earths, and Toxins",
     "url": "https://www.nytimes.com/2025/07/11/world/asia/myanmar-mining-thailand-china.html",
     "label": "https://www.nytimes.com/world/",
-    "date": "2025-07-11T05:25:20.350Z",
+    "date": "2025-07-11T05:25:20.000Z",
     "credits": [
       {
         "name": "Hannah Beech",
@@ -578,8 +578,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v28.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v29.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v29.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v30.jpg",
     "medium": "NYT"
   },
   {
@@ -2546,27 +2546,5 @@
     "square_img": "https://static01.nyt.com/images/2025/05/28/multimedia/2025-05-12-military-parades-index/2025-05-12-military-parades-index-square320-v3.jpg",
     "img": "https://static01.nyt.com/images/2025/05/28/multimedia/2025-05-12-military-parades-index/2025-05-12-military-parades-index-facebookJumbo-v3.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "ZGPB7CYJTVCBLNEPCJ5NQJF664",
-    "headline": "See how the national debt grew to more than $36 trillion",
-    "description": "Washington spent and cut taxes while the debt was rising.",
-    "url": "https://www.washingtonpost.com/business/interactive/2025/national-debt-36-trillion/",
-    "credits": [
-      {
-        "name": "Alyssa Fowers",
-        "slug": "alyssa-fowers"
-      },
-      {
-        "name": "Jeff Stein",
-        "slug": "jeff-stein"
-      }
-    ],
-    "date": "2025-06-11T09:00:44.938Z",
-    "img": "https://www.washingtonpost.com/resizer/bVxtBpZ6jSCXDAuTr-P3bz7JFC4=/300x0/arc-anglerfish-washpost-prod-washpost/public/PA24IYCR3NFLPLDATX6HPSQARI.gif",
-    "label": {
-      "url": "https://www.washingtonpost.com/economic-policy/"
-    },
-    "medium": "WP"
   }
 ]

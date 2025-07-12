@@ -1,5 +1,31 @@
 [
   {
+    "id": "KZYRHU64YZGVXJJ6Q3SEIOW47U",
+    "headline": "Sean Duffy and six others with multiple jobs in Trump’s administration",
+    "description": "Trump’s vow to shrink the federal government appears to rely, at least in part, on top officials doing multiples jobs. These seven are doing double, triple or quadruple duty.",
+    "url": "https://www.washingtonpost.com/politics/2025/07/12/trump-rubio-duffy-multiple-titles/",
+    "credits": [
+      {
+        "name": "Azi Paybarah",
+        "slug": "azi-paybarah"
+      },
+      {
+        "name": "Álvaro Valiño",
+        "slug": "álvaro-valiño"
+      },
+      {
+        "name": "Kevin Schaul",
+        "slug": "kevin-schaul"
+      }
+    ],
+    "date": "2025-07-12T10:00:34.960Z",
+    "img": "https://www.washingtonpost.com/resizer/64wrvkvq5xn7uZIDrdtDVsHPKWI=/300x0/arc-anglerfish-washpost-prod-washpost/public/RQX5Y7G5FFCHHCMGYKWW7A7OBQ.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "3NTUZ54MRRC5THVDQVIUFCW6O4",
     "headline": "Kerr County did not use its most far-reaching alert system in deadly Texas floods",
     "description": "Local officials used the system more than two days after the recorded height of the floods.",
@@ -616,8 +642,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v29.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v30.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v30.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v31.jpg",
     "medium": "NYT"
   },
   {
@@ -2511,78 +2537,6 @@
     "description": "House members approved the cuts by a vote of 214 to 212.",
     "square_img": "https://static01.nyt.com/images/2025/06/10/us/house-rescissions-vote-1749762081844/house-rescissions-vote-1749762081844-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/06/10/us/house-rescissions-vote-1749762081844/house-rescissions-vote-1749762081844-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2Q3YTI4ZmItMzVmMy01NDViLTg1YjAtMDczMzgxNDNhMTZl",
-    "headline": "How the Air India Plane Crashed: Maps and Photos",
-    "url": "https://www.nytimes.com/interactive/2025/06/12/world/asia/india-plane-crash-map.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-12T14:27:12.000Z",
-    "credits": [
-      {
-        "name": "Samuel Granados",
-        "slug": "samuel-granados"
-      },
-      {
-        "name": "Pablo Robles",
-        "slug": "pablo-robles"
-      },
-      {
-        "name": "Daniel Wood",
-        "slug": "daniel-wood"
-      }
-    ],
-    "description": "​​Maps show how an Air India flight carrying 242 passengers and crew members crashed in the city of Ahmedabad shortly after taking off.",
-    "square_img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-12-india-crash-index/2025-06-12-india-crash-index-square320-v2.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-12-india-crash-index/2025-06-12-india-crash-index-facebookJumbo-v3.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "TOJBM5ZAHNAKTLFRS3BKUMKDAE",
-    "headline": "What to know about the Army parade in D.C. on Saturday, Trump’s birthday",
-    "description": "The event will bring street closures, security checkpoints, hundreds of military vehicles and thousands of marching troops.",
-    "url": "https://www.washingtonpost.com/dc-md-va/interactive/2025/trump-military-parade-dc-army-birthday-national-mall/",
-    "credits": [
-      {
-        "name": "Olivia George",
-        "slug": "olivia-george"
-      },
-      {
-        "name": "William Neff",
-        "slug": "william-neff"
-      },
-      {
-        "name": "Michael Brice-Saddler",
-        "slug": "michael-brice-saddler"
-      },
-      {
-        "name": "Rachel Weiner",
-        "slug": "rachel-weiner"
-      }
-    ],
-    "date": "2025-06-12T10:00:07.760Z",
-    "img": "https://www.washingtonpost.com/resizer/JhofeUi5Q0IB7z195ge313W8cwI=/300x0/arc-anglerfish-washpost-prod-washpost/public/O2YK7CHJQNFXHIAVDO57EBSKS4.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/local/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTk0MzhmZTctNjMyMy01MzM5LWJhOTctOWE5OWQzYTY2MjY1",
-    "headline": "How to Read a Military Parade",
-    "url": "https://www.nytimes.com/interactive/2025/06/12/world/military-parades.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-12T09:01:25.000Z",
-    "credits": [
-      {
-        "name": "Marco Hernandez",
-        "slug": "marco-hernandez"
-      }
-    ],
-    "description": "The U.S. will hold a rare military display in Washington D.C. soon. The motives of countries that stage military parades vary, but the spectacles all tend to share a common visual vocabulary.",
-    "square_img": "https://static01.nyt.com/images/2025/05/28/multimedia/2025-05-12-military-parades-index/2025-05-12-military-parades-index-square320-v3.jpg",
-    "img": "https://static01.nyt.com/images/2025/05/28/multimedia/2025-05-12-military-parades-index/2025-05-12-military-parades-index-facebookJumbo-v3.jpg",
     "medium": "NYT"
   }
 ]

@@ -642,8 +642,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v30.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v31.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v31.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v32.jpg",
     "medium": "NYT"
   },
   {
@@ -2385,39 +2385,6 @@
     "description": "The event will kick off when Army officials report to President Trump — who turns 79 on the same day — and end when parachutists jump from the sky and present a flag to him.",
     "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-05-22-graphics-trump-military-parade-index/2025-05-22-graphics-trump-military-parade-index-square320-v11.jpg",
     "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-05-22-graphics-trump-military-parade-index/2025-05-22-graphics-trump-military-parade-index-facebookJumbo-v12.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzRjOTU4MDYtMmZlZC01NjljLWFmMzEtOWRjYzU5NTBiOTk5",
-    "headline": "Which Law Enforcement Agencies Are at the Los Angeles Protests?",
-    "url": "https://www.nytimes.com/interactive/2025/06/13/us/la-protests-immigration-law-enforcement.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-13T09:02:14.000Z",
-    "credits": [
-      {
-        "name": "Bora Erden",
-        "slug": "bora-erden"
-      },
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Bedel Saget",
-        "slug": "bedel-saget"
-      },
-      {
-        "name": "Raj Saha",
-        "slug": "raj-saha"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      }
-    ],
-    "description": "A Times analysis identified more than a dozen agencies that were on the ground in the past week. See which are represented, the gear they carry and how they interact.",
-    "square_img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-09-immigration-protests-agencies-index/2025-06-09-immigration-protests-agencies-index-square320-v6.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-09-immigration-protests-agencies-index/2025-06-09-immigration-protests-agencies-index-facebookJumbo-v6.jpg",
     "medium": "NYT"
   }
 ]

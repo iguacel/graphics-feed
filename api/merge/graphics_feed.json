@@ -642,8 +642,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v31.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v32.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v33.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v33.jpg",
     "medium": "NYT"
   },
   {
@@ -699,6 +699,26 @@
     "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-03-trump-holdings-index/2025-06-03-trump-holdings-index-square320-v6.jpg",
     "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-03-trump-holdings-index/2025-06-03-trump-holdings-index-facebookJumbo-v7.jpg",
     "medium": "NYT"
+  },
+  {
+    "id": "SYQNOXT0G1KW00",
+    "headline": "America’s Overheated Landfills Have Been Making People Sick",
+    "url": "https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-07-01T21:00:33.610Z",
+    "description": "Beneath layers of waste, landfills around the US have been reaching scorching temperatures, spewing toxic gases and geysers of trash juice.",
+    "credits": [
+      {
+        "name": "Laura Bliss",
+        "slug": "laura-bliss"
+      },
+      {
+        "name": "Rachael Dottle",
+        "slug": "rachael-dottle"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR2B91KFAknk/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "6MZ5ME2BPFGBFPDGC7WAXTYXGQ",
@@ -766,6 +786,26 @@
     "square_img": "https://static01.nyt.com/images/2025/06/23/us/senate-megabill-vote-1751226857670/senate-megabill-vote-1751226857670-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/06/23/us/senate-megabill-vote-1751226857670/senate-megabill-vote-1751226857670-facebookJumbo.jpg",
     "medium": "NYT"
+  },
+  {
+    "id": "SYPQCVDWX2PS00",
+    "headline": "Blackout, Fire Warnings Flashed From Home Sensors Hours Before Crises",
+    "url": "https://www.bloomberg.com/graphics/2025-power-grid-data-monitor/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-07-01T09:00:31.139Z",
+    "description": "Leveraging home sensors and AI, Whisker Labs has developed new ways to rapidly track electricity flows to detect grid faults — leaving some power providers trailing",
+    "credits": [
+      {
+        "name": "Naureen S Malik",
+        "slug": "naureen-s-malik"
+      },
+      {
+        "name": "Leonardo Nicoletti",
+        "slug": "leonardo-nicoletti"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5pgOTIFcuj0/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTkwMDEzOGUtYTIwZi01YjE0LTgwYjQtMmVmY2I0YTM4NzVh",
@@ -1018,6 +1058,26 @@
     "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-ice-arrests-index/2025-06-23-ice-arrests-index-square320-v6.png",
     "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-ice-arrests-index/2025-06-23-ice-arrests-index-facebookJumbo-v6.png",
     "medium": "NYT"
+  },
+  {
+    "id": "SYIMSRDWLU6800",
+    "headline": "H-1B Middlemen Bring Cheap Labor to Citi, Capital One",
+    "url": "https://www.bloomberg.com/graphics/2025-h1b-visa-middlemen-cheap-labor-for-us-banks/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-06-27T13:00:27.311Z",
+    "description": "New data reveal how companies that farm out IT workers exploit flaws in the visa lottery while other US businesses and talented immigrants lose out.",
+    "credits": [
+      {
+        "name": "Eric Fan",
+        "slug": "eric-fan"
+      },
+      {
+        "name": "Marie Patino",
+        "slug": "marie-patino"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8E5QY15TH6s/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "IQFOXT7ZP5FQNPF7BVT6YMDHGM",

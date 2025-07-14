@@ -1,5 +1,62 @@
 [
   {
+    "id": "SYQNOXT0G1KW00",
+    "headline": "America’s Overheated Landfills Have Been Making People Sick",
+    "url": "https://www.bloomberg.com/graphics/2025-america-hot-garbage-problem-toxic-landfills/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-07-01T21:00:33.610Z",
+    "description": "Beneath layers of waste, landfills around the US have been reaching scorching temperatures, spewing toxic gases and geysers of trash juice.",
+    "credits": [
+      {
+        "name": "Laura Bliss",
+        "slug": "laura-bliss"
+      },
+      {
+        "name": "Rachael Dottle",
+        "slug": "rachael-dottle"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR2B91KFAknk/v0/-1x-1.webp"
+  },
+  {
+    "id": "SYPQCVDWX2PS00",
+    "headline": "Blackout, Fire Warnings Flashed From Home Sensors Hours Before Crises",
+    "url": "https://www.bloomberg.com/graphics/2025-power-grid-data-monitor/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-07-01T09:00:31.139Z",
+    "description": "Leveraging home sensors and AI, Whisker Labs has developed new ways to rapidly track electricity flows to detect grid faults — leaving some power providers trailing",
+    "credits": [
+      {
+        "name": "Naureen S Malik",
+        "slug": "naureen-s-malik"
+      },
+      {
+        "name": "Leonardo Nicoletti",
+        "slug": "leonardo-nicoletti"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5pgOTIFcuj0/v0/-1x-1.webp"
+  },
+  {
+    "id": "SYIMSRDWLU6800",
+    "headline": "H-1B Middlemen Bring Cheap Labor to Citi, Capital One",
+    "url": "https://www.bloomberg.com/graphics/2025-h1b-visa-middlemen-cheap-labor-for-us-banks/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-06-27T13:00:27.311Z",
+    "description": "New data reveal how companies that farm out IT workers exploit flaws in the visa lottery while other US businesses and talented immigrants lose out.",
+    "credits": [
+      {
+        "name": "Eric Fan",
+        "slug": "eric-fan"
+      },
+      {
+        "name": "Marie Patino",
+        "slug": "marie-patino"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8E5QY15TH6s/v0/-1x-1.webp"
+  },
+  {
     "id": "SYENTHT0G1KW00",
     "headline": "Calculate Your Gain Under a New SALT Cap",
     "url": "https://www.bloomberg.com/graphics/2025-salt-tax-deduction-calculator/?srnd=phx-graphics-v2",

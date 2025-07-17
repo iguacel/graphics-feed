@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTBiNDg2OWYtZTYyOS01NjcxLThjYjgtYTRkNWQwNDEyNjlk",
+    "headline": "Trump Insists the Epstein Case Is a Hoax. Here’s What His Supporters Say.",
+    "url": "https://www.nytimes.com/interactive/2025/07/17/us/politics/trump-epstein-files-maga.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-17T09:03:40.000Z",
+    "credits": [
+      {
+        "name": "Karen Yourish",
+        "slug": "karen-yourish"
+      },
+      {
+        "name": "Lily Boyce",
+        "slug": "lily-boyce"
+      }
+    ],
+    "description": "Their actions range from pressuring the administration to release more information to spinning additional conspiracy theories about the case of Jeffrey Epstein, the convicted sex offender.",
+    "square_img": "https://static01.nyt.com/images/2025/07/16/multimedia/2025-07-16-epstein-reactions-index/2025-07-16-epstein-reactions-index-square320-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/16/multimedia/2025-07-16-epstein-reactions-index/2025-07-16-epstein-reactions-index-facebookJumbo-v7.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDFiM2JjYjUtZmZiOS01MTRjLTgxZWYtYWFmNDZjZGU1ZDll",
     "headline": "How Every Senator Voted on Bid to Cancel Foreign Aid and Public Media Funding",
     "url": "https://www.nytimes.com/interactive/2025/07/17/us/senate-rescissions-vote.html",
@@ -384,8 +404,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v35.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v35.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v36.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v37.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTQ2NDA5NGYtZTdhNy01NWU4LThjMDAtMWNjYTU5ZDc2MGE4",

@@ -1,5 +1,69 @@
 [
   {
+    "id": "BHNZXBANB5ABNAHSJEGXGXQYQM",
+    "headline": "How senators voted on the rescissions bill",
+    "description": "See how your lawmaker voted on the bill that would let the Trump administration pull back billions in foreign aid and other federal funding.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2025/07/17/senate-vote-count-rescissions/",
+    "credits": [
+      {
+        "name": "Hannah Dormido",
+        "slug": "hannah-dormido"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-07-17T08:00:21.300Z",
+    "img": "https://www.washingtonpost.com/resizer/CpNJrCAzIVyRjbq3hKBPsxY2ePY=/300x0/arc-anglerfish-washpost-prod-washpost/public/ELOT7PMIGVBXRDAS6WKQEDZ4ZI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDFiM2JjYjUtZmZiOS01MTRjLTgxZWYtYWFmNDZjZGU1ZDll",
+    "headline": "How Every Senator Voted on Bid to Cancel Foreign Aid and Public Media Funding",
+    "url": "https://www.nytimes.com/interactive/2025/07/17/us/senate-rescissions-vote.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-17T07:15:19.000Z",
+    "credits": [
+      {
+        "name": "Alicia Parlapiano",
+        "slug": "alicia-parlapiano"
+      }
+    ],
+    "description": "The Senate voted 51 to 48 to reclaim spending previously approved by Congress.",
+    "square_img": "https://static01.nyt.com/images/2025/07/14/us/politics/senate-rescissions-vote-1752712127673/senate-rescissions-vote-1752712127673-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/14/us/politics/senate-rescissions-vote-1752712127673/senate-rescissions-vote-1752712127673-facebookJumbo.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZWRiMGE4ZmYtMTg3My01NmQ3LWJmMjEtNzdkYjcxNGRmZDE3",
+    "headline": "There’s a Flash Flood Season, and This Is It",
+    "url": "https://www.nytimes.com/interactive/2025/07/16/weather/flash-floods.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-16T17:49:02.000Z",
+    "credits": [
+      {
+        "name": "William B. Davis",
+        "slug": "william-b-davis"
+      },
+      {
+        "name": "Judson Jones",
+        "slug": "judson-jones"
+      },
+      {
+        "name": "Tim Wallace",
+        "slug": "tim-wallace"
+      }
+    ],
+    "description": "July’s hot temperatures and moist air are the perfect ingredients for rain.",
+    "square_img": "https://static01.nyt.com/images/2025/07/13/multimedia/2025-07-09-total-rainfall-story/2025-07-09-total-rainfall-story-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/13/multimedia/2025-07-09-total-rainfall-story/2025-07-09-total-rainfall-story-facebookJumbo-v5.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "56ZB5NB5SRFEVHHXO2TU4AHVJA",
     "headline": "The White House’s plan to downsize the federal government, in charts",
     "description": "An agency-by-agency look at how President Donald Trump and his advisors plan to dramatically shrink the federal government.",
@@ -301,8 +365,8 @@
       }
     ],
     "description": "Experts worry that if vaccination rates do not improve, deadly outbreaks will become the new normal.",
-    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v5.png",
-    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-facebookJumbo-v4.png",
+    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v7.png",
+    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-facebookJumbo-v5.png",
     "medium": "NYT"
   },
   {

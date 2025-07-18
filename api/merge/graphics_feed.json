@@ -1,5 +1,26 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjRjYzMzYWQtMmJiMy01NzEzLWFkMWUtMzRhNDk3OTUyYWE1",
+    "headline": "Where Congress’s Cuts Threaten Access to PBS and NPR",
+    "url": "https://www.nytimes.com/interactive/2025/07/18/business/media/house-rescission-vote-pbs-npr.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-18T04:25:40.000Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Benjamin Mullin",
+        "slug": "benjamin-mullin"
+      }
+    ],
+    "description": "The loss of federal funding threatens scores of public TV and radio stations across the United States.",
+    "square_img": "https://static01.nyt.com/images/2025/07/17/multimedia/2025-07-16-cpb-funding-cuts-radio-tv-index/2025-07-16-cpb-funding-cuts-radio-tv-index-square320-v13.png",
+    "img": "https://static01.nyt.com/images/2025/07/17/multimedia/2025-07-16-cpb-funding-cuts-radio-tv-index/2025-07-16-cpb-funding-cuts-radio-tv-index-facebookJumbo-v11.png",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTBiNDg2OWYtZTYyOS01NjcxLThjYjgtYTRkNWQwNDEyNjlk",
     "headline": "Trump Insists the Epstein Case Is a Hoax. Here’s What His Supporters Say.",
     "url": "https://www.nytimes.com/interactive/2025/07/17/us/politics/trump-epstein-files-maga.html",
@@ -2466,119 +2487,6 @@
     "description": "Israel has attacked nuclear, military and energy facilities in Iran. Here is a look at the destruction so far.",
     "square_img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-israel-iran-strikes-nuclear-index/2025-06-16-israel-iran-strikes-nuclear-index-square320-v3.jpg",
     "img": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-israel-iran-strikes-nuclear-index/2025-06-16-israel-iran-strikes-nuclear-index-facebookJumbo-v3.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "FPWANGER4BCBFL4Y5O5MS6XHYY",
-    "headline": "What is the Massive Ordnance Penetrator, the U.S. bunker-busting bomb?",
-    "description": "Iran’s nuclear sites were targeted with more than a dozen of the 30,000-pound bunker-busters deployed from B-2 stealth bombers. ",
-    "url": "https://www.washingtonpost.com/national-security/2025/06/17/massive-ordnance-penetrator-iran-bunker-buster/",
-    "credits": [
-      {
-        "name": "Alex Horton",
-        "slug": "alex-horton"
-      },
-      {
-        "name": "Maham Javaid",
-        "slug": "maham-javaid"
-      },
-      {
-        "name": "Warren Strobel",
-        "slug": "warren-p-strobel"
-      },
-      {
-        "name": "Laris Karklis",
-        "slug": "laris-karklis"
-      },
-      {
-        "name": "Aaron Steckelberg",
-        "slug": "aaron-steckelberg"
-      },
-      {
-        "name": "William Neff",
-        "slug": "william-neff"
-      },
-      {
-        "name": "Tim Meko",
-        "slug": "tim-meko"
-      }
-    ],
-    "date": "2025-06-17T23:22:35.714Z",
-    "img": "https://www.washingtonpost.com/resizer/jwhPaz_jiy1e2zX0zYrBefIoJR4=/300x0/arc-anglerfish-washpost-prod-washpost/public/YHYNIBRXCC3VUR23VOMKXUSJCE.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/national-security/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2EyMzgzMjE3LWYwZDItNWM1Ny1iMDJjLWNhNjIwNjkxMTUyNw==",
-    "headline": "Here’s a look at the first four days of attacks between Israel and Iran.",
-    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/heres-a-look-at-the-first-four-days-of-attacks-between-israel-and-iran",
-    "label": "https://www.nytimes.com/live/",
-    "date": "2025-06-17T16:45:12.000Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      }
-    ],
-    "description": "No description available",
-    "square_img": "https://static01.nyt.com/images/2025/06/16/multimedia/saadat-abad-graphics-gflv/saadat-abad-graphics-gflv-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/16/multimedia/saadat-abad-graphics-gflv/saadat-abad-graphics-gflv-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzMwYjZmYjdhLTI3ZTAtNTNhOS1hZmQ1LWQ0M2Q4MjMzMTFlZQ==",
-    "headline": "There are more than 40 nuclear and missile facilities throughout Iran.",
-    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/iran-nuclear-missile-facilities",
-    "label": "https://www.nytimes.com/live/",
-    "date": "2025-06-17T16:45:08.000Z",
-    "credits": [
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Karen Yourish",
-        "slug": "karen-yourish"
-      }
-    ],
-    "description": "No description available",
-    "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "TGVnYWN5Q29sbGVjdGlvbjpueXQ6Ly9sZWdhY3ljb2xsZWN0aW9uL2RhMTBjZGMyLTcwMzctNWY0Yy1hNzUyLTBmNzA2ZTVmOGZiMw==",
-    "headline": "Mapping the Israel-Iran Conflict",
-    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking",
-    "label": "https://www.nytimes.com/live/",
-    "date": "2025-06-17T16:45:00.000Z",
-    "credits": [],
-    "description": "No description available",
-    "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-square320-v5.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzcxNWE2OGZiLTNkYzgtNTgyYy1iYWEwLThmNzUxOTk0MDkxNA==",
-    "headline": "Tell Us: How Are You Using A.I. at Work?",
-    "url": "https://www.nytimes.com/2025/06/17/upshot/tell-us-how-are-you-using-ai-at-work.html",
-    "label": "https://www.nytimes.com/upshot/",
-    "date": "2025-06-17T16:09:38.000Z",
-    "credits": [
-      {
-        "name": "Francesca Paris",
-        "slug": "francesca-paris"
-      },
-      {
-        "name": "Larry Buchanan",
-        "slug": "larry-buchanan"
-      }
-    ],
-    "description": "Has A.I. become a part of your daily work routines? We want to know.",
-    "square_img": "https://static01.nyt.com/images/2025/03/28/multimedia/up-ai-callout-wgkp/up-ai-callout-wgkp-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/03/28/multimedia/up-ai-callout-wgkp/up-ai-callout-wgkp-facebookJumbo.jpg",
     "medium": "NYT"
   }
 ]

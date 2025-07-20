@@ -1,5 +1,33 @@
 [
   {
+    "id": "HGDKMJ7WDFDRTG4LX3GGVJECPA",
+    "headline": "A new era of floods has arrived. America isn’t prepared.  ",
+    "description": "A Washington Post investigation reveals why so few people evacuated in the state hit hardest by last year’s deadliest disaster.",
+    "url": "https://www.washingtonpost.com/climate-environment/2025/07/07/hurricane-helene-evacuation-north-carolina-warnings/",
+    "credits": [
+      {
+        "name": "Sarah Kaplan",
+        "slug": "sarah-kaplan"
+      },
+      {
+        "name": "Kevin Crowe",
+        "slug": "kevin-crowe"
+      },
+      {
+        "name": "Naema Ahmed",
+        "slug": "naema-ahmed"
+      },
+      {
+        "name": "Ben Noll",
+        "slug": "ben-noll"
+      }
+    ],
+    "date": "2025-07-20T10:00:00.182Z",
+    "img": "https://www.washingtonpost.com/resizer/i70DL7P3RwGLUtTe2rGW2d37WAA=/300x0/arc-anglerfish-washpost-prod-washpost/public/E4NJKZBAQAH73Z7TIVPLYV2AZA.jpg",
+    "label": {},
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjRjYzMzYWQtMmJiMy01NzEzLWFkMWUtMzRhNDk3OTUyYWE1",
     "headline": "Where Congress’s Cuts Threaten Access to PBS and NPR",
     "url": "https://www.nytimes.com/interactive/2025/07/18/business/media/house-rescission-vote-pbs-npr.html",
@@ -890,8 +918,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v36.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v37.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v39.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v40.jpg",
     "medium": "NYT"
   },
   {
@@ -2163,71 +2191,6 @@
     "description": "Thousands of U.S. troops stationed in the Middle East are within striking distance of ballistic missiles Iran has stockpiled.",
     "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-square320-v5.jpg",
     "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SY5LTIDWRGG000",
-    "headline": "Satellite Images Reveal Trump’s Dilemma Over Iran Nuclear Complex",
-    "url": "https://www.bloomberg.com/graphics/2025-israel-targets-iranian-nuclear-sites/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-06-20T12:10:30.640Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Jonathan Tirone",
-        "slug": "jonathan-tirone"
-      },
-      {
-        "name": "Krishna Karra",
-        "slug": "krishna-karra"
-      },
-      {
-        "name": "Hayley Warren",
-        "slug": "hayley-warren"
-      },
-      {
-        "name": "Sam Dodge",
-        "slug": "sam-dodge"
-      },
-      {
-        "name": "Dave Merrill",
-        "slug": "dave-merrill"
-      },
-      {
-        "name": "Demetrios Pogkas",
-        "slug": "demetrios-pogkas"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8sZBrNVLC24/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvN2IwNWQwN2MtNDRlZS01YjkwLThjZTktOWQyNTY2N2RiNDYw",
-    "headline": "A Long Way Down: What It Takes to Hit Iran’s Deepest Nuclear Site",
-    "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/iran-nuclear-fordo-bunker-buster-bomb.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-20T09:08:01.000Z",
-    "credits": [
-      {
-        "name": "Samuel Granados",
-        "slug": "samuel-granados"
-      },
-      {
-        "name": "Junho Lee",
-        "slug": "junho-lee"
-      },
-      {
-        "name": "Jeremy White",
-        "slug": "jeremy-white"
-      },
-      {
-        "name": "Leanne Abraham",
-        "slug": "leanne-abraham"
-      }
-    ],
-    "description": "President Trump says he’s considering attacking Iran’s underground nuclear site. Here’s what that might look like.",
-    "square_img": "https://static01.nyt.com/images/2025/06/19/multimedia/2025-06-17-fordo-index/2025-06-17-fordo-index-square320-v18.png",
-    "img": "https://static01.nyt.com/images/2025/06/19/multimedia/2025-06-17-fordo-index/2025-06-17-fordo-index-facebookJumbo-v17.png",
     "medium": "NYT"
   }
 ]

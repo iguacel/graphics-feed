@@ -2146,51 +2146,5 @@
     "square_img": null,
     "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzI4MjlkZGI3LWRlODMtNTIzNC05Y2JlLTRhMzkwNjEwZTBiNA==",
-    "headline": "An Iranian strike in downtown Haifa damaged at least two places of worship.",
-    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/an-iranian-strike-in-downtown-haifa-damaged-at-least-two-places-of-worship",
-    "label": "https://www.nytimes.com/live/",
-    "date": "2025-06-20T23:45:54.954Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Junho Lee",
-        "slug": "junho-lee"
-      }
-    ],
-    "description": "Shockwaves from the attack in Israel’s third-largest city damaged a mosque and a church.",
-    "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2ZlZjY2Y2VhLTMzYzctNTkxNi04ZjU3LTc0ZGM4ZmY4MjlmMw==",
-    "headline": "How far could Iranian missiles go?",
-    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/how-far-could-iranian-missiles-go",
-    "label": "https://www.nytimes.com/live/",
-    "date": "2025-06-20T21:23:10.331Z",
-    "credits": [
-      {
-        "name": "Ashley Cai",
-        "slug": "ashley-cai"
-      },
-      {
-        "name": "Albert Sun",
-        "slug": "albert-sun"
-      },
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      }
-    ],
-    "description": "Thousands of U.S. troops stationed in the Middle East are within striking distance of ballistic missiles Iran has stockpiled.",
-    "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-square320-v5.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
-    "medium": "NYT"
   }
 ]

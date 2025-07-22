@@ -173,7 +173,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZWRiMGE4ZmYtMTg3My01NmQ3LWJmMjEtNzdkYjcxNGRmZDE3",
-    "headline": "There’s a Flash Flood Season, and This Is It",
+    "headline": "Here’s Why There’s So Much Flash Flooding in the U.S. Right Now",
     "url": "https://www.nytimes.com/interactive/2025/07/16/weather/flash-floods.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-07-16T17:49:02.000Z",
@@ -982,7 +982,7 @@
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
     "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v40.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v40.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v41.jpg",
     "medium": "NYT"
   },
   {
@@ -2125,89 +2125,6 @@
     "description": "The few hundred programs that survived DOGE’s purge reveal the future of foreign aid.",
     "square_img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-square320-v11.png",
     "img": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-03-18-usaid-lists-index/2025-03-18-usaid-lists-index-facebookJumbo-v12.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNGU3NzNmZTQtN2RiNC01YzE2LTkwNzMtMGEyNWU1ZWQ4OTM4",
-    "headline": "Satellite Images Show Damage at Iranian Nuclear Sites",
-    "url": "https://www.nytimes.com/interactive/2025/06/22/world/middleeast/us-iran-nuclear-sites.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-22T05:36:34.000Z",
-    "credits": [
-      {
-        "name": "Leanne Abraham",
-        "slug": "leanne-abraham"
-      },
-      {
-        "name": "Ashley Cai",
-        "slug": "ashley-cai"
-      },
-      {
-        "name": "Agnes Chang",
-        "slug": "agnes-chang"
-      },
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Josh Holder",
-        "slug": "josh-holder"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Amy Schoenfeld Walker",
-        "slug": "amy-schoenfeld-walker"
-      }
-    ],
-    "description": "A Times analysis shows the extent of the U.S. strikes’ impact on the three nuclear sites.",
-    "square_img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-square320-v11.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-facebookJumbo-v9.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E1YjczZjMyLWYyM2QtNTBiNS1hNTgzLTg1NmY2YjY3NDQ0ZQ==",
-    "headline": "The U.S. struck key nuclear sites in Iran.",
-    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/us-strikes-key-nuclear-sites-in-iran",
-    "label": "https://www.nytimes.com/live/",
-    "date": "2025-06-22T04:07:17.000Z",
-    "credits": [
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      }
-    ],
-    "description": "No description available",
-    "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MyN2NiNDIwLTFiNDUtNTc5OS04NDJkLWE1MWIxODhkN2YzMg==",
-    "headline": "Several U.S. B-2 bombers were deployed west across the Pacific.",
-    "url": "https://www.nytimes.com/live/2025/world/israel-iran-maps-tracking/several-us-b-2-bombers-were-deployed-west-across-the-pacific",
-    "label": "https://www.nytimes.com/live/",
-    "date": "2025-06-21T21:06:44.000Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Devon Lum",
-        "slug": "devon-lum"
-      }
-    ],
-    "description": "The aircraft can carry the bunker-buster bombs that would be necessary to penetrate the Fordo underground nuclear site in Iran.",
-    "square_img": null,
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
     "medium": "NYT"
   }
 ]

@@ -1003,8 +1003,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v41.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v42.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v43.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v43.jpg",
     "medium": "NYT"
   },
   {
@@ -1984,72 +1984,6 @@
     "description": "Qatari officials said its air defenses had intercepted the missiles that were fired at Al Udeid Air Base.",
     "square_img": null,
     "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-06-19-iran-us-bases-missile-threat-index/2025-06-19-iran-us-bases-missile-threat-index-facebookJumbo-v6.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMzExMzQ3MzMtNjE0Zi01N2EzLTg3MzEtMDA2MGQxZTY1ZWU5",
-    "headline": "The A.I. Race Is Splitting the World Into Haves and Have-Nots",
-    "url": "https://www.nytimes.com/interactive/2025/06/23/technology/ai-computing-global-divide.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-23T09:01:39.000Z",
-    "credits": [
-      {
-        "name": "Adam Satariano",
-        "slug": "adam-satariano"
-      },
-      {
-        "name": "Paul Mozur",
-        "slug": "paul-mozur"
-      },
-      {
-        "name": "Karl Russell",
-        "slug": "karl-russell"
-      },
-      {
-        "name": "June Kim",
-        "slug": "june-kim"
-      }
-    ],
-    "description": "As countries race to power artificial intelligence, a yawning gap is opening around the world.",
-    "square_img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-06-ai-compute-regions-index/2025-05-06-ai-compute-regions-index-square320-v11.png",
-    "img": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-06-ai-compute-regions-index/2025-05-06-ai-compute-regions-index-facebookJumbo-v12.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "VmlkZW86bnl0Oi8vdmlkZW8vY2IzYzI2YTItNTE0OC01NWQ2LWJjMGEtYjNmNzE3ZmY2NWY2",
-    "headline": "Were the U.S.A.I.D. Cuts ‘Efficient?’",
-    "url": "https://www.nytimes.com/video/world/americas/100000010232866/were-the-usaid-cuts-efficient.html",
-    "label": "https://www.nytimes.com/video/",
-    "date": "2025-06-23T09:01:19.000Z",
-    "credits": [
-      {
-        "name": "Amy Schoenfeld Walker",
-        "slug": "amy-schoenfeld-walker"
-      },
-      {
-        "name": "Christina Thornell",
-        "slug": "christina-thornell"
-      },
-      {
-        "name": "Melanie Bencosme",
-        "slug": "melanie-bencosme"
-      },
-      {
-        "name": "Nikolay Nikolov",
-        "slug": "nikolay-nikolov"
-      },
-      {
-        "name": "Claire Hogan",
-        "slug": "claire-hogan"
-      },
-      {
-        "name": "Laura Salaberry",
-        "slug": "laura-salaberry"
-      }
-    ],
-    "description": "When President Trump took office, U.S.A.I.D. was one of the first agencies to be dismantled in the name of efficiency. Amy Schoenfeld Walker, a New York Times reporter and graphics editor who has been tracking the foreign aid cuts and restorations since they began in February, shares what she’s learned through her reporting.",
-    "square_img": "https://static01.nyt.com/images/2025/06/19/arts/THUMBNAIL/THUMBNAIL-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/19/arts/THUMBNAIL/THUMBNAIL-facebookJumbo.jpg?video-overlay",
     "medium": "NYT"
   }
 ]

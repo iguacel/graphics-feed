@@ -1,5 +1,26 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzdmNmQ5OWQzLTU0MWEtNWI3ZC04OTRhLWU4ZjkyODczNDA4YQ==",
+    "headline": "After Surge During Pandemic, Homicides Fall Significantly",
+    "url": "https://www.nytimes.com/2025/07/24/us/murders-crime-us-covid-19.html",
+    "label": "https://www.nytimes.com/us/",
+    "date": "2025-07-24T09:01:13.022Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Tim Arango",
+        "slug": "tim-arango"
+      }
+    ],
+    "description": "An analysis released Thursday by the Council on Criminal Justice shows that the majority of crimes the council tracks are continuing to decrease in 42 U.S. cities.",
+    "square_img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-facebookJumbo-v4.png",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzVjYTY2ZTItM2I0Mi01NDFkLWIxZTEtM2Q5ZDQ0MGM0NWVi",
     "headline": "This Was Supposed to Be the Year China Started Catching Up With SpaceX",
     "url": "https://www.nytimes.com/interactive/2025/07/23/world/asia/starlink-spacex-musk-china-satellites.html",
@@ -43,6 +64,34 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3319248/yp-spark-infographic/img/media-cover.jpg",
     "medium": "SCMP"
+  },
+  {
+    "id": "2025_07_street-view",
+    "headline": "NYC's Urban Textscape",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/07/street-view/",
+    "date": "2025-07-24T00:00:00.000Z",
+    "keywords": [
+      "nyc",
+      "streetview",
+      "google",
+      "maps",
+      "satellite",
+      "words",
+      "text"
+    ],
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Yufeng Zhao",
+        "slug": "yufeng-zhao"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_07_street-view.jpg",
+    "medium": "Pudding"
   },
   {
     "id": "FQNC5OQ2DNA5LAKD6H5OKPIOXM",
@@ -1048,8 +1097,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v43.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v43.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v44.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v45.jpg",
     "medium": "NYT"
   },
   {
@@ -1920,27 +1969,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQPAqmoHNUo8/v1/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "VIV5ZW5YYNHJPM2UXD6PQVKX3M",
-    "headline": "Where extreme heat will pose the biggest threat: Look up your city",
-    "description": "See in maps how heat waves and dangerous temperatures will affect your city this summer. Track the temperatures and extreme heat wave risk in your area.",
-    "url": "https://www.washingtonpost.com/climate-environment/interactive/heat-waves-map-us-tracker/",
-    "credits": [
-      {
-        "name": "Naema Ahmed",
-        "slug": "naema-ahmed"
-      },
-      {
-        "name": "John Muyskens",
-        "slug": "john-muyskens"
-      }
-    ],
-    "date": "2025-06-24T14:31:22.725Z",
-    "img": "https://www.washingtonpost.com/resizer/yvqZCvb9TfjQ3wDYaYXvLlhnx8U=/300x0/arc-anglerfish-washpost-prod-washpost/public/XV57XEJ64RD5FM6LQWSMQAI62Q.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/weather/"
-    },
-    "medium": "WP"
   }
 ]

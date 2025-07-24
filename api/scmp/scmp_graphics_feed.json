@@ -1,5 +1,28 @@
 [
   {
+    "id": "1Q2rPcP_Ul",
+    "headline": "All the sparks of one year",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3319248/yp-spark-infographic/index.html",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2025-07-24T00:00:00.000Z",
+    "description": "After a year of continuous brainstorming, our team is displaying a gallery of 42 visually informative and engaging pages",
+    "credits": [
+      {
+        "name": "Marcelo Duhalde",
+        "slug": "marcelo-duhalde"
+      },
+      {
+        "name": "Brian Wang",
+        "slug": "brian-wang"
+      },
+      {
+        "name": "Joe Lo",
+        "slug": "joe-lo"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3319248/yp-spark-infographic/img/media-cover.jpg"
+  },
+  {
     "id": "YNyslAJlQv",
     "headline": "How China’s rare earth leadership can impact US defence procurement",
     "url": "https://multimedia.scmp.com/infographics/news/china/article/3313870/critical-minerals-leadership/index.html",

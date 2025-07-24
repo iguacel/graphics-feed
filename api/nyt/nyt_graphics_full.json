@@ -1,5 +1,25 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzVjYTY2ZTItM2I0Mi01NDFkLWIxZTEtM2Q5ZDQ0MGM0NWVi",
+    "headline": "This Was Supposed to Be the Year China Started Catching Up With SpaceX",
+    "url": "https://www.nytimes.com/interactive/2025/07/23/world/asia/starlink-spacex-musk-china-satellites.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-24T02:25:40.000Z",
+    "credits": [
+      {
+        "name": "Selam Gebrekidan",
+        "slug": "selam-gebrekidan"
+      },
+      {
+        "name": "Malika Khurana",
+        "slug": "malika-khurana"
+      }
+    ],
+    "description": "China’s biggest networks have deployed less than 1 percent of their planned satellites, falling far behind SpaceX for dominance in space communications.",
+    "square_img": "https://static01.nyt.com/images/2025/07/21/multimedia/2025-07-15-china-space-index/2025-07-15-china-space-index-square320-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/21/multimedia/2025-07-15-china-space-index/2025-07-15-china-space-index-facebookJumbo-v6.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMjRjYzMzYWQtMmJiMy01NzEzLWFkMWUtMzRhNDk3OTUyYWE1",
     "headline": "Where Congress’s Cuts Threaten Access to PBS and NPR",
     "url": "https://www.nytimes.com/interactive/2025/07/18/business/media/house-rescission-vote-pbs-npr.html",

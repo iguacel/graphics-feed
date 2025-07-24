@@ -1,5 +1,33 @@
 [
   {
+    "id": "2025_07_street-view",
+    "headline": "NYC's Urban Textscape",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/07/street-view/",
+    "date": "2025-07-24",
+    "keywords": [
+      "nyc",
+      "streetview",
+      "google",
+      "maps",
+      "satellite",
+      "words",
+      "text"
+    ],
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Yufeng Zhao",
+        "slug": "yufeng-zhao"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_07_street-view.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2025_07_kids-books",
     "headline": "Bears Will Be Boys",
     "description": "No description available",

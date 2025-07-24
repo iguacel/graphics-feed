@@ -1,5 +1,25 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzdmNmQ5OWQzLTU0MWEtNWI3ZC04OTRhLWU4ZjkyODczNDA4YQ==",
+    "headline": "After Surge During Pandemic, Homicides Fall Significantly",
+    "url": "https://www.nytimes.com/2025/07/24/us/murders-crime-us-covid-19.html",
+    "label": "https://www.nytimes.com/us/",
+    "date": "2025-07-24T09:01:13.022Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      },
+      {
+        "name": "Tim Arango",
+        "slug": "tim-arango"
+      }
+    ],
+    "description": "An analysis released Thursday by the Council on Criminal Justice shows that the majority of crimes the council tracks are continuing to decrease in 42 U.S. cities.",
+    "square_img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-square320-v3.png",
+    "img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-facebookJumbo-v4.png"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzVjYTY2ZTItM2I0Mi01NDFkLWIxZTEtM2Q5ZDQ0MGM0NWVi",
     "headline": "This Was Supposed to Be the Year China Started Catching Up With SpaceX",
     "url": "https://www.nytimes.com/interactive/2025/07/23/world/asia/starlink-spacex-musk-china-satellites.html",
@@ -444,8 +464,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v43.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v43.jpg"
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v44.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v45.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTQ2NDA5NGYtZTdhNy01NWU4LThjMDAtMWNjYTU5ZDc2MGE4",

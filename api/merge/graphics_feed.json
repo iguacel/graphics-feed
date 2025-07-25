@@ -4,7 +4,7 @@
     "headline": "After Surge During Pandemic, Homicides Fall Significantly",
     "url": "https://www.nytimes.com/2025/07/24/us/murders-crime-us-covid-19.html",
     "label": "https://www.nytimes.com/us/",
-    "date": "2025-07-24T09:01:13.022Z",
+    "date": "2025-07-24T09:01:13.000Z",
     "credits": [
       {
         "name": "Ashley Wu",
@@ -1072,8 +1072,8 @@
       }
     ],
     "description": "A cemetery near Damascus was transformed into an industrial-scale mass grave for Syrians who opposed President Bashar al-Assad.",
-    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-square320-v5.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-facebookJumbo-v8.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-square320-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-facebookJumbo-v9.jpg",
     "medium": "NYT"
   },
   {
@@ -1832,142 +1832,5 @@
     "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-square320-v4.png",
     "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-facebookJumbo-v4.png",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjliMGVmZWMtMzZiOC01MzA2LWExZDQtMGRiYzc5Yzg2YTE5",
-    "headline": "The Most Detailed Map of the N.Y.C. Mayoral Primary",
-    "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/nyc-mayor-primary-results-precinct-map.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-25T01:24:33.000Z",
-    "credits": [
-      {
-        "name": "Martín González Gómez",
-        "slug": "martin-gonzalez-gomez"
-      },
-      {
-        "name": "Saurabh Datar",
-        "slug": "saurabh-datar"
-      },
-      {
-        "name": "Matthew Bloch",
-        "slug": "matthew-bloch"
-      },
-      {
-        "name": "Andrew Fischer",
-        "slug": "andrew-fischer"
-      },
-      {
-        "name": "Jon Huang",
-        "slug": "jon-huang"
-      }
-    ],
-    "description": "See neighborhood-level election results from the first round of the mayoral race.",
-    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-05-09-nyc-mayoral-primary-index/2025-05-09-nyc-mayoral-primary-index-square320-v3.png",
-    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-05-09-nyc-mayoral-primary-index/2025-05-09-nyc-mayoral-primary-index-facebookJumbo-v3.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzRmMzczZDkwLTUzMGQtNWFjOS1iMmJlLTlmMzE2NmYzZjBjNA==",
-    "headline": "Did Iran or Israel Violate the Cease-Fire Overnight?",
-    "url": "https://www.nytimes.com/2025/06/24/world/middleeast/israel-iran-ceasefire-timeline.html",
-    "label": "https://www.nytimes.com/world/",
-    "date": "2025-06-24T19:59:46.000Z",
-    "credits": [
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Daniel Wood",
-        "slug": "daniel-wood"
-      }
-    ],
-    "description": "The period after President Trump announced the cease-fire was muddied by time zone differences, unclear wording in statements and continuing strikes.",
-    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-square320-v3.png",
-    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-24-iran-israel-retaliation-cease-fire-index/2025-06-24-iran-israel-retaliation-cease-fire-index-facebookJumbo-v3.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTRjZWQzY2MtYmFlNy01MGVjLTkzZGYtYTlmNDY1ZTIyYTVh",
-    "headline": "A Running List of Policies Rejected From the Republican Megabill",
-    "url": "https://www.nytimes.com/interactive/2025/06/24/upshot/reconciliation-byrd-bath.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-24T19:29:12.000Z",
-    "credits": [
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      }
-    ],
-    "description": "So far, the parliamentarian has determined that dozens of provisions do not pass muster to be included.",
-    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/24up-capitol-building-ktql/24up-capitol-building-ktql-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/24up-capitol-building-ktql/24up-capitol-building-ktql-facebookJumbo.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "SLWTJIFGTRFPDOGXG7H7URBME4",
-    "headline": "Just how hard is it to find a star with the No. 6 pick in the NBA draft? ",
-    "description": "With the Wizards set to select from that position, we examined the career outcomes for players taken from No. 6 through 10 over the course of 15 drafts.",
-    "url": "https://www.washingtonpost.com/sports/interactive/2025/draft-history-sixth-pick/",
-    "credits": [
-      {
-        "name": "Varun Shankar",
-        "slug": "varun-shankar"
-      },
-      {
-        "name": "Artur Galocha",
-        "slug": "artur-galocha"
-      }
-    ],
-    "date": "2025-06-24T18:00:50.815Z",
-    "img": "https://www.washingtonpost.com/resizer/PmpJY3-QioFAaczaT04dWI6o0xA=/300x0/arc-anglerfish-washpost-prod-washpost/public/AGI3G5O4FZGFJDPLYCQMSONJ2A.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/sports/wizards/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SYDF2GDWRGG000",
-    "headline": "Satellite Imagery Shows Damage to Three Iranian Nuclear Facilities From US Strikes",
-    "url": "https://www.bloomberg.com/graphics/2025-us-strikes-damage-iran-nuclear-sites-satellite-image/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-06-24T17:25:28.866Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Jonathan Tirone",
-        "slug": "jonathan-tirone"
-      },
-      {
-        "name": "Hayley Warren",
-        "slug": "hayley-warren"
-      },
-      {
-        "name": "Rachel Lavin",
-        "slug": "rachel-lavin"
-      },
-      {
-        "name": "Spe Chen",
-        "slug": "spe-chen"
-      },
-      {
-        "name": "Christopher Udemans",
-        "slug": "christopher-udemans"
-      },
-      {
-        "name": "Yasufumi Saito",
-        "slug": "yasufumi-saito"
-      },
-      {
-        "name": "Adrian Leung",
-        "slug": "adrian-leung"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQPAqmoHNUo8/v1/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

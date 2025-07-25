@@ -1097,8 +1097,8 @@
       }
     ],
     "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v44.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v45.jpg",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v46.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v46.jpg",
     "medium": "NYT"
   },
   {
@@ -1726,111 +1726,6 @@
     "description": "A Times analysis shows where Zohran Mamdani has built a strong lead in the votes counted so far.",
     "square_img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-06-04-mayor-primary-analysis-index/2025-06-04-mayor-primary-analysis-index-square320-v2.png",
     "img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-06-04-mayor-primary-analysis-index/2025-06-04-mayor-primary-analysis-index-facebookJumbo-v3.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "HYGVKJYTPNEJZAKBZTGQU3H7AQ",
-    "headline": "How much will you save or lose with Trump’s ‘big’ tax bill?",
-    "description": "How will Trump’s tax bill affect your finances? Check out its affects using this calculator.",
-    "url": "https://www.washingtonpost.com/business/interactive/2025/trump-big-beautiful-bill-your-taxes-cuts/",
-    "credits": [
-      {
-        "name": "Szu Yu  Chen",
-        "slug": "szuyu-chen"
-      },
-      {
-        "name": "Shelly Tan",
-        "slug": "shelly-tan"
-      },
-      {
-        "name": "Rachel Lerman",
-        "slug": "rachel-lerman"
-      },
-      {
-        "name": "Jacob Bogage",
-        "slug": "jacob-bogage"
-      }
-    ],
-    "date": "2025-06-25T10:00:49.947Z",
-    "img": "https://www.washingtonpost.com/resizer/QVY46kDdr5-j4xJo8G2C88b3Skw=/300x0/arc-anglerfish-washpost-prod-washpost/public/EUALB37W6JHU3KLCQZTY6XKBMU.png",
-    "label": {
-      "url": "https://www.washingtonpost.com/business/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "5SFCE4DK5BHBPFYSK5L3MLA4M4",
-    "headline": "Melatonin doses can vary from what’s on the label. Here’s how much.",
-    "description": "An FDA study of 110 melatonin supplements marketed for children found doses ranged from 0 to 667 percent of the amount on the label.",
-    "url": "https://www.washingtonpost.com/wellness/2025/06/25/melatonin-children-sleep-fda-study/",
-    "credits": [
-      {
-        "name": "Teddy Amenabar",
-        "slug": "teddy-amenabar"
-      },
-      {
-        "name": "Caitlin Gilbert",
-        "slug": "caitlin-gilbert"
-      }
-    ],
-    "date": "2025-06-25T10:00:00.150Z",
-    "img": "https://www.washingtonpost.com/resizer/P3HahQ3B3N89BZ9WFzLDaCNQzkM=/300x0/arc-anglerfish-washpost-prod-washpost/public/TLVAVIK4XVB2ZPNP5FQZI26NV4.JPG",
-    "label": {
-      "url": "https://www.washingtonpost.com/wellbeing/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SYENTHT0G1KW00",
-    "headline": "Calculate Your Gain Under a New SALT Cap",
-    "url": "https://www.bloomberg.com/graphics/2025-salt-tax-deduction-calculator/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-06-25T09:32:05.987Z",
-    "description": "The state and local tax deduction, which primarily benefits wealthier Americans in high-tax areas, is one of the most disputed provisions of Trump’s tax bill.",
-    "credits": [
-      {
-        "name": "Christopher Cannon",
-        "slug": "christopher-cannon"
-      },
-      {
-        "name": "Cedric Sam",
-        "slug": "cedric-sam"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR2MCbYoY7qo/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODc0ZmJkMTktY2E0My01ZjRmLTg5YTYtYWRiZDE4NWRiZWFl",
-    "headline": "Mideast Conflict Imperils a Tiny Waterway Vital to the World Economy",
-    "url": "https://www.nytimes.com/interactive/2025/06/25/business/energy-environment/strait-hormuz-oil.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-25T09:01:14.000Z",
-    "credits": [
-      {
-        "name": "Albert Sun",
-        "slug": "albert-sun"
-      },
-      {
-        "name": "Josh Holder",
-        "slug": "josh-holder"
-      },
-      {
-        "name": "Rebecca F. Elliott",
-        "slug": "rebecca-f-elliott"
-      },
-      {
-        "name": "Peter Eavis",
-        "slug": "peter-eavis"
-      },
-      {
-        "name": "Samuel Granados",
-        "slug": "samuel-granados"
-      }
-    ],
-    "description": "Every day, roughly one-fifth of the world’s oil supply squeezes through a narrow waterway on Iran’s southern border. It is one of the energy industry’s most important trading routes — and one of its most vulnerable.",
-    "square_img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-square320-v4.png",
-    "img": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-06-22-iran-hormuz-marine-traffic-index/2025-06-22-iran-hormuz-marine-traffic-index-facebookJumbo-v4.png",
     "medium": "NYT"
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGEzYmQwYzAtMDZhMC01MjJlLWEwYmQtMmM2Y2U1NjhjMWIy",
+    "headline": "Mapping How Mamdani’s Ranked-Choice Strategy Beat Cuomo",
+    "url": "https://www.nytimes.com/interactive/2025/07/26/nyregion/nyc-mayor-ranked-choice-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-26T09:01:34.807Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Saurabh Datar",
+        "slug": "saurabh-datar"
+      },
+      {
+        "name": "Keith Collins",
+        "slug": "keith-collins"
+      },
+      {
+        "name": "Nicholas Fandos",
+        "slug": "nicholas-fandos"
+      }
+    ],
+    "description": "New data provides the clearest picture yet of how Zohran Mamdani pulled off his primary election upset.",
+    "square_img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-facebookJumbo-v6.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzdmNmQ5OWQzLTU0MWEtNWI3ZC04OTRhLWU4ZjkyODczNDA4YQ==",
     "headline": "After Surge During Pandemic, Homicides Fall Significantly",
     "url": "https://www.nytimes.com/2025/07/24/us/murders-crime-us-covid-19.html",
@@ -17,7 +45,7 @@
     ],
     "description": "An analysis released Thursday by the Council on Criminal Justice shows that the majority of crimes the council tracks are continuing to decrease in 42 U.S. cities.",
     "square_img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-square320-v3.png",
-    "img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-facebookJumbo-v4.png"
+    "img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-square320-v3.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzVjYTY2ZTItM2I0Mi01NDFkLWIxZTEtM2Q5ZDQ0MGM0NWVi",
@@ -141,7 +169,7 @@
     ],
     "description": "Unregulated activity led by Chinese enterprises in conflict-ravaged Myanmar is creating an environmental calamity in neighboring Thailand.",
     "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/00int-thailand-rare-earths-01-bvmk/00int-thailand-rare-earths-01-bvmk-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/00int-thailand-rare-earths-01-bvmk/00int-thailand-rare-earths-01-bvmk-facebookJumbo.jpg"
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/00int-thailand-rare-earths-01-bvmk/00int-thailand-rare-earths-01-bvmk-square320.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzYzYjE4MWU1LWI4ODQtNTc1Ny05YTBiLWM4MmYyYTVlOGUyNw==",
@@ -165,7 +193,7 @@
     ],
     "description": "The A.I. chip maker reached the landmark before Apple and Microsoft, as its value rose more than tenfold after ChatGPT’s release in late 2022.",
     "square_img": "https://static01.nyt.com/images/2025/07/10/multimedia/2025-07-07-nvidia-four-index/2025-07-07-nvidia-four-index-square320-v4.png",
-    "img": "https://static01.nyt.com/images/2025/07/10/multimedia/2025-07-07-nvidia-four-index/2025-07-07-nvidia-four-index-facebookJumbo-v7.png"
+    "img": "https://static01.nyt.com/images/2025/07/10/multimedia/2025-07-07-nvidia-four-index/2025-07-07-nvidia-four-index-square320-v4.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODcwNmQ3ZTYtMGNhMy01OGY0LTg2Y2QtMjE4ODViODgzOGYz",
@@ -213,7 +241,7 @@
     ],
     "description": "Experts worry that if vaccination rates do not improve, deadly outbreaks will become the new normal.",
     "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v7.png",
-    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-facebookJumbo-v5.png"
+    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v7.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjY5YmMwMWUtM2YzZS01YmU1LWIzNjUtZjMwODFlMWVjMDU5",
@@ -377,7 +405,7 @@
     ],
     "description": "Who benefits, and who gets hurt? How much does it really add to the debt? And what’s the deal with Alaska?",
     "square_img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-facebookJumbo.jpg"
+    "img": "https://static01.nyt.com/images/2025/07/03/upshot/senate-floor-deficits/senate-floor-deficits-square320.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjMxYWYyODUtZGViOS01NjFlLWI4ZTQtNWY5MzhhYWY2YTYy",

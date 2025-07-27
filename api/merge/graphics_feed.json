@@ -1,5 +1,41 @@
 [
   {
+    "id": "3PMXPNECMFAP7GQRRKF6RNCNCE",
+    "headline": "Gazans are dying of hunger. Here’s what happens to a starving human body.",
+    "description": "Children suffering under severe food shortages can face lifelong consequences. ",
+    "url": "https://www.washingtonpost.com/world/interactive/2025/gaza-hunger-starvation-children-body/",
+    "credits": [
+      {
+        "name": "Ruby Mellen",
+        "slug": "ruby-mellen"
+      },
+      {
+        "name": "Lauren Weber",
+        "slug": "lauren-weber"
+      },
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      },
+      {
+        "name": "David Ovalle",
+        "slug": "david-ovalle"
+      },
+      {
+        "name": "Hajar Harb",
+        "slug": "hajar-harb"
+      },
+      {
+        "name": "Joshua Yang",
+        "slug": "joshua-yang"
+      }
+    ],
+    "date": "2025-07-27T08:00:26.534Z",
+    "img": "https://www.washingtonpost.com/resizer/7YVn-nU7a_G6IeIDENcW2fKoquY=/300x0/arc-anglerfish-washpost-prod-washpost/public/R4WRZ4RYF5HWZKVSBSDK4YNV2U.jpg",
+    "label": {},
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGEzYmQwYzAtMDZhMC01MjJlLWEwYmQtMmM2Y2U1NjhjMWIy",
     "headline": "Mapping How Mamdani’s Ranked-Choice Strategy Beat Cuomo",
     "url": "https://www.nytimes.com/interactive/2025/07/26/nyregion/nyc-mayor-ranked-choice-map.html",
@@ -48,6 +84,34 @@
     "square_img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-square320-v3.png",
     "img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-square320-v3.png",
     "medium": "NYT"
+  },
+  {
+    "id": "SZVXS6GPFHP700",
+    "headline": "The War in Gaza Leaves Toxic Legacy of Garbage, Disease and Pollution",
+    "url": "https://www.bloomberg.com/graphics/2025-gaza-war-environmental-disaster/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-07-24T04:00:06.430Z",
+    "description": "The bombardment of Gaza has left contaminated soil, blackened water and mounds of garbage spreading disease and pollution; a toxic legacy that will last generations, and extend beyond its borders.",
+    "credits": [
+      {
+        "name": "Fadwa Hodali",
+        "slug": "fadwa-hodali"
+      },
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Denise Lu",
+        "slug": "denise-lu"
+      },
+      {
+        "name": "Caroline Alexander",
+        "slug": "caroline-alexander"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihu3EtKByWyY/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYzVjYTY2ZTItM2I0Mi01NDFkLWIxZTEtM2Q5ZDQ0MGM0NWVi",

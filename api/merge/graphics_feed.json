@@ -1,5 +1,27 @@
 [
   {
+    "id": "PNDISVEXQZDCJN5FXQMTDVJIIM",
+    "headline": "Trump covets rare earth riches, but Greenland plans to mine its own business ",
+    "description": "Interest in Greenland’s minerals is soaring, driven in part by Trump, who has said the U.S. must “get” the island. But the rare earths will be hard to mine.",
+    "url": "https://www.washingtonpost.com/world/interactive/2025/greenland-minerals-mining-trump-difficulties/",
+    "credits": [
+      {
+        "name": "William Booth",
+        "slug": "william-booth"
+      },
+      {
+        "name": "Laris Karklis",
+        "slug": "laris-karklis"
+      }
+    ],
+    "date": "2025-07-27T10:15:58.739Z",
+    "img": "https://www.washingtonpost.com/resizer/mBU-NKBqdyxxRHMA7Tfp7Cf2AcY=/300x0/arc-anglerfish-washpost-prod-washpost/public/2FKEQFSN6JAPLOPSAOJVDIVIQE.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/europe/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "3PMXPNECMFAP7GQRRKF6RNCNCE",
     "headline": "Gazans are dying of hunger. Here’s what happens to a starving human body.",
     "description": "Children suffering under severe food shortages can face lifelong consequences. ",
@@ -1606,69 +1628,5 @@
     "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-ice-arrests-index/2025-06-23-ice-arrests-index-square320-v6.png",
     "img": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-ice-arrests-index/2025-06-23-ice-arrests-index-facebookJumbo-v6.png",
     "medium": "NYT"
-  },
-  {
-    "id": "SYIMSRDWLU6800",
-    "headline": "H-1B Middlemen Bring Cheap Labor to Citi, Capital One",
-    "url": "https://www.bloomberg.com/graphics/2025-h1b-visa-middlemen-cheap-labor-for-us-banks/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-06-27T13:00:27.311Z",
-    "description": "New data reveal how companies that farm out IT workers exploit flaws in the visa lottery while other US businesses and talented immigrants lose out.",
-    "credits": [
-      {
-        "name": "Eric Fan",
-        "slug": "eric-fan"
-      },
-      {
-        "name": "Marie Patino",
-        "slug": "marie-patino"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8E5QY15TH6s/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "IQFOXT7ZP5FQNPF7BVT6YMDHGM",
-    "headline": "What Democratic swings in special elections mean for 2026",
-    "description": "Special election results are providing insight into the 2026 election outlook, with Democrats making significant gains across the country.",
-    "url": "https://www.washingtonpost.com/politics/2025/06/27/democratic-special-election-gains/",
-    "credits": [
-      {
-        "name": "Lenny Bronner",
-        "slug": "lenny-bronner"
-      },
-      {
-        "name": "Nick Mourtoupalas",
-        "slug": "nick-mourtoupalas"
-      }
-    ],
-    "date": "2025-06-27T10:00:30.339Z",
-    "img": "https://www.washingtonpost.com/resizer/P_Y_19Z2-RZgRDcbtLb9bpCs2Hs=/300x0/arc-anglerfish-washpost-prod-washpost/public/UV36BQHE35A3BAOSRKKBGEVN6E.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/politics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "SAOVYSLSWFD7HDBDGYWC2B73SY",
-    "headline": "The real reason airports all feel the same",
-    "description": "Digging into restaurant reviews, the Department of Data found that differences between chains seem to disappear within airports. Why is that?",
-    "url": "https://www.washingtonpost.com/business/2025/06/27/department-of-data-airport-restaurants/",
-    "credits": [
-      {
-        "name": "Andrew Van Dam",
-        "slug": "andrew-van-dam"
-      },
-      {
-        "name": "Dylan Moriarty",
-        "slug": "dylan-moriarty"
-      }
-    ],
-    "date": "2025-06-27T10:00:10.935Z",
-    "img": "https://www.washingtonpost.com/resizer/4QXeyrCQ_lcOgUxTu79pd08r7Pc=/300x0/arc-anglerfish-washpost-prod-washpost/public/BEPG2EAYALDNFFTHMQ2EOFBG6M.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/business/2022/06/29/dept-of-data/"
-    },
-    "medium": "WP"
   }
 ]

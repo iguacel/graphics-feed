@@ -1,7 +1,25 @@
 [
   {
+    "id": "UA4XZ56VQRCARALGDAONDAIECQ",
+    "headline": "How AI is impacting 700 professions — and might impact yours",
+    "description": "Will AI help you work or replace you? Check yourself.",
+    "url": "https://www.washingtonpost.com/opinions/interactive/2025/ai-jobs-layoffs-tech/",
+    "credits": [
+      {
+        "name": "Youyou Zhou",
+        "slug": "youyou-zhou"
+      }
+    ],
+    "date": "2025-07-28T10:00:11.557Z",
+    "img": "https://www.washingtonpost.com/resizer/g2YZjAWSb066hlk_9g-9w8fC0QQ=/300x0/arc-anglerfish-washpost-prod-washpost/public/ZLX7VD7CFVDMJOJP7CKB6237JI.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/opinions/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjJkZGQ1YWQtZGU4ZC01YzhmLTg1MTEtYTEzMmI0YzJlNjBi",
-    "headline": "What’s Going On With Trump’s Tariffs?",
+    "headline": "See Trump’s New Tariffs on Every Country",
     "url": "https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-07-28T06:57:17.000Z",
@@ -1452,52 +1470,5 @@
       "url": "https://www.washingtonpost.com/politics/courts-law/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "FXLKE2TUPZCI3OM6IGR7JO2LEY",
-    "headline": "Senate excludes trillions in debt to make Trump’s tax bill seem cheaper",
-    "description": "Traditional estimates say that Trump’s tax package will add about $4 trillion to the national debt. Senate Republicans have slashed that number by changing the way Congress does its accounting.",
-    "url": "https://www.washingtonpost.com/business/2025/06/28/senate-big-beautiful-bill-cost-trump/",
-    "credits": [
-      {
-        "name": "Alyssa Fowers",
-        "slug": "alyssa-fowers"
-      },
-      {
-        "name": "Hannah Dormido",
-        "slug": "hannah-dormido"
-      }
-    ],
-    "date": "2025-06-28T10:00:54.467Z",
-    "img": "https://www.washingtonpost.com/resizer/csqO-eBcAscYSh7EI21tzMIfRzM=/300x0/arc-anglerfish-washpost-prod-washpost/public/K6JTLOUENVHQHLYHOJTKY7S5UU.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/economy/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzExNzlkOTA3LWYxNDctNTdiZC1iMTI5LTEwNTFhZDk5NzEyMA==",
-    "headline": "A Triumphant Supreme Court Term for Trump, Fueled by Emergency Rulings",
-    "url": "https://www.nytimes.com/2025/06/28/us/supreme-court-trump-victories.html",
-    "label": "https://www.nytimes.com/us/",
-    "date": "2025-06-28T09:01:55.000Z",
-    "credits": [
-      {
-        "name": "Adam Liptak",
-        "slug": "adam-liptak"
-      },
-      {
-        "name": "Abbie VanSickle",
-        "slug": "abbie-vansickle"
-      },
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      }
-    ],
-    "description": "Using truncated procedures, the six-justice conservative majority gave a green light to many of the president’s most assertive initiatives.",
-    "square_img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/27/multimedia/dc-scotus-wrapup-mchv/dc-scotus-wrapup-mchv-facebookJumbo.jpg",
-    "medium": "NYT"
   }
 ]

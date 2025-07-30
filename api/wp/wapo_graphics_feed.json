@@ -1,5 +1,84 @@
 [
   {
+    "id": "KGBOFYWSZNDBVKI2TLGUVEERLA",
+    "headline": "Gaza airdrops deliver a fraction of what trucks could, aid groups warn",
+    "description": "Israel’s decision to allow Gaza airdrops to resume comes with risks and high costs, and experts say it’s not enough to meet acute need amid a starvation crisis.",
+    "url": "https://www.washingtonpost.com/world/2025/07/31/gaza-airdrop-aid-trucks-food-humanitarian/",
+    "credits": [
+      {
+        "name": "Sammy Westfall",
+        "slug": "sammy-westfall"
+      },
+      {
+        "name": "Manuel Canales",
+        "slug": "manuel-canales"
+      },
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      }
+    ],
+    "date": "2025-07-30T13:25:49.385Z",
+    "img": "https://www.washingtonpost.com/resizer/nFEwWmWuv9gznwlh-Na5dseZJb8=/300x0/arc-anglerfish-washpost-prod-washpost/public/AZM3ERBRD5FRNMLH46WKPPLKOM.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/israel-hamas-war/"
+    }
+  },
+  {
+    "id": "IKGYKOXYCZHUHMR6V4U67UOUEA",
+    "headline": "Earthquake off Russia’s coast is among strongest ever recorded",
+    "description": "The 8.8-magnitude earthquake that struck Russia’s Kamchatka Peninsula could be among the six strongest on record, according to U.S. geological authorities.",
+    "url": "https://www.washingtonpost.com/world/2025/07/30/strongest-tsunami-earthquake-records-russia/",
+    "credits": [
+      {
+        "name": "Annabelle Timsit",
+        "slug": "annabelle-timsit"
+      },
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      },
+      {
+        "name": "Ben Noll",
+        "slug": "ben-noll"
+      }
+    ],
+    "date": "2025-07-30T10:22:24.887Z",
+    "img": "https://www.washingtonpost.com/resizer/QJrdZRaSfcycNGokc0KDAph6sN0=/300x0/arc-anglerfish-washpost-prod-washpost/public/QTXSTZFPHVCSJFFQ23AOZ2FN2I.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/world/"
+    }
+  },
+  {
+    "id": "ZKPZVFAOIJAQDDQLA3ZZONIW3Q",
+    "headline": "60,000 Gazans have been killed. 18,500 were children. These are their names.",
+    "description": "Palestinian children have been killed at a rate of more than one per hour since the war began.",
+    "url": "https://www.washingtonpost.com/world/interactive/2025/israel-gaza-war-children-death-toll/",
+    "credits": [
+      {
+        "name": "Sammy Westfall",
+        "slug": "sammy-westfall"
+      },
+      {
+        "name": "Amaya Verde",
+        "slug": "amaya-verde"
+      },
+      {
+        "name": "Júlia Ledur",
+        "slug": "julia-ledur"
+      },
+      {
+        "name": "Hazem  Balousha",
+        "slug": "hazem-balousha-"
+      }
+    ],
+    "date": "2025-07-30T09:00:45.869Z",
+    "img": "https://www.washingtonpost.com/resizer/7TqOo6wlBkXYiSdMxwIDwkYfmJ8=/300x0/arc-anglerfish-washpost-prod-washpost/public/SBUQ4JEGHRGK5CPWXKHDY3A7GM.png",
+    "label": {
+      "url": "https://www.washingtonpost.com/israel-hamas-war/"
+    }
+  },
+  {
     "id": "ZME4U56ECJF5LGYQYRSUVC3VKU",
     "headline": "Does your city have too much of one kind of tree? That can be a problem.",
     "description": "Many urban canopies across U.S. cities are dominated by only a handful of tree types, putting them at risk of being wiped out by an insect or disease.",

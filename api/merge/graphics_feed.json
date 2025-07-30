@@ -51,7 +51,7 @@
         "slug": "tony-romm"
       }
     ],
-    "description": "The president is set to raise taxes on imports arriving from many countries, including Canada and Mexico. That’s on top of the tariffs that the White House has already announced on specific products, including foreign cars.",
+    "description": "The president is set to raise taxes on imports arriving from many countries, including Canada and Mexico. That’s on top of the tariffs that the White House has already announced on scores of products.",
     "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v3.jpg",
     "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v4.jpg",
     "medium": "NYT"
@@ -1433,34 +1433,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5pgOTIFcuj0/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMTkwMDEzOGUtYTIwZi01YjE0LTgwYjQtMmVmY2I0YTM4NzVh",
-    "headline": "A List of Nearly Everything in the G.O.P. Bill, and How Much It Would Cost or Save",
-    "url": "https://www.nytimes.com/interactive/2025/06/30/upshot/senate-republican-megabill.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-06-30T04:13:30.000Z",
-    "credits": [
-      {
-        "name": "Alicia Parlapiano",
-        "slug": "alicia-parlapiano"
-      },
-      {
-        "name": "Margot Sanger-Katz",
-        "slug": "margot-sanger-katz"
-      },
-      {
-        "name": "Aatish Bhatia",
-        "slug": "aatish-bhatia"
-      },
-      {
-        "name": "Josh Katz",
-        "slug": "josh-katz"
-      }
-    ],
-    "description": "The legislation includes tax cuts as well as big cuts to Medicaid, food benefits and other programs, and it would add more than $3 trillion to the national debt.",
-    "square_img": "https://static01.nyt.com/images/2025/06/30/multimedia/2025-06-29-bbb-list-senate-index/2025-06-29-bbb-list-senate-index-square320.png",
-    "img": "https://static01.nyt.com/images/2025/06/30/multimedia/2025-06-29-bbb-list-senate-index/2025-06-29-bbb-list-senate-index-facebookJumbo.png",
-    "medium": "NYT"
   }
 ]

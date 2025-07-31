@@ -1,5 +1,110 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FlMjdlZjk5LTIyM2QtNWJmYy04YmEzLWE3NjAzNmJiNjNiNQ==",
+    "headline": "The Changing Map of Palestinian Recognition",
+    "url": "https://www.nytimes.com/2025/07/30/world/middleeast/palestinian-state-recognition-maps.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-07-30T23:30:05.893Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      }
+    ],
+    "description": "In the past week alone, three new countries have said they are ready to bestow recognition on a Palestinian state.",
+    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-30-palestinian-recognition-index/2025-07-30-palestinian-recognition-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-30-palestinian-recognition-index/2025-07-30-palestinian-recognition-index-square320.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmUzYzhjNTYtYTE3OC01MTc1LTkxMmUtYWYwYzc3MTU0Zjc4",
+    "headline": "How Texas Republicans Want to Flip These Democratic Urban Districts",
+    "url": "https://www.nytimes.com/interactive/2025/07/30/us/politics/texas-gerrymandering-map-redistricting.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-30T22:38:32.000Z",
+    "credits": [
+      {
+        "name": "Nick Corasaniti",
+        "slug": "nick-corasaniti"
+      },
+      {
+        "name": "Ashley Cai",
+        "slug": "ashley-cai"
+      },
+      {
+        "name": "David Goodman",
+        "slug": "david-goodman"
+      },
+      {
+        "name": "Shane Goldmacher",
+        "slug": "shane-goldmacher"
+      }
+    ],
+    "description": "Texas Republicans unveiled a redrawn congressional map that they hope will result in a gain of five seats in the U.S. House after the 2026 midterm elections.",
+    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-17-texas-redistricting-index/2025-07-17-texas-redistricting-index-square320-v11.png",
+    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-17-texas-redistricting-index/2025-07-17-texas-redistricting-index-facebookJumbo-v12.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzBhZTVjMWY2LTI5NDAtNWRjZi1hMTdmLTZkMDFiMTIwNDYwMA==",
+    "headline": "Criss-crossing routes in D.C. airspace leave little room for error.",
+    "url": "https://www.nytimes.com/live/2025/07/30/us/dc-plane-crash-hearing/criss-crossing-routes-in-dc-airspace-leave-little-room-for-error",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-07-30T18:13:26.201Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Leanne Abraham",
+        "slug": "leanne-abraham"
+      },
+      {
+        "name": "Eli Murray",
+        "slug": "eli-murray"
+      },
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "No description available",
+    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/30dca-crash-hearing-live-crash-graphics-VERSION-ltbh/30dca-crash-hearing-live-crash-graphics-VERSION-ltbh-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/30dca-crash-hearing-live-crash-graphics-VERSION-ltbh/30dca-crash-hearing-live-crash-graphics-VERSION-ltbh-square320.jpg",
+    "medium": "NYT"
+  },
+  {
+    "id": "D3KMIFJJMNBMVAOGN6YI2PDCRQ",
+    "headline": "Texas map would add five safe Republican seats. What it means for the midterms.",
+    "description": "The newly proposed Republican map, at President Donald Trump’s urging, would give the party a potential backstop for keeping control of the House even if it performs poorly elsewhere in the 2026 elections. ",
+    "url": "https://www.washingtonpost.com/politics/2025/07/30/texas-redistricting-map-republican-proposal/",
+    "credits": [
+      {
+        "name": "Yvonne Wingett Sanchez",
+        "slug": "yvonne-wingett-sanchez"
+      },
+      {
+        "name": "Patrick Marley",
+        "slug": "patrick-marley"
+      },
+      {
+        "name": "Marianna Sotomayor",
+        "slug": "marianna-sotomayor"
+      },
+      {
+        "name": "Nick Mourtoupalas",
+        "slug": "nick-mourtoupalas"
+      }
+    ],
+    "date": "2025-07-30T15:21:56.772Z",
+    "img": "https://www.washingtonpost.com/resizer/GwidH9zcdadU8WuZoNZhraaGuxg=/300x0/arc-anglerfish-washpost-prod-washpost/public/6NPRBULGMD7PNQXI5D3MJ24AD4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/politics/"
+    },
+    "medium": "WP"
+  },
+  {
     "id": "KGBOFYWSZNDBVKI2TLGUVEERLA",
     "headline": "Gaza airdrops deliver a fraction of what trucks could, aid groups warn",
     "description": "Israel’s decision to allow Gaza airdrops to resume comes with risks and high costs, and experts say it’s not enough to meet acute need amid a starvation crisis.",
@@ -119,7 +224,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjJkZGQ1YWQtZGU4ZC01YzhmLTg1MTEtYTEzMmI0YzJlNjBi",
-    "headline": "See Trump’s New Tariffs on Every Country",
+    "headline": "See Trump’s New Trade Deals and Tariffs With Every Country",
     "url": "https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-07-28T06:57:17.000Z",
@@ -134,8 +239,8 @@
       }
     ],
     "description": "The president is set to raise taxes on imports arriving from many countries, including India. That’s on top of the tariffs that the White House has already announced on scores of products.",
-    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v4.png",
-    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v5.png",
+    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v5.png",
+    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v6.png",
     "medium": "NYT"
   },
   {

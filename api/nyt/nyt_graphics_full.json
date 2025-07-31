@@ -1,10 +1,66 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MxNGRjZThkLWRjNWEtNWM1ZS05ZjQzLTcxNjZiYTlhNTgwOA==",
+    "headline": "This Is What Basic Food Costs in Gaza Now, if You Can Find It",
+    "url": "https://www.nytimes.com/2025/07/31/world/middleeast/gaza-market-prices-flour.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-07-31T10:12:48.000Z",
+    "credits": [
+      {
+        "name": "Adam Rasgon",
+        "slug": "adam-rasgon"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      }
+    ],
+    "description": "Obtaining humanitarian aid can be difficult and dangerous, and though some essentials are available at markets, they are prohibitively expensive for many Gazans.",
+    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-28-gaza-market-prices-index/2025-07-28-gaza-market-prices-index-square320-v2.png",
+    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-28-gaza-market-prices-index/2025-07-28-gaza-market-prices-index-square320-v2.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTc3ZjY5MWYtZTZkZS01MWJlLTlkMjItYWNmYTJmMDYxZTcx",
+    "headline": "How Louisiana Built Trump’s Busiest Deportation Hub",
+    "url": "https://www.nytimes.com/interactive/2025/07/31/us/ice-deportation-hub-alexandria-louisiana.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-31T09:00:47.000Z",
+    "credits": [
+      {
+        "name": "Brent McDonald",
+        "slug": "brent-mcdonald"
+      },
+      {
+        "name": "Campbell Robertson",
+        "slug": "campbell-robertson"
+      },
+      {
+        "name": "Zach Levitt",
+        "slug": "zach-levitt"
+      },
+      {
+        "name": "Albert Sun",
+        "slug": "albert-sun"
+      },
+      {
+        "name": "Singeli Agnew",
+        "slug": "singeli-agnew"
+      },
+      {
+        "name": "Ben Laffin",
+        "slug": "ben-laffin"
+      }
+    ],
+    "description": "ICE wants to make immigration enforcement as efficient as FedEx or Amazon. Louisiana was poised for this moment.",
+    "square_img": "https://static01.nyt.com/images/2025/07/28/multimedia/2025-06-10-louisiana-ice-flights-index/2025-06-10-louisiana-ice-flights-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/28/multimedia/2025-06-10-louisiana-ice-flights-index/2025-06-10-louisiana-ice-flights-index-facebookJumbo-v4.jpg"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FlMjdlZjk5LTIyM2QtNWJmYy04YmEzLWE3NjAzNmJiNjNiNQ==",
     "headline": "The Changing Map of Palestinian Recognition",
     "url": "https://www.nytimes.com/2025/07/30/world/middleeast/palestinian-state-recognition-maps.html",
     "label": "https://www.nytimes.com/world/",
-    "date": "2025-07-30T23:30:05.893Z",
+    "date": "2025-07-30T23:30:06.000Z",
     "credits": [
       {
         "name": "Ashley Wu",
@@ -17,7 +73,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmUzYzhjNTYtYTE3OC01MTc1LTkxMmUtYWYwYzc3MTU0Zjc4",
-    "headline": "How Texas Republicans Want to Flip These Democratic Urban Districts",
+    "headline": "See How Texas Republicans Plan to Gain Seats in Congress",
     "url": "https://www.nytimes.com/interactive/2025/07/30/us/politics/texas-gerrymandering-map-redistricting.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-07-30T22:38:32.000Z",
@@ -31,8 +87,8 @@
         "slug": "ashley-cai"
       },
       {
-        "name": "David Goodman",
-        "slug": "david-goodman"
+        "name": "J. David Goodman",
+        "slug": "j-david-goodman"
       },
       {
         "name": "Shane Goldmacher",
@@ -332,8 +388,8 @@
       }
     ],
     "description": "Experts worry that if vaccination rates do not improve, deadly outbreaks will become the new normal.",
-    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v9.png",
-    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v9.png"
+    "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v11.png",
+    "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-02-measles-tracker-measles-year-embed/2025-04-02-measles-tracker-measles-year-embed-square320-v11.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjY5YmMwMWUtM2YzZS01YmU1LWIzNjUtZjMwODFlMWVjMDU5",

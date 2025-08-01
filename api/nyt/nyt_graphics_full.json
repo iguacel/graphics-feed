@@ -79,16 +79,16 @@
     "date": "2025-07-30T22:38:32.000Z",
     "credits": [
       {
-        "name": "Nick Corasaniti",
-        "slug": "nick-corasaniti"
+        "name": "J. David Goodman",
+        "slug": "j-david-goodman"
       },
       {
         "name": "Ashley Cai",
         "slug": "ashley-cai"
       },
       {
-        "name": "J. David Goodman",
-        "slug": "j-david-goodman"
+        "name": "Nick Corasaniti",
+        "slug": "nick-corasaniti"
       },
       {
         "name": "Shane Goldmacher",
@@ -129,7 +129,7 @@
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjJkZGQ1YWQtZGU4ZC01YzhmLTg1MTEtYTEzMmI0YzJlNjBi",
-    "headline": "See Trump’s New Trade Deals and Tariffs With Every Country",
+    "headline": "Tracking Trump’s New Tariffs on Every Country",
     "url": "https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html",
     "label": "https://www.nytimes.com/interactive/",
     "date": "2025-07-28T06:57:17.000Z",
@@ -141,11 +141,15 @@
       {
         "name": "Tony Romm",
         "slug": "tony-romm"
+      },
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
       }
     ],
-    "description": "The president is set to raise taxes on imports arriving from many countries, including India. That’s on top of the tariffs that the White House has already announced on scores of products.",
-    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v5.png",
-    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v6.png"
+    "description": "The president’s trade campaign is only beginning — and whether he will succeed remains an open question with great consequence for the U.S. economy.",
+    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v2.png",
+    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v3.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGEzYmQwYzAtMDZhMC01MjJlLWEwYmQtMmM2Y2U1NjhjMWIy",

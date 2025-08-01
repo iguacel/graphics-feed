@@ -1,5 +1,33 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTgwZGU4NGEtODJlYy01MDg3LWE2YmEtYWQ3ODVlZmZiNWI2",
+    "headline": "How Did Hunger Get So Much Worse in Gaza?",
+    "url": "https://www.nytimes.com/interactive/2025/08/01/world/middleeast/gaza-hunger-aid-sites-deaths-israel.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-08-01T09:45:49.000Z",
+    "credits": [
+      {
+        "name": "Aaron Boxerman",
+        "slug": "aaron-boxerman"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "Less food is going into Gaza now than during most other times in the war. Hundreds of Palestinians have been killed while heading toward aid sites. Many others are suffering from serious malnutrition, and Gazan health officials say scores have died from it.",
+    "square_img": "https://static01.nyt.com/images/2025/07/31/multimedia/2025-07-22-gaza-aid-sites-deaths-index/2025-07-22-gaza-aid-sites-deaths-index-square320-v7.png",
+    "img": "https://static01.nyt.com/images/2025/07/31/multimedia/2025-07-22-gaza-aid-sites-deaths-index/2025-07-22-gaza-aid-sites-deaths-index-facebookJumbo-v8.png"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MxNGRjZThkLWRjNWEtNWM1ZS05ZjQzLTcxNjZiYTlhNTgwOA==",
     "headline": "This Is What Basic Food Costs in Gaza Now, if You Can Find It",
     "url": "https://www.nytimes.com/2025/07/31/world/middleeast/gaza-market-prices-flour.html",
@@ -147,9 +175,9 @@
         "slug": "agnes-chang"
       }
     ],
-    "description": "The president’s trade campaign is only beginning — and whether he will succeed remains an open question with great consequence for the U.S. economy.",
-    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v2.png",
-    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v3.png"
+    "description": "See which countries were targeted in President Trump’s announcement of new tariffs on Thursday, as he seeks to remake the global trading system.",
+    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v4.png",
+    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v5.png"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGEzYmQwYzAtMDZhMC01MjJlLWEwYmQtMmM2Y2U1NjhjMWIy",

@@ -1,5 +1,80 @@
 [
   {
+    "id": "C64ZIDGEHJBSPN5C2NX3ARVENU",
+    "headline": "What humans can learn from some of history’s greatest zoo escapes",
+    "description": "When we looked for life lessons in some of the most successful zoo escapes, we found out why we’re so fascinated by these scaly, furry, feathery fugitives.",
+    "url": "https://www.washingtonpost.com/business/interactive/2025/what-zoo-escapes-can-teach-humans/",
+    "credits": [
+      {
+        "name": "Bonnie Berkowitz",
+        "slug": "bonnie-berkowitz"
+      },
+      {
+        "name": "Artur Galocha",
+        "slug": "artur-galocha"
+      },
+      {
+        "name": "Andrew Van Dam",
+        "slug": "andrew-van-dam"
+      }
+    ],
+    "date": "2025-08-01T10:00:05.157Z",
+    "img": "https://www.washingtonpost.com/resizer/4jbZo2JZl-cVCfinDaMCr4s77tU=/300x0/arc-anglerfish-washpost-prod-washpost/public/XCDXBXEFCZGJPBPZYBQC4RO2K4.jpg",
+    "label": {
+      "url": "https://www.washingtonpost.com/business/2022/06/29/dept-of-data/"
+    },
+    "medium": "WP"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTgwZGU4NGEtODJlYy01MDg3LWE2YmEtYWQ3ODVlZmZiNWI2",
+    "headline": "How Did Hunger Get So Much Worse in Gaza?",
+    "url": "https://www.nytimes.com/interactive/2025/08/01/world/middleeast/gaza-hunger-aid-sites-deaths-israel.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-08-01T09:45:49.000Z",
+    "credits": [
+      {
+        "name": "Aaron Boxerman",
+        "slug": "aaron-boxerman"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "Less food is going into Gaza now than during most other times in the war. Hundreds of Palestinians have been killed while heading toward aid sites. Many others are suffering from serious malnutrition, and Gazan health officials say scores have died from it.",
+    "square_img": "https://static01.nyt.com/images/2025/07/31/multimedia/2025-07-22-gaza-aid-sites-deaths-index/2025-07-22-gaza-aid-sites-deaths-index-square320-v7.png",
+    "img": "https://static01.nyt.com/images/2025/07/31/multimedia/2025-07-22-gaza-aid-sites-deaths-index/2025-07-22-gaza-aid-sites-deaths-index-facebookJumbo-v8.png",
+    "medium": "NYT"
+  },
+  {
+    "id": "T0AR4UGPQQ9O00",
+    "headline": "How Markets Are Reacting to Trump’s Second Term",
+    "url": "https://www.bloomberg.com/graphics/market-reactions-trump-second-term/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-08-01T04:00:30.387Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Jeremy Diamond",
+        "slug": "jeremy-diamond"
+      },
+      {
+        "name": "Vivianne Rodrigues",
+        "slug": "vivianne-rodrigues"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijE5zdsrEKnE/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "ATYHBLNHYJDRDJN2HXZWTM53XU",
     "headline": "Satellites and drone swarms: The new high-tech quest to fight wildfires     ",
     "description": "A company is sending satellites into space to detect wildfire with unprecedented precision.",
@@ -405,9 +480,9 @@
         "slug": "agnes-chang"
       }
     ],
-    "description": "The president’s trade campaign is only beginning — and whether he will succeed remains an open question with great consequence for the U.S. economy.",
-    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v2.png",
-    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v3.png",
+    "description": "See which countries were targeted in President Trump’s announcement of new tariffs on Thursday, as he seeks to remake the global trading system.",
+    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v4.png",
+    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v5.png",
     "medium": "NYT"
   },
   {
@@ -1767,25 +1842,5 @@
     "square_img": "https://static01.nyt.com/images/2025/06/23/us/senate-megabill-vote-1751226857670/senate-megabill-vote-1751226857670-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/06/23/us/senate-megabill-vote-1751226857670/senate-megabill-vote-1751226857670-facebookJumbo.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SYPQCVDWX2PS00",
-    "headline": "Blackout, Fire Warnings Flashed From Home Sensors Hours Before Crises",
-    "url": "https://www.bloomberg.com/graphics/2025-power-grid-data-monitor/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-07-01T09:00:31.139Z",
-    "description": "Leveraging home sensors and AI, Whisker Labs has developed new ways to rapidly track electricity flows to detect grid faults — leaving some power providers trailing",
-    "credits": [
-      {
-        "name": "Naureen S Malik",
-        "slug": "naureen-s-malik"
-      },
-      {
-        "name": "Leonardo Nicoletti",
-        "slug": "leonardo-nicoletti"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5pgOTIFcuj0/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

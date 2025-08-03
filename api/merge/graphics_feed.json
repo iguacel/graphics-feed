@@ -1676,59 +1676,5 @@
     "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-square320-v6.jpg",
     "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-facebookJumbo-v9.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmQ5ZmRhYjUtODI5Ny01MzRhLTg5NDctMzgxOWQ1NzhjZjkz",
-    "headline": "Tracking Heat Across Europe",
-    "url": "https://www.nytimes.com/interactive/2025/07/03/world/europe/europe-heat-map-tracker.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-03T13:41:30.000Z",
-    "credits": [
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Zach Levitt",
-        "slug": "zach-levitt"
-      },
-      {
-        "name": "Erin McCann",
-        "slug": "erin-mccann"
-      }
-    ],
-    "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v46.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v46.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "2ZXPBKTZRBHGHEHU66EZB25AQM",
-    "headline": "How Lionel Messi and Cristiano Ronaldo execute a perfect free kick",
-    "description": "Two of soccer’s biggest stars have different approaches to one of the game’s most tense moments. Here’s a closer look.",
-    "url": "https://www.washingtonpost.com/sports/interactive/2025/messi-ronaldo-free-kick-explain/",
-    "credits": [
-      {
-        "name": "Aaron Steckelberg",
-        "slug": "aaron-steckelberg"
-      },
-      {
-        "name": "Steven Goff",
-        "slug": "steven-goff"
-      },
-      {
-        "name": "Leslie Shapiro",
-        "slug": "leslie-shapiro"
-      },
-      {
-        "name": "CJ Riculan "
-      }
-    ],
-    "date": "2025-07-03T10:00:36.469Z",
-    "img": "https://www.washingtonpost.com/resizer/EmMTaqG-WFBeP-XgxhVTaxvQ0B0=/300x0/arc-anglerfish-washpost-prod-washpost/public/MVA4AFJVHFDRVEGKQ6AWSAVSJA.jpg",
-    "label": {
-      "url": "https://www.washingtonpost.com/sports/"
-    },
-    "medium": "WP"
   }
 ]

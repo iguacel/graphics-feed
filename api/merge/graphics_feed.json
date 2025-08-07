@@ -1474,42 +1474,5 @@
     "square_img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-square320-v7.jpg",
     "img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-facebookJumbo-v7.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "VmlkZW86bnl0Oi8vdmlkZW8vZGQ3ZDVkOTUtN2FjNy01MzJkLWEyN2ItZDliN2UxOWM4Yzlk",
-    "headline": "How the Assad Regime Built a Mass Grave in Syria",
-    "url": "https://www.nytimes.com/video/world/middleeast/100000010209709/how-the-assad-regime-built-a-mass-grave-in-syria.html",
-    "label": "https://www.nytimes.com/video/",
-    "date": "2025-07-07T09:01:23.715Z",
-    "credits": [
-      {
-        "name": "Charlie Smart",
-        "slug": "charlie-smart"
-      },
-      {
-        "name": "Melanie Bencosme",
-        "slug": "melanie-bencosme"
-      },
-      {
-        "name": "Gabriel Blanco",
-        "slug": "gabriel-blanco"
-      },
-      {
-        "name": "David Jouppi",
-        "slug": "david-jouppi"
-      },
-      {
-        "name": "James Surdam",
-        "slug": "james-surdam"
-      },
-      {
-        "name": "Valentina Caval",
-        "slug": "valentina-caval"
-      }
-    ],
-    "description": "Months after President Bashar al-Assad’s regime was toppled, Charlie Smart, a reporter at The New York Times, traveled to a mass burial site in Syria to understand how the Assad regime hid the bodies of the people it had made disappear.",
-    "square_img": "https://static01.nyt.com/images/2025/06/05/world/middleeast/Charlie-reporter-THUMBNAIL/Charlie-reporter-THUMBNAIL-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/05/world/middleeast/Charlie-reporter-THUMBNAIL/Charlie-reporter-THUMBNAIL-facebookJumbo.jpg?video-overlay",
-    "medium": "NYT"
   }
 ]

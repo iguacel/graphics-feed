@@ -1,25 +1,5 @@
 [
   {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjIyYjA0OTQtNjg3ZC01YzFiLThjZDMtYjRkNGMwMzM5NmM0",
-    "headline": "How Your Phone Gets the Weather",
-    "url": "https://www.nytimes.com/interactive/2025/08/07/weather/weather-app-phone-accuracy.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-08-07T21:20:42.000Z",
-    "credits": [
-      {
-        "name": "Marco Hernandez",
-        "slug": "marco-hernandez"
-      },
-      {
-        "name": "Judson Jones",
-        "slug": "judson-jones"
-      }
-    ],
-    "description": "The more weather observations meteorologists can rely on, the more precise their forecasts will be. Here's what goes into an accurate forecast.",
-    "square_img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-04-24-weather-forecast-noaa-index/2025-04-24-weather-forecast-noaa-index-square320-v13.jpg",
-    "img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-04-24-weather-forecast-noaa-index/2025-04-24-weather-forecast-noaa-index-facebookJumbo-v12.jpg"
-  },
-  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FjOTVmYzA4LTA2ZGYtNWMxNC1hOTI3LWIxMTBiNDgyYzhmOA==",
     "headline": "Why the B.L.S. Regularly Revises Jobs Data",
     "url": "https://www.nytimes.com/2025/08/06/business/economy/trump-jobs-data-revisions-bls.html",
@@ -80,134 +60,6 @@
     "img": "https://static01.nyt.com/images/2025/08/04/upshot/up-bosch-full/up-bosch-full-facebookJumbo-v2.jpg"
   },
   {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTgwZGU4NGEtODJlYy01MDg3LWE2YmEtYWQ3ODVlZmZiNWI2",
-    "headline": "How Did Hunger Get So Much Worse in Gaza?",
-    "url": "https://www.nytimes.com/interactive/2025/08/01/world/middleeast/gaza-hunger-aid-sites-deaths-israel.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-08-01T09:45:49.000Z",
-    "credits": [
-      {
-        "name": "Aaron Boxerman",
-        "slug": "aaron-boxerman"
-      },
-      {
-        "name": "Samuel Granados",
-        "slug": "samuel-granados"
-      },
-      {
-        "name": "Bora Erden",
-        "slug": "bora-erden"
-      },
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      }
-    ],
-    "description": "Less food is going into Gaza now than during most other times in the war. Hundreds of Palestinians have been killed while heading toward aid sites. Many others are suffering from serious malnutrition, and Gazan health officials say scores have died from it.",
-    "square_img": "https://static01.nyt.com/images/2025/07/31/multimedia/2025-07-22-gaza-aid-sites-deaths-index/2025-07-22-gaza-aid-sites-deaths-index-square320-v7.png",
-    "img": "https://static01.nyt.com/images/2025/07/31/multimedia/2025-07-22-gaza-aid-sites-deaths-index/2025-07-22-gaza-aid-sites-deaths-index-facebookJumbo-v8.png"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MxNGRjZThkLWRjNWEtNWM1ZS05ZjQzLTcxNjZiYTlhNTgwOA==",
-    "headline": "This Is What Basic Food Costs in Gaza Now, if You Can Find It",
-    "url": "https://www.nytimes.com/2025/07/31/world/middleeast/gaza-market-prices-flour.html",
-    "label": "https://www.nytimes.com/world/",
-    "date": "2025-07-31T10:12:48.000Z",
-    "credits": [
-      {
-        "name": "Adam Rasgon",
-        "slug": "adam-rasgon"
-      },
-      {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      }
-    ],
-    "description": "Obtaining humanitarian aid can be difficult and dangerous, and though some essentials are available at markets, they are prohibitively expensive for many Gazans.",
-    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-28-gaza-market-prices-index/2025-07-28-gaza-market-prices-index-square320-v2.png",
-    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-28-gaza-market-prices-index/2025-07-28-gaza-market-prices-index-square320-v2.png"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTc3ZjY5MWYtZTZkZS01MWJlLTlkMjItYWNmYTJmMDYxZTcx",
-    "headline": "How Louisiana Built Trump’s Busiest Deportation Hub",
-    "url": "https://www.nytimes.com/interactive/2025/07/31/us/ice-deportation-hub-alexandria-louisiana.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-31T09:00:47.000Z",
-    "credits": [
-      {
-        "name": "Brent McDonald",
-        "slug": "brent-mcdonald"
-      },
-      {
-        "name": "Campbell Robertson",
-        "slug": "campbell-robertson"
-      },
-      {
-        "name": "Zach Levitt",
-        "slug": "zach-levitt"
-      },
-      {
-        "name": "Albert Sun",
-        "slug": "albert-sun"
-      },
-      {
-        "name": "Singeli Agnew",
-        "slug": "singeli-agnew"
-      },
-      {
-        "name": "Ben Laffin",
-        "slug": "ben-laffin"
-      }
-    ],
-    "description": "ICE wants to make immigration enforcement as efficient as FedEx or Amazon. Louisiana was poised for this moment.",
-    "square_img": "https://static01.nyt.com/images/2025/07/28/multimedia/2025-06-10-louisiana-ice-flights-index/2025-06-10-louisiana-ice-flights-index-square320-v4.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/28/multimedia/2025-06-10-louisiana-ice-flights-index/2025-06-10-louisiana-ice-flights-index-facebookJumbo-v4.jpg"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FlMjdlZjk5LTIyM2QtNWJmYy04YmEzLWE3NjAzNmJiNjNiNQ==",
-    "headline": "The Changing Map of Palestinian Recognition",
-    "url": "https://www.nytimes.com/2025/07/30/world/middleeast/palestinian-state-recognition-maps.html",
-    "label": "https://www.nytimes.com/world/",
-    "date": "2025-07-30T23:30:06.000Z",
-    "credits": [
-      {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      }
-    ],
-    "description": "In the past week alone, three new countries have said they are ready to bestow recognition on a Palestinian state.",
-    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-30-palestinian-recognition-index/2025-07-30-palestinian-recognition-index-square320.png",
-    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-30-palestinian-recognition-index/2025-07-30-palestinian-recognition-index-square320.png"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmUzYzhjNTYtYTE3OC01MTc1LTkxMmUtYWYwYzc3MTU0Zjc4",
-    "headline": "See How Texas Republicans Plan to Gain Seats in Congress",
-    "url": "https://www.nytimes.com/interactive/2025/07/30/us/politics/texas-gerrymandering-map-redistricting.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-30T22:38:32.000Z",
-    "credits": [
-      {
-        "name": "J. David Goodman",
-        "slug": "j-david-goodman"
-      },
-      {
-        "name": "Ashley Cai",
-        "slug": "ashley-cai"
-      },
-      {
-        "name": "Nick Corasaniti",
-        "slug": "nick-corasaniti"
-      },
-      {
-        "name": "Shane Goldmacher",
-        "slug": "shane-goldmacher"
-      }
-    ],
-    "description": "Texas Republicans unveiled a redrawn congressional map that they hope will result in a gain of five seats in the U.S. House after the 2026 midterm elections.",
-    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-17-texas-redistricting-index/2025-07-17-texas-redistricting-index-square320-v11.png",
-    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-17-texas-redistricting-index/2025-07-17-texas-redistricting-index-facebookJumbo-v12.png"
-  },
-  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzBhZTVjMWY2LTI5NDAtNWRjZi1hMTdmLTZkMDFiMTIwNDYwMA==",
     "headline": "Criss-crossing routes in D.C. airspace leave little room for error.",
     "url": "https://www.nytimes.com/live/2025/07/30/us/dc-plane-crash-hearing/criss-crossing-routes-in-dc-airspace-leave-little-room-for-error",
@@ -234,58 +86,6 @@
     "description": "No description available",
     "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/30dca-crash-hearing-live-crash-graphics-VERSION-ltbh/30dca-crash-hearing-live-crash-graphics-VERSION-ltbh-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/07/30/multimedia/30dca-crash-hearing-live-crash-graphics-VERSION-ltbh/30dca-crash-hearing-live-crash-graphics-VERSION-ltbh-square320.jpg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjJkZGQ1YWQtZGU4ZC01YzhmLTg1MTEtYTEzMmI0YzJlNjBi",
-    "headline": "Tracking Trump’s New Tariffs on Every Country",
-    "url": "https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-28T06:57:17.000Z",
-    "credits": [
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Tony Romm",
-        "slug": "tony-romm"
-      },
-      {
-        "name": "Agnes Chang",
-        "slug": "agnes-chang"
-      }
-    ],
-    "description": "See which countries are being targeted by President Trump, as he seeks to remake the global trading system.",
-    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v6.png",
-    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v7.png"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGEzYmQwYzAtMDZhMC01MjJlLWEwYmQtMmM2Y2U1NjhjMWIy",
-    "headline": "Mapping How Mamdani’s Ranked-Choice Strategy Beat Cuomo",
-    "url": "https://www.nytimes.com/interactive/2025/07/26/nyregion/nyc-mayor-ranked-choice-map.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-26T09:01:35.000Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Saurabh Datar",
-        "slug": "saurabh-datar"
-      },
-      {
-        "name": "Keith Collins",
-        "slug": "keith-collins"
-      },
-      {
-        "name": "Nicholas Fandos",
-        "slug": "nicholas-fandos"
-      }
-    ],
-    "description": "New data provides the clearest picture yet of how Zohran Mamdani pulled off his primary election upset.",
-    "square_img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-square320-v5.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-facebookJumbo-v6.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzdmNmQ5OWQzLTU0MWEtNWI3ZC04OTRhLWU4ZjkyODczNDA4YQ==",
@@ -348,26 +148,6 @@
     "img": "https://static01.nyt.com/images/2025/07/17/multimedia/2025-07-16-cpb-funding-cuts-radio-tv-index/2025-07-16-cpb-funding-cuts-radio-tv-index-facebookJumbo-v11.png"
   },
   {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTBiNDg2OWYtZTYyOS01NjcxLThjYjgtYTRkNWQwNDEyNjlk",
-    "headline": "Trump Insists the Epstein Case Is a Hoax. Here’s What His Supporters Say.",
-    "url": "https://www.nytimes.com/interactive/2025/07/17/us/politics/trump-epstein-files-maga.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-17T09:03:40.000Z",
-    "credits": [
-      {
-        "name": "Karen Yourish",
-        "slug": "karen-yourish"
-      },
-      {
-        "name": "Lily Boyce",
-        "slug": "lily-boyce"
-      }
-    ],
-    "description": "Their actions range from pressuring the administration to release more information to spinning additional conspiracy theories about the case of Jeffrey Epstein, the convicted sex offender.",
-    "square_img": "https://static01.nyt.com/images/2025/07/16/multimedia/2025-07-16-epstein-reactions-index/2025-07-16-epstein-reactions-index-square320-v6.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/16/multimedia/2025-07-16-epstein-reactions-index/2025-07-16-epstein-reactions-index-facebookJumbo-v7.jpg"
-  },
-  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZDFiM2JjYjUtZmZiOS01MTRjLTgxZWYtYWFmNDZjZGU1ZDll",
     "headline": "How Every Senator Voted on Bid to Cancel Foreign Aid and Public Media Funding",
     "url": "https://www.nytimes.com/interactive/2025/07/17/us/senate-rescissions-vote.html",
@@ -382,30 +162,6 @@
     "description": "The Senate voted 51 to 48 to reclaim spending previously approved by Congress.",
     "square_img": "https://static01.nyt.com/images/2025/07/14/us/politics/senate-rescissions-vote-1752712127673/senate-rescissions-vote-1752712127673-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/07/14/us/politics/senate-rescissions-vote-1752712127673/senate-rescissions-vote-1752712127673-facebookJumbo.jpg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZWRiMGE4ZmYtMTg3My01NmQ3LWJmMjEtNzdkYjcxNGRmZDE3",
-    "headline": "Here’s Why There’s So Much Flash Flooding in the U.S. Right Now",
-    "url": "https://www.nytimes.com/interactive/2025/07/16/weather/flash-floods.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-16T17:49:02.000Z",
-    "credits": [
-      {
-        "name": "William B. Davis",
-        "slug": "william-b-davis"
-      },
-      {
-        "name": "Judson Jones",
-        "slug": "judson-jones"
-      },
-      {
-        "name": "Tim Wallace",
-        "slug": "tim-wallace"
-      }
-    ],
-    "description": "July’s hot temperatures and moist air are the perfect ingredients for rain.",
-    "square_img": "https://static01.nyt.com/images/2025/07/13/multimedia/2025-07-09-total-rainfall-story/2025-07-09-total-rainfall-story-square320-v5.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/13/multimedia/2025-07-09-total-rainfall-story/2025-07-09-total-rainfall-story-facebookJumbo-v5.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzVjNzliNmVkLTY3ODMtNTczNS1iNmYzLWMyMmYyM2U1ZDI1MA==",
@@ -454,34 +210,6 @@
     "description": "The A.I. chip maker reached the landmark before Apple and Microsoft, as its value rose more than tenfold after ChatGPT’s release in late 2022.",
     "square_img": "https://static01.nyt.com/images/2025/07/10/multimedia/2025-07-07-nvidia-four-index/2025-07-07-nvidia-four-index-square320-v4.png",
     "img": "https://static01.nyt.com/images/2025/07/10/multimedia/2025-07-07-nvidia-four-index/2025-07-07-nvidia-four-index-square320-v4.png"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODcwNmQ3ZTYtMGNhMy01OGY0LTg2Y2QtMjE4ODViODgzOGYz",
-    "headline": "Camp Mystic Cabins Stood in an ‘Extremely Hazardous’ Floodway",
-    "url": "https://www.nytimes.com/interactive/2025/07/09/us/camp-mystic-texas-cabins.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-10T01:50:10.000Z",
-    "credits": [
-      {
-        "name": "Mike Baker",
-        "slug": "mike-baker"
-      },
-      {
-        "name": "Malika Khurana",
-        "slug": "malika-khurana"
-      },
-      {
-        "name": "Harry Stevens",
-        "slug": "harry-stevens"
-      },
-      {
-        "name": "Marco Hernandez",
-        "slug": "marco-hernandez"
-      }
-    ],
-    "description": "An analysis of flood maps shows that several buildings, including those where children were sleeping, were in known hazard zones. A $5 million expansion in 2019 did nothing to alleviate the problem.",
-    "square_img": "https://static01.nyt.com/images/2025/07/09/multimedia/2025-07-08-texas-flood-maps-index/2025-07-08-texas-flood-maps-index-square320-v15.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/09/multimedia/2025-07-08-texas-flood-maps-index/2025-07-08-texas-flood-maps-index-facebookJumbo-v15.jpg"
   },
   {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2VlYzUxNGQ4LTVkZTMtNTQ3OC1hZDM5LWI1MzljYzQ4ZGQ2NQ==",
@@ -700,6 +428,302 @@
     "img": "https://static01.nyt.com/images/2025/07/01/us/house-megabill-vote-1751471536517/house-megabill-vote-1751471536517-facebookJumbo-v5.jpg"
   },
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmQ5ZmRhYjUtODI5Ny01MzRhLTg5NDctMzgxOWQ1NzhjZjkz",
+    "headline": "Tracking Heat Across Europe",
+    "url": "https://www.nytimes.com/interactive/2025/07/03/world/europe/europe-heat-map-tracker.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-03T13:41:30.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Zach Levitt",
+        "slug": "zach-levitt"
+      },
+      {
+        "name": "Erin McCann",
+        "slug": "erin-mccann"
+      }
+    ],
+    "description": "See detailed maps of the latest temperature forecasts across Europe.",
+    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v61.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v67.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjIyYjA0OTQtNjg3ZC01YzFiLThjZDMtYjRkNGMwMzM5NmM0",
+    "headline": "How Your Phone Gets the Weather",
+    "url": "https://www.nytimes.com/interactive/2025/08/07/weather/weather-app-phone-accuracy.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-08-07T21:20:42.000Z",
+    "credits": [
+      {
+        "name": "Marco Hernandez",
+        "slug": "marco-hernandez"
+      },
+      {
+        "name": "Judson Jones",
+        "slug": "judson-jones"
+      }
+    ],
+    "description": "The more weather observations meteorologists can rely on, the more precise their forecasts will be. Here's what goes into an accurate forecast.",
+    "square_img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-04-24-weather-forecast-noaa-index/2025-04-24-weather-forecast-noaa-index-square320-v13.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-04-24-weather-forecast-noaa-index/2025-04-24-weather-forecast-noaa-index-facebookJumbo-v12.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTgwZGU4NGEtODJlYy01MDg3LWE2YmEtYWQ3ODVlZmZiNWI2",
+    "headline": "How Did Hunger Get So Much Worse in Gaza?",
+    "url": "https://www.nytimes.com/interactive/2025/08/01/world/middleeast/gaza-hunger-aid-sites-deaths-israel.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-08-01T09:45:49.000Z",
+    "credits": [
+      {
+        "name": "Aaron Boxerman",
+        "slug": "aaron-boxerman"
+      },
+      {
+        "name": "Samuel Granados",
+        "slug": "samuel-granados"
+      },
+      {
+        "name": "Bora Erden",
+        "slug": "bora-erden"
+      },
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      }
+    ],
+    "description": "Less food is going into Gaza now than during most other times in the war. Hundreds of Palestinians have been killed while heading toward aid sites. Many others are suffering from serious malnutrition, and Gazan health officials say scores have died from it.",
+    "square_img": "https://static01.nyt.com/images/2025/07/31/multimedia/2025-07-22-gaza-aid-sites-deaths-index/2025-07-22-gaza-aid-sites-deaths-index-square320-v7.png",
+    "img": "https://static01.nyt.com/images/2025/07/31/multimedia/2025-07-22-gaza-aid-sites-deaths-index/2025-07-22-gaza-aid-sites-deaths-index-facebookJumbo-v8.png"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MxNGRjZThkLWRjNWEtNWM1ZS05ZjQzLTcxNjZiYTlhNTgwOA==",
+    "headline": "This Is What Basic Food Costs in Gaza Now, if You Can Find It",
+    "url": "https://www.nytimes.com/2025/07/31/world/middleeast/gaza-market-prices-flour.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-07-31T10:12:48.000Z",
+    "credits": [
+      {
+        "name": "Adam Rasgon",
+        "slug": "adam-rasgon"
+      },
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      }
+    ],
+    "description": "Obtaining humanitarian aid can be difficult and dangerous, and though some essentials are available at markets, they are prohibitively expensive for many Gazans.",
+    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-28-gaza-market-prices-index/2025-07-28-gaza-market-prices-index-square320-v2.png",
+    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-28-gaza-market-prices-index/2025-07-28-gaza-market-prices-index-square320-v2.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTc3ZjY5MWYtZTZkZS01MWJlLTlkMjItYWNmYTJmMDYxZTcx",
+    "headline": "How Louisiana Built Trump’s Busiest Deportation Hub",
+    "url": "https://www.nytimes.com/interactive/2025/07/31/us/ice-deportation-hub-alexandria-louisiana.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-31T09:00:47.000Z",
+    "credits": [
+      {
+        "name": "Brent McDonald",
+        "slug": "brent-mcdonald"
+      },
+      {
+        "name": "Campbell Robertson",
+        "slug": "campbell-robertson"
+      },
+      {
+        "name": "Zach Levitt",
+        "slug": "zach-levitt"
+      },
+      {
+        "name": "Albert Sun",
+        "slug": "albert-sun"
+      },
+      {
+        "name": "Singeli Agnew",
+        "slug": "singeli-agnew"
+      },
+      {
+        "name": "Ben Laffin",
+        "slug": "ben-laffin"
+      }
+    ],
+    "description": "ICE wants to make immigration enforcement as efficient as FedEx or Amazon. Louisiana was poised for this moment.",
+    "square_img": "https://static01.nyt.com/images/2025/07/28/multimedia/2025-06-10-louisiana-ice-flights-index/2025-06-10-louisiana-ice-flights-index-square320-v4.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/28/multimedia/2025-06-10-louisiana-ice-flights-index/2025-06-10-louisiana-ice-flights-index-facebookJumbo-v4.jpg"
+  },
+  {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2FlMjdlZjk5LTIyM2QtNWJmYy04YmEzLWE3NjAzNmJiNjNiNQ==",
+    "headline": "The Changing Map of Palestinian Recognition",
+    "url": "https://www.nytimes.com/2025/07/30/world/middleeast/palestinian-state-recognition-maps.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-07-30T23:30:06.000Z",
+    "credits": [
+      {
+        "name": "Ashley Wu",
+        "slug": "ashley-wu"
+      }
+    ],
+    "description": "In the past week alone, three new countries have said they are ready to bestow recognition on a Palestinian state.",
+    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-30-palestinian-recognition-index/2025-07-30-palestinian-recognition-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-30-palestinian-recognition-index/2025-07-30-palestinian-recognition-index-square320.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmUzYzhjNTYtYTE3OC01MTc1LTkxMmUtYWYwYzc3MTU0Zjc4",
+    "headline": "See How Texas Republicans Plan to Gain Seats in Congress",
+    "url": "https://www.nytimes.com/interactive/2025/07/30/us/politics/texas-gerrymandering-map-redistricting.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-30T22:38:32.000Z",
+    "credits": [
+      {
+        "name": "J. David Goodman",
+        "slug": "j-david-goodman"
+      },
+      {
+        "name": "Ashley Cai",
+        "slug": "ashley-cai"
+      },
+      {
+        "name": "Nick Corasaniti",
+        "slug": "nick-corasaniti"
+      },
+      {
+        "name": "Shane Goldmacher",
+        "slug": "shane-goldmacher"
+      }
+    ],
+    "description": "Texas Republicans unveiled a redrawn congressional map that they hope will result in a gain of five seats in the U.S. House after the 2026 midterm elections.",
+    "square_img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-17-texas-redistricting-index/2025-07-17-texas-redistricting-index-square320-v11.png",
+    "img": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-17-texas-redistricting-index/2025-07-17-texas-redistricting-index-facebookJumbo-v12.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjJkZGQ1YWQtZGU4ZC01YzhmLTg1MTEtYTEzMmI0YzJlNjBi",
+    "headline": "Tracking Trump’s New Tariffs on Every Country",
+    "url": "https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-28T06:57:17.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      },
+      {
+        "name": "Tony Romm",
+        "slug": "tony-romm"
+      },
+      {
+        "name": "Agnes Chang",
+        "slug": "agnes-chang"
+      }
+    ],
+    "description": "See which countries are being targeted by President Trump, as he seeks to remake the global trading system.",
+    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v6.png",
+    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v7.png"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGEzYmQwYzAtMDZhMC01MjJlLWEwYmQtMmM2Y2U1NjhjMWIy",
+    "headline": "Mapping How Mamdani’s Ranked-Choice Strategy Beat Cuomo",
+    "url": "https://www.nytimes.com/interactive/2025/07/26/nyregion/nyc-mayor-ranked-choice-map.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-26T09:01:35.000Z",
+    "credits": [
+      {
+        "name": "Elena Shao",
+        "slug": "elena-shao"
+      },
+      {
+        "name": "Saurabh Datar",
+        "slug": "saurabh-datar"
+      },
+      {
+        "name": "Keith Collins",
+        "slug": "keith-collins"
+      },
+      {
+        "name": "Nicholas Fandos",
+        "slug": "nicholas-fandos"
+      }
+    ],
+    "description": "New data provides the clearest picture yet of how Zohran Mamdani pulled off his primary election upset.",
+    "square_img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-facebookJumbo-v6.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNTBiNDg2OWYtZTYyOS01NjcxLThjYjgtYTRkNWQwNDEyNjlk",
+    "headline": "Trump Insists the Epstein Case Is a Hoax. Here’s What His Supporters Say.",
+    "url": "https://www.nytimes.com/interactive/2025/07/17/us/politics/trump-epstein-files-maga.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-17T09:03:40.000Z",
+    "credits": [
+      {
+        "name": "Karen Yourish",
+        "slug": "karen-yourish"
+      },
+      {
+        "name": "Lily Boyce",
+        "slug": "lily-boyce"
+      }
+    ],
+    "description": "Their actions range from pressuring the administration to release more information to spinning additional conspiracy theories about the case of Jeffrey Epstein, the convicted sex offender.",
+    "square_img": "https://static01.nyt.com/images/2025/07/16/multimedia/2025-07-16-epstein-reactions-index/2025-07-16-epstein-reactions-index-square320-v6.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/16/multimedia/2025-07-16-epstein-reactions-index/2025-07-16-epstein-reactions-index-facebookJumbo-v7.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZWRiMGE4ZmYtMTg3My01NmQ3LWJmMjEtNzdkYjcxNGRmZDE3",
+    "headline": "Here’s Why There’s So Much Flash Flooding in the U.S. Right Now",
+    "url": "https://www.nytimes.com/interactive/2025/07/16/weather/flash-floods.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-16T17:49:02.000Z",
+    "credits": [
+      {
+        "name": "William B. Davis",
+        "slug": "william-b-davis"
+      },
+      {
+        "name": "Judson Jones",
+        "slug": "judson-jones"
+      },
+      {
+        "name": "Tim Wallace",
+        "slug": "tim-wallace"
+      }
+    ],
+    "description": "July’s hot temperatures and moist air are the perfect ingredients for rain.",
+    "square_img": "https://static01.nyt.com/images/2025/07/13/multimedia/2025-07-09-total-rainfall-story/2025-07-09-total-rainfall-story-square320-v5.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/13/multimedia/2025-07-09-total-rainfall-story/2025-07-09-total-rainfall-story-facebookJumbo-v5.jpg"
+  },
+  {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODcwNmQ3ZTYtMGNhMy01OGY0LTg2Y2QtMjE4ODViODgzOGYz",
+    "headline": "Camp Mystic Cabins Stood in an ‘Extremely Hazardous’ Floodway",
+    "url": "https://www.nytimes.com/interactive/2025/07/09/us/camp-mystic-texas-cabins.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-07-10T01:50:10.000Z",
+    "credits": [
+      {
+        "name": "Mike Baker",
+        "slug": "mike-baker"
+      },
+      {
+        "name": "Malika Khurana",
+        "slug": "malika-khurana"
+      },
+      {
+        "name": "Harry Stevens",
+        "slug": "harry-stevens"
+      },
+      {
+        "name": "Marco Hernandez",
+        "slug": "marco-hernandez"
+      }
+    ],
+    "description": "An analysis of flood maps shows that several buildings, including those where children were sleeping, were in known hazard zones. A $5 million expansion in 2019 did nothing to alleviate the problem.",
+    "square_img": "https://static01.nyt.com/images/2025/07/09/multimedia/2025-07-08-texas-flood-maps-index/2025-07-08-texas-flood-maps-index-square320-v15.jpg",
+    "img": "https://static01.nyt.com/images/2025/07/09/multimedia/2025-07-08-texas-flood-maps-index/2025-07-08-texas-flood-maps-index-facebookJumbo-v15.jpg"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOTdkZDM4ZjctMDNjYS01MDY2LWE1YTUtMjZiNDBkZjczODg1",
     "headline": "How Syria’s Dictator Buried His Victims",
     "url": "https://www.nytimes.com/interactive/2025/07/03/world/middleeast/syria-mass-grave-assad-regime.html",
@@ -730,30 +754,6 @@
     "description": "A cemetery near Damascus was transformed into an industrial-scale mass grave for Syrians who opposed President Bashar al-Assad.",
     "square_img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-square320-v6.jpg",
     "img": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-facebookJumbo-v9.jpg"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYmQ5ZmRhYjUtODI5Ny01MzRhLTg5NDctMzgxOWQ1NzhjZjkz",
-    "headline": "Tracking Heat Across Europe",
-    "url": "https://www.nytimes.com/interactive/2025/07/03/world/europe/europe-heat-map-tracker.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-03T13:41:30.000Z",
-    "credits": [
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Zach Levitt",
-        "slug": "zach-levitt"
-      },
-      {
-        "name": "Erin McCann",
-        "slug": "erin-mccann"
-      }
-    ],
-    "description": "See detailed maps of the latest temperature forecasts across Europe.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-square320-v46.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-facebookJumbo-v46.jpg"
   },
   {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvZTQ2NDA5NGYtZTdhNy01NWU4LThjMDAtMWNjYTU5ZDc2MGE4",

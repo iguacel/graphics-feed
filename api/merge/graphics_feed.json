@@ -1,5 +1,26 @@
 [
   {
+    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNjIyYjA0OTQtNjg3ZC01YzFiLThjZDMtYjRkNGMwMzM5NmM0",
+    "headline": "How Your Phone Gets the Weather",
+    "url": "https://www.nytimes.com/interactive/2025/08/07/weather/weather-app-phone-accuracy.html",
+    "label": "https://www.nytimes.com/interactive/",
+    "date": "2025-08-07T21:20:42.000Z",
+    "credits": [
+      {
+        "name": "Marco Hernandez",
+        "slug": "marco-hernandez"
+      },
+      {
+        "name": "Judson Jones",
+        "slug": "judson-jones"
+      }
+    ],
+    "description": "The more weather observations meteorologists can rely on, the more precise their forecasts will be. Here's what goes into an accurate forecast.",
+    "square_img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-04-24-weather-forecast-noaa-index/2025-04-24-weather-forecast-noaa-index-square320-v13.jpg",
+    "img": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-04-24-weather-forecast-noaa-index/2025-04-24-weather-forecast-noaa-index-facebookJumbo-v12.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "sWzZRjBpGi",
     "headline": "A visual journey through the life of Ozzy Osbourne, rock’s Prince of Darkness",
     "url": "https://multimedia.scmp.com/infographics/culture/article/3320973/ozzy-osbourne/index.html",
@@ -1395,84 +1416,6 @@
     "description": "The National Weather Service began sending flash flood warnings that should have triggered cellphone alerts a little after 1 a.m., while local officials began posting on Facebook about four hours later.",
     "square_img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flooding-timeline-index/2025-07-07-texas-flooding-timeline-index-square320-v5.png",
     "img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flooding-timeline-index/2025-07-07-texas-flooding-timeline-index-facebookJumbo-v6.png",
-    "medium": "NYT"
-  },
-  {
-    "id": "2025_07_kids-books",
-    "headline": "Bears Will Be Boys",
-    "description": "No description available",
-    "url": "https://pudding.cool/2025/07/kids-books/",
-    "date": "2025-07-08T00:00:00.000Z",
-    "keywords": [
-      "gender",
-      "animals",
-      "kids",
-      "books",
-      "children",
-      "pronouns",
-      "stereotypes",
-      "bias"
-    ],
-    "credits": [
-      {
-        "name": "Russell Samora",
-        "slug": "russell-samora"
-      },
-      {
-        "name": "Jan Diehm",
-        "slug": "jan-diehm"
-      },
-      {
-        "name": "Michelle Pera-McGhee",
-        "slug": "michelle-pera-mcghee"
-      },
-      {
-        "name": "Melanie Walsh",
-        "slug": "melanie-walsh"
-      }
-    ],
-    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_07_kids-books.jpg",
-    "medium": "Pudding"
-  },
-  {
-    "id": "BFCPMQALMFBC3NDR4ZPMWH2CSI",
-    "headline": "See how FEMA maps reveal camps’ flood risks ",
-    "description": "Many camps in the Guadalupe river region are adjacent or are partially inside high-risk flood zones, according to maps from the Federal Emergency Management Agency.",
-    "url": "https://www.washingtonpost.com/climate-environment/2025/07/07/texas-summer-camps-flood-zones-maps/",
-    "credits": [
-      {
-        "name": "John Muyskens",
-        "slug": "john-muyskens"
-      },
-      {
-        "name": "Allyson Chiu",
-        "slug": "allyson-chiu"
-      },
-      {
-        "name": "Naema Ahmed",
-        "slug": "naema-ahmed"
-      }
-    ],
-    "date": "2025-07-07T20:19:07.303Z",
-    "img": "https://www.washingtonpost.com/resizer/iPf5Jgsa_oMdolGkEPcnll7ZMfY=/300x0/arc-anglerfish-washpost-prod-washpost/public/NOXNPECGJFD6FPNOJCQKRF4PWY.jpg",
-    "label": {},
-    "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvOWQwMzExMTEtNGE5Yy01ZGRlLWJmM2MtYmM0NzY1NDAwMzhk",
-    "headline": "See How Fast the Floodwaters Rose Along the Guadalupe River",
-    "url": "https://www.nytimes.com/interactive/2025/07/07/us/texas-flooding-map-guadalupe-river.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-07T18:04:51.000Z",
-    "credits": [
-      {
-        "name": "Leanne Abraham",
-        "slug": "leanne-abraham"
-      }
-    ],
-    "description": "The speed and intensity of the flooding appeared to take officials by surprise.",
-    "square_img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-square320-v7.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-facebookJumbo-v7.jpg",
     "medium": "NYT"
   }
 ]

@@ -1326,34 +1326,5 @@
     "square_img": "https://static01.nyt.com/images/2025/07/10/multimedia/2025-07-07-nvidia-four-index/2025-07-07-nvidia-four-index-square320-v4.png",
     "img": "https://static01.nyt.com/images/2025/07/10/multimedia/2025-07-07-nvidia-four-index/2025-07-07-nvidia-four-index-square320-v4.png",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvODcwNmQ3ZTYtMGNhMy01OGY0LTg2Y2QtMjE4ODViODgzOGYz",
-    "headline": "Camp Mystic Cabins Stood in an ‘Extremely Hazardous’ Floodway",
-    "url": "https://www.nytimes.com/interactive/2025/07/09/us/camp-mystic-texas-cabins.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-10T01:50:10.000Z",
-    "credits": [
-      {
-        "name": "Mike Baker",
-        "slug": "mike-baker"
-      },
-      {
-        "name": "Malika Khurana",
-        "slug": "malika-khurana"
-      },
-      {
-        "name": "Harry Stevens",
-        "slug": "harry-stevens"
-      },
-      {
-        "name": "Marco Hernandez",
-        "slug": "marco-hernandez"
-      }
-    ],
-    "description": "An analysis of flood maps shows that several buildings, including those where children were sleeping, were in known hazard zones. A $5 million expansion in 2019 did nothing to alleviate the problem.",
-    "square_img": "https://static01.nyt.com/images/2025/07/09/multimedia/2025-07-08-texas-flood-maps-index/2025-07-08-texas-flood-maps-index-square320-v15.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/09/multimedia/2025-07-08-texas-flood-maps-index/2025-07-08-texas-flood-maps-index-facebookJumbo-v15.jpg",
-    "medium": "NYT"
   }
 ]

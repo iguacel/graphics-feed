@@ -1276,55 +1276,5 @@
       "url": ""
     },
     "medium": "WP"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzVjNzliNmVkLTY3ODMtNTczNS1iNmYzLWMyMmYyM2U1ZDI1MA==",
-    "headline": "The Wartime Mining Boom Exporting Rare Earths, and Toxins",
-    "url": "https://www.nytimes.com/2025/07/11/world/asia/myanmar-mining-thailand-china.html",
-    "label": "https://www.nytimes.com/world/",
-    "date": "2025-07-11T05:25:20.000Z",
-    "credits": [
-      {
-        "name": "Hannah Beech",
-        "slug": "hannah-beech"
-      },
-      {
-        "name": "Mauricio Lima",
-        "slug": "mauricio-lima"
-      },
-      {
-        "name": "Weiyi Cai",
-        "slug": "weiyi-cai"
-      }
-    ],
-    "description": "Unregulated activity led by Chinese enterprises in conflict-ravaged Myanmar is creating an environmental calamity in neighboring Thailand.",
-    "square_img": "https://static01.nyt.com/images/2025/07/01/multimedia/00int-thailand-rare-earths-01-bvmk/00int-thailand-rare-earths-01-bvmk-square320.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/01/multimedia/00int-thailand-rare-earths-01-bvmk/00int-thailand-rare-earths-01-bvmk-square320.jpg",
-    "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzYzYjE4MWU1LWI4ODQtNTc1Ny05YTBiLWM4MmYyYTVlOGUyNw==",
-    "headline": "Nvidia Becomes First Public Company Worth $4 Trillion",
-    "url": "https://www.nytimes.com/2025/07/10/technology/nvidia-4-trillion-market-value.html",
-    "label": "https://www.nytimes.com/technology/",
-    "date": "2025-07-10T20:18:09.000Z",
-    "credits": [
-      {
-        "name": "Tripp Mickle",
-        "slug": "tripp-mickle"
-      },
-      {
-        "name": "Karl Russell",
-        "slug": "karl-russell"
-      },
-      {
-        "name": "Blacki Migliozzi",
-        "slug": "blacki-migliozzi"
-      }
-    ],
-    "description": "The A.I. chip maker reached the landmark before Apple and Microsoft, as its value rose more than tenfold after ChatGPT’s release in late 2022.",
-    "square_img": "https://static01.nyt.com/images/2025/07/10/multimedia/2025-07-07-nvidia-four-index/2025-07-07-nvidia-four-index-square320-v4.png",
-    "img": "https://static01.nyt.com/images/2025/07/10/multimedia/2025-07-07-nvidia-four-index/2025-07-07-nvidia-four-index-square320-v4.png",
-    "medium": "NYT"
   }
 ]

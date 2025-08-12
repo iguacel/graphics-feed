@@ -1,5 +1,22 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzdkMjM2ZGJmLThjNzQtNWFkMS1hNjE0LWMxNTgyN2I5NjMzZA==",
+    "headline": "Trump’s homicide-rate chart has been making the rounds on right-wing social media.",
+    "url": "https://www.nytimes.com/live/2025/08/11/us/trump-news/trumps-homicide-rate-chart-has-been-making-the-rounds-on-right-wing-social-media",
+    "label": "https://www.nytimes.com/live/",
+    "date": "2025-08-11T21:03:37.000Z",
+    "credits": [
+      {
+        "name": "Lazaro Gamio",
+        "slug": "lazaro-gamio"
+      }
+    ],
+    "description": "No description available",
+    "square_img": "https://static01.nyt.com/images/2025/08/11/multimedia/trump-crime-chart-cvkh/trump-crime-chart-cvkh-square320.jpg",
+    "img": "https://static01.nyt.com/images/2025/08/11/multimedia/trump-crime-chart-cvkh/trump-crime-chart-cvkh-square320.jpg",
+    "medium": "NYT"
+  },
+  {
     "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMmNhY2ZjMzctYmQxOC01NzIwLWE4ZjItMTFhY2MxZDViNjk3",
     "headline": "21 Ways People Are Using A.I. at Work",
     "url": "https://www.nytimes.com/interactive/2025/08/11/upshot/ai-jobs.html",
@@ -1257,44 +1274,6 @@
     "img": "https://www.washingtonpost.com/resizer/64wrvkvq5xn7uZIDrdtDVsHPKWI=/300x0/arc-anglerfish-washpost-prod-washpost/public/RQX5Y7G5FFCHHCMGYKWW7A7OBQ.png",
     "label": {
       "url": "https://www.washingtonpost.com/politics/"
-    },
-    "medium": "WP"
-  },
-  {
-    "id": "3NTUZ54MRRC5THVDQVIUFCW6O4",
-    "headline": "Kerr County did not use its most far-reaching alert system in deadly Texas floods",
-    "description": "Local officials used the system more than two days after the recorded height of the floods.",
-    "url": "https://www.washingtonpost.com/investigations/2025/07/11/texas-flooding-alerts-kerr-county-emergency/",
-    "credits": [
-      {
-        "name": "Joyce Lee",
-        "slug": "joyce-lee"
-      },
-      {
-        "name": "Brianna Sacks",
-        "slug": "brianna-sacks"
-      },
-      {
-        "name": "Aaron Davis",
-        "slug": "aaron-c-davis"
-      },
-      {
-        "name": "Scott Dance",
-        "slug": "scott-dance"
-      },
-      {
-        "name": "Andrew Tran",
-        "slug": "andrew-ba-tran"
-      },
-      {
-        "name": "Imogen Piper",
-        "slug": "imogen-piper"
-      }
-    ],
-    "date": "2025-07-11T21:20:29.614Z",
-    "img": "https://www.washingtonpost.com/resizer/4Eu-d0XJfjHmeFq2KIwWSfelDkI=/300x0/arc-anglerfish-washpost-prod-washpost/public/TTHD3AYNPYVTW4VEDVZ2JXRXH4.jpg",
-    "label": {
-      "url": ""
     },
     "medium": "WP"
   }

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2025_08_onions",
+    "headline": "Dicing an Onion, the Mathematically Optimal Way",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/08/onions/",
+    "date": "2025-08-12",
+    "keywords": [
+      "cut",
+      "math",
+      "stats",
+      "standard deviation",
+      "onion",
+      "kenji",
+      "cook"
+    ],
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Andrew Aquino",
+        "slug": "andrew-aquino"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_08_onions.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2025_07_street-view",
     "headline": "NYC's Urban Textscape",
     "description": "No description available",

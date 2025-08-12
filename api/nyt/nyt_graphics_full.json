@@ -1,5 +1,25 @@
 [
   {
+    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzU3NTg0NjhkLTU0NjYtNWU5Ni04MTA5LWIzZWU2N2Q2M2YyZQ==",
+    "headline": "As Europe’s Heat Waves Intensify, France Bickers About Air-Conditioning",
+    "url": "https://www.nytimes.com/2025/08/12/world/europe/heat-waves-france-air-conditioning.html",
+    "label": "https://www.nytimes.com/world/",
+    "date": "2025-08-12T09:17:45.000Z",
+    "credits": [
+      {
+        "name": "Aurelien Breeden",
+        "slug": "aurelien-breeden"
+      },
+      {
+        "name": "Josh Holder",
+        "slug": "josh-holder"
+      }
+    ],
+    "description": "As heat waves batter Europe, the need (or not) for air-conditioning has become part of the political tug of war in France between the right and the left.",
+    "square_img": "https://static01.nyt.com/images/2025/08/08/multimedia/2025-07-15-eu-cooling-degree-days-index/2025-07-15-eu-cooling-degree-days-index-square320.png",
+    "img": "https://static01.nyt.com/images/2025/08/08/multimedia/2025-07-15-eu-cooling-degree-days-index/2025-07-15-eu-cooling-degree-days-index-square320.png"
+  },
+  {
     "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzdkMjM2ZGJmLThjNzQtNWFkMS1hNjE0LWMxNTgyN2I5NjMzZA==",
     "headline": "Trump’s homicide-rate chart has been making the rounds on right-wing social media.",
     "url": "https://www.nytimes.com/live/2025/08/11/us/trump-news/trumps-homicide-rate-chart-has-been-making-the-rounds-on-right-wing-social-media",

@@ -920,26 +920,5 @@
     "square_img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-square320-v5.jpg",
     "img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-facebookJumbo-v6.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzdmNmQ5OWQzLTU0MWEtNWI3ZC04OTRhLWU4ZjkyODczNDA4YQ==",
-    "headline": "After Surge During Pandemic, Homicides Fall Significantly",
-    "url": "https://www.nytimes.com/2025/07/24/us/murders-crime-us-covid-19.html",
-    "label": "https://www.nytimes.com/us/",
-    "date": "2025-07-24T09:01:13.000Z",
-    "credits": [
-      {
-        "name": "Ashley Wu",
-        "slug": "ashley-wu"
-      },
-      {
-        "name": "Tim Arango",
-        "slug": "tim-arango"
-      }
-    ],
-    "description": "An analysis released Thursday by the Council on Criminal Justice shows that the majority of crimes the council tracks are continuing to decrease in 42 U.S. cities.",
-    "square_img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-square320-v3.png",
-    "img": "https://static01.nyt.com/images/2025/07/23/multimedia/2025-07-17-crime-stats-index/2025-07-17-crime-stats-index-square320-v3.png",
-    "medium": "NYT"
   }
 ]

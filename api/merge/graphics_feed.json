@@ -915,34 +915,5 @@
     "img": "https://www.washingtonpost.com/resizer/7YVn-nU7a_G6IeIDENcW2fKoquY=/300x0/arc-anglerfish-washpost-prod-washpost/public/R4WRZ4RYF5HWZKVSBSDK4YNV2U.jpg",
     "label": {},
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMGEzYmQwYzAtMDZhMC01MjJlLWEwYmQtMmM2Y2U1NjhjMWIy",
-    "headline": "Mapping How Mamdani’s Ranked-Choice Strategy Beat Cuomo",
-    "url": "https://www.nytimes.com/interactive/2025/07/26/nyregion/nyc-mayor-ranked-choice-map.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-26T09:01:35.000Z",
-    "credits": [
-      {
-        "name": "Elena Shao",
-        "slug": "elena-shao"
-      },
-      {
-        "name": "Saurabh Datar",
-        "slug": "saurabh-datar"
-      },
-      {
-        "name": "Keith Collins",
-        "slug": "keith-collins"
-      },
-      {
-        "name": "Nicholas Fandos",
-        "slug": "nicholas-fandos"
-      }
-    ],
-    "description": "New data provides the clearest picture yet of how Zohran Mamdani pulled off his primary election upset.",
-    "square_img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-square320-v5.jpg",
-    "img": "https://static01.nyt.com/images/2025/07/25/multimedia/2025-07-24-nyc-primary-ballots-index/2025-07-24-nyc-primary-ballots-index-facebookJumbo-v6.jpg",
-    "medium": "NYT"
   }
 ]

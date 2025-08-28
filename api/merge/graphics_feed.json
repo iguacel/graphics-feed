@@ -832,30 +832,5 @@
       "url": "https://www.washingtonpost.com/opinions/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvYjJkZGQ1YWQtZGU4ZC01YzhmLTg1MTEtYTEzMmI0YzJlNjBi",
-    "headline": "Tracking Trump’s New Tariffs on Every Country",
-    "url": "https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-07-28T06:57:17.000Z",
-    "credits": [
-      {
-        "name": "Lazaro Gamio",
-        "slug": "lazaro-gamio"
-      },
-      {
-        "name": "Tony Romm",
-        "slug": "tony-romm"
-      },
-      {
-        "name": "Agnes Chang",
-        "slug": "agnes-chang"
-      }
-    ],
-    "description": "See which countries are being targeted by President Trump, as he seeks to remake the global trading system.",
-    "square_img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-square320-v6.png",
-    "img": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-facebookJumbo-v7.png",
-    "medium": "NYT"
   }
 ]

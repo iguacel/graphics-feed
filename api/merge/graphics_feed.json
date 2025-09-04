@@ -354,22 +354,5 @@
       "url": "https://www.washingtonpost.com/politics/"
     },
     "medium": "WP"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvNzFjZTc4NTAtMWUwZC01NTkxLTg0NzAtNzBkMGJmNTI3NGE5",
-    "headline": "10-Minute Challenge: Bosch’s ‘Garden of Earthly Delights’",
-    "url": "https://www.nytimes.com/interactive/2025/08/03/upshot/garden-of-earthly-delights.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-08-03T23:30:43.312Z",
-    "credits": [
-      {
-        "name": "Larry Buchanan",
-        "slug": "larry-buchanan"
-      }
-    ],
-    "description": "We’d like you to look at one piece of art for 10 minutes, uninterrupted.",
-    "square_img": "https://static01.nyt.com/images/2025/08/04/upshot/up-bosch-full/up-bosch-full-square320-v2.jpg",
-    "img": "https://static01.nyt.com/images/2025/08/04/upshot/up-bosch-full/up-bosch-full-facebookJumbo-v2.jpg",
-    "medium": "NYT"
   }
 ]

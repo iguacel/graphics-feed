@@ -275,29 +275,5 @@
     "square_img": "https://static01.nyt.com/images/2025/08/05/multimedia/05biz-revisions-01-bzgc/05biz-revisions-01-bzgc-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/08/05/multimedia/05biz-revisions-01-bzgc/05biz-revisions-01-bzgc-square320.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "tcbXkk395W",
-    "headline": "Visualising Hiroshima and Nagasaki casualties, the world’s first atomic attacks",
-    "url": "https://multimedia.scmp.com/infographics/news/world/article/3320825/hiroshima_nagasaki/index.html",
-    "label": "https://www.scmp.com/latest/",
-    "date": "2025-08-06T00:00:00.000Z",
-    "description": "Explore our infographic showing the human toll of the atomic bombings on Japan 80 years ago.",
-    "credits": [
-      {
-        "name": "Davies Christian Surya",
-        "slug": "davies-christian-surya"
-      },
-      {
-        "name": "Kaliz Lee",
-        "slug": "kaliz-lee"
-      },
-      {
-        "name": "Victor Sanjinez",
-        "slug": "victor-sanjinez"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/world/article/3320825/hiroshima_nagasaki/img/cover.jpg",
-    "medium": "SCMP"
   }
 ]

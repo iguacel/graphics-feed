@@ -366,21 +366,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieR3yBgPBaJE/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "sWzZRjBpGi",
-    "headline": "A visual journey through the life of Ozzy Osbourne, rock’s Prince of Darkness",
-    "url": "https://multimedia.scmp.com/infographics/culture/article/3320973/ozzy-osbourne/index.html",
-    "label": "https://www.scmp.com/latest/",
-    "date": "2025-08-07T00:00:00.000Z",
-    "description": "Explore our infographic on the heavy metal icon who helped shape rock history.",
-    "credits": [
-      {
-        "name": "Marcelo Duhalde",
-        "slug": "marcelo-duhalde"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/culture/article/3320973/ozzy-osbourne/img/cover.jpg",
-    "medium": "SCMP"
   }
 ]

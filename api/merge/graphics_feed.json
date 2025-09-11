@@ -301,33 +301,5 @@
     "square_img": "https://static01.nyt.com/images/2025/08/08/multimedia/2025-06-26-ai-jobs-index/2025-06-26-ai-jobs-index-square320-v3.png",
     "img": "https://static01.nyt.com/images/2025/08/08/multimedia/2025-06-26-ai-jobs-index/2025-06-26-ai-jobs-index-facebookJumbo-v3.png",
     "medium": "NYT"
-  },
-  {
-    "id": "T0SCGVGPQQ7X00",
-    "headline": "Hedge Funds Flip on Green Energy and Start Betting Against Oil",
-    "url": "https://www.bloomberg.com/news/features/2025-08-10/hedge-funds-shift-bets-on-oil-and-solar-stocks-in-energy-reversal?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/news/",
-    "date": "2025-08-10T16:00:31.286Z",
-    "description": "Portfolio managers have been reversing strategies that have dominated over the past four years.",
-    "credits": [
-      {
-        "name": "Natasha White",
-        "slug": "natasha-white"
-      },
-      {
-        "name": "Demetrios Pogkas",
-        "slug": "demetrios-pogkas"
-      },
-      {
-        "name": "Liza Tetley",
-        "slug": "liza-tetley"
-      },
-      {
-        "name": "Ishika Mookerjee",
-        "slug": "ishika-mookerjee"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIjXXWUmwhEU/v2/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

@@ -280,26 +280,5 @@
     "square_img": "https://static01.nyt.com/images/2025/08/11/multimedia/trump-crime-chart-cvkh/trump-crime-chart-cvkh-square320.jpg",
     "img": "https://static01.nyt.com/images/2025/08/11/multimedia/trump-crime-chart-cvkh/trump-crime-chart-cvkh-square320.jpg",
     "medium": "NYT"
-  },
-  {
-    "id": "SW50ZXJhY3RpdmU6bnl0Oi8vaW50ZXJhY3RpdmUvMmNhY2ZjMzctYmQxOC01NzIwLWE4ZjItMTFhY2MxZDViNjk3",
-    "headline": "21 Ways People Are Using A.I. at Work",
-    "url": "https://www.nytimes.com/interactive/2025/08/11/upshot/ai-jobs.html",
-    "label": "https://www.nytimes.com/interactive/",
-    "date": "2025-08-11T09:02:25.000Z",
-    "credits": [
-      {
-        "name": "Larry Buchanan",
-        "slug": "larry-buchanan"
-      },
-      {
-        "name": "Francesca Paris",
-        "slug": "francesca-paris"
-      }
-    ],
-    "description": "Yes, it still makes plenty of mistakes, but it has become part of the job for many.",
-    "square_img": "https://static01.nyt.com/images/2025/08/08/multimedia/2025-06-26-ai-jobs-index/2025-06-26-ai-jobs-index-square320-v3.png",
-    "img": "https://static01.nyt.com/images/2025/08/08/multimedia/2025-06-26-ai-jobs-index/2025-06-26-ai-jobs-index-facebookJumbo-v3.png",
-    "medium": "NYT"
   }
 ]

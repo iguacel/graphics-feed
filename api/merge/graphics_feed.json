@@ -1,5 +1,61 @@
 [
   {
+    "id": "T2NY66GPQQG200",
+    "headline": "The Business School ROI Calculator 2025-26",
+    "url": "https://www.bloomberg.com/graphics/mba-return-on-investment/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-09-16T04:08:30.662Z",
+    "description": "Personalize your search and compare schools to find the best fit",
+    "credits": [
+      {
+        "name": "Phil Kuntz",
+        "slug": "phil-kuntz"
+      },
+      {
+        "name": "Cedric Sam",
+        "slug": "cedric-sam"
+      },
+      {
+        "name": "Alexander McIntyre",
+        "slug": "alexander-mcintyre"
+      },
+      {
+        "name": "Jeremy Cf Lin",
+        "slug": "jeremy-cf-lin"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZDDpe2C8AMc/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "T2NY62GPL41200",
+    "headline": "These Are the Best Business Schools in the World",
+    "url": "https://www.bloomberg.com/business-schools/?srnd=phx-graphics-v2",
+    "label": null,
+    "date": "2025-09-16T04:08:26.425Z",
+    "description": "The best MBA programs in the US, Canada, Europe and Asia",
+    "credits": [
+      {
+        "name": "Dimitra Kessenides",
+        "slug": "dimitra-kessenides"
+      },
+      {
+        "name": "Alexander McIntyre",
+        "slug": "alexander-mcintyre"
+      },
+      {
+        "name": "Mathieu Benhamou",
+        "slug": "mathieu-benhamou"
+      },
+      {
+        "name": "Robb Mandelbaum",
+        "slug": "robb-mandelbaum"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieaae8OK395Q/v0/-999x-999.gif",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "T2H16JGPQQ6A00",
     "headline": "Even New York City’s Wealthy Renters Can’t Avoid the Housing Crisis",
     "url": "https://www.bloomberg.com/graphics/2025-nyc-wealthy-renters-housing-crisis/?srnd=phx-graphics-v2",

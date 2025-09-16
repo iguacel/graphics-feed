@@ -174,35 +174,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8JoxkfuQIX0/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "PNFG4RWZNNGITDURS2PUXYNL3I",
-    "headline": "We drove Trump’s D.C. Turns out, he may not be seeing much. ",
-    "description": "Washington Post reporters retraced some of the president’s motorcade routes through the nation’s capital. Here’s what we saw.",
-    "url": "https://www.washingtonpost.com/style/interactive/2025/presidents-trumps-motorcade-route-dc/",
-    "credits": [
-      {
-        "name": "Kara Voght",
-        "slug": "kara-voght"
-      },
-      {
-        "name": "Hannah Dormido",
-        "slug": "hannah-dormido"
-      },
-      {
-        "name": "John Farrell",
-        "slug": "john-farrell"
-      },
-      {
-        "name": "Salwan Georges",
-        "slug": "salwan-georges"
-      }
-    ],
-    "date": "2025-08-16T14:55:19.853Z",
-    "img": "https://www.washingtonpost.com/resizer/DqTrulO5Cgp0f1FDLJrbvZ-pl2Y=/300x0/arc-anglerfish-washpost-prod-washpost/public/XR4KAZA45ZSXV3N4RYLLQIAXBY.JPG",
-    "label": {
-      "url": "https://www.washingtonpost.com/style/"
-    },
-    "medium": "WP"
   }
 ]

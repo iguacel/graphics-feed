@@ -178,29 +178,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7L08iItT0ms/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "T18H0UGPQQHE00",
-    "headline": "NJ Transit Is NYC’s Least Reliable Commuter Rail — By a Long Shot",
-    "url": "https://www.bloomberg.com/graphics/2025-njtransit-major-delays/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-08-19T09:00:31.034Z",
-    "description": "An analysis of real-time train data shows its passengers face major service disruptions at six times the rate of riders on other NYC commuter railways.",
-    "credits": [
-      {
-        "name": "Aaron Gordon",
-        "slug": "aaron-gordon"
-      },
-      {
-        "name": "Surya Mattu",
-        "slug": "surya-mattu"
-      },
-      {
-        "name": "Marie Patino",
-        "slug": "marie-patino"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8JoxkfuQIX0/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

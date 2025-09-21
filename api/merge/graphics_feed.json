@@ -158,25 +158,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/china/article/3322445/china-weapons/img/cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "T1BSGTGPWCI700",
-    "headline": "The Fix for Solar Power Blackouts Is Already Here",
-    "url": "https://www.bloomberg.com/features/2025-bottlenecks-blackouts-grid-stability-solar-wind/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/features/",
-    "date": "2025-08-21T04:00:29.272Z",
-    "description": "Countries with the most renewables have become vulnerable to outages. Why are so few investing in grid-stabilizing tech?",
-    "credits": [
-      {
-        "name": "Akshat Rathi",
-        "slug": "akshat-rathi"
-      },
-      {
-        "name": "Laura Millan",
-        "slug": "laura-millan"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7L08iItT0ms/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

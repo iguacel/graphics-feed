@@ -1,5 +1,29 @@
 [
   {
+    "id": "aHTeINOBNO",
+    "headline": "When a typhoon hits Hong Kong",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3326461/",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2025-09-23T00:00:00.000Z",
+    "description": "What happens when a typhoon hits Hong Kong? From the science behind a T10 signal to how the city copes, this story explores the anatomy of a storm and its impact on the city.",
+    "credits": [
+      {
+        "name": "SCMP Graphics Team",
+        "slug": "scmp-graphics-team"
+      },
+      {
+        "name": "Davies Christian Surya",
+        "slug": "davies-christian-surya"
+      },
+      {
+        "name": "Kaliz Lee",
+        "slug": "kaliz-lee"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3326461/img/cover.jpg",
+    "medium": "SCMP"
+  },
+  {
     "id": "T30IKRGQ7L1I00",
     "headline": "American Films Are Losing Their Dominance Over the Global Box Office",
     "url": "https://www.bloomberg.com/graphics/2025-china-box-office/?srnd=phx-graphics-v2",

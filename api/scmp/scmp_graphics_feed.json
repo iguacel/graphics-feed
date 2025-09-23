@@ -1,5 +1,28 @@
 [
   {
+    "id": "aHTeINOBNO",
+    "headline": "When a typhoon hits Hong Kong",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3326461/",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2025-09-23T00:00:00.000Z",
+    "description": "What happens when a typhoon hits Hong Kong? From the science behind a T10 signal to how the city copes, this story explores the anatomy of a storm and its impact on the city.",
+    "credits": [
+      {
+        "name": "SCMP Graphics Team",
+        "slug": "scmp-graphics-team"
+      },
+      {
+        "name": "Davies Christian Surya",
+        "slug": "davies-christian-surya"
+      },
+      {
+        "name": "Kaliz Lee",
+        "slug": "kaliz-lee"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3326461/img/cover.jpg"
+  },
+  {
     "id": "O5u3WL6ewK",
     "headline": "The Red Arsenal: inside China’s cutting-edge weapon systems",
     "url": "https://multimedia.scmp.com/infographics/news/china/article/3322445/china-weapons/?module=breaking&pgtype=homepage",

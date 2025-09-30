@@ -1,5 +1,37 @@
 [
   {
+    "id": "T3DEG9GPWD3Q00",
+    "headline": "AI Data Centers Are Sending Power Bills Soaring",
+    "url": "https://www.bloomberg.com/graphics/2025-ai-data-centers-electricity-prices/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-09-29T22:00:09.519Z",
+    "description": "Wholesale electricity costs as much as 267% more than it did five years ago in areas near data centers. That’s being passed on to customers.",
+    "credits": [
+      {
+        "name": "Josh Saul",
+        "slug": "josh-saul"
+      },
+      {
+        "name": "Leonardo Nicoletti",
+        "slug": "leonardo-nicoletti"
+      },
+      {
+        "name": "Demetrios Pogkas",
+        "slug": "demetrios-pogkas"
+      },
+      {
+        "name": "Dina Bass",
+        "slug": "dina-bass"
+      },
+      {
+        "name": "Naureen S Malik",
+        "slug": "naureen-s-malik"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXgRszp.iisE/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "T327OVGPL3WN00",
     "headline": "The Trillion-Dollar Race for European Money Management’s Future",
     "url": "https://www.bloomberg.com/graphics/2025-europe-asset-management/?srnd=phx-graphics-v2",

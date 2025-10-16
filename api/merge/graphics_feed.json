@@ -1,5 +1,21 @@
 [
   {
+    "id": "zD8I01Tauz",
+    "headline": "China’s Palace Museum: inside the forbidden world of emperors",
+    "url": "https://multimedia.scmp.com/infographics/culture/article/3016607/history-of-the-forbidden-city/index.html",
+    "label": "https://www.scmp.com/china/",
+    "date": "2025-10-16T00:00:00.000Z",
+    "description": "Revisit these award-winning Post infographics on the famed Forbidden City, as China’s Palace Museum marks its 100th year.",
+    "credits": [
+      {
+        "name": "SCMP Graphics Team",
+        "slug": "scmp-graphics-team"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/culture/article/3016607/history-of-the-forbidden-city/img/cover.jpg",
+    "medium": "SCMP"
+  },
+  {
     "id": "T3VX48GPL4H400",
     "headline": "As Fragile Ceasefire Takes Hold, Gazans Ask ‘Who Will Be in Charge?’",
     "url": "https://www.bloomberg.com/graphics/2025-gaza-israel-ceasefire-peace-deal/?srnd=phx-graphics-v2",
@@ -229,62 +245,6 @@
       }
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihLSqgkUc8hs/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "T2NY66GPQQG200",
-    "headline": "The Business School ROI Calculator 2025-26",
-    "url": "https://www.bloomberg.com/graphics/mba-return-on-investment/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-09-16T04:08:30.662Z",
-    "description": "Personalize your search and compare schools to find the best fit",
-    "credits": [
-      {
-        "name": "Phil Kuntz",
-        "slug": "phil-kuntz"
-      },
-      {
-        "name": "Cedric Sam",
-        "slug": "cedric-sam"
-      },
-      {
-        "name": "Alexander McIntyre",
-        "slug": "alexander-mcintyre"
-      },
-      {
-        "name": "Jeremy Cf Lin",
-        "slug": "jeremy-cf-lin"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZDDpe2C8AMc/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "T2NY62GPL41200",
-    "headline": "These Are the Best Business Schools in the World",
-    "url": "https://www.bloomberg.com/business-schools/?srnd=phx-graphics-v2",
-    "label": null,
-    "date": "2025-09-16T04:08:26.425Z",
-    "description": "The best MBA programs in the US, Canada, Europe and Asia",
-    "credits": [
-      {
-        "name": "Dimitra Kessenides",
-        "slug": "dimitra-kessenides"
-      },
-      {
-        "name": "Alexander McIntyre",
-        "slug": "alexander-mcintyre"
-      },
-      {
-        "name": "Mathieu Benhamou",
-        "slug": "mathieu-benhamou"
-      },
-      {
-        "name": "Robb Mandelbaum",
-        "slug": "robb-mandelbaum"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieaae8OK395Q/v0/-999x-999.gif",
     "medium": "Bloomberg"
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "id": "2025_10_walk",
+    "headline": "What it’s like to walk across Massachusetts",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/10/walk/",
+    "date": "2025-10-21",
+    "keywords": [
+      "walk",
+      "massaschusetts",
+      "achilles",
+      "injury",
+      "longform",
+      "writing",
+      "words",
+      "illustration",
+      "map"
+    ],
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_10_walk.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2025_08_onions",
     "headline": "Dicing an Onion, the Mathematically Optimal Way",
     "description": "No description available",

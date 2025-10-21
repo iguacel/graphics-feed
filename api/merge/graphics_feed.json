@@ -1,5 +1,31 @@
 [
   {
+    "id": "2025_10_walk",
+    "headline": "What it’s like to walk across Massachusetts",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/10/walk/",
+    "date": "2025-10-21T00:00:00.000Z",
+    "keywords": [
+      "walk",
+      "massaschusetts",
+      "achilles",
+      "injury",
+      "longform",
+      "writing",
+      "words",
+      "illustration",
+      "map"
+    ],
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_10_walk.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "zD8I01Tauz",
     "headline": "China’s Palace Museum: inside the forbidden world of emperors",
     "url": "https://multimedia.scmp.com/infographics/culture/article/3016607/history-of-the-forbidden-city/index.html",

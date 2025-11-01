@@ -1,5 +1,33 @@
 [
   {
+    "id": "T50IFSGPFHMS00",
+    "headline": "Satellite Images Reveal Scale of Melissa Destruction in Jamaica",
+    "url": "https://www.bloomberg.com/graphics/2025-jamaica-hurricane-melissa-damage/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-10-31T20:04:40.195Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Christopher Cannon",
+        "slug": "christopher-cannon"
+      },
+      {
+        "name": "Josh Saul",
+        "slug": "josh-saul"
+      },
+      {
+        "name": "Lauren Rosenthal",
+        "slug": "lauren-rosenthal"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itStD3rD9NbU/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "KInFSm3grn",
     "headline": "Hong Kong's first 'patriots-only' Legislative Council: How did they perform?",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/legco2025/3330164/index.html",
@@ -247,6 +275,26 @@
       }
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irNLgY5vxA.k/v1/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "T3GC09GQ1Z0A00",
+    "headline": "Texas Redistricting Case Could Reshape House Balance After 2026 Midterms",
+    "url": "https://www.bloomberg.com/graphics/2025-texas-redistricting-map-congress-race/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-10-01T12:00:09.659Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Elena Mejía",
+        "slug": "elena-mejía"
+      },
+      {
+        "name": "Joe Lovinger",
+        "slug": "joe-lovinger"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7rOvdWFtkeQ/v0/-1x-1.webp",
     "medium": "Bloomberg"
   }
 ]

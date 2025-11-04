@@ -1,5 +1,28 @@
 [
   {
+    "id": "2025_11_democracy",
+    "headline": "In pursuit of democracy",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/11/democracy/",
+    "date": "2025-11-04",
+    "keywords": [
+      "democracy",
+      "politics",
+      "congress",
+      "trump",
+      "elections",
+      "speeches"
+    ],
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_11_democracy.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2025_10_walk",
     "headline": "What it’s like to walk across Massachusetts",
     "description": "No description available",

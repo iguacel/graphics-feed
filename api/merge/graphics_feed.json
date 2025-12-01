@@ -384,57 +384,5 @@
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_11_democracy.jpg",
     "medium": "Pudding"
-  },
-  {
-    "id": "T50IFSGPFHMS00",
-    "headline": "Satellite Images Reveal Scale of Melissa Destruction in Jamaica",
-    "url": "https://www.bloomberg.com/graphics/2025-jamaica-hurricane-melissa-damage/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-10-31T20:04:40.195Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Krishna Karra",
-        "slug": "krishna-karra"
-      },
-      {
-        "name": "Christopher Cannon",
-        "slug": "christopher-cannon"
-      },
-      {
-        "name": "Josh Saul",
-        "slug": "josh-saul"
-      },
-      {
-        "name": "Lauren Rosenthal",
-        "slug": "lauren-rosenthal"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itStD3rD9NbU/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "9QOtM9nzzE",
-    "headline": "Hong Kong's first 'patriots-only' Legislative Council: How did they perform?",
-    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3330164/legco2025/index.html",
-    "label": "https://www.scmp.com/hong_kong/",
-    "date": "2025-10-31T00:00:00.000Z",
-    "description": "Hong Kong’s revamped legislature wrapped up its four-year term on October 24. While lawmakers’ relations with the government were cordial and lawmaking was efficient, has the public been as tuned in? The Post takes a look at the hits and misses over the past four years.",
-    "credits": [
-      {
-        "name": "carlos",
-        "slug": "carlos"
-      },
-      {
-        "name": "Kaliz Lee",
-        "slug": "kaliz-lee"
-      },
-      {
-        "name": "Kuen Lau",
-        "slug": "kuen-lau"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/legco2025/assets/images/cover2.jpg",
-    "medium": "SCMP"
   }
 ]

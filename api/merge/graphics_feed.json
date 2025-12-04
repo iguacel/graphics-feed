@@ -377,28 +377,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUcNmfIJVQ4k/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "2025_11_democracy",
-    "headline": "In pursuit of democracy",
-    "description": "No description available",
-    "url": "https://pudding.cool/2025/11/democracy/",
-    "date": "2025-11-04T00:00:00.000Z",
-    "keywords": [
-      "democracy",
-      "politics",
-      "congress",
-      "trump",
-      "elections",
-      "speeches"
-    ],
-    "credits": [
-      {
-        "name": "Alvin Chang",
-        "slug": "alvin-chang"
-      }
-    ],
-    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_11_democracy.jpg",
-    "medium": "Pudding"
   }
 ]

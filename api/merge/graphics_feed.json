@@ -1,5 +1,32 @@
 [
   {
+    "id": "2025_12_motifs",
+    "headline": "Common Threads",
+    "description": "No description available",
+    "url": "https://pudding.cool/2025/12/motifs/",
+    "date": "2025-12-10T00:00:00.000Z",
+    "keywords": [
+      "music",
+      "motifs",
+      "themes",
+      "storytelling",
+      "musicals",
+      "broadway",
+      "les miserables",
+      "hamilton",
+      "wicked",
+      "music theory"
+    ],
+    "credits": [
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2025_12_motifs.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "T6X984KGCTFK00",
     "headline": "The Trillion-Dollar Machine Powering Abu Dhabi’s Global Ambitions",
     "url": "https://www.bloomberg.com/graphics/2025-abu-dhabi-investment-funds/?srnd=phx-graphics-v2",
@@ -373,17 +400,6 @@
       }
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4yUoGU83FIc/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "T5HBS6GPWCGH00",
-    "headline": "The True Cost of China’s Falling Prices",
-    "url": "https://www.bloomberg.com/graphics/2025-china-deflation-cost/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2025-11-09T22:00:06.534Z",
-    "description": "Bloomberg analysis shows deflation on the ground feels more pronounced than official data show, with prices of everyday goods plunging and the share of loss-making companies at a 25-year high.",
-    "credits": [],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuQIErk0OUYI/v0/-1x-1.webp",
     "medium": "Bloomberg"
   }
 ]

@@ -1,5 +1,325 @@
 [
   {
+    "id": "T75IH5KGZAJQ00",
+    "headline": "Year in Review: 2025 in Graphics, Maps, and Visual Stories",
+    "url": "https://www.bloomberg.com/graphics/2025-in-graphics/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2025-12-12T10:00:41.700Z",
+    "description": "The Year in Graphics",
+    "credits": [
+      {
+        "name": "Cedric Sam",
+        "slug": "cedric-sam"
+      },
+      {
+        "name": "Jeremy Diamond",
+        "slug": "jeremy-diamond"
+      },
+      {
+        "name": "Alex Tribou",
+        "slug": "alex-tribou"
+      },
+      {
+        "name": "Alex Newman",
+        "slug": "alex-newman"
+      },
+      {
+        "name": "Mathieu Benhamou",
+        "slug": "mathieu-benhamou"
+      },
+      {
+        "name": "Christopher Cannon",
+        "slug": "christopher-cannon"
+      },
+      {
+        "name": "Spe Chen",
+        "slug": "spe-chen"
+      },
+      {
+        "name": "Stephanie Davidson",
+        "slug": "stephanie-davidson"
+      },
+      {
+        "name": "Sam Dodge",
+        "slug": "sam-dodge"
+      },
+      {
+        "name": "Rachael Dottle",
+        "slug": "rachael-dottle"
+      },
+      {
+        "name": "Armand Emamdjomeh",
+        "slug": "armand-emamdjomeh"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      },
+      {
+        "name": "Jennah Haque",
+        "slug": "jennah-haque"
+      },
+      {
+        "name": "Julia Janicki",
+        "slug": "julia-janicki"
+      },
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Kyle Kim",
+        "slug": "kyle-kim"
+      },
+      {
+        "name": "Rachel Lavin",
+        "slug": "rachel-lavin"
+      },
+      {
+        "name": "Adrian Leung",
+        "slug": "adrian-leung"
+      },
+      {
+        "name": "Denise Lu",
+        "slug": "denise-lu"
+      },
+      {
+        "name": "Priyanjana Bengani",
+        "slug": "priyanjana-bengani"
+      },
+      {
+        "name": "Noah Buhayar",
+        "slug": "noah-buhayar"
+      },
+      {
+        "name": "Julian Burgess",
+        "slug": "julian-burgess"
+      },
+      {
+        "name": "Annie Choi",
+        "slug": "annie-choi"
+      },
+      {
+        "name": "Luis Daniel",
+        "slug": "luis-daniel"
+      },
+      {
+        "name": "Eric Fan",
+        "slug": "eric-fan"
+      },
+      {
+        "name": "Aaron Gordon",
+        "slug": "aaron-gordon"
+      },
+      {
+        "name": "Alex Graves",
+        "slug": "alex-graves"
+      },
+      {
+        "name": "Jason Grotto",
+        "slug": "jason-grotto"
+      },
+      {
+        "name": "Max Harlow",
+        "slug": "max-harlow"
+      },
+      {
+        "name": "Brittany Harris",
+        "slug": "brittany-harris"
+      },
+      {
+        "name": "Elaine He",
+        "slug": "elaine-he"
+      },
+      {
+        "name": "Jinshan Hong",
+        "slug": "jinshan-hong"
+      },
+      {
+        "name": "David Ingold",
+        "slug": "david-ingold"
+      },
+      {
+        "name": "Karina Ionkina",
+        "slug": "karina-ionkina"
+      },
+      {
+        "name": "Coulter Jones",
+        "slug": "coulter-jones"
+      },
+      {
+        "name": "Jason Kao",
+        "slug": "jason-kao"
+      },
+      {
+        "name": "Jeff Kao",
+        "slug": "jeff-kao"
+      },
+      {
+        "name": "Jade Khatib",
+        "slug": "jade-khatib"
+      },
+      {
+        "name": "Weihua Li",
+        "slug": "weihua-li"
+      },
+      {
+        "name": "Andy Lin",
+        "slug": "andy-lin"
+      },
+      {
+        "name": "Jeremy Cf Lin",
+        "slug": "jeremy-cf-lin"
+      },
+      {
+        "name": "Alexander McIntyre",
+        "slug": "alexander-mcintyre"
+      },
+      {
+        "name": "Tanaz Meghjani",
+        "slug": "tanaz-meghjani"
+      },
+      {
+        "name": "Elena Mejía",
+        "slug": "elena-mejía"
+      },
+      {
+        "name": "Dave Merrill",
+        "slug": "dave-merrill"
+      },
+      {
+        "name": "Leonardo Nicoletti",
+        "slug": "leonardo-nicoletti"
+      },
+      {
+        "name": "Michael Ovaska",
+        "slug": "michael-ovaska"
+      },
+      {
+        "name": "Marie Patino",
+        "slug": "marie-patino"
+      },
+      {
+        "name": "Demetrios Pogkas",
+        "slug": "demetrios-pogkas"
+      },
+      {
+        "name": "Jane Pong",
+        "slug": "jane-pong"
+      },
+      {
+        "name": "Nadja Popovich",
+        "slug": "nadja-popovich"
+      },
+      {
+        "name": "Yue Qiu",
+        "slug": "yue-qiu"
+      },
+      {
+        "name": "Yasufumi Saito",
+        "slug": "yasufumi-saito"
+      },
+      {
+        "name": "Marc Schroeder",
+        "slug": "marc-schroeder"
+      },
+      {
+        "name": "Carolyn Silverman",
+        "slug": "carolyn-silverman"
+      },
+      {
+        "name": "James Singleton",
+        "slug": "james-singleton"
+      },
+      {
+        "name": "Andre Tartar",
+        "slug": "andre-tartar"
+      },
+      {
+        "name": "Taylor Tyson",
+        "slug": "taylor-tyson"
+      },
+      {
+        "name": "Christopher Udemans",
+        "slug": "christopher-udemans"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      },
+      {
+        "name": "Ruby Wang",
+        "slug": "ruby-wang"
+      },
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      },
+      {
+        "name": "Chloe Whiteaker",
+        "slug": "chloe-whiteaker"
+      },
+      {
+        "name": "Jin Wu",
+        "slug": "jin-wu"
+      },
+      {
+        "name": "Amanda Cox",
+        "slug": "amanda-cox"
+      },
+      {
+        "name": "Irene Casado Sanchez",
+        "slug": "irene-casado-sanchez"
+      },
+      {
+        "name": "Dimitra Kessenides",
+        "slug": "dimitra-kessenides"
+      },
+      {
+        "name": "Phil Kuntz",
+        "slug": "phil-kuntz"
+      },
+      {
+        "name": "Shadab Nazmi",
+        "slug": "shadab-nazmi"
+      },
+      {
+        "name": "Kate Rabinowitz",
+        "slug": "kate-rabinowitz"
+      },
+      {
+        "name": "Adrienne Tong",
+        "slug": "adrienne-tong"
+      },
+      {
+        "name": "Surya Mattu",
+        "slug": "surya-mattu"
+      },
+      {
+        "name": "John Sanchez",
+        "slug": "john-sanchez"
+      },
+      {
+        "name": "Dhruv Mehrotra",
+        "slug": "dhruv-mehrotra"
+      },
+      {
+        "name": "Klara Auerbach",
+        "slug": "klara-auerbach"
+      },
+      {
+        "name": "Mark Glassman",
+        "slug": "mark-glassman"
+      },
+      {
+        "name": "Dorothy Gambrell",
+        "slug": "dorothy-gambrell"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilKw1Ljy4a8Q/v0/-999x-999.gif",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "T74L4MKGIFRM00",
     "headline": "Golden Dome: The Astronomical Cost of Defeating ‘Any Foreign Aerial Attack’",
     "url": "https://www.bloomberg.com/graphics/2025-golden-dome/?srnd=phx-graphics-v2",

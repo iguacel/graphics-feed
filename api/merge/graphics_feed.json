@@ -612,29 +612,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihuEadrBUCWA/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "nsjHkRSyWO",
-    "headline": "The rise of fencing, a Hong Kong sport obsession – an infographic",
-    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3332411/hk_fencing_craze/index.html",
-    "label": "https://www.scmp.com/hong_kong/",
-    "date": "2025-11-21T00:00:00.000Z",
-    "description": "Explore fencing - once a niche sport in Hong Kong, but now more popular because of gold-winning performances.",
-    "credits": [
-      {
-        "name": "Victor Sanjinez",
-        "slug": "victor-sanjinez"
-      },
-      {
-        "name": "catherine",
-        "slug": "catherine"
-      },
-      {
-        "name": "Brian Wang",
-        "slug": "brian-wang"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3332411/hk_fencing_craze/images/0_COVER_FENCING.png",
-    "medium": "SCMP"
   }
 ]

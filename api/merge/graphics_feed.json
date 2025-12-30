@@ -576,29 +576,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3334034/legco-election-2025/assets/images/cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "28O1-jRf_c",
-    "headline": "Tai Po inferno: Hong Kong’s deadliest fire in decades",
-    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3334304/taipo_wangfuk_fire/index.html",
-    "label": "https://www.scmp.com/hong_kong/",
-    "date": "2025-11-30T00:00:00.000Z",
-    "description": "See why the fires that ravaged the Wang Fuk Court high-rise tower complex are among the worst in the city’s history.",
-    "credits": [
-      {
-        "name": "SCMP Graphics Team",
-        "slug": "scmp-graphics-team"
-      },
-      {
-        "name": "Rocio Marquez",
-        "slug": "rocio-marquez"
-      },
-      {
-        "name": "catherine",
-        "slug": "catherine"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3334304/taipo_wangfuk_fire/image/cover.jpg",
-    "medium": "SCMP"
   }
 ]

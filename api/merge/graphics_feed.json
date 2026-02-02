@@ -1,5 +1,65 @@
 [
   {
+    "id": "T9MHPFKGIFPK00",
+    "headline": "Wall Street's Stamp of Legitimacy Fuels Suspected Pump-and-Dump Schemes",
+    "url": "https://www.bloomberg.com/graphics/2026-wall-street-apparent-pump-and-dump-investor-scam/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-01-29T11:10:27.512Z",
+    "description": "US regulators are scrutinizing how dozens of small, foreign-based companies became targets of chatroom stock promoters",
+    "credits": [
+      {
+        "name": "Weihua Li",
+        "slug": "weihua-li"
+      },
+      {
+        "name": "Nicola M White",
+        "slug": "nicola-m-white"
+      },
+      {
+        "name": "Mathieu Benhamou",
+        "slug": "mathieu-benhamou"
+      },
+      {
+        "name": "Armand Emamdjomeh",
+        "slug": "armand-emamdjomeh"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTU8MIpwMO6s/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "T9MEGRKIP3IT00",
+    "headline": "Banco Master CEO's Contacts Are a Who's Who of Brazil Elite",
+    "url": "https://www.bloomberg.com/graphics/2026-banco-master-fraud-case/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-01-29T10:00:27.693Z",
+    "description": "Daniel Vorcaro is facing fraud allegations, roiling the country's high society",
+    "credits": [
+      {
+        "name": "Martha Viotti Beck",
+        "slug": "martha-viotti-beck"
+      },
+      {
+        "name": "Daniel Carvalho",
+        "slug": "daniel-carvalho"
+      },
+      {
+        "name": "Rachel Gamarski",
+        "slug": "rachel-gamarski"
+      },
+      {
+        "name": "Matheus Piovesana",
+        "slug": "matheus-piovesana"
+      },
+      {
+        "name": "Christopher Cannon",
+        "slug": "christopher-cannon"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ib22qkcaDya4/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "T9AD4XKIUPST00",
     "headline": "A Guide to the Circular Deals Underpinning The AI Boom",
     "url": "https://www.bloomberg.com/graphics/2026-ai-circular-deals/?srnd=phx-graphics-v2",
@@ -73,26 +133,6 @@
       }
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioB.sl.tZHUw/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "T87H49KIP3IE00",
-    "headline": "Here’s (Almost) Everything Wall Street Expects in 2026",
-    "url": "https://www.bloomberg.com/graphics/2026-investment-outlooks/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-01-01T22:00:09.156Z",
-    "description": "Over 700 key calls on how AI spending and government policies are set to fuel growth, inflation may prove hard to beat, private assets will continue their rise and the dollar will extend its decline.",
-    "credits": [
-      {
-        "name": "Jeremy Diamond",
-        "slug": "jeremy-diamond"
-      },
-      {
-        "name": "Sam Potter",
-        "slug": "sam-potter"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAfN_tPd8CF0/v0/-999x-999.gif",
     "medium": "Bloomberg"
   }
 ]

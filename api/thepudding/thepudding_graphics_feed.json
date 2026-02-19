@@ -1,5 +1,32 @@
 [
   {
+    "id": "2026_02_womens-sizing",
+    "headline": "Sizing Chaos",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/02/womens-sizing/",
+    "date": "2026-02-19",
+    "keywords": [
+      "women",
+      "size",
+      "sizing",
+      "clothes",
+      "clothing",
+      "fashion"
+    ],
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Amanda Sakuma",
+        "slug": "amanda-sakuma"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_02_womens-sizing.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2025_12_motifs",
     "headline": "Common Threads",
     "description": "No description available",

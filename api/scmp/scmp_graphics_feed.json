@@ -1,5 +1,28 @@
 [
   {
+    "id": "pHEfbTCBlS",
+    "headline": "Hong Kong budget 2026-27",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3344475/hk_budget_2026/",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2026-02-26T00:00:00.000Z",
+    "description": "A deep dive into the data from Hong Kong finance chief Paul Chan’s latest budget announcement, looking at the government’s growing revenue and increasing investment in infrastructure.",
+    "credits": [
+      {
+        "name": "Rocio Marquez",
+        "slug": "rocio-marquez"
+      },
+      {
+        "name": "Brian Wang",
+        "slug": "brian-wang"
+      },
+      {
+        "name": "Kuen Lau",
+        "slug": "kuen-lau"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3344475/hk_budget_2026/assets/images/cover.jpg"
+  },
+  {
     "id": "k1S9imQU_S",
     "headline": "Key dates in Jimmy Lai’s Hong Kong national security case",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3342935/jimmy_lai/",

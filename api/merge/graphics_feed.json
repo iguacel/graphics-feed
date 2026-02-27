@@ -1,7 +1,28 @@
 [
   {
+    "id": "2026_02_happy-map",
+    "headline": "Happy Map",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/02/happy-map/",
+    "date": "2026-02-27T00:00:00.000Z",
+    "keywords": [
+      "happy",
+      "map",
+      "emotion",
+      "loneliness"
+    ],
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_02_happy-map.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "pHEfbTCBlS",
-    "headline": "Hong Kong budget 2026-27",
+    "headline": "Breaking down the key figures in Hong Kong 2026-27 budget",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3344475/hk_budget_2026/",
     "label": "https://www.scmp.com/hong_kong/",
     "date": "2026-02-26T00:00:00.000Z",

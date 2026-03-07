@@ -1,5 +1,137 @@
 [
   {
+    "id": "TBISY3KIJHAQ00",
+    "headline": "In Charts: How The Iran Conflict is Disrupting Global Trade",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-07/in-charts-how-the-iran-conflict-is-disrupting-global-trade?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/news/",
+    "date": "2026-03-07T08:30:03.367Z",
+    "description": "The closure of the Strait of Hormuz and airspace across the Gulf has rippled through the global economy, pushing up oil and fertilizer prices.",
+    "credits": [
+      {
+        "name": "Priyanjana Bengani",
+        "slug": "priyanjana-bengani"
+      },
+      {
+        "name": "Jinshan Hong",
+        "slug": "jinshan-hong"
+      },
+      {
+        "name": "Jeremy Diamond",
+        "slug": "jeremy-diamond"
+      },
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      },
+      {
+        "name": "Demetrios Pogkas",
+        "slug": "demetrios-pogkas"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik4EoLBwzB9w/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TBGDG3KGZAKB00",
+    "headline": "Iran Conflict Sparks Global Rush For Critical Fertilizers",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-06/iran-conflict-sends-farmers-rushing-to-secure-critical-fertilizers?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/news/",
+    "date": "2026-03-06T01:00:03.596Z",
+    "description": "A third of global fertilizer supply passes through the Strait of Hormuz, while gas from the region is crucial to production of nutrients for global agriculture.",
+    "credits": [
+      {
+        "name": "Michael Hirtzer",
+        "slug": "michael-hirtzer"
+      },
+      {
+        "name": "Ben Westcott",
+        "slug": "ben-westcott"
+      },
+      {
+        "name": "Agnieszka Barteczko",
+        "slug": "agnieszka-barteczko"
+      },
+      {
+        "name": "Anuradha Raghu",
+        "slug": "anuradha-raghu"
+      },
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGpD9NU2Rpww/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TBECJ5KGZAM500",
+    "headline": "Iran Satellite Images Reveal Trump’s Strategy Risks Chaotic Endgame",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-map-trump-israel-strikes/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-03-04T22:45:05.964Z",
+    "description": "As the joint US-Israeli campaign enters its second week, there’s still a lack of clarity over its aims.",
+    "credits": [
+      {
+        "name": "Peter Martin",
+        "slug": "peter-martin"
+      },
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Jonathan Tirone",
+        "slug": "jonathan-tirone"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      },
+      {
+        "name": "Dave Merrill",
+        "slug": "dave-merrill"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijCdfSXndRhk/v3/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TBASXZKIJH9100",
+    "headline": "Trump’s War on Iran Has Traders Staring Down an Energy Crisis",
+    "url": "https://www.bloomberg.com/news/features/2026-03-03/why-oil-price-surge-is-limited-after-trump-s-iran-strikes?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/news/",
+    "date": "2026-03-03T00:49:11.234Z",
+    "description": "Limited oil price surges signal that traders are betting on a short conflict. A lengthy disruption threatens to cause chaos across markets.",
+    "credits": [
+      {
+        "name": "Jack Farchy",
+        "slug": "jack-farchy"
+      },
+      {
+        "name": "Alex Longley",
+        "slug": "alex-longley"
+      },
+      {
+        "name": "Priscila Azevedo Rocha",
+        "slug": "priscila-azevedo-rocha"
+      },
+      {
+        "name": "Charles Gorrivan",
+        "slug": "charles-gorrivan"
+      },
+      {
+        "name": "Julian Lee",
+        "slug": "julian-lee"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLqZ5YWSDNfs/v1/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "2026_02_happy-map",
     "headline": "Happy Map",
     "description": "No description available",
@@ -19,6 +151,106 @@
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_02_happy-map.jpg",
     "medium": "Pudding"
+  },
+  {
+    "id": "TB36G7KIJH9700",
+    "headline": "Russian Land Deals Near Military Sites Put Finland on Defensive",
+    "url": "https://www.bloomberg.com/graphics/2026-finland-russia-real-estate/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-02-26T22:00:07.233Z",
+    "description": "The Finnish government is studying some of the hundreds of properties that have been bought near critical infrastructure and sensitive sites for signs of possible Russian infiltration.",
+    "credits": [
+      {
+        "name": "Kirsi Heikel",
+        "slug": "kirsi-heikel"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3T4YfarNmp0/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TB2HG7KIP3P900",
+    "headline": "The Rise of the Manhattan Mega-Mansion",
+    "url": "https://www.bloomberg.com/graphics/2026-nyc-billionaire-mansion-conversions/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-02-26T13:00:07.915Z",
+    "description": "In the West Village and other historic neighborhoods, buyers are consolidating apartments and combining townhomes, a sign of New York City's allure to the ultra-rich.",
+    "credits": [
+      {
+        "name": "Paulina Cachero",
+        "slug": "paulina-cachero"
+      },
+      {
+        "name": "Sophie Alexander",
+        "slug": "sophie-alexander"
+      },
+      {
+        "name": "Marie Patino",
+        "slug": "marie-patino"
+      },
+      {
+        "name": "Aaron Gordon",
+        "slug": "aaron-gordon"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9s.lzdC5yns/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TB2AI5KIJHD400",
+    "headline": "South Carolina Redistricting Debate Shows Risks for Republicans",
+    "url": "https://www.bloomberg.com/graphics/2026-south-carolina-congressional-redistricting/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-02-26T10:30:05.876Z",
+    "description": "Some Palmetto State Republicans are pushing for new Congressional maps to expand GOP dominance. Others fear unintended consequences.",
+    "credits": [
+      {
+        "name": "Anna Edgerton",
+        "slug": "anna-edgerton"
+      },
+      {
+        "name": "Michael Sasso",
+        "slug": "michael-sasso"
+      },
+      {
+        "name": "Christopher Cannon",
+        "slug": "christopher-cannon"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i78Cd9JHpd_8/v2/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TB1V87KGZAJK00",
+    "headline": "Satellite Images Expose Trump’s Claim of ‘Easy’ Victory in Iran",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-protects-nuclear-sites/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-02-26T05:00:07.567Z",
+    "description": "If it decides to attack, the US would face a complicated set of targets because of Iran’s rugged geography and its efforts to protect military assets.",
+    "credits": [
+      {
+        "name": "Jonathan Tirone",
+        "slug": "jonathan-tirone"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      },
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      },
+      {
+        "name": "Rachel Lavin",
+        "slug": "rachel-lavin"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihXBhNsUAooo/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "pHEfbTCBlS",
@@ -43,6 +275,30 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3344475/hk_budget_2026/assets/images/cover.jpg",
     "medium": "SCMP"
+  },
+  {
+    "id": "TAPG04KGCTK200",
+    "headline": "How to Shred a Federal Agency",
+    "url": "https://www.bloomberg.com/graphics/2026-how-to-dismantle-education-department/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-02-19T12:00:05.008Z",
+    "description": "Republicans have been trying to dissolve the Department of Education since it was created. Under Trump, they've come closer to making that a reality, dismantling it step by step.",
+    "credits": [
+      {
+        "name": "Liam Knox",
+        "slug": "liam-knox"
+      },
+      {
+        "name": "Adrienne Tong",
+        "slug": "adrienne-tong"
+      },
+      {
+        "name": "Armand Emamdjomeh",
+        "slug": "armand-emamdjomeh"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6KETW365MI0/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "2026_02_womens-sizing",
@@ -70,6 +326,70 @@
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_02_womens-sizing.jpg",
     "medium": "Pudding"
+  },
+  {
+    "id": "TAOD45KIP3J800",
+    "headline": "Inflation Is Down, But Americans Still Feel an Affordability Squeeze",
+    "url": "https://www.bloomberg.com/graphics/2026-cost-of-living/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-02-18T22:00:05.145Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Jade Khatib",
+        "slug": "jade-khatib"
+      },
+      {
+        "name": "Jennah Haque",
+        "slug": "jennah-haque"
+      },
+      {
+        "name": "Mark Niquette",
+        "slug": "mark-niquette"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqpBTZH3YpVs/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TAMIG4KGCTKJ00",
+    "headline": "OpenAI, Anthropic Deals Power Abu Dhabi’s $100 Billion AI Bet",
+    "url": "https://www.bloomberg.com/news/articles/2026-02-17/openai-anthropic-deals-power-abu-dhabi-s-100-billion-ai-bet?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/news/",
+    "date": "2026-02-17T22:00:04.648Z",
+    "description": "Government-backed AI investor MGX has a bullish plan to spend up to $10 billion annually over the next few years.",
+    "credits": [
+      {
+        "name": "Mark Bergen",
+        "slug": "mark-bergen"
+      },
+      {
+        "name": "Dinesh Nair",
+        "slug": "dinesh-nair"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFAGvqD2FZ.c/v1/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TAE6H5KIUPTL00",
+    "headline": "Much of Cuba Goes Dark as Trump Chokes Oil Supply",
+    "url": "https://www.bloomberg.com/graphics/2026-cuba-oil-supply-power-grid-blackout/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-02-13T10:00:41.764Z",
+    "description": "A Bloomberg News analysis of satellite imagery finds the level of light at night has dropped as much as 50% across Cuba amid Trump's oil blockade",
+    "credits": [
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Stephen Wicary",
+        "slug": "stephen-wicary"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iISMMNCXKtyk/v1/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "k1S9imQU_S",

@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_03_ivf",
+    "headline": "A Journey Through Infertility",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/03/ivf/",
+    "date": "2026-03-18T00:00:00.000Z",
+    "keywords": [
+      "ivf",
+      "infertility",
+      "mother",
+      "mom",
+      "parent",
+      "pregnant",
+      "birth",
+      "child",
+      "in vitro fertilization",
+      "baby"
+    ],
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Michelle Pera-McGhee",
+        "slug": "michelle-pera-mcghee"
+      },
+      {
+        "name": "Lam Thuy Vo",
+        "slug": "lam-thuy-vo"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_03_ivf.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "TBISY3KIJHAQ00",
     "headline": "In Charts: How The Iran Conflict is Disrupting Global Trade",
     "url": "https://www.bloomberg.com/news/articles/2026-03-07/in-charts-how-the-iran-conflict-is-disrupting-global-trade?srnd=phx-graphics-v2",

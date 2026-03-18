@@ -350,25 +350,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqpBTZH3YpVs/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "TAMIG4KGCTKJ00",
-    "headline": "OpenAI, Anthropic Deals Power Abu Dhabi’s $100 Billion AI Bet",
-    "url": "https://www.bloomberg.com/news/articles/2026-02-17/openai-anthropic-deals-power-abu-dhabi-s-100-billion-ai-bet?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/news/",
-    "date": "2026-02-17T22:00:04.648Z",
-    "description": "Government-backed AI investor MGX has a bullish plan to spend up to $10 billion annually over the next few years.",
-    "credits": [
-      {
-        "name": "Mark Bergen",
-        "slug": "mark-bergen"
-      },
-      {
-        "name": "Dinesh Nair",
-        "slug": "dinesh-nair"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFAGvqD2FZ.c/v1/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

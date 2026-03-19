@@ -334,56 +334,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6KETW365MI0/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "2026_02_womens-sizing",
-    "headline": "Sizing Chaos",
-    "description": "No description available",
-    "url": "https://pudding.cool/2026/02/womens-sizing/",
-    "date": "2026-02-19T00:00:00.000Z",
-    "keywords": [
-      "women",
-      "size",
-      "sizing",
-      "clothes",
-      "clothing",
-      "fashion"
-    ],
-    "credits": [
-      {
-        "name": "Jan Diehm",
-        "slug": "jan-diehm"
-      },
-      {
-        "name": "Amanda Sakuma",
-        "slug": "amanda-sakuma"
-      }
-    ],
-    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_02_womens-sizing.jpg",
-    "medium": "Pudding"
-  },
-  {
-    "id": "TAOD45KIP3J800",
-    "headline": "Inflation Is Down, But Americans Still Feel an Affordability Squeeze",
-    "url": "https://www.bloomberg.com/graphics/2026-cost-of-living/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-02-18T22:00:05.145Z",
-    "description": "No description available",
-    "credits": [
-      {
-        "name": "Jade Khatib",
-        "slug": "jade-khatib"
-      },
-      {
-        "name": "Jennah Haque",
-        "slug": "jennah-haque"
-      },
-      {
-        "name": "Mark Niquette",
-        "slug": "mark-niquette"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqpBTZH3YpVs/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

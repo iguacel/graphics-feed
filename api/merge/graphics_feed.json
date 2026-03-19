@@ -310,29 +310,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3344475/hk_budget_2026/assets/images/cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "TAPG04KGCTK200",
-    "headline": "How to Shred a Federal Agency",
-    "url": "https://www.bloomberg.com/graphics/2026-how-to-dismantle-education-department/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-02-19T12:00:05.008Z",
-    "description": "Republicans have been trying to dissolve the Department of Education since it was created. Under Trump, they've come closer to making that a reality, dismantling it step by step.",
-    "credits": [
-      {
-        "name": "Liam Knox",
-        "slug": "liam-knox"
-      },
-      {
-        "name": "Adrienne Tong",
-        "slug": "adrienne-tong"
-      },
-      {
-        "name": "Armand Emamdjomeh",
-        "slug": "armand-emamdjomeh"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6KETW365MI0/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

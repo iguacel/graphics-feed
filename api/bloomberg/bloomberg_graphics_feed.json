@@ -1,5 +1,156 @@
 [
   {
+    "id": "TC5OK8KGIFQH00",
+    "headline": "Bloomberg’s 2026 March Madness Brackets for a Cause",
+    "url": "https://www.bloomberg.com/graphics/2026-brackets-for-a-cause/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-03-19T17:00:08.258Z",
+    "description": "Bloomberg has assembled a group of business titans to fill out NCAA March Madness brackets and put up money for charity. Who will win?",
+    "credits": [
+      {
+        "name": "Michael Boyle",
+        "slug": "michael-boyle"
+      },
+      {
+        "name": "Cedric Sam",
+        "slug": "cedric-sam"
+      },
+      {
+        "name": "Julian Burgess",
+        "slug": "julian-burgess"
+      },
+      {
+        "name": "Brittany Harris",
+        "slug": "brittany-harris"
+      },
+      {
+        "name": "Jeremy Diamond",
+        "slug": "jeremy-diamond"
+      },
+      {
+        "name": "Vadim Tsyganov",
+        "slug": "vadim-tsyganov"
+      },
+      {
+        "name": "Shenda Huang",
+        "slug": "shenda-huang"
+      },
+      {
+        "name": "Christopher Beard",
+        "slug": "christopher-beard"
+      },
+      {
+        "name": "Brian Coffaro",
+        "slug": "brian-coffaro"
+      },
+      {
+        "name": "MARK DIMONT",
+        "slug": "mark-dimont"
+      },
+      {
+        "name": "Adeeb Dholakia",
+        "slug": "adeeb-dholakia"
+      },
+      {
+        "name": "Chloe Keywell",
+        "slug": "chloe-keywell"
+      },
+      {
+        "name": "Christopher Greenfield",
+        "slug": "christopher-greenfield"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP5hmBD13DGY/v0/-999x-999.gif"
+  },
+  {
+    "id": "TBVNG3KGZAJ300",
+    "headline": "Iranian Retaliation Widens as Conflict Escalates Across Gulf",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-war-middle-east-strike-targets-map/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-03-14T07:00:03.224Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Fiona MacDonald",
+        "slug": "fiona-macdonald"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      },
+      {
+        "name": "Demetrios Pogkas",
+        "slug": "demetrios-pogkas"
+      },
+      {
+        "name": "Samy Adghirni",
+        "slug": "samy-adghirni"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivpb.5ATBLtY/v1/-1x-1.webp"
+  },
+  {
+    "id": "TBUDNJKJH6V600",
+    "headline": "Greenland’s Top Diplomat Managing US Talks Steps Down",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-13/greenland-s-top-diplomat-managing-us-talks-steps-down?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/news/",
+    "date": "2026-03-13T15:42:30.732Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Sanne Wass",
+        "slug": "sanne-wass"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip645QVG7Dgk/v0/-1x-1.webp"
+  },
+  {
+    "id": "TBMUS2KGCTK000",
+    "headline": "Campbell’s Soup Heirs, Colleges Fight Over $65 Million Endowment",
+    "url": "https://www.bloomberg.com/news/features/2026-03-09/campbell-s-soup-heirs-fight-for-slice-of-uarts-endowment-after-school-closes?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/news/",
+    "date": "2026-03-09T13:00:02.984Z",
+    "description": "The closure of Philadelphia’s University of the Arts unleashed a court fight over how to divvy up the cash it left behind.",
+    "credits": [
+      {
+        "name": "Elizabeth Rembert",
+        "slug": "elizabeth-rembert"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.xOR24J8Q_8/v1/-1x-1.webp"
+  },
+  {
+    "id": "TBLJK8KGZAK500",
+    "headline": "Why the AI Boom Will Make Phones, Cars and Electronics More Expensive",
+    "url": "https://www.bloomberg.com/graphics/2026-ai-boom-memory-chip-shortage/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-03-08T20:00:08.990Z",
+    "description": "AI demand is triggering a historic memory-chip shortage. Meeting exponential demand for chips will be expensive and maybe even impossible.",
+    "credits": [
+      {
+        "name": "Ian King",
+        "slug": "ian-king"
+      },
+      {
+        "name": "Jin Wu",
+        "slug": "jin-wu"
+      },
+      {
+        "name": "Stephanie Davidson",
+        "slug": "stephanie-davidson"
+      },
+      {
+        "name": "Dina Bass",
+        "slug": "dina-bass"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaHBTpUbvXjg/v0/-1x-1.webp"
+  },
+  {
     "id": "TBISY3KIJHAQ00",
     "headline": "In Charts: How The Iran Conflict is Disrupting Global Trade",
     "url": "https://www.bloomberg.com/news/articles/2026-03-07/in-charts-how-the-iran-conflict-is-disrupting-global-trade?srnd=phx-graphics-v2",

@@ -414,57 +414,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i78Cd9JHpd_8/v2/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "TB1V87KGZAJK00",
-    "headline": "Satellite Images Expose Trump’s Claim of ‘Easy’ Victory in Iran",
-    "url": "https://www.bloomberg.com/graphics/2026-iran-protects-nuclear-sites/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-02-26T05:00:07.567Z",
-    "description": "If it decides to attack, the US would face a complicated set of targets because of Iran’s rugged geography and its efforts to protect military assets.",
-    "credits": [
-      {
-        "name": "Jonathan Tirone",
-        "slug": "jonathan-tirone"
-      },
-      {
-        "name": "Raeedah Wahid",
-        "slug": "raeedah-wahid"
-      },
-      {
-        "name": "Hayley Warren",
-        "slug": "hayley-warren"
-      },
-      {
-        "name": "Rachel Lavin",
-        "slug": "rachel-lavin"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihXBhNsUAooo/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "pHEfbTCBlS",
-    "headline": "Breaking down the key figures in Hong Kong 2026-27 budget",
-    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3344475/hk_budget_2026/",
-    "label": "https://www.scmp.com/hong_kong/",
-    "date": "2026-02-26T00:00:00.000Z",
-    "description": "A deep dive into the data from Hong Kong finance chief Paul Chan’s latest budget announcement, looking at the government’s growing revenue and increasing investment in infrastructure.",
-    "credits": [
-      {
-        "name": "Rocio Marquez",
-        "slug": "rocio-marquez"
-      },
-      {
-        "name": "Brian Wang",
-        "slug": "brian-wang"
-      },
-      {
-        "name": "Kuen Lau",
-        "slug": "kuen-lau"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3344475/hk_budget_2026/assets/images/cover.jpg",
-    "medium": "SCMP"
   }
 ]

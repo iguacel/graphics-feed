@@ -321,46 +321,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLqZ5YWSDNfs/v1/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "2026_02_happy-map",
-    "headline": "Happy Map",
-    "description": "No description available",
-    "url": "https://pudding.cool/2026/02/happy-map/",
-    "date": "2026-02-27T00:00:00.000Z",
-    "keywords": [
-      "happy",
-      "map",
-      "emotion",
-      "loneliness"
-    ],
-    "credits": [
-      {
-        "name": "Alvin Chang",
-        "slug": "alvin-chang"
-      }
-    ],
-    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_02_happy-map.jpg",
-    "medium": "Pudding"
-  },
-  {
-    "id": "TB36G7KIJH9700",
-    "headline": "Russian Land Deals Near Military Sites Put Finland on Defensive",
-    "url": "https://www.bloomberg.com/graphics/2026-finland-russia-real-estate/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-02-26T22:00:07.233Z",
-    "description": "The Finnish government is studying some of the hundreds of properties that have been bought near critical infrastructure and sensitive sites for signs of possible Russian infiltration.",
-    "credits": [
-      {
-        "name": "Kirsi Heikel",
-        "slug": "kirsi-heikel"
-      },
-      {
-        "name": "Tom Fevrier",
-        "slug": "tom-fevrier"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3T4YfarNmp0/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

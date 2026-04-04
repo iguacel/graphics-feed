@@ -1,5 +1,24 @@
 [
   {
+    "id": "ABB3LkB0Qm",
+    "headline": "Seeking answers to a tragedy Hong Kong could have avoided",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3349019/tai_po_fire_hearing/",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2026-04-04T00:00:00.000Z",
+    "description": "A multimedia guide to the Tai Po fire",
+    "credits": [
+      {
+        "name": "Davies Christian Surya",
+        "slug": "davies-christian-surya"
+      },
+      {
+        "name": "Victor Sanjinez",
+        "slug": "victor-sanjinez"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/china/article/3347535/tai_po_fire_hearing/images/cover.jpg"
+  },
+  {
     "id": "pHEfbTCBlS",
     "headline": "Breaking down the key figures in Hong Kong 2026-27 budget",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3344475/hk_budget_2026/",

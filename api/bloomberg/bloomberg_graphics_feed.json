@@ -1,5 +1,267 @@
 [
   {
+    "id": "TE82HXKGIFTF00",
+    "headline": "North Korea’s Nuclear Arsenal Is Outgrowing US Missile Defenses",
+    "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-28T21:03:33.766Z",
+    "description": "The nation's ascent from a rogue state to a full-fledged atomic power means it may soon have a globally relevant deterrent. ",
+    "credits": [
+      {
+        "name": "Jon Herskovitz",
+        "slug": "jon-herskovitz"
+      },
+      {
+        "name": "Adrian Leung",
+        "slug": "adrian-leung"
+      },
+      {
+        "name": "Christopher Udemans",
+        "slug": "christopher-udemans"
+      },
+      {
+        "name": "Soo-hyang Choi",
+        "slug": "soo-hyang-choi"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idSRIMfNPmV0/v0/-1x-1.webp"
+  },
+  {
+    "id": "TE67OIKGZALN00",
+    "headline": "Russian Disinformation War's Most Potent Weapon Is Bending Realities",
+    "url": "https://www.bloomberg.com/graphics/2026-russia-disinformation-storm-1516-videos/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-27T21:00:18.892Z",
+    "description": "Storm-1516 uses fabricated videos, phony websites and anonymous influencers to spread tales about election fraud, corruption and sexual abuse.",
+    "credits": [
+      {
+        "name": "Stephanie Baker",
+        "slug": "stephanie-baker"
+      },
+      {
+        "name": "Priyanjana Bengani",
+        "slug": "priyanjana-bengani"
+      },
+      {
+        "name": "Rachael Dottle",
+        "slug": "rachael-dottle"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOw5dY4Cns60/v0/-1x-1.webp"
+  },
+  {
+    "id": "TDYVSIKIP3R000",
+    "headline": "Indian Rupee's Big Swings Under Central Bank Chief Malhotra's Watch",
+    "url": "https://www.bloomberg.com/graphics/2026-india-rupee-moves-timeline-history/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-23T22:00:18.880Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Bhaskar Dutta",
+        "slug": "bhaskar-dutta"
+      },
+      {
+        "name": "Jin Wu",
+        "slug": "jin-wu"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw6qAJxFw3LA/v0/-1x-1.webp"
+  },
+  {
+    "id": "TDXZUKKGIFQD00",
+    "headline": "How US Data Restrictions in Iran Are Reshaping the Satellite Imagery Industry",
+    "url": "https://www.bloomberg.com/graphics/2026-satellite-imagery-restrictions-iran/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-23T10:30:20.257Z",
+    "description": "Planet Labs’ decision to restrict Middle East satellite imagery is raising questions within a multibillion-dollar industry about commercial independence and global accountability.",
+    "credits": [
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXTAhuiwcEw4/v0/-1x-1.webp"
+  },
+  {
+    "id": "TDV67WKIUQ2H00",
+    "headline": "Satellite Data Reveal Scope and Scale of US-Israeli Strikes on Iran",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-tehran-strike-damage-satellite-images/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-21T21:55:08.710Z",
+    "description": "New data analysis shows the level of destruction in Tehran and across the Islamic Republic — and the heightened stakes of a return to all-out war.",
+    "credits": [
+      {
+        "name": "Golnar Motevalli",
+        "slug": "golnar-motevalli"
+      },
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igHmqbumc9lI/v0/-1x-1.webp"
+  },
+  {
+    "id": "TDIOG8KGZAMT00",
+    "headline": "Iran War Threatens the Building Blocks of Europe's Food and Car Production",
+    "url": "https://www.bloomberg.com/graphics/2026-europe-chemicals-iran-war/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-15T04:00:08.931Z",
+    "description": "Surging energy costs are making the basic chemicals firms across Europe rely on increasingly unaffordable.",
+    "credits": [
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      },
+      {
+        "name": "Marilen Martin",
+        "slug": "marilen-martin"
+      },
+      {
+        "name": "Alexander Weber",
+        "slug": "alexander-weber"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqeXaZXYYZL8/v0/-1x-1.webp"
+  },
+  {
+    "id": "TCQO88KIP3IO00",
+    "headline": "China’s Pivot to Vietnam Blows Hole in Trump’s Made-in-USA Plan",
+    "url": "https://www.bloomberg.com/graphics/2026-vietnam-trump-tariffs-supply-chain/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-03-31T01:02:32.374Z",
+    "description": "A year on from “Liberation Day”, Trump’s tariffs have fueled a change in global supply chains — just not in the way he envisioned.",
+    "credits": [
+      {
+        "name": "Andy Lin",
+        "slug": "andy-lin"
+      },
+      {
+        "name": "Nguyen Xuan Quynh",
+        "slug": "nguyen-xuan-quynh"
+      },
+      {
+        "name": "Spe Chen",
+        "slug": "spe-chen"
+      },
+      {
+        "name": "Claire Jiao",
+        "slug": "claire-jiao"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_MMLmSoM63w/v1/-1x-1.webp"
+  },
+  {
+    "id": "TCO5U5KIJH8P00",
+    "headline": "The Strait of Hormuz Oil Shock Is Now Heading West",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-war-hormuz-closure-oil-shock/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-03-29T16:30:05.856Z",
+    "description": "If the strait stays closed, the world will have to dramatically reduce its oil and gas consumption — but not before prices spike to a level that forces us to fly, drive and spend much less.",
+    "credits": [
+      {
+        "name": "Alex Longley",
+        "slug": "alex-longley"
+      },
+      {
+        "name": "Julian Lee",
+        "slug": "julian-lee"
+      },
+      {
+        "name": "Alaric Nightingale",
+        "slug": "alaric-nightingale"
+      },
+      {
+        "name": "Jack Wittels",
+        "slug": "jack-wittels"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      },
+      {
+        "name": "Denise Lu",
+        "slug": "denise-lu"
+      },
+      {
+        "name": "Marie Patino",
+        "slug": "marie-patino"
+      },
+      {
+        "name": "Demetrios Pogkas",
+        "slug": "demetrios-pogkas"
+      },
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id76wie3DLkw/v0/-1x-1.webp"
+  },
+  {
+    "id": "TCK865KGCTIB00",
+    "headline": "Amazon’s Rural Delivery Push Slams Into Walmart",
+    "url": "https://www.bloomberg.com/graphics/2026-amazon-walmart-rural-expansion/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-03-27T13:30:05.337Z",
+    "description": "The turf war between the two retail giants is playing out in towns across the country.",
+    "credits": [
+      {
+        "name": "Spencer Soper",
+        "slug": "spencer-soper"
+      },
+      {
+        "name": "Leon Yin",
+        "slug": "leon-yin"
+      },
+      {
+        "name": "Jaewon Kang",
+        "slug": "jaewon-kang"
+      },
+      {
+        "name": "Cailley LaPara",
+        "slug": "cailley-lapara"
+      },
+      {
+        "name": "Christopher Cannon",
+        "slug": "christopher-cannon"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iemzm3eToMZI/v0/-1x-1.webp"
+  },
+  {
+    "id": "TC6LWGKGIFPH00",
+    "headline": "Welcome to Paris, the City That Said No to Cars",
+    "url": "https://www.bloomberg.com/graphics/2026-paris-transformed-hidalgo/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-03-20T05:00:16.246Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Marie Patino",
+        "slug": "marie-patino"
+      },
+      {
+        "name": "Feargus O'Sullivan",
+        "slug": "feargus-o'sullivan"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imm6eKyYsscA/v3/-1x-1.webp"
+  },
+  {
     "id": "TC5OK8KGIFQH00",
     "headline": "Bloomberg’s 2026 March Madness Brackets for a Cause",
     "url": "https://www.bloomberg.com/graphics/2026-brackets-for-a-cause/?srnd=phx-graphics-v2",
@@ -61,6 +323,37 @@
       }
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP5hmBD13DGY/v0/-999x-999.gif"
+  },
+  {
+    "id": "TC450TKGIFV100",
+    "headline": "Iran's Hormuz Blockade Leaves Stranded Crews Braving Missiles and Signal Jamming",
+    "url": "https://www.bloomberg.com/graphics/2026-strait-hormuz-iran-blockade-ships-stranded-gps-jamming/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-03-18T21:00:29.675Z",
+    "description": "An estimated 40,000 seafarers are stuck on board ships on either side of the Strait of Hormuz, which has been almost entirely shut since the US and Israel began bombing Iran in late February. There they face the constant threat of attacks, and have to navigate in a fog of electronic warfare — which means they are often blind to the position of other vessels.",
+    "credits": [
+      {
+        "name": "Alex Longley",
+        "slug": "alex-longley"
+      },
+      {
+        "name": "Shruti Srivastava",
+        "slug": "shruti-srivastava"
+      },
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Priyanjana Bengani",
+        "slug": "priyanjana-bengani"
+      },
+      {
+        "name": "Jack Wittels",
+        "slug": "jack-wittels"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihWmCAz6Yvew/v3/-1x-1.webp"
   },
   {
     "id": "TBVNG3KGZAJ300",

@@ -1,5 +1,93 @@
 [
   {
+    "id": "TE82HXKGIFTF00",
+    "headline": "North Korea’s Nuclear Arsenal Is Outgrowing US Missile Defenses",
+    "url": "https://www.bloomberg.com/graphics/2026-north-korea-nuclear-arsenal/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-28T21:03:33.766Z",
+    "description": "The nation's ascent from a rogue state to a full-fledged atomic power means it may soon have a globally relevant deterrent. ",
+    "credits": [
+      {
+        "name": "Jon Herskovitz",
+        "slug": "jon-herskovitz"
+      },
+      {
+        "name": "Adrian Leung",
+        "slug": "adrian-leung"
+      },
+      {
+        "name": "Christopher Udemans",
+        "slug": "christopher-udemans"
+      },
+      {
+        "name": "Soo-hyang Choi",
+        "slug": "soo-hyang-choi"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idSRIMfNPmV0/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TE67OIKGZALN00",
+    "headline": "Russian Disinformation War's Most Potent Weapon Is Bending Realities",
+    "url": "https://www.bloomberg.com/graphics/2026-russia-disinformation-storm-1516-videos/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-27T21:00:18.892Z",
+    "description": "Storm-1516 uses fabricated videos, phony websites and anonymous influencers to spread tales about election fraud, corruption and sexual abuse.",
+    "credits": [
+      {
+        "name": "Stephanie Baker",
+        "slug": "stephanie-baker"
+      },
+      {
+        "name": "Priyanjana Bengani",
+        "slug": "priyanjana-bengani"
+      },
+      {
+        "name": "Rachael Dottle",
+        "slug": "rachael-dottle"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOw5dY4Cns60/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TDYVSIKIP3R000",
+    "headline": "Indian Rupee's Big Swings Under Central Bank Chief Malhotra's Watch",
+    "url": "https://www.bloomberg.com/graphics/2026-india-rupee-moves-timeline-history/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-23T22:00:18.880Z",
+    "description": "No description available",
+    "credits": [
+      {
+        "name": "Bhaskar Dutta",
+        "slug": "bhaskar-dutta"
+      },
+      {
+        "name": "Jin Wu",
+        "slug": "jin-wu"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw6qAJxFw3LA/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TDXZUKKGIFQD00",
+    "headline": "How US Data Restrictions in Iran Are Reshaping the Satellite Imagery Industry",
+    "url": "https://www.bloomberg.com/graphics/2026-satellite-imagery-restrictions-iran/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-23T10:30:20.257Z",
+    "description": "Planet Labs’ decision to restrict Middle East satellite imagery is raising questions within a multibillion-dollar industry about commercial independence and global accountability.",
+    "credits": [
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXTAhuiwcEw4/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "bznvluvelN",
     "headline": "How fire safety failures worsened Hong Kong’s deadly inferno",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3350727/tai-po-hearing-part-2/",
@@ -20,6 +108,34 @@
     "medium": "SCMP"
   },
   {
+    "id": "TDV67WKIUQ2H00",
+    "headline": "Satellite Data Reveal Scope and Scale of US-Israeli Strikes on Iran",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-tehran-strike-damage-satellite-images/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-21T21:55:08.710Z",
+    "description": "New data analysis shows the level of destruction in Tehran and across the Islamic Republic — and the heightened stakes of a return to all-out war.",
+    "credits": [
+      {
+        "name": "Golnar Motevalli",
+        "slug": "golnar-motevalli"
+      },
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igHmqbumc9lI/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "7KuJLLlk1T",
     "headline": "Rugby’s greatest weekend: 50 years of the Hong Kong Sevens",
     "url": "https://multimedia.scmp.com/infographics/sport/article/3349799/hk-sevens-50years/",
@@ -38,5 +154,29 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/sport/article/3349799/hk-sevens-50years/assets/images/cover.jpg",
     "medium": "SCMP"
+  },
+  {
+    "id": "TDIOG8KGZAMT00",
+    "headline": "Iran War Threatens the Building Blocks of Europe's Food and Car Production",
+    "url": "https://www.bloomberg.com/graphics/2026-europe-chemicals-iran-war/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-04-15T04:00:08.931Z",
+    "description": "Surging energy costs are making the basic chemicals firms across Europe rely on increasingly unaffordable.",
+    "credits": [
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      },
+      {
+        "name": "Marilen Martin",
+        "slug": "marilen-martin"
+      },
+      {
+        "name": "Alexander Weber",
+        "slug": "alexander-weber"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqeXaZXYYZL8/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   }
 ]

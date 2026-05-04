@@ -38,21 +38,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/sport/article/3349799/hk-sevens-50years/assets/images/cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "ABB3LkB0Qm",
-    "headline": "Seeking answers to a tragedy Hong Kong could have avoided",
-    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3349019/tai_po_fire_hearing/",
-    "label": "https://www.scmp.com/hong_kong/",
-    "date": "2026-04-04T00:00:00.000Z",
-    "description": "A multimedia guide to the Tai Po fire",
-    "credits": [
-      {
-        "name": "SCMP Graphics Team",
-        "slug": "scmp-graphics-team"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/china/article/3347535/tai_po_fire_hearing/images/cover.jpg",
-    "medium": "SCMP"
   }
 ]

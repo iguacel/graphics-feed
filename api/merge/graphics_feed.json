@@ -20,6 +20,166 @@
     "medium": "SCMP"
   },
   {
+    "id": "TF2RW8KGIFQ400",
+    "headline": "US Needs Another Decade to Fix $1.2 Trillion Rare Earth Crisis",
+    "url": "https://www.bloomberg.com/graphics/2026-us-china-heavy-rare-earth-magnets-defense/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-15T11:00:08.135Z",
+    "description": "Despite new investments in mining and refining around the world, China is positioned to keep its grip on the rare earth elements that matter most",
+    "credits": [
+      {
+        "name": "Martin Ritchie",
+        "slug": "martin-ritchie"
+      },
+      {
+        "name": "Jin Wu",
+        "slug": "jin-wu"
+      },
+      {
+        "name": "Stephanie Davidson",
+        "slug": "stephanie-davidson"
+      },
+      {
+        "name": "Nectar Gan",
+        "slug": "nectar-gan"
+      },
+      {
+        "name": "Jacob Lorinc",
+        "slug": "jacob-lorinc"
+      },
+      {
+        "name": "Mariana Durao",
+        "slug": "mariana-durao"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKNm_jFW6m9o/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TEZVABKIUPSW00",
+    "headline": "Jeffrey Epstein’s Web of Influence",
+    "url": "https://www.bloomberg.com/graphics/2026-jeffrey-epstein-network/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-13T21:20:35.139Z",
+    "description": "How the notorious sex offender built a sprawling international network of the rich and powerful.",
+    "credits": [
+      {
+        "name": "Max Abelson",
+        "slug": "max-abelson"
+      },
+      {
+        "name": "Amanda Albright",
+        "slug": "amanda-albright"
+      },
+      {
+        "name": "Laura Benitez",
+        "slug": "laura-benitez"
+      },
+      {
+        "name": "Christopher Cannon",
+        "slug": "christopher-cannon"
+      },
+      {
+        "name": "Biz Carson",
+        "slug": "biz-carson"
+      },
+      {
+        "name": "Marc Davies",
+        "slug": "marc-davies"
+      },
+      {
+        "name": "Maya Davis",
+        "slug": "maya-davis"
+      },
+      {
+        "name": "Miranda Davis",
+        "slug": "miranda-davis"
+      },
+      {
+        "name": "Todd Gillespie",
+        "slug": "todd-gillespie"
+      },
+      {
+        "name": "Amanda L. Gordon",
+        "slug": "amanda-l.-gordon"
+      },
+      {
+        "name": "Dana Hull",
+        "slug": "dana-hull"
+      },
+      {
+        "name": "Francesca Maglione",
+        "slug": "francesca-maglione"
+      },
+      {
+        "name": "Annie Massa",
+        "slug": "annie-massa"
+      },
+      {
+        "name": "Margi Murphy",
+        "slug": "margi-murphy"
+      },
+      {
+        "name": "Hema Parmar",
+        "slug": "hema-parmar"
+      },
+      {
+        "name": "Kati Pohjanpalo",
+        "slug": "kati-pohjanpalo"
+      },
+      {
+        "name": "Tom Schoenberg",
+        "slug": "tom-schoenberg"
+      },
+      {
+        "name": "Dan Williams",
+        "slug": "dan-williams"
+      },
+      {
+        "name": "Heidi Taksdal Skjeseth",
+        "slug": "heidi-taksdal-skjeseth"
+      },
+      {
+        "name": "Sabrina Willmer",
+        "slug": "sabrina-willmer"
+      },
+      {
+        "name": "Harry Wilson",
+        "slug": "harry-wilson"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTBg2dRyrYMg/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TEXZO6KGIGES00",
+    "headline": "China's Secretive Missile Program Is Making Dozens of Companies Rich",
+    "url": "https://www.bloomberg.com/graphics/2026-china-missiles-military-ambitions/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-12T21:00:06.797Z",
+    "description": "Beijing appears to have ramped up missile production last year by the most since Xi Jinping became president, according to an analysis that mapped out the sector’s finances for the first time.",
+    "credits": [
+      {
+        "name": "Josh Xiao",
+        "slug": "josh-xiao"
+      },
+      {
+        "name": "Adrian Leung",
+        "slug": "adrian-leung"
+      },
+      {
+        "name": "Christopher Udemans",
+        "slug": "christopher-udemans"
+      },
+      {
+        "name": "Andy Lin",
+        "slug": "andy-lin"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQysGLIVAxUI/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "4TkDecK7Gj",
     "headline": "Handshakes of history: when Chinese and US leaders meet",
     "url": "https://multimedia.scmp.com/infographics/news/china/article/3346076/xi_trump_meeting/",
@@ -34,6 +194,22 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/china/article/3346076/xi_trump_meeting/images/cover.jpg",
     "medium": "SCMP"
+  },
+  {
+    "id": "TEPNOGKIJHCZ00",
+    "headline": "AI Is Making Digital Fraud Easier, Faster and Harder to Stop",
+    "url": "https://www.bloomberg.com/graphics/2026-ai-identity-theft-scams/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-08T09:00:16.483Z",
+    "description": "From deepfakes to the dark web, digital scams are scaling up and getting more convincing.",
+    "credits": [
+      {
+        "name": "Jennah Haque",
+        "slug": "jennah-haque"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifWaGOi9rxw4/v2/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "4gPpWBRyXg",
@@ -54,6 +230,30 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3351726/tai-po-hearing-part-3/images/cover.jpg",
     "medium": "SCMP"
+  },
+  {
+    "id": "TEK4DIKGCTK800",
+    "headline": "One Calf Shows Why Record Beef Prices Still Aren’t Coming Down",
+    "url": "https://www.bloomberg.com/graphics/2026-beef-prices-cattle-supply-chain?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-05T09:15:19.004Z",
+    "description": "Pressures at every stage of the 18-month supply chain are expected to keep prices high at least through year end",
+    "credits": [
+      {
+        "name": "Ilena Peng",
+        "slug": "ilena-peng"
+      },
+      {
+        "name": "Denise Lu",
+        "slug": "denise-lu"
+      },
+      {
+        "name": "Stephanie Davidson",
+        "slug": "stephanie-davidson"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCXU0Ou9W4.0/v2/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "2026_05_similes",

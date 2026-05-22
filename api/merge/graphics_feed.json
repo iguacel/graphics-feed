@@ -390,33 +390,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3350727/tai-po-hearing-part-2/images/cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "TDV67WKIUQ2H00",
-    "headline": "Satellite Data Reveal Scope and Scale of US-Israeli Strikes on Iran",
-    "url": "https://www.bloomberg.com/graphics/2026-iran-tehran-strike-damage-satellite-images/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-04-21T21:55:08.710Z",
-    "description": "New data analysis shows the level of destruction in Tehran and across the Islamic Republic — and the heightened stakes of a return to all-out war.",
-    "credits": [
-      {
-        "name": "Golnar Motevalli",
-        "slug": "golnar-motevalli"
-      },
-      {
-        "name": "Krishna Karra",
-        "slug": "krishna-karra"
-      },
-      {
-        "name": "Tom Fevrier",
-        "slug": "tom-fevrier"
-      },
-      {
-        "name": "Raeedah Wahid",
-        "slug": "raeedah-wahid"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igHmqbumc9lI/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

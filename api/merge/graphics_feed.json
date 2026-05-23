@@ -1,5 +1,34 @@
 [
   {
+    "id": "2026_05_kpop-generations",
+    "headline": "Growing Up with K-Pop",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/05/kpop-generations/",
+    "date": "2026-05-23T00:00:00.000Z",
+    "keywords": [
+      "kpop",
+      "music",
+      "story",
+      "friendship"
+    ],
+    "credits": [
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      },
+      {
+        "name": "Eunice Lee",
+        "slug": "eunice-lee"
+      },
+      {
+        "name": "Minji Kim",
+        "slug": "minji-kim"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_05_kpop-generations.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "iDEk_YAk_x",
     "headline": "Inside Trump’s 43 hours in Beijing",
     "url": "https://multimedia.scmp.com/infographics/news/china/article/3353496/trump-hours-beijing/",
@@ -370,25 +399,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXTAhuiwcEw4/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "bznvluvelN",
-    "headline": "How fire safety failures worsened Hong Kong’s deadly inferno",
-    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3350727/tai-po-hearing-part-2/",
-    "label": "https://www.scmp.com/hong_kong/",
-    "date": "2026-04-23T00:00:00.000Z",
-    "description": "The second round of hearings from April 8 to April 17 exposed a series of failures that allowed the fire equipment and alarm system in Wang Fuk Court to be  deactivated for months, and eventually contributed to the heavy death toll.",
-    "credits": [
-      {
-        "name": "Davies Christian Surya",
-        "slug": "davies-christian-surya"
-      },
-      {
-        "name": "mario",
-        "slug": "mario"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3350727/tai-po-hearing-part-2/images/cover.jpg",
-    "medium": "SCMP"
   }
 ]

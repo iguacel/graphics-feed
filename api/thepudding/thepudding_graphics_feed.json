@@ -1,5 +1,34 @@
 [
   {
+    "id": "2026_05_kpop-generations",
+    "headline": "Growing Up with K-Pop",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/05/kpop-generations/",
+    "date": "2026-05-23",
+    "keywords": [
+      "kpop",
+      "music",
+      "story",
+      "friendship"
+    ],
+    "credits": [
+      {
+        "name": "Caitlyn Ralph",
+        "slug": "caitlyn-ralph"
+      },
+      {
+        "name": "Eunice Lee",
+        "slug": "eunice-lee"
+      },
+      {
+        "name": "Minji Kim",
+        "slug": "minji-kim"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_05_kpop-generations.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2026_05_similes",
     "headline": "Comparisons as Predictable as the Sunrise",
     "description": "No description available",

@@ -1,5 +1,24 @@
 [
   {
+    "id": "d2xjlsxyG6",
+    "headline": "‘Silent killer’: the race to beat cancer in Hong Kong",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3350474/cancer-in-hk/",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2026-05-31T00:00:00.000Z",
+    "description": "Despite a rising number of cancer cases in Hong Kong, survival rates are improving. Here is what you need to know.",
+    "credits": [
+      {
+        "name": "Joe Lo",
+        "slug": "joe-lo"
+      },
+      {
+        "name": "Kuen Lau",
+        "slug": "kuen-lau"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3350474/cancer-in-hk/assets/images/social-cover.jpg"
+  },
+  {
     "id": "iDEk_YAk_x",
     "headline": "Inside Trump’s 43 hours in Beijing",
     "url": "https://multimedia.scmp.com/infographics/news/china/article/3353496/trump-hours-beijing/",

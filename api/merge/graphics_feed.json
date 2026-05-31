@@ -1,5 +1,25 @@
 [
   {
+    "id": "d2xjlsxyG6",
+    "headline": "‘Silent killer’: the race to beat cancer in Hong Kong",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3350474/cancer-in-hk/",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2026-05-31T00:00:00.000Z",
+    "description": "Despite a rising number of cancer cases in Hong Kong, survival rates are improving. Here is what you need to know.",
+    "credits": [
+      {
+        "name": "Joe Lo",
+        "slug": "joe-lo"
+      },
+      {
+        "name": "Kuen Lau",
+        "slug": "kuen-lau"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3350474/cancer-in-hk/assets/images/social-cover.jpg",
+    "medium": "SCMP"
+  },
+  {
     "id": "2026_05_kpop-generations",
     "headline": "Growing Up with K-Pop",
     "description": "No description available",

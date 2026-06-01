@@ -1,5 +1,132 @@
 [
   {
+    "id": "TFRMC5VTTD0Q00",
+    "headline": "Ship-Tracking Data Reveal Hidden Risk of China-Vietnam Showdown",
+    "url": "https://www.bloomberg.com/graphics/2026-south-china-sea-tensions-vietnam/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-28T21:00:05.147Z",
+    "description": "A flurry of Vietnamese island fortifications and intensifying Chinese activity show the rising odds of confrontation in the South China Sea.",
+    "credits": [
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      },
+      {
+        "name": "Philip Heijmans",
+        "slug": "philip-heijmans"
+      },
+      {
+        "name": "Nguyen Xuan Quynh",
+        "slug": "nguyen-xuan-quynh"
+      },
+      {
+        "name": "Jon Herskovitz",
+        "slug": "jon-herskovitz"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iku3dnMaO1zU/v0/-1x-1.webp"
+  },
+  {
+    "id": "TFPTA2KGZAJW00",
+    "headline": "The Swiss Alps Reckon With the Threat of Collapsing Glaciers",
+    "url": "https://www.bloomberg.com/graphics/2026-swiss-glacier-collapse-risk/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-27T21:34:50.193Z",
+    "description": "A year after the town of Blatten was destroyed, Switzerland faces difficult decisions over the risks and costs of living in the mountains.",
+    "credits": [
+      {
+        "name": "Laura Millan",
+        "slug": "laura-millan"
+      },
+      {
+        "name": "Kyle Kim",
+        "slug": "kyle-kim"
+      },
+      {
+        "name": "Armand Emamdjomeh",
+        "slug": "armand-emamdjomeh"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBzNKCTnchGg/v0/-1x-1.webp"
+  },
+  {
+    "id": "TFPE2GKGIFQS00",
+    "headline": "How SpaceX’s Dream of a Record-Breaking IPO Stacks Up",
+    "url": "https://www.bloomberg.com/graphics/2026-spacex-ipo-stock-market-nasdaq-listings/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-27T16:06:16.920Z",
+    "description": "The rocket, satellite and AI company’s plan for a blockbuster Nasdaq listing is unprecedented in modern history.",
+    "credits": [
+      {
+        "name": "Demetrios Pogkas",
+        "slug": "demetrios-pogkas"
+      },
+      {
+        "name": "Jennah Haque",
+        "slug": "jennah-haque"
+      },
+      {
+        "name": "Kiel Porter",
+        "slug": "kiel-porter"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKa99QaT96Ng/v0/-1x-1.webp"
+  },
+  {
+    "id": "TFNX03KIJHH900",
+    "headline": "Russian Airlines Skirt Sanctions to Keep Their Jets Flying",
+    "url": "https://www.bloomberg.com/graphics/2026-russian-airlines-sanctions/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-26T21:00:03.338Z",
+    "description": "An under-the-radar network maintains a steady flow of the parts and equipment needed to keep the country's Boeing and Airbus planes in the air.",
+    "credits": [
+      {
+        "name": "Jinshan Hong",
+        "slug": "jinshan-hong"
+      },
+      {
+        "name": "Sam Dodge",
+        "slug": "sam-dodge"
+      },
+      {
+        "name": "Kate Duffy",
+        "slug": "kate-duffy"
+      },
+      {
+        "name": "Mihir Mishra",
+        "slug": "mihir-mishra"
+      },
+      {
+        "name": "Julia Janicki",
+        "slug": "julia-janicki"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLVC8qm_U3GY/v0/-1x-1.webp"
+  },
+  {
+    "id": "TFK7O3KIJHTM00",
+    "headline": "Dubious Chinese Carbon Credits Expose European Market’s Flaws",
+    "url": "https://www.bloomberg.com/graphics/2026-europe-china-dubious-carbon-credits/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-05-24T21:00:03.662Z",
+    "description": "Companies in at least nine European countries bought carbon offsets from projects that appear not to exist or were verified by an auditor-turned-developer who treated the two jobs as a revolving door, a Bloomberg investigation found.",
+    "credits": [
+      {
+        "name": "Petra Sorge",
+        "slug": "petra-sorge"
+      },
+      {
+        "name": "Natasha White",
+        "slug": "natasha-white"
+      },
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRPMEyeJOboI/v0/-1x-1.webp"
+  },
+  {
     "id": "TF2RW8KGIFQ400",
     "headline": "US Needs Another Decade to Fix $1.2 Trillion Rare Earth Crisis",
     "url": "https://www.bloomberg.com/graphics/2026-us-china-heavy-rare-earth-magnets-defense/?srnd=phx-graphics-v2",

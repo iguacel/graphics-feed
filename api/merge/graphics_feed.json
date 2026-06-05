@@ -411,57 +411,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3351726/tai-po-hearing-part-3/images/cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "TEK4DIKGCTK800",
-    "headline": "One Calf Shows Why Record Beef Prices Still Aren’t Coming Down",
-    "url": "https://www.bloomberg.com/graphics/2026-beef-prices-cattle-supply-chain?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-05-05T09:15:19.004Z",
-    "description": "Pressures at every stage of the 18-month supply chain are expected to keep prices high at least through year end",
-    "credits": [
-      {
-        "name": "Ilena Peng",
-        "slug": "ilena-peng"
-      },
-      {
-        "name": "Denise Lu",
-        "slug": "denise-lu"
-      },
-      {
-        "name": "Stephanie Davidson",
-        "slug": "stephanie-davidson"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCXU0Ou9W4.0/v2/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "2026_05_similes",
-    "headline": "Comparisons as Predictable as the Sunrise",
-    "description": "No description available",
-    "url": "https://pudding.cool/2026/05/similes/",
-    "date": "2026-05-05T00:00:00.000Z",
-    "keywords": [
-      "simile",
-      "fiction",
-      "book",
-      "figurative",
-      "comparison",
-      "literature",
-      "language"
-    ],
-    "credits": [
-      {
-        "name": "Russell Samora",
-        "slug": "russell-samora"
-      },
-      {
-        "name": "Shelly Tan",
-        "slug": "shelly-tan"
-      }
-    ],
-    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_05_similes.jpg",
-    "medium": "Pudding"
   }
 ]

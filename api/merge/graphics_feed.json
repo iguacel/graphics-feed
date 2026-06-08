@@ -375,21 +375,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/china/article/3346076/xi_trump_meeting/images/cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "TEPNOGKIJHCZ00",
-    "headline": "AI Is Making Digital Fraud Easier, Faster and Harder to Stop",
-    "url": "https://www.bloomberg.com/graphics/2026-ai-identity-theft-scams/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-05-08T09:00:16.483Z",
-    "description": "From deepfakes to the dark web, digital scams are scaling up and getting more convincing.",
-    "credits": [
-      {
-        "name": "Jennah Haque",
-        "slug": "jennah-haque"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifWaGOi9rxw4/v2/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

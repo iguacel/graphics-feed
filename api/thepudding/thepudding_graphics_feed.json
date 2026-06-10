@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_06_love-story",
+    "headline": "A Love Story",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/06/love-story/",
+    "date": "2026-06-10",
+    "keywords": [
+      "love",
+      "claymation",
+      "sociology",
+      "history"
+    ],
+    "credits": [
+      {
+        "name": "Alvin Chang",
+        "slug": "alvin-chang"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_06_love-story.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2026_05_kpop-generations",
     "headline": "Growing Up with K-Pop",
     "description": "No description available",

@@ -268,41 +268,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/china/article/3353496/trump-hours-beijing/images/cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "TF2RW8KGIFQ400",
-    "headline": "US Needs Another Decade to Fix $1.2 Trillion Rare Earth Crisis",
-    "url": "https://www.bloomberg.com/graphics/2026-us-china-heavy-rare-earth-magnets-defense/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-05-15T11:00:08.135Z",
-    "description": "Despite new investments in mining and refining around the world, China is positioned to keep its grip on the rare earth elements that matter most",
-    "credits": [
-      {
-        "name": "Martin Ritchie",
-        "slug": "martin-ritchie"
-      },
-      {
-        "name": "Jin Wu",
-        "slug": "jin-wu"
-      },
-      {
-        "name": "Stephanie Davidson",
-        "slug": "stephanie-davidson"
-      },
-      {
-        "name": "Nectar Gan",
-        "slug": "nectar-gan"
-      },
-      {
-        "name": "Jacob Lorinc",
-        "slug": "jacob-lorinc"
-      },
-      {
-        "name": "Mariana Durao",
-        "slug": "mariana-durao"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKNm_jFW6m9o/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

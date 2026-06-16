@@ -248,25 +248,5 @@
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_05_kpop-generations.jpg",
     "medium": "Pudding"
-  },
-  {
-    "id": "iDEk_YAk_x",
-    "headline": "Inside Trump’s 43 hours in Beijing",
-    "url": "https://multimedia.scmp.com/infographics/news/china/article/3353496/trump-hours-beijing/",
-    "label": "https://www.scmp.com/china/",
-    "date": "2026-05-16T00:00:00.000Z",
-    "description": "Go inside Donald Trump’s 43-hour whirlwind trip to Beijing through our complete visual breakdown.",
-    "credits": [
-      {
-        "name": "Davies Christian Surya",
-        "slug": "davies-christian-surya"
-      },
-      {
-        "name": "carlos",
-        "slug": "carlos"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/china/article/3353496/trump-hours-beijing/images/cover.jpg",
-    "medium": "SCMP"
   }
 ]

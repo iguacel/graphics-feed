@@ -1,5 +1,25 @@
 [
   {
+    "id": "rg6k6JnNWT",
+    "headline": "Exploring China’s Tiangong space station - an infographic",
+    "url": "https://multimedia.scmp.com/infographics/news/china/article/3355504/tiangong_interactive/",
+    "label": "https://www.scmp.com/china/",
+    "date": "2026-06-23T00:00:00.000Z",
+    "description": "Launch into our infographic for an immersive look at China’s space station and track its simulated orbit.",
+    "credits": [
+      {
+        "name": "mario",
+        "slug": "mario"
+      },
+      {
+        "name": "catherine",
+        "slug": "catherine"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/china/article/3355504/tiangong_interactive/images/cover.png",
+    "medium": "SCMP"
+  },
+  {
     "id": "rMa19Yibnm",
     "headline": "A city remembers: the names of the 168 people who perished in the Tai Po fire",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3356650/taipo_fire_memorial/",

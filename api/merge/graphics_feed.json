@@ -219,34 +219,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRPMEyeJOboI/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "2026_05_kpop-generations",
-    "headline": "Growing Up with K-Pop",
-    "description": "No description available",
-    "url": "https://pudding.cool/2026/05/kpop-generations/",
-    "date": "2026-05-23T00:00:00.000Z",
-    "keywords": [
-      "kpop",
-      "music",
-      "story",
-      "friendship"
-    ],
-    "credits": [
-      {
-        "name": "Caitlyn Ralph",
-        "slug": "caitlyn-ralph"
-      },
-      {
-        "name": "Eunice Lee",
-        "slug": "eunice-lee"
-      },
-      {
-        "name": "Minji Kim",
-        "slug": "minji-kim"
-      }
-    ],
-    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_05_kpop-generations.jpg",
-    "medium": "Pudding"
   }
 ]

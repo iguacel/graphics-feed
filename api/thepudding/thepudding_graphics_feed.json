@@ -1,5 +1,57 @@
 [
   {
+    "id": "2026_06_menu-collection",
+    "headline": "5,000 Restaurant Menus, Years 1880-1920",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/06/menu-collection/",
+    "date": "2026-06-24",
+    "keywords": [
+      "menu",
+      "menus",
+      "food",
+      "restaurant",
+      "history"
+    ],
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Stephen Lurie",
+        "slug": "stephen-lurie"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_06_menu-collection.jpg",
+    "medium": "Pudding"
+  },
+  {
+    "id": "2026_06_menu-story",
+    "headline": "A History of Menus is a Menu of History",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/06/menu-story/",
+    "date": "2026-06-24",
+    "keywords": [
+      "menu",
+      "menus",
+      "food",
+      "restaurant",
+      "history"
+    ],
+    "credits": [
+      {
+        "name": "Matt Daniels",
+        "slug": "matt-daniels"
+      },
+      {
+        "name": "Stephen Lurie",
+        "slug": "stephen-lurie"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_06_menu-story.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2026_06_love-story",
     "headline": "A Love Story",
     "description": "No description available",

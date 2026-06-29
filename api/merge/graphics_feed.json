@@ -195,33 +195,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3350474/cancer-in-hk/assets/images/social-cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "TFRMC5VTTD0Q00",
-    "headline": "Ship-Tracking Data Reveal Hidden Risk of China-Vietnam Showdown",
-    "url": "https://www.bloomberg.com/graphics/2026-south-china-sea-tensions-vietnam/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-05-28T21:00:05.147Z",
-    "description": "A flurry of Vietnamese island fortifications and intensifying Chinese activity show the rising odds of confrontation in the South China Sea.",
-    "credits": [
-      {
-        "name": "Raeedah Wahid",
-        "slug": "raeedah-wahid"
-      },
-      {
-        "name": "Philip Heijmans",
-        "slug": "philip-heijmans"
-      },
-      {
-        "name": "Nguyen Xuan Quynh",
-        "slug": "nguyen-xuan-quynh"
-      },
-      {
-        "name": "Jon Herskovitz",
-        "slug": "jon-herskovitz"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iku3dnMaO1zU/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

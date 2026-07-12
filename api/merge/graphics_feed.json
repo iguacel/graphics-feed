@@ -1,5 +1,29 @@
 [
   {
+    "id": "YeEuesy07V",
+    "headline": "Ageing in Hong Kong",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3357058/ageing-in-hk/",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2026-07-12T00:00:00.000Z",
+    "description": "Hong Kong is one of the fastest-ageing societies in the world. While this brings mounting challenges, it also creates growing opportunities. Here is what you need to know.",
+    "credits": [
+      {
+        "name": "Rocio Marquez",
+        "slug": "rocio-marquez"
+      },
+      {
+        "name": "mario",
+        "slug": "mario"
+      },
+      {
+        "name": "carlos",
+        "slug": "carlos"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3357058/ageing-in-hk/assets/images/cover-2.jpg",
+    "medium": "SCMP"
+  },
+  {
     "id": "2026_06_ethical-champions",
     "headline": "Ethical NBA Championships, Ranked",
     "description": "No description available",

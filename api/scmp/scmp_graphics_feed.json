@@ -1,5 +1,28 @@
 [
   {
+    "id": "YeEuesy07V",
+    "headline": "Ageing in Hong Kong",
+    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3357058/ageing-in-hk/",
+    "label": "https://www.scmp.com/hong_kong/",
+    "date": "2026-07-12T00:00:00.000Z",
+    "description": "Hong Kong is one of the fastest-ageing societies in the world. While this brings mounting challenges, it also creates growing opportunities. Here is what you need to know.",
+    "credits": [
+      {
+        "name": "Rocio Marquez",
+        "slug": "rocio-marquez"
+      },
+      {
+        "name": "mario",
+        "slug": "mario"
+      },
+      {
+        "name": "carlos",
+        "slug": "carlos"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3357058/ageing-in-hk/assets/images/cover-2.jpg"
+  },
+  {
     "id": "Pk7K4cRcuI",
     "headline": "Lionel Messi: the living legend",
     "url": "https://multimedia.scmp.com/infographics/sport/article/3250175/messi/index.html",

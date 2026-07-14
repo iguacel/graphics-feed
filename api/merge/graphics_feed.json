@@ -40,6 +40,22 @@
     "medium": "SCMP"
   },
   {
+    "id": "Q-myLwmPCm",
+    "headline": "China’s anti-corruption fight in numbers",
+    "url": "https://multimedia.scmp.com/infographics/news/china/article/3347024/anti_corruption/",
+    "label": "https://www.scmp.com/china/",
+    "date": "2026-07-06T00:00:00.000Z",
+    "description": "The anti-corruption campaign has been President Xi Jinping’s signature policy since he took power in 2012. More than a decade on, it shows no signs of losing steam but instead, keeps speeding up.",
+    "credits": [
+      {
+        "name": "carlos",
+        "slug": "carlos"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/china/article/3347024/anti_corruption/images/cover.jpg",
+    "medium": "SCMP"
+  },
+  {
     "id": "2026_06_ethical-champions",
     "headline": "Ethical NBA Championships, Ranked",
     "description": "No description available",

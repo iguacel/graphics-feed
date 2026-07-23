@@ -383,25 +383,5 @@
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_06_menu-story.jpg",
     "medium": "Pudding"
-  },
-  {
-    "id": "rg6k6JnNWT",
-    "headline": "Exploring China’s Tiangong space station - an infographic",
-    "url": "https://multimedia.scmp.com/infographics/news/china/article/3355504/tiangong_interactive/",
-    "label": "https://www.scmp.com/china/",
-    "date": "2026-06-23T00:00:00.000Z",
-    "description": "Launch into our infographic for an immersive look at China’s space station and track its simulated orbit.",
-    "credits": [
-      {
-        "name": "mario",
-        "slug": "mario"
-      },
-      {
-        "name": "catherine",
-        "slug": "catherine"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/china/article/3355504/tiangong_interactive/images/cover.png",
-    "medium": "SCMP"
   }
 ]

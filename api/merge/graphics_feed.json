@@ -295,41 +295,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHvrF.g0tfI0/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "Pk7K4cRcuI",
-    "headline": "Lionel Messi: the living legend",
-    "url": "https://multimedia.scmp.com/infographics/sport/article/3250175/messi/index.html",
-    "label": "https://www.scmp.com/sport/",
-    "date": "2026-06-25T00:00:00.000Z",
-    "description": "Spanning six Fifa World Cups, Lionel Messi has rewritten history yet again at the 2026 tournament, breaking the all-time scoring record. Relive his journey in this visual story, from his roots in Rosario to the absolute pinnacle of the global game.",
-    "credits": [
-      {
-        "name": "Kuen Lau",
-        "slug": "kuen-lau"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/sport/article/3250175/cover_animated.gif",
-    "medium": "SCMP"
-  },
-  {
-    "id": "2026_06_mow",
-    "headline": "The Lawn Mowing Experiment",
-    "description": "No description available",
-    "url": "https://pudding.cool/2026/06/mow/",
-    "date": "2026-06-25T00:00:00.000Z",
-    "keywords": [
-      "game",
-      "experiment",
-      "lawn"
-    ],
-    "credits": [
-      {
-        "name": "Russell Samora",
-        "slug": "russell-samora"
-      }
-    ],
-    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_06_mow.jpg",
-    "medium": "Pudding"
   }
 ]

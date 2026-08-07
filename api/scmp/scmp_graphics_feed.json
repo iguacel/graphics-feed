@@ -1,5 +1,28 @@
 [
   {
+    "id": "PBl4IxdXFN",
+    "headline": "Infographic: a powerful new El Nino cycle begins. Is the world ready?",
+    "url": "https://multimedia.scmp.com/infographics/news/world/article/3356851/el_nino_la_nina/",
+    "label": "https://www.scmp.com/world/",
+    "date": "2026-08-07T00:00:00.000Z",
+    "description": "Discover the history and science behind El Nino, the ‘Pacific fever’ that turbocharges extreme weather globally.",
+    "credits": [
+      {
+        "name": "mario",
+        "slug": "mario"
+      },
+      {
+        "name": "catherine",
+        "slug": "catherine"
+      },
+      {
+        "name": "Victor Sanjinez",
+        "slug": "victor-sanjinez"
+      }
+    ],
+    "img": "https://multimedia.scmp.com/infographics/news/world/article/3356851/el_nino_la_nina/images/cover.jpg"
+  },
+  {
     "id": "HTgNCLyUGC",
     "headline": "Tai Po hearing part 4: Reasons behind heavy toll",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3358875/tai-po-hearing-4/",

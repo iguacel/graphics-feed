@@ -1,5 +1,25 @@
 [
   {
+    "id": "TJJQCQVTTD0J00",
+    "headline": "Investors Want Quarterly Reports, Unfavorable Results and All",
+    "url": "https://www.bloomberg.com/graphics/2026-semiannual-reporting-obscures-bad-results/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-08-10T09:00:26.389Z",
+    "description": "As the US Securities and Exchange Commission considers an unpopular switch to twice-a-year reports, a Bloomberg analysis found the change could obscure negative results at a higher rate than positive ones ",
+    "credits": [
+      {
+        "name": "Mathieu Benhamou",
+        "slug": "mathieu-benhamou"
+      },
+      {
+        "name": "Lydia Beyoud",
+        "slug": "lydia-beyoud"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7wm7jpJrVTk/v3/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "TJI18HR24U8600",
     "headline": "How the US Is Trying to End Solar Tariff Whack-a-Mole",
     "url": "https://www.bloomberg.com/graphics/2026-solar-panel-tariffs/?srnd=phx-graphics-v2",
@@ -406,41 +426,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3357058/ageing-in-hk/assets/images/cover-2.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "THXJWLKIUPSM00",
-    "headline": "A Tiny Island Near Singapore Has Become Asia’s Hub for Russian Oil",
-    "url": "https://www.bloomberg.com/graphics/2026-indonesia-russia-oil-asia-hub/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-07-09T23:00:21.249Z",
-    "description": "At least $1.6 billion worth of Moscow’s diesel, fuel oil and other products has been funneled from Indonesia’s tiny Karimun into major markets across the region.\n ",
-    "credits": [
-      {
-        "name": "Andy Lin",
-        "slug": "andy-lin"
-      },
-      {
-        "name": "Eddie Spence",
-        "slug": "eddie-spence"
-      },
-      {
-        "name": "Nicholas Lua",
-        "slug": "nicholas-lua"
-      },
-      {
-        "name": "Serene Cheong",
-        "slug": "serene-cheong"
-      },
-      {
-        "name": "Adrian Leung",
-        "slug": "adrian-leung"
-      },
-      {
-        "name": "Christopher Udemans",
-        "slug": "christopher-udemans"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw29dg9YHTvY/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

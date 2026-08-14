@@ -386,45 +386,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9OOpoAdbVjM/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "HTgNCLyUGC",
-    "headline": "Tai Po hearing part 4: Reasons behind heavy toll",
-    "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3358875/tai-po-hearing-4/",
-    "label": "https://www.scmp.com/hong_kong/",
-    "date": "2026-07-14T00:00:00.000Z",
-    "description": "During the final round of hearings into Hong Kong’s deadliest inferno in decades, experts pointed to shortfalls that caused the Wang Fuk Court blaze to spread at an unprecedented rate.",
-    "credits": [
-      {
-        "name": "Davies Christian Surya",
-        "slug": "davies-christian-surya"
-      }
-    ],
-    "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3358875/tai-po-hearing-4/assets/images/cover.jpg",
-    "medium": "SCMP"
-  },
-  {
-    "id": "TI4T0KKIUPSE00",
-    "headline": "1,000 Days of War and Upheaval That Reshaped the Middle East",
-    "url": "https://www.bloomberg.com/graphics/2026-us-iran-war-middle-east-impact/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-07-13T21:00:20.381Z",
-    "description": "From the ashes of October 7 to a direct US-Iran war, almost three years of chaos have fractured regional diplomacy.",
-    "credits": [
-      {
-        "name": "Peter Martin",
-        "slug": "peter-martin"
-      },
-      {
-        "name": "Raeedah Wahid",
-        "slug": "raeedah-wahid"
-      },
-      {
-        "name": "Tom Fevrier",
-        "slug": "tom-fevrier"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPcJJpLWOi4c/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

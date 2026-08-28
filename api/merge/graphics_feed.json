@@ -1,5 +1,73 @@
 [
   {
+    "id": "TKHC22KGZAIT00",
+    "headline": "How Nepal’s Deadly Floods Wrecked Homes, Power Plants and Bridges",
+    "url": "https://www.bloomberg.com/graphics/2026-nepal-flash-flood/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-08-28T12:30:02.143Z",
+    "description": "Satellite images show the destruction caused by Nepal’s deadly floods. The cost of losses and damage is expected to run to several billion dollars.",
+    "credits": [
+      {
+        "name": "Krishna Karra",
+        "slug": "krishna-karra"
+      },
+      {
+        "name": "Yasufumi Saito",
+        "slug": "yasufumi-saito"
+      },
+      {
+        "name": "Hayley Warren",
+        "slug": "hayley-warren"
+      },
+      {
+        "name": "Jin Wu",
+        "slug": "jin-wu"
+      },
+      {
+        "name": "Christopher Udemans",
+        "slug": "christopher-udemans"
+      },
+      {
+        "name": "Atul Dev",
+        "slug": "atul-dev"
+      },
+      {
+        "name": "Vivien Ngo",
+        "slug": "vivien-ngo"
+      },
+      {
+        "name": "Cedric Sam",
+        "slug": "cedric-sam"
+      },
+      {
+        "name": "Spe Chen",
+        "slug": "spe-chen"
+      },
+      {
+        "name": "Raeedah Wahid",
+        "slug": "raeedah-wahid"
+      },
+      {
+        "name": "Tom Fevrier",
+        "slug": "tom-fevrier"
+      },
+      {
+        "name": "Akriti Sharma",
+        "slug": "akriti-sharma"
+      },
+      {
+        "name": "Haslinda Amin",
+        "slug": "haslinda-amin"
+      },
+      {
+        "name": "Anand Katakam",
+        "slug": "anand-katakam"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifuk3KxI_bmg/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "IGfpgsLlbQ",
     "headline": "Exercise, supplements, digital detoxing: Hongkongers’ new lifestyle obsessions",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3363278/hk-lifestyle/",
@@ -217,46 +285,6 @@
       }
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irFI6BkpsZ1g/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "TIVQG4KIJHA700",
-    "headline": "Can a Chatbot Be Held Responsible for a Death?",
-    "url": "https://www.bloomberg.com/graphics/2026-chatbot-death/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-07-28T10:00:04.727Z",
-    "description": "Cases of fatal violence and crimes involving AI users continue to emerge. While chatbot companies say they have safeguards in place, a spate of lawsuits argue the protections are insufficient.",
-    "credits": [
-      {
-        "name": "Rachel Metz",
-        "slug": "rachel-metz"
-      },
-      {
-        "name": "Ellen Huet",
-        "slug": "ellen-huet"
-      },
-      {
-        "name": "Jeremy Cf Lin",
-        "slug": "jeremy-cf-lin"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZoh15PoHLnM/v1/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "TIUQCGN3N0AM00",
-    "headline": "Private Equity Targets America’s War Machine and Its $1 Trillion Budget",
-    "url": "https://www.bloomberg.com/graphics/2026-pentagon-private-equity-cerberus/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-07-27T21:00:16.879Z",
-    "description": "Deputy Defense Secretary Stephen Feinberg wants America’s war machine to get cozier with companies. The private equity firm he co-founded is building a constellation of next-generation businesses to answer the call.",
-    "credits": [
-      {
-        "name": "Caleb Melby",
-        "slug": "caleb-melby"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFgE85QgZ86o/v0/-1x-1.webp",
     "medium": "Bloomberg"
   }
 ]

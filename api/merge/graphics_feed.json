@@ -1,5 +1,53 @@
 [
   {
+    "id": "TKPEC1KGZAKH00",
+    "headline": "A $40 Billion ETF Shuffle Helps Foreign Investors Dodge US Taxes",
+    "url": "https://www.bloomberg.com/graphics/2026-etf-foreign-investors-tax-dodge/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-09-01T21:00:01.747Z",
+    "description": "Major institutions are flipping between near-identical equity funds to avoid receiving dividends — and the 30% tax that comes with them.",
+    "credits": [
+      {
+        "name": "Zachary R Mider",
+        "slug": "zachary-r-mider"
+      },
+      {
+        "name": "Denitsa Tsekova",
+        "slug": "denitsa-tsekova"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTPRWQZm2fpY/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TKNJO1VTTD0400",
+    "headline": "How Cooking Gas Became a Barometer for the Iran War’s Energy Shock",
+    "url": "https://www.bloomberg.com/graphics/2026-lpg-trade-iran-war/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-08-31T21:00:01.803Z",
+    "description": "Trade in liquefied petroleum gas has been redrawn over the past six months, becoming a microcosm of a global crisis.",
+    "credits": [
+      {
+        "name": "Nicholas Lua",
+        "slug": "nicholas-lua"
+      },
+      {
+        "name": "Jin Wu",
+        "slug": "jin-wu"
+      },
+      {
+        "name": "Rakesh Sharma",
+        "slug": "rakesh-sharma"
+      },
+      {
+        "name": "Christopher Udemans",
+        "slug": "christopher-udemans"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iT5.j9rybYAI/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "TKHC22KGZAIT00",
     "headline": "How Nepal’s Deadly Floods Wrecked Homes, Power Plants and Bridges",
     "url": "https://www.bloomberg.com/graphics/2026-nepal-flash-flood/?srnd=phx-graphics-v2",
@@ -68,6 +116,50 @@
     "medium": "Bloomberg"
   },
   {
+    "id": "TKHAO1KIP3JH00",
+    "headline": "Mobile Games Designed to Be Addictive Get More Kid-Friendly",
+    "url": "https://www.bloomberg.com/graphics/2026-kid-friendly-mobile-games-addiction/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-08-28T12:00:01.832Z",
+    "description": "Mobile-game developers are supercharging old tools with new tech to keep players hooked. Increasingly, the biggest money makers are deemed appropriate for children.",
+    "credits": [
+      {
+        "name": "Vernon Silver",
+        "slug": "vernon-silver"
+      },
+      {
+        "name": "Stephanie Davidson",
+        "slug": "stephanie-davidson"
+      },
+      {
+        "name": "Priyanjana Bengani",
+        "slug": "priyanjana-bengani"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ORdXjR_ij0/v2/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
+    "id": "TJY5SLKGIFPT00",
+    "headline": "How Mike Ashley’s Frasers Group Built a Real Estate Empire",
+    "url": "https://www.bloomberg.com/graphics/2026-mike-ashley-frasers-property-empire/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-08-18T04:00:21.699Z",
+    "description": "Retail giant Frasers Group has built a $2.7 billion property portfolio, which its CEO says may grow tenfold in the next decade.",
+    "credits": [
+      {
+        "name": "Maddie Parker",
+        "slug": "maddie-parker"
+      },
+      {
+        "name": "Max Harlow",
+        "slug": "max-harlow"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itqd8EUgRi9A/v3/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "IGfpgsLlbQ",
     "headline": "Exercise, supplements, digital detoxing: Hongkongers’ new lifestyle obsessions",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3363278/hk-lifestyle/",
@@ -106,6 +198,30 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3363299/five-year-plan/assets/images/cover.jpg",
     "medium": "SCMP"
+  },
+  {
+    "id": "TJKNONVTTD0W00",
+    "headline": "AI-Dominated Leveraged ETFs Are Rattling Markets",
+    "url": "https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-08-10T21:00:23.510Z",
+    "description": "A growing share of equity leverage is riding on the same AI names, many of which have seen historic swings.",
+    "credits": [
+      {
+        "name": "Jin Wu",
+        "slug": "jin-wu"
+      },
+      {
+        "name": "Denitsa Tsekova",
+        "slug": "denitsa-tsekova"
+      },
+      {
+        "name": "Denise Lu",
+        "slug": "denise-lu"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6H7nQwz25Gs/v0/-1x-1.webp",
+    "medium": "Bloomberg"
   },
   {
     "id": "TJJQCQVTTD0J00",

@@ -218,29 +218,5 @@
     ],
     "img": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3363299/five-year-plan/assets/images/cover.jpg",
     "medium": "SCMP"
-  },
-  {
-    "id": "TJKNONVTTD0W00",
-    "headline": "AI-Dominated Leveraged ETFs Are Rattling Markets",
-    "url": "https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-08-10T21:00:23.510Z",
-    "description": "A growing share of equity leverage is riding on the same AI names, many of which have seen historic swings.",
-    "credits": [
-      {
-        "name": "Jin Wu",
-        "slug": "jin-wu"
-      },
-      {
-        "name": "Denitsa Tsekova",
-        "slug": "denitsa-tsekova"
-      },
-      {
-        "name": "Denise Lu",
-        "slug": "denise-lu"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6H7nQwz25Gs/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]

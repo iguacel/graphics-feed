@@ -1,5 +1,37 @@
 [
   {
+    "id": "TM3MOJKGZAJ000",
+    "headline": "Indonesia’s Worst Fire Season in Years Tests Prabowo Budget Cuts",
+    "url": "https://www.bloomberg.com/graphics/2026-indonesia-wildfires-el-nino/?srnd=phx-graphics-v2",
+    "label": "https://www.bloomberg.com/graphics/",
+    "date": "2026-09-29T00:00:19.381Z",
+    "description": "Toxic haze continues to spread across Singapore and Malaysia, as a blockbuster El Niño and land-clearing practices create tinderbox conditions\n\n ",
+    "credits": [
+      {
+        "name": "Eddie Spence",
+        "slug": "eddie-spence"
+      },
+      {
+        "name": "Kanupriya Kapoor",
+        "slug": "kanupriya-kapoor"
+      },
+      {
+        "name": "Mary Hui",
+        "slug": "mary-hui"
+      },
+      {
+        "name": "Christopher Udemans",
+        "slug": "christopher-udemans"
+      },
+      {
+        "name": "Takaaki Iwabu",
+        "slug": "takaaki-iwabu"
+      }
+    ],
+    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ7m19RzjyDw/v0/-1x-1.webp",
+    "medium": "Bloomberg"
+  },
+  {
     "id": "TLXM0GT3BZMW00",
     "headline": "Buques de EE.UU. multiplican viajes a Cuba con alimento y combustible pese a bloqueo de Trump",
     "url": "https://www.bloomberg.com/graphics/2026-trump-eeuu-cuba-auge-comercial/?srnd=phx-graphics-v2",
@@ -197,26 +229,6 @@
       }
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZGXIWsnMlQA/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "TKPEC1KGZAKH00",
-    "headline": "A $40 Billion ETF Shuffle Helps Foreign Investors Dodge US Taxes",
-    "url": "https://www.bloomberg.com/graphics/2026-etf-foreign-investors-tax-dodge/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-09-01T21:00:01.747Z",
-    "description": "Major institutions are flipping between near-identical equity funds to avoid receiving dividends — and the 30% tax that comes with them.",
-    "credits": [
-      {
-        "name": "Zachary R Mider",
-        "slug": "zachary-r-mider"
-      },
-      {
-        "name": "Denitsa Tsekova",
-        "slug": "denitsa-tsekova"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTPRWQZm2fpY/v0/-1x-1.webp",
     "medium": "Bloomberg"
   }
 ]

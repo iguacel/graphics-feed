@@ -226,41 +226,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyVAHAn.e3dI/v0/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "TLTAGBKIJH9600",
-    "headline": "AI Data Centers Release Heat, Posing New Problem for Cities",
-    "url": "https://www.bloomberg.com/graphics/2026-ai-data-center-heat-pollution-cities/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-09-23T10:00:11.654Z",
-    "description": "As facilities to power artificial intelligence grow larger and are built in clusters, they are spreading hot air beyond their property lines",
-    "credits": [
-      {
-        "name": "Elena Mejía",
-        "slug": "elena-mejía"
-      },
-      {
-        "name": "Kyle Stock",
-        "slug": "kyle-stock"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iliEaIWGtMHE/v0/-1x-1.webp",
-    "medium": "Bloomberg"
-  },
-  {
-    "id": "TLSACIVTTD1Y00",
-    "headline": "A $5,000 Bike Shows Why It’s Hard to Build in America",
-    "url": "https://www.bloomberg.com/graphics/2026-us-china-bike-tariffs/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-09-22T21:00:18.797Z",
-    "description": "Lauf’s bicycles built in Virginia don’t face Trump’s tariffs, but all the parts that go into them do.",
-    "credits": [
-      {
-        "name": "Laura Curtis",
-        "slug": "laura-curtis"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBaadFryljCE/v0/-999x-999.gif",
-    "medium": "Bloomberg"
   }
 ]

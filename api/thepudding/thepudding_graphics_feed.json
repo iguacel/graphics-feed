@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026_11_pi",
+    "headline": "The Afterlife of Pi",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/11/pi/",
+    "date": "2026-11-05",
+    "keywords": [
+      "math",
+      "pi",
+      "random",
+      "walk",
+      "shanks"
+    ],
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_11_pi.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2026_10_kevin-bacon",
     "headline": "The Real Kevin Bacon",
     "description": "No description available",
@@ -6006,6 +6028,35 @@
       }
     ],
     "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_vocabulary.jpg",
+    "medium": "Pudding"
+  },
+  {
+    "id": "projects_lopi",
+    "headline": "lo-pi radio",
+    "description": "No description available",
+    "url": "https://pudding.cool/",
+    "date": "2000-01-01",
+    "keywords": [
+      "math",
+      "pi",
+      "random",
+      "walk",
+      "shanks",
+      "music",
+      "song",
+      "generative"
+    ],
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      },
+      {
+        "name": "Kevin Litman-Navarro",
+        "slug": "kevin-litman-navarro"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/projects_lopi.jpg",
     "medium": "Pudding"
   }
 ]

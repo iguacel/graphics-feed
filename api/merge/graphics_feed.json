@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026_11_pi",
+    "headline": "The Afterlife of Pi",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/11/pi/",
+    "date": "2026-11-05T00:00:00.000Z",
+    "keywords": [
+      "math",
+      "pi",
+      "random",
+      "walk",
+      "shanks"
+    ],
+    "credits": [
+      {
+        "name": "Russell Samora",
+        "slug": "russell-samora"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_11_pi.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "ay9MUXp1e0",
     "headline": "Lessons from a tragedy\n",
     "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3372592/taipo_summary/",

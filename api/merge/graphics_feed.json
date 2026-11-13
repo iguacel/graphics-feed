@@ -1,5 +1,32 @@
 [
   {
+    "id": "2026_11_wnba-politics",
+    "headline": "Why is Fox News obsessed with the WNBA?",
+    "description": "No description available",
+    "url": "https://pudding.cool/2026/11/wnba-politics/",
+    "date": "2026-11-13T00:00:00.000Z",
+    "keywords": [
+      "wnba",
+      "basketball",
+      "fox news",
+      "politics",
+      "news",
+      "media"
+    ],
+    "credits": [
+      {
+        "name": "Jan Diehm",
+        "slug": "jan-diehm"
+      },
+      {
+        "name": "Melanie Walsh",
+        "slug": "melanie-walsh"
+      }
+    ],
+    "img": "https://pudding.cool/common/assets/thumbnails/screenshots/2026_11_wnba-politics.jpg",
+    "medium": "Pudding"
+  },
+  {
     "id": "2026_11_pi",
     "headline": "The Afterlife of Pi",
     "description": "No description available",

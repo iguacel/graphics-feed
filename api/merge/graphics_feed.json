@@ -111,25 +111,5 @@
     ],
     "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i32zcr_QFcBo/v3/-1x-1.webp",
     "medium": "Bloomberg"
-  },
-  {
-    "id": "TND1RTKIJH9F00",
-    "headline": "Brazil Election Live Results 2026: Runoff",
-    "url": "https://www.bloomberg.com/graphics/2026-brazil-election/?srnd=phx-graphics-v2",
-    "label": "https://www.bloomberg.com/graphics/",
-    "date": "2026-10-23T12:38:17.887Z",
-    "description": "See the results of the Brazilian general election’s second round",
-    "credits": [
-      {
-        "name": "Cedric Sam",
-        "slug": "cedric-sam"
-      },
-      {
-        "name": "Giovanna Serafim",
-        "slug": "giovanna-serafim"
-      }
-    ],
-    "img": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9BFBbrJJsDE/v0/-1x-1.webp",
-    "medium": "Bloomberg"
   }
 ]
